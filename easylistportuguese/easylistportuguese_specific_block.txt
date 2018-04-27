@@ -1,4 +1,3 @@
-||baboo.com.br/wp-content/uploads/*_envelope
 ||baixeturbo.org/images/*.gif
 ||bajateloz.com/images/banner_
 ||barra.xl.pt/barra.
