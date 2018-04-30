@@ -1,4 +1,3 @@
-||baixeturbo.org/images/*.gif
 ||bajateloz.com/images/banner_
 ||barra.xl.pt/barra.
 ||belasmensagens.com.br/posthaus
