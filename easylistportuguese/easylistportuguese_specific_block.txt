@@ -1,4 +1,3 @@
-||capitalnews.com.br/system/fotosPub/$object
 ||cartamaior.com/petrobras/
 ||clicrbs.com.br/buscape/
 ||clicrbs.com.br/js/PublicidadeSmartClicRbs.
