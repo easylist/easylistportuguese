@@ -1,2 +1,17 @@
+###Publicidade
+###barraPublicidade
+###liBannerDireita
+###liPublicidadeAdsense
+###publicidade-topo
+###publicidadeIsland
+###publicidade_not
+###publicidades_top
+###topopublicidade
+##.Publicidade
+##.PublicidadeSidebarSuperior
 ##.add_full
+##.publicidade
+##.publicidade-abre_padrao
+##.publicidade_superbanner
+##.publicidades
 ##.section-pbl
