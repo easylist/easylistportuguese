@@ -10,6 +10,7 @@
 ##.Publicidade
 ##.PublicidadeSidebarSuperior
 ##.add_full
+##.pubLabel
 ##.publicidade
 ##.publicidade-abre_padrao
 ##.publicidade_superbanner
