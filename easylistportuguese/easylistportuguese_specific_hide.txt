@@ -1,2 +1,3 @@
 baboo.com.br###custom_html-2
+cmjornal.pt##.mainPub
 aeiou.pt##.td-a-rec
