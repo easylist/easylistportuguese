@@ -12,6 +12,7 @@
 ##.PublicidadeSidebarSuperior
 ##.add_full
 ##.banner_publicidade_hp
+##.detalheAds
 ##.pubLabel
 ##.publicidade
 ##.publicidade-abre_padrao
