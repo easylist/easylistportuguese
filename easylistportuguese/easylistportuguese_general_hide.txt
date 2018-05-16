@@ -2,6 +2,7 @@
 ###barraPublicidade
 ###liBannerDireita
 ###liPublicidadeAdsense
+###pubCofinaFotogaleria
 ###publicidade-topo
 ###publicidadeIsland
 ###publicidade_not
@@ -10,6 +11,7 @@
 ##.Publicidade
 ##.PublicidadeSidebarSuperior
 ##.add_full
+##.banner_publicidade_hp
 ##.pubLabel
 ##.publicidade
 ##.publicidade-abre_padrao
