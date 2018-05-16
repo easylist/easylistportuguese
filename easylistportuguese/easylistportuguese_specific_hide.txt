@@ -1,5 +1,6 @@
 baboo.com.br###custom_html-2
 record.pt##.ads
+record.pt##.bb
 cmjornal.pt##.mainPub
 record.pt##.pub
 aeiou.pt##.td-a-rec
