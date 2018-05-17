@@ -3,6 +3,7 @@
 ###liBannerDireita
 ###liPublicidadeAdsense
 ###pubCofinaFotogaleria
+###pubMastHead
 ###publicidade-topo
 ###publicidadeIsland
 ###publicidade_not
