@@ -5,5 +5,5 @@ vidas.pt##.destaques_mrec
 flash.pt##.m-rec
 flash.pt##.m-recHpTopo
 cmjornal.pt##.mainPub
-flash.pt,jornaldenegocios.pt,record.pt##.pub
+destak.pt,flash.pt,jornaldenegocios.pt,record.pt##.pub
 aeiou.pt##.td-a-rec
