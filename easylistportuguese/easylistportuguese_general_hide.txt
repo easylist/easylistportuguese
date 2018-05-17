@@ -7,6 +7,7 @@
 ###publicidadeIsland
 ###publicidade_not
 ###publicidades_top
+###pubpc
 ###topopublicidade
 ##.Publicidade
 ##.PublicidadeSidebarSuperior
@@ -14,6 +15,7 @@
 ##.banner_publicidade_hp
 ##.detalheAds
 ##.pubLabel
+##.pubfield
 ##.publicidade
 ##.publicidade-abre_padrao
 ##.publicidade_superbanner
