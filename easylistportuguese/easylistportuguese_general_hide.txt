@@ -16,6 +16,7 @@
 ##.banner_publicidade_hp
 ##.detalheAds
 ##.pubLabel
+##.pub_mrec
 ##.pubfield
 ##.publicidade
 ##.publicidade-abre_padrao
