@@ -4,6 +4,7 @@ belasmensagens.com.br##.ad
 record.pt##.ads
 record.pt##.bb
 vidas.pt##.destaques_mrec
+uol.com.br##.lista-ecommerce
 flash.pt##.m-rec
 flash.pt##.m-recHpTopo
 cmjornal.pt##.mainPub
