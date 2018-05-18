@@ -1,4 +1,5 @@
 baboo.com.br###custom_html-2
+belasmensagens.com.br##.ad
 record.pt##.ads
 record.pt##.bb
 vidas.pt##.destaques_mrec
