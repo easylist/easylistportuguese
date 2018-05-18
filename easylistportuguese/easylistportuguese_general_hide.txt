@@ -15,6 +15,7 @@
 ##.add_full
 ##.banner_publicidade_hp
 ##.detalheAds
+##.mod-publicity
 ##.pubLabel
 ##.pub_mrec
 ##.pubfield
