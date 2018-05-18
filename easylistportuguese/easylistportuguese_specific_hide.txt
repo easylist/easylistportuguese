@@ -2,6 +2,7 @@ baboo.com.br###custom_html-2
 bilibio.com.br###dwt-banner-area
 belasmensagens.com.br##.ad
 record.pt##.ads
+capitalnews.com.br##.banner
 record.pt##.bb
 vidas.pt##.destaques_mrec
 uol.com.br##.lista-ecommerce
