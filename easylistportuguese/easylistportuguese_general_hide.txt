@@ -14,6 +14,7 @@
 ##.PublicidadeSidebarSuperior
 ##.add_full
 ##.banner_publicidade_hp
+##.box-admotion
 ##.contemPublicidade
 ##.detalheAds
 ##.mod-publicity
