@@ -5,6 +5,7 @@ belasmensagens.com.br##.ad
 record.pt##.ads
 capitalnews.com.br##.banner
 diarioonline.com.br##.banner-topo
+expressomt.com.br##.banners
 record.pt##.bb
 diarioonline.com.br##.box-banner
 vidas.pt##.destaques_mrec
