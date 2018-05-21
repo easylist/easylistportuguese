@@ -3,6 +3,7 @@ bilibio.com.br###dwt-banner-area
 belasmensagens.com.br##.ad
 record.pt##.ads
 capitalnews.com.br##.banner
+diarioonline.com.br##.banner-topo
 record.pt##.bb
 vidas.pt##.destaques_mrec
 uol.com.br##.lista-ecommerce
