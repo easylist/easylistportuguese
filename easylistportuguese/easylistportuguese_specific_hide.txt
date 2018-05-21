@@ -5,6 +5,7 @@ record.pt##.ads
 capitalnews.com.br##.banner
 diarioonline.com.br##.banner-topo
 record.pt##.bb
+diarioonline.com.br##.box-banner
 vidas.pt##.destaques_mrec
 uol.com.br##.lista-ecommerce
 flash.pt##.m-rec
