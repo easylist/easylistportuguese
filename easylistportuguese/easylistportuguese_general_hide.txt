@@ -12,6 +12,7 @@
 ###topopublicidade
 ##.Publicidade
 ##.PublicidadeSidebarSuperior
+##.ad-container
 ##.add_full
 ##.banner_publicidade_hp
 ##.box-admotion
