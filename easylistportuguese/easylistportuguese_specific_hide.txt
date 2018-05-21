@@ -13,3 +13,4 @@ flash.pt##.m-recHpTopo
 cmjornal.pt##.mainPub
 destak.pt,flash.pt,jornaldenegocios.pt,record.pt##.pub
 aeiou.pt##.td-a-rec
+diarioonline.com.br##div[id^="div-banner"]
