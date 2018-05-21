@@ -18,6 +18,7 @@
 ##.box-admotion
 ##.contemPublicidade
 ##.detalheAds
+##.div-publicidade
 ##.m-advertising
 ##.mod-publicity
 ##.pubLabel
