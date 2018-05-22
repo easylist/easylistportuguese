@@ -4,6 +4,7 @@
 ###liPublicidadeAdsense
 ###pubCofinaFotogaleria
 ###pubMastHead
+###publat_local
 ###publicidade-topo
 ###publicidadeIsland
 ###publicidade_not
