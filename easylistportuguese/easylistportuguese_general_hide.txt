@@ -21,6 +21,7 @@
 ##.div-publicidade
 ##.m-advertising
 ##.mod-publicity
+##.pub-bloco
 ##.pubLabel
 ##.pub_mrec
 ##.pubfield
