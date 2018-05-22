@@ -1,1 +1,2 @@
+||cameraprive.com^$third-party
 ||tufos.com.br^$third-party
