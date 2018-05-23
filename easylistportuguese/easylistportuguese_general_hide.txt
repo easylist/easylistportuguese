@@ -1,4 +1,5 @@
 ###Publicidade
+###ad-video-inread--wrapper
 ###barraPublicidade
 ###liBannerDireita
 ###liPublicidadeAdsense
@@ -12,9 +13,11 @@
 ###publicidades_top
 ###pubpc
 ###topopublicidade
+###zaz-nb-plugin-ad
 ##.Publicidade
 ##.PublicidadeSidebarSuperior
 ##.ad-container
+##.ad-topstories
 ##.add_full
 ##.banner_publicidade_hp
 ##.box-admotion
