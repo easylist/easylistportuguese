@@ -29,6 +29,7 @@
 ##.pubfield
 ##.publicidade
 ##.publicidade-abre_padrao
+##.publicidade-wide
 ##.publicidade_superbanner
 ##.publicidades
 ##.section-pbl
