@@ -1,8 +1,9 @@
 diarioonline.com.br###banner-noticia-topo728x90
 baboo.com.br###custom_html-2
 bilibio.com.br###dwt-banner-area
-belasmensagens.com.br##.ad
+belasmensagens.com.br,terra.com.br##.ad
 record.pt##.ads
+terra.com.br##.advertising
 capitalnews.com.br##.banner
 diarioonline.com.br##.banner-topo
 expressomt.com.br##.banners
