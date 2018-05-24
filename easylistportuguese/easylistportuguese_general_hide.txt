@@ -1,5 +1,7 @@
 ###Publicidade
 ###ad-video-inread--wrapper
+###ad_mrec_destaque
+###ad_mrec_esporte
 ###barraPublicidade
 ###liBannerDireita
 ###liPublicidadeAdsense
@@ -28,6 +30,8 @@
 ##.mod-publicity
 ##.pub-bloco
 ##.pubLabel
+##.pub_300x250
+##.pub_first
 ##.pub_mrec
 ##.pubfield
 ##.publicidade
