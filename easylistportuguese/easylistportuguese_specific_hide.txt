@@ -1,3 +1,4 @@
+otempo.com.br###atf-promotions
 diarioonline.com.br###banner-noticia-topo728x90
 baboo.com.br###custom_html-2
 bilibio.com.br###dwt-banner-area
@@ -14,6 +15,7 @@ vidas.pt##.destaques_mrec
 ig.com.br##.iGh__small-ad
 ig.com.br##.ig-ad
 uol.com.br##.lista-ecommerce
+otempo.com.br##.lomadee
 flash.pt##.m-rec
 flash.pt##.m-recHpTopo
 cmjornal.pt##.mainPub
