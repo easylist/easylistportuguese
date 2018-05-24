@@ -10,10 +10,13 @@ expressomt.com.br##.banners
 record.pt##.bb
 diarioonline.com.br##.box-banner
 vidas.pt##.destaques_mrec
+ig.com.br##.iGh__small-ad
+ig.com.br##.ig-ad
 uol.com.br##.lista-ecommerce
 flash.pt##.m-rec
 flash.pt##.m-recHpTopo
 cmjornal.pt##.mainPub
 destak.pt,flash.pt,jornaldenegocios.pt,record.pt##.pub
+ig.com.br##.superbanner
 aeiou.pt##.td-a-rec
 diarioonline.com.br##div[id^="div-banner"]
