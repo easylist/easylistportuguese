@@ -19,6 +19,7 @@ otempo.com.br##.lomadee
 flash.pt##.m-rec
 flash.pt##.m-recHpTopo
 cmjornal.pt##.mainPub
+ig.com.br##.promotion
 destak.pt,flash.pt,jornaldenegocios.pt,record.pt##.pub
 ig.com.br##.superbanner
 aeiou.pt##.td-a-rec
