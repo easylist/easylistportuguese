@@ -3,12 +3,14 @@ diarioonline.com.br###banner-noticia-topo728x90
 baboo.com.br###custom_html-2
 bilibio.com.br###dwt-banner-area
 uol.com.br###folha-shop
+mercadolivre.com.br###oasTOP
 uol.com.br###publicity
 ig.com.br###superbanner
 belasmensagens.com.br,terra.com.br,uol.com.br##.ad
 record.pt##.ads
 terra.com.br,uol.com.br##.advertising
 uol.com.br##.advertising-column
+mercadolivre.com.br##.app-container > .questions-container-banner
 capitalnews.com.br,uol.com.br##.banner
 uol.com.br##.banner-stick
 diarioonline.com.br##.banner-topo
@@ -29,6 +31,7 @@ flash.pt##.m-recHpTopo
 cmjornal.pt##.mainPub
 uol.com.br##.mod-publieditorial
 uol.com.br##.moduloBanner
+mercadolivre.com.br##.myml-menu-navigation > .container-banner
 ig.com.br##.promotion
 destak.pt,flash.pt,jornaldenegocios.pt,record.pt##.pub
 uol.com.br##.responsive-bottom-horizontal
