@@ -41,4 +41,6 @@
 ##.publicidade-wide
 ##.publicidade_superbanner
 ##.publicidades
+##.publicity-leaderboard
 ##.section-pbl
+##.vip-section-advertising
