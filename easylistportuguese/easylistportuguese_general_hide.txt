@@ -23,6 +23,7 @@
 ##.add_full
 ##.banner_publicidade_hp
 ##.box-admotion
+##.c-advertising
 ##.contemPublicidade
 ##.detalheAds
 ##.div-publicidade
@@ -36,6 +37,7 @@
 ##.pubfield
 ##.publicidade
 ##.publicidade-abre_padrao
+##.publicidade-full-banner
 ##.publicidade-wide
 ##.publicidade_superbanner
 ##.publicidades
