@@ -43,4 +43,5 @@
 ##.publicidades
 ##.publicity-leaderboard
 ##.section-pbl
+##.section_google-adsense
 ##.vip-section-advertising
