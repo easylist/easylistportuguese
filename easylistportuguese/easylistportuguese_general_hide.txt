@@ -27,6 +27,7 @@
 ##.contemPublicidade
 ##.detalheAds
 ##.div-publicidade
+##.herald_adsense_widget
 ##.m-advertising
 ##.mod-publicity
 ##.pub-bloco
