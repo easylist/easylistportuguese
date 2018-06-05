@@ -17,6 +17,7 @@ mercadolivre.com.br##.app-container > .questions-container-banner
 capitalnews.com.br,uol.com.br##.banner
 uol.com.br##.banner-stick
 diarioonline.com.br##.banner-topo
+metropoles.com##.banner-wrap
 expressomt.com.br##.banners
 uol.com.br##.bannersticky-top-container
 record.pt##.bb
