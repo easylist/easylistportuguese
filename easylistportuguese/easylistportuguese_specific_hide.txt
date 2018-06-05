@@ -37,6 +37,7 @@ uol.com.br##.mod-publieditorial
 olx.com.br##.module_advertising
 uol.com.br##.moduloBanner
 mercadolivre.com.br##.myml-menu-navigation > .container-banner
+otvfoco.com.br##.ob-p
 ig.com.br##.promotion
 destak.pt,flash.pt,jornaldenegocios.pt,record.pt##.pub
 uol.com.br##.responsive-bottom-horizontal
