@@ -10,6 +10,8 @@ ig.com.br###superbanner
 olx.com.br###web_listing_banner_bottom
 olx.com.br###web_listing_banner_top
 belasmensagens.com.br,terra.com.br,uol.com.br##.ad
+letras.mus.br##.ad-full
+letras.mus.br##.ad-letra
 record.pt##.ads
 terra.com.br,uol.com.br##.advertising
 uol.com.br##.advertising-column
@@ -24,6 +26,7 @@ record.pt##.bb
 diarioonline.com.br##.box-banner
 uol.com.br##.c-estudio-folha
 uol.com.br##.c-livraria
+letras.mus.br##.cnt-space-top
 vidas.pt##.destaques_mrec
 ig.com.br##.iGh__small-ad
 ig.com.br##.ig-ad
