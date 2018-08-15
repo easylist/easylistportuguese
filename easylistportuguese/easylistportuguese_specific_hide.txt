@@ -27,6 +27,7 @@ casasbahia.com.br##.banner-retangulo
 uol.com.br##.banner-stick
 diarioonline.com.br##.banner-topo
 metropoles.com##.banner-wrap
+palcomp3.com##.banner_topo
 expressomt.com.br##.banners
 uol.com.br##.bannersticky-top-container
 record.pt##.bb
