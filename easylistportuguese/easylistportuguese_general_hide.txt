@@ -2,6 +2,7 @@
 ###ad-video-inread--wrapper
 ###ad_mrec_destaque
 ###ad_mrec_esporte
+###ads-square
 ###barraPublicidade
 ###liBannerDireita
 ###liPublicidadeAdsense
