@@ -51,4 +51,5 @@ uol.com.br##.shopping-produtos-uol
 ig.com.br##.superbanner
 aeiou.pt##.td-a-rec
 uol.com.br##.tm-ads
+terra.com.br##[data-app-name="app.svaAd"]
 diarioonline.com.br##div[id^="div-banner"]
