@@ -30,6 +30,7 @@ diarioonline.com.br##.box-banner
 uol.com.br##.c-estudio-folha
 uol.com.br##.c-livraria
 campograndenews.com.br##.c_banner
+magazineluiza.com.br##.centralizer-adx
 letras.mus.br##.cnt-space-top
 vidas.pt##.destaques_mrec
 fatosdesconhecidos.com.br##.grade
