@@ -56,6 +56,7 @@ destak.pt,flash.pt,jornaldenegocios.pt,record.pt##.pub
 uol.com.br##.responsive-bottom-horizontal
 uol.com.br##.shopping-produtos-uol
 ig.com.br##.superbanner
+casasbahia.com.br##.superbannertop
 aeiou.pt##.td-a-rec
 uol.com.br##.tm-ads
 terra.com.br##[data-app-name="app.svaAd"]
