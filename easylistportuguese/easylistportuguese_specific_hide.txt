@@ -1,6 +1,7 @@
 magazineluiza.com.br###adx
 otempo.com.br###atf-promotions
 diarioonline.com.br###banner-noticia-topo728x90
+baixaki.com.br###bxk_home_square
 baboo.com.br###custom_html-2
 bilibio.com.br###dwt-banner-area
 uol.com.br###folha-shop
