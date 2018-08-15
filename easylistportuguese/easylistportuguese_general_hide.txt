@@ -30,6 +30,7 @@
 ##.herald_adsense_widget
 ##.m-advertising
 ##.mod-publicity
+##.nzn-ads-rectangle
 ##.pub-bloco
 ##.pubLabel
 ##.pub_300x250
