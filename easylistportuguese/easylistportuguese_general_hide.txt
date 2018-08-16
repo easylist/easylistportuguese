@@ -25,6 +25,7 @@
 ##.banner-dfp-retangulo
 ##.banner_publicidade_hp
 ##.box-admotion
+##.box-publicidade-topo
 ##.c-advertising
 ##.contemPublicidade
 ##.detalheAds
