@@ -30,6 +30,7 @@
 ##.box-publicidade-topo
 ##.br-grid-1-publicidade
 ##.c-advertising
+##.clic-advertising
 ##.contemPublicidade
 ##.detalheAds
 ##.div-publicidade
