@@ -42,10 +42,13 @@
 ##.pubLabel
 ##.pub_300x250
 ##.pub_first
+##.pub_insert_content
+##.pub_insert_content_titulo
 ##.pub_mrec
 ##.pubfield
 ##.publicidade
 ##.publicidade-abre_padrao
+##.publicidade-content
 ##.publicidade-full-banner
 ##.publicidade-wide
 ##.publicidade_superbanner
