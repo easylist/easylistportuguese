@@ -26,6 +26,7 @@
 ##.banner_publicidade_hp
 ##.box-admotion
 ##.box-publicidade-topo
+##.br-grid-1-publicidade
 ##.c-advertising
 ##.contemPublicidade
 ##.detalheAds
