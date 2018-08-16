@@ -38,6 +38,7 @@ uol.com.br##.c-livraria
 campograndenews.com.br##.c_banner
 magazineluiza.com.br##.centralizer-adx
 letras.mus.br##.cnt-space-top
+estadao.com.br##.cupons
 vidas.pt##.destaques_mrec
 fatosdesconhecidos.com.br##.grade
 ig.com.br##.iGh__small-ad
