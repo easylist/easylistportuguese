@@ -29,6 +29,7 @@
 ##.ads10
 ##.ads20
 ##.ads30
+##.adsLateral
 ##.banner-dfp-retangulo
 ##.banner_publicidade_hp
 ##.box-admotion
@@ -63,5 +64,6 @@
 ##.publicity-leaderboard
 ##.section-pbl
 ##.section_google-adsense
+##.sideBarAds
 ##.tm-ads
 ##.vip-section-advertising
