@@ -56,4 +56,5 @@
 ##.publicity-leaderboard
 ##.section-pbl
 ##.section_google-adsense
+##.tm-ads
 ##.vip-section-advertising
