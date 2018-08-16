@@ -9,6 +9,7 @@ baixaki.com.br###bxk_program_square
 baboo.com.br###custom_html-2
 bilibio.com.br###dwt-banner-area
 uol.com.br###folha-shop
+saraiva.com.br###fullbanner-todas-categorias-iab
 fatosdesconhecidos.com.br###leaderboard-header
 fatosdesconhecidos.com.br###leaderboard-post-header
 olx.com.br###module_olx_shopping
