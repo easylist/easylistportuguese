@@ -24,6 +24,9 @@
 ##.ad-container
 ##.ad-topstories
 ##.add_full
+##.ads10
+##.ads20
+##.ads30
 ##.banner-dfp-retangulo
 ##.banner_publicidade_hp
 ##.box-admotion
