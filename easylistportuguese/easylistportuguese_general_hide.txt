@@ -17,7 +17,9 @@
 ###publicidade_not
 ###publicidades_top
 ###pubpc
+###relAds
 ###topopublicidade
+###vAds
 ###zaz-nb-plugin-ad
 ##.Publicidade
 ##.PublicidadeSidebarSuperior
