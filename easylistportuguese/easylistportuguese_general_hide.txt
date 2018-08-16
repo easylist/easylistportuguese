@@ -30,6 +30,7 @@
 ##.ads20
 ##.ads30
 ##.adsLateral
+##.adstopo
 ##.banner-dfp-retangulo
 ##.banner_publicidade_hp
 ##.box-admotion
