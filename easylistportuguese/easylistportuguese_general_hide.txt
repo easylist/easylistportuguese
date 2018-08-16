@@ -6,6 +6,8 @@
 ###barraPublicidade
 ###liBannerDireita
 ###liPublicidadeAdsense
+###pub-flutuante-1
+###pub-flutuante-2
 ###pubCofinaFotogaleria
 ###pubMastHead
 ###publat1
