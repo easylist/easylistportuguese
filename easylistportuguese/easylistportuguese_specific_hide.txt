@@ -27,6 +27,7 @@ terra.com.br,uol.com.br##.advertising
 uol.com.br##.advertising-column
 mercadolivre.com.br##.app-container > .questions-container-banner
 capitalnews.com.br,uol.com.br##.banner
+hotelurbano.com##.banner-header
 casasbahia.com.br##.banner-retangulo
 uol.com.br##.banner-stick
 diarioonline.com.br##.banner-topo
