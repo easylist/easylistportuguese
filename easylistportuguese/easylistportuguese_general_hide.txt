@@ -34,6 +34,7 @@
 ##.adsLateral
 ##.adstopo
 ##.banner-dfp-retangulo
+##.banner-publicitario-meio
 ##.banner_publicidade_hp
 ##.box-admotion
 ##.box-publicidade-topo
