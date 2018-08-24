@@ -33,6 +33,7 @@
 ##.ads30
 ##.adsLateral
 ##.adstopo
+##.anuncio-sidebar
 ##.banner-dfp-retangulo
 ##.banner-publicitario-meio
 ##.banner_publicidade_hp
