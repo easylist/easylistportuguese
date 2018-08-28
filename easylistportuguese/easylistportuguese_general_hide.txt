@@ -42,6 +42,7 @@
 ##.banner_publicidade_hp
 ##.box-admotion
 ##.box-publicidade-topo
+##.box_publ_not
 ##.br-grid-1-publicidade
 ##.c-advertising
 ##.clic-advertising
