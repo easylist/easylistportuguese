@@ -10,6 +10,7 @@
 ###pub-flutuante-2
 ###pubCofinaFotogaleria
 ###pubMastHead
+###publ_super
 ###publat1
 ###publat_local
 ###publicidade-topo
