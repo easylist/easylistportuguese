@@ -11,6 +11,7 @@
 ###pub-flutuante-2
 ###pubCofinaFotogaleria
 ###pubMastHead
+###publ-capa
 ###publ_super
 ###publat1
 ###publat_local
