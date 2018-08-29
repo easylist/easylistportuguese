@@ -20,6 +20,7 @@ fatosdesconhecidos.com.br###leaderboard-post-header
 olx.com.br###module_olx_shopping
 mercadolivre.com.br###oasTOP
 uol.com.br###publicity
+labsk.net###sp_block_15
 ig.com.br###superbanner
 olx.com.br###web_listing_banner_bottom
 olx.com.br###web_listing_banner_top
