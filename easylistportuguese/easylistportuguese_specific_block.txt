@@ -1,8 +1,6 @@
 ||aquiacontece.com.br/_BANNER/
 ||baboo.com.br/mkt/
 ||expressomt.com.br/public/banners
-||labsk.net/banners/
-||labsk.net/carousel/
 ||pubs.xl.pt^
 ||terraempresas.com.br/backup/promo/
 ||xl.pt/i/pub.gif
