@@ -72,6 +72,7 @@ uol.com.br##.shopping-produtos-uol
 ig.com.br##.superbanner
 casasbahia.com.br##.superbannertop
 aeiou.pt##.td-a-rec
+net-empregos.com##.tickercontainer
 uol.com.br##.tm-ads
 terra.com.br##[data-app-name="app.svaAd"]
 nerdprofessor.com.br##a[href="https://nerdprofessor.com.br/oferta"]
