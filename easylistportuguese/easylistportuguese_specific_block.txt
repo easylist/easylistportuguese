@@ -2,6 +2,7 @@
 ||baboo.com.br/mkt/
 ||expressomt.com.br/public/banners
 ||net-empregos.com/images/banners/
+||nossanoite.com.br/assets/img/bannerPublic/
 ||nossanoite.com.br/assets/img/bannerTopo/
 ||pubs.xl.pt^
 ||terraempresas.com.br/backup/promo/
