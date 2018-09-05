@@ -4,6 +4,7 @@
 ||net-empregos.com/images/banners/
 ||nossanoite.com.br/assets/img/bannerPublic/
 ||nossanoite.com.br/assets/img/bannerTopo/
+||olhardireto.com.br/imgsite/popups/
 ||pubs.xl.pt^
 ||terraempresas.com.br/backup/promo/
 ||xl.pt/i/pub.gif
