@@ -26,6 +26,7 @@
 ###zaz-nb-plugin-ad
 ##.Publicidade
 ##.PublicidadeHorizontal
+##.PublicidadeQuadrada
 ##.PublicidadeSidebarSuperior
 ##.ad-container
 ##.ad-topstories
