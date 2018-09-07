@@ -25,6 +25,7 @@
 ###vAds
 ###zaz-nb-plugin-ad
 ##.Publicidade
+##.PublicidadeHorizontal
 ##.PublicidadeSidebarSuperior
 ##.ad-container
 ##.ad-topstories
