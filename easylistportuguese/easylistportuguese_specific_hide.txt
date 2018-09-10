@@ -19,6 +19,7 @@ fatosdesconhecidos.com.br###leaderboard-header
 fatosdesconhecidos.com.br###leaderboard-post-header
 olx.com.br###module_olx_shopping
 mercadolivre.com.br###oasTOP
+record.pt###pestanaSmart
 uol.com.br###publicity
 ig.com.br###superbanner
 olx.com.br###web_listing_banner_bottom
