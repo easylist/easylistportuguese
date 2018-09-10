@@ -7,5 +7,6 @@
 ||olhardireto.com.br/imgsite/banners/
 ||olhardireto.com.br/imgsite/popups/
 ||pubs.xl.pt^
+||record.pt/i/pub/
 ||terraempresas.com.br/backup/promo/
 ||xl.pt/i/pub.gif
