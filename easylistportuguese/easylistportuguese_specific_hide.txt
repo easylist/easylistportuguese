@@ -61,6 +61,7 @@ otempo.com.br##.lomadee
 flash.pt##.m-rec
 flash.pt##.m-recHpTopo
 cmjornal.pt##.mainPub
+record.pt##.masthead_pub
 uol.com.br##.mod-publieditorial
 olx.com.br##.module_advertising
 uol.com.br##.moduloBanner
