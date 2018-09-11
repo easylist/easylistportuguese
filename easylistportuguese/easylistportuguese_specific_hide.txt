@@ -69,7 +69,7 @@ mercadolivre.com.br##.myml-menu-navigation > .container-banner
 clicrbs.com.br,otvfoco.com.br##.ob-p
 olhardireto.com.br##.popup
 ig.com.br##.promotion
-destak.pt,flash.pt,jornaldenegocios.pt,record.pt##.pub
+acorianooriental.pt,destak.pt,flash.pt,jornaldenegocios.pt,record.pt##.pub
 uol.com.br##.responsive-bottom-horizontal
 uol.com.br##.shopping-produtos-uol
 ig.com.br##.superbanner
