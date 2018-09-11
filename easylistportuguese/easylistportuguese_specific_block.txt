@@ -1,6 +1,7 @@
 ||aquiacontece.com.br/_BANNER/
 ||baboo.com.br/mkt/
 ||expressomt.com.br/public/banners
+||iol.pt/iolnegocios/iol-frame/
 ||net-empregos.com/images/banners/
 ||nossanoite.com.br/assets/img/bannerPublic/
 ||nossanoite.com.br/assets/img/bannerTopo/
