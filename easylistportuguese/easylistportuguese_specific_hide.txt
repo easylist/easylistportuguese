@@ -21,6 +21,7 @@ olx.com.br###module_olx_shopping
 mercadolivre.com.br###oasTOP
 record.pt###pestanaSmart
 uol.com.br###publicity
+diariocoimbra.pt###pubsec1
 ig.com.br###superbanner
 olx.com.br###web_listing_banner_bottom
 olx.com.br###web_listing_banner_top
