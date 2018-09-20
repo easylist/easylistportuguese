@@ -47,6 +47,7 @@
 ##.box_publ_not
 ##.br-grid-1-publicidade
 ##.c-advertising
+##.c-publi
 ##.clic-advertising
 ##.contemPublicidade
 ##.detalheAds
