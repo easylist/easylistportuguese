@@ -28,6 +28,7 @@ olx.com.br###web_listing_banner_top
 belasmensagens.com.br,terra.com.br,uol.com.br,vagalume.com.br##.ad
 letras.mus.br##.ad-full
 letras.mus.br##.ad-letra
+tiinside.com.br##.ad1
 record.pt##.ads
 terra.com.br,uol.com.br##.advertising
 uol.com.br##.advertising-column
