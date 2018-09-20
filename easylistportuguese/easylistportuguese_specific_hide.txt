@@ -10,7 +10,6 @@ baixaki.com.br###bxk_program_halfpage
 baixaki.com.br###bxk_program_square
 baboo.com.br###custom_html-2
 final.com.br###custom_html-3
-tomadivx.org###ddbar
 bilibio.com.br###dwt-banner-area
 uol.com.br###folha-shop
 saraiva.com.br###fullbanner-todas-categorias-iab
