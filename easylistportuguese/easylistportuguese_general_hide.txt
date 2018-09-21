@@ -23,7 +23,6 @@
 ###relAds
 ###topopublicidade
 ###vAds
-vagas.com.br###vagas_busca_leaderboard_704x160_top
 ###zaz-nb-plugin-ad
 ##.Publicidade
 ##.PublicidadeHorizontal
