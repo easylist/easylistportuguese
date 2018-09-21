@@ -23,6 +23,7 @@ record.pt###pestanaSmart
 uol.com.br###publicity
 diariocoimbra.pt###pubsec1
 ig.com.br###superbanner
+vagas.com.br###vagas_busca_leaderboard_704x160_top
 olx.com.br###web_listing_banner_bottom
 olx.com.br###web_listing_banner_top
 belasmensagens.com.br,terra.com.br,uol.com.br,vagalume.com.br##.ad
