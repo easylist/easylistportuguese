@@ -39,6 +39,7 @@ expressomt.com.br##.banners
 uol.com.br##.bannersticky-top-container
 netvasco.com.br##.bannervertical
 record.pt##.bb
+extra.com.br##.bnr
 diarioonline.com.br##.box-banner
 uol.com.br##.c-estudio-folha
 uol.com.br##.c-livraria
