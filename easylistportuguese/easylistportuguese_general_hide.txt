@@ -4,6 +4,7 @@
 ###ad_mrec_esporte
 ###ads-square
 ###barraPublicidade
+###flyingBottomAd
 ###liBannerDireita
 ###liPublicidadeAdsense
 ###pub-flutuante-1
