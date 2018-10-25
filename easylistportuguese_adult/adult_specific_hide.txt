@@ -1,1 +1,2 @@
+##.add-box-side
 ##.add-box-top
