@@ -25,6 +25,7 @@
 ##.PublicidadeSidebarSuperior
 ##.ad-container
 ##.ad-topstories
+##.add-box-side
 ##.add-box-top
 ##.add_full
 ##.ads10
