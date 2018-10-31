@@ -73,6 +73,7 @@ aeiou.pt##.td-a-rec
 uol.com.br##.tm-ads
 terra.com.br##[data-app-name="app.svaAd"]
 diarioonline.com.br##div[id^="div-banner"]
+gazetaesportiva.com##div[id^="rmt_banner"]
 brasilescola.uol.com.br##div[style="height: 406px;"]
 brasilescola.uol.com.br##div[style="height: 580px;"]
 brasilescola.uol.com.br##div[style="width: 100%; height: 250px;"]
