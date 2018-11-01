@@ -73,6 +73,7 @@
 ##.publicidade-abre_padrao
 ##.publicidade-content
 ##.publicidade-full-banner
+##.publicidade-newsletter
 ##.publicidade-wide
 ##.publicidade_superbanner
 ##.publicidades
