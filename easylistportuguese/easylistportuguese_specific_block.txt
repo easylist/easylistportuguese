@@ -9,6 +9,7 @@
 ||olhardireto.com.br/imgsite/banners/
 ||olhardireto.com.br/imgsite/popups/
 ||online.animesdigital.com.br/ad_blackfriday.png
+||otpokemon.com/local/banner/
 ||pubs.xl.pt^
 ||record.pt/i/pub/
 ||terraempresas.com.br/backup/promo/
