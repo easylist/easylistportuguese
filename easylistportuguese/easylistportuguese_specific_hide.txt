@@ -34,6 +34,7 @@ letras.mus.br##.ad-full
 letras.mus.br##.ad-letra
 tiinside.com.br##.ad1
 record.pt##.ads
+animeplus.org##.adsBody
 terra.com.br,uol.com.br##.advertising
 uol.com.br##.advertising-column
 mercadolivre.com.br##.app-container > .questions-container-banner
