@@ -1,2 +1,3 @@
 ||buscape.com.br^$third-party
 ||lomadee.com^$third-party
+||monetizze.com.br^$third-party
