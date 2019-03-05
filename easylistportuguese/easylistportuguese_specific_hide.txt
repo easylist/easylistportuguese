@@ -85,6 +85,9 @@ aeiou.pt##.td-a-rec
 net-empregos.com##.tickercontainer
 uol.com.br##.tm-ads
 terra.com.br##[data-app-name="app.svaAd"]
+nerdprofessor.com.br##a[href*="nerdprofessor.com.br/filosofia"]
+nerdprofessor.com.br##a[href*="nerdprofessor.com.br/historia"]
+nerdprofessor.com.br##a[href*="nerdprofessor.com.br/loja"]
 nerdprofessor.com.br##a[href*="nerdprofessor.com.br/oferta"]
 diarioonline.com.br##div[id^="div-banner"]
 gazetaesportiva.com##div[id^="rmt_banner"]
