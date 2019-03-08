@@ -1,2 +1,4 @@
 ||buscape.com.br^$third-party
+||filestatic.xyz^$third-party
 ||lomadee.com^$third-party
+||spider.ad^$third-party
