@@ -1,2 +1,2 @@
 ||buscape.com.br^$third-party
-||lomadee.com^$third-party
+||ad.lomadee.com^$third-party
