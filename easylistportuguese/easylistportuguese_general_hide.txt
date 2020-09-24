@@ -83,4 +83,4 @@
 ##.sideBarAds
 ##.tm-ads
 ##.vip-section-advertising
-##a[href^="https://www.avantajadas.com.br/afiliado.html"]
+##a[href^="https://www.avantajadas.com.br/"]
