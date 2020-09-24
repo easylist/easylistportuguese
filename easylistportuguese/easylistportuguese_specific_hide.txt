@@ -19,6 +19,8 @@ guiadasemana.com.br###header
 vagas.com.br###homeLogos
 fatosdesconhecidos.com.br###leaderboard-header
 fatosdesconhecidos.com.br###leaderboard-post-header
+travestisvip.com.br##.playerBnr
+travestisvip.com.br###bnrVideosTravestis
 olx.com.br###module_olx_shopping
 mercadolivre.com.br###oasTOP
 record.pt###pestanaSmart
