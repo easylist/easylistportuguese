@@ -39,7 +39,6 @@
 ##.ads30
 ##.adsLateral
 ##.adstopo
-##.anuncio-468
 ##.anuncio-728
 ##.anuncio-sidebar
 ##.banner-dfp-retangulo
