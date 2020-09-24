@@ -39,6 +39,7 @@
 ##.ads30
 ##.adsLateral
 ##.adstopo
+##.anuncio-728
 ##.anuncio-sidebar
 ##.banner-dfp-retangulo
 ##.banner-publicitario-meio
