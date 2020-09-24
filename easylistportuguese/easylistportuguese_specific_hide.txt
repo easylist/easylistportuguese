@@ -19,7 +19,8 @@ guiadasemana.com.br###header
 vagas.com.br###homeLogos
 fatosdesconhecidos.com.br###leaderboard-header
 fatosdesconhecidos.com.br###leaderboard-post-header
-travestisvip.com.br###libidgelBanner
+travestisvip.com.br##.playerBnr
+travestisvip.com.br###bnrVideosTravestis
 olx.com.br###module_olx_shopping
 mercadolivre.com.br###oasTOP
 record.pt###pestanaSmart
@@ -87,7 +88,6 @@ net-empregos.com##.tickercontainer
 uol.com.br##.tm-ads
 terra.com.br##[data-app-name="app.svaAd"]
 nerdprofessor.com.br##a[href="https://nerdprofessor.com.br/oferta"]
-travestisvip.com.br##div[class^="banner-"]
 diarioonline.com.br##div[id^="div-banner"]
 gazetaesportiva.com##div[id^="rmt_banner"]
 kboing.com.br##div[style="float:left;width:965px;height:90px;margin-bottom:10px;background-color:#fff;text-align:center;"]
