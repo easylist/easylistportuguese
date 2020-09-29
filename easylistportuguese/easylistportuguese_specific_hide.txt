@@ -98,3 +98,4 @@ brasilescola.uol.com.br##div[style="width: 300px; height: 591px;"]
 brasilescola.uol.com.br##div[style="width: 300px; height: 600px;"]
 mrpiracy.top##center a[href^="https://www.tugaiptv.com"]
 mrpiracy.top##center a[href^="https://bettilt.ncmfck.com/pt/games"]
+torredevigilancia.com##.singleBannerWidget
