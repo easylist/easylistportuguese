@@ -3,3 +3,4 @@
 ||spider.ad^$third-party
 ||ad.lomadee.com^$third-party
 ||pestilenttidefilth.org^$third-party
+||delightspiritedtroop.com^$third-party
