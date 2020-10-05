@@ -15,3 +15,4 @@
 ||terraempresas.com.br/backup/promo/
 ||xl.pt/i/pub.gif
 /anuncy/ups/ads^$image,domain=geralinks.com.br
+||metropoles.com/cupom/rtg/iframe/pill^$subdocument
