@@ -99,3 +99,4 @@ mrpiracy.top##a[class^="reserve-button"]
 torredevigilancia.com##.singleBannerWidget
 metropoles.com##.container>.m-coupons-title
 futemax.fm##.alertWS
+animesonlinebr.co##a[title="pokemon"]
