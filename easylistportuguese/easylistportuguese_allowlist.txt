@@ -2,3 +2,4 @@
 @@||g.doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=magazineluiza.com.br
 @@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=magazineluiza.com.br
 @@||tpc.googlesyndication.com^$document,subdocument,domain=magazineluiza.com.br
+@@||staticz.com.br/advertisement/$image,domain=meliuz.com.br
