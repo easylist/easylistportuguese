@@ -7,3 +7,4 @@
 ||realmpallduns.com^$third-party
 ||rosqb6vb1cqp.com^$third-party
 ||dollsdeclare.com^$third-party
+||breedtagask.com^$third-party
