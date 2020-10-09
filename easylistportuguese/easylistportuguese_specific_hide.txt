@@ -100,3 +100,4 @@ torredevigilancia.com##.singleBannerWidget
 metropoles.com##.container>.m-coupons-title
 futemax.fm##.alertWS
 animesonlinebr.co##a[title="pokemon"]
+portalmie.com##a[href*="portalmie.com/campanhas_empresas/"]
