@@ -1,1 +1,2 @@
 ||bserver.gp-guia.net^$subdocument
+||gp-pt.net/forum/banners/$image
