@@ -9,3 +9,4 @@
 ||dollsdeclare.com^$third-party
 ||breedtagask.com^$third-party
 ||348wd7etbann.com^$third-party
+||pulpsbarndomed.com^$third-party
