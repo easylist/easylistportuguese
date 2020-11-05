@@ -1,0 +1,1 @@
+$popup,third-party,domain=streamtape.cc
