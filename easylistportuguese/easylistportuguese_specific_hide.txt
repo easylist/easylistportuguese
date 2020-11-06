@@ -106,3 +106,5 @@ infoescola.com##div[id^="index-banner"]
 cifraclub.com.br##.floatingBottomAd
 netcine.info##a[href="https://lojadasseries.com.br/"]
 tecmundo.com.br##.tec--ad
+flvto.biz##.square-area
+flvto.biz##.horizontal-area
