@@ -108,3 +108,5 @@ netcine.info##a[href="https://lojadasseries.com.br/"]
 tecmundo.com.br##.tec--ad
 flvto.biz##.square-area
 flvto.biz##.horizontal-area
+ativo.com##.widget_banner_shortcode
+ativo.com##.widget_super_banner_shortcode
