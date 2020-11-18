@@ -4,3 +4,4 @@
 @@||tpc.googlesyndication.com^$document,subdocument,domain=magazineluiza.com.br
 @@||staticz.com.br/advertisement/$image,domain=meliuz.com.br
 @@/detroitchicago/$domain=itigic.com
+@@.br/banners/$domain=roupaprofissional.com.br
