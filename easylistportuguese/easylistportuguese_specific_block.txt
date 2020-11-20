@@ -19,3 +19,4 @@
 ||stream2watch.is/crons/pop_code.js
 ||minhaconexao.com.br/alternative/$subdocument
 ||criativaonline.com.br/wp-content/uploads/pum/pum-site-scripts.js^
+||vivaolinux.com.br/imagens/banners/$image
