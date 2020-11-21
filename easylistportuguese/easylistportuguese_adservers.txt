@@ -20,3 +20,4 @@
 ||bgun5cxxi2dv.com^$third-party
 ||penjazzvice.com^$third-party
 ||ruthcraveastray.com^$third-party
+||lataurir.com^$third-party
