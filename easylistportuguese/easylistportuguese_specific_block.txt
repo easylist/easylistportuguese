@@ -20,3 +20,4 @@
 ||minhaconexao.com.br/alternative/$subdocument
 ||criativaonline.com.br/wp-content/uploads/pum/pum-site-scripts.js^
 ||vivaolinux.com.br/imagens/banners/$image
+||yayanimes.net/wp-content/uploads/fanart.jpg
