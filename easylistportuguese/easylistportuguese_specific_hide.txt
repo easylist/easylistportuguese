@@ -111,3 +111,5 @@ flvto.biz##.horizontal-area
 ativo.com##.widget_banner_shortcode
 ativo.com##.widget_super_banner_shortcode
 criativaonline.com.br##div[class*="stream-item"]
+diariodominho.pt###hidethis2
+diariodominho.pt##a[href^="https://www.diariodominho.pt/linkout/"]
