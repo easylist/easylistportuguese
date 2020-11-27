@@ -26,3 +26,5 @@
 ||fathuntsgall.com^$third-party
 ||eelfadechi.com^$third-party
 ||xo28pclotovi.com^$third-party
+||mypopads.com^$third-party
+||glenprejudice.com^$third-party
