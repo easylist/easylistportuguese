@@ -22,3 +22,4 @@
 ||vivaolinux.com.br/imagens/banners/$image
 ||yayanimes.net/wp-content/uploads/fanart.jpg
 ||fstatic.com/static/telecineplay/$image,domain=filmow.com
+/otpokemon01.*$image,domain=animesonlinep.com
