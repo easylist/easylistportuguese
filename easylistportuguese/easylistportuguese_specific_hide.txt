@@ -115,3 +115,4 @@ diariodominho.pt###hidethis2
 diariodominho.pt##a[href^="https://www.diariodominho.pt/linkout/"]
 animeslog.com##.sidebarAD
 guiaestudo.com.br##a[href^="http://pages.educamaisbrasil.com"]
+flashscore.com.br##.boxOverContent
