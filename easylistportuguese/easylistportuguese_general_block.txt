@@ -1,5 +1,4 @@
 -publicidade.
-.br/adx.js
 .br/afiliados/
 .br/banner.aspx?
 .br/banners/
@@ -12,7 +11,6 @@
 .cv/pub/
 .pt/images/banners/
 .publicidade.
-//adclient-
 //adware.
 /adshotbrasil1.
 /adsligados.

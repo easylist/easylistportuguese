@@ -32,7 +32,6 @@ vagas.com.br###vagas_busca_leaderboard_704x160_top
 olx.com.br###web_listing_banner_bottom
 olx.com.br###web_listing_banner_top
 belasmensagens.com.br,terra.com.br,uol.com.br,vagalume.com.br##.ad
-letras.mus.br##.ad-full
 letras.mus.br##.ad-letra
 tiinside.com.br##.ad1
 record.pt##.ads
@@ -58,7 +57,6 @@ diarioonline.com.br##.box-banner
 uol.com.br##.c-estudio-folha
 uol.com.br##.c-livraria
 campograndenews.com.br##.c_banner
-magazineluiza.com.br##.centralizer-adx
 letras.mus.br##.cnt-space-top
 estadao.com.br##.cupons
 vidas.pt##.destaques_mrec
