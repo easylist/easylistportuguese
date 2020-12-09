@@ -36,9 +36,7 @@
 /publi.js
 /publi/banner_
 /publicidade-
-/publicidade.
 /publicidade_
-/publicidades/*
 /publicidadevertical.
 /publitab.
 /recursos/banners/*

@@ -31,10 +31,7 @@
 ##.ad-container
 ##.ad-topstories
 ##.adCabecalho
-##.add-box-side
-##.add-box-top
 ##.add_full
-##.ads10
 ##.ads20
 ##.ads30
 ##.adsLateral
@@ -48,7 +45,6 @@
 ##.box-publicidade-topo
 ##.box_publ_not
 ##.br-grid-1-publicidade
-##.c-advertising
 ##.c-publi
 ##.clic-advertising
 ##.contemPublicidade
@@ -70,18 +66,14 @@
 ##.pub_insert_content_titulo
 ##.pub_mrec
 ##.pubfield
-##.publicidade
 ##.publicidade-abre_padrao
 ##.publicidade-content
-##.publicidade-full-banner
 ##.publicidade-newsletter
 ##.publicidade-wide
 ##.publicidade_superbanner
 ##.publicidades
 ##.publicity-leaderboard
 ##.section-pbl
-##.section_google-adsense
 ##.sideBarAds
-##.tm-ads
 ##.vip-section-advertising
 ##a[href^="https://www.avantajadas.com.br/"]

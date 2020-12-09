@@ -1,4 +1,3 @@
 ||avantajadas.com.br^$third-party
-||cameraprive.com^$third-party
 ||loboclick.com^$third-party
 ||tufos.com.br^$third-party
