@@ -115,3 +115,4 @@ animeslog.com##.sidebarAD
 guiaestudo.com.br##a[href^="http://pages.educamaisbrasil.com"]
 flashscore.com.br##.boxOverContent
 audiobookbay.nl##a[href="/dl-14-days-trial"]
+odia.ig.com.br##.ppAnchorWidthAd
