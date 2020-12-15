@@ -23,4 +23,4 @@
 ||yayanimes.net/wp-content/uploads/fanart.jpg
 ||fstatic.com/static/telecineplay/$image,domain=filmow.com
 /otpokemon01.*$image,domain=animesonlinep.com|superanimes.tv
-||api.cazamba.com^$domain=tribogamer.com
+||api.cazamba.com^$script,domain=tribogamer.com|switch-brasil.com
