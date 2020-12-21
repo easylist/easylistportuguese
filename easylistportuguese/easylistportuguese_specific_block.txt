@@ -22,5 +22,6 @@
 ||vivaolinux.com.br/imagens/banners/$image
 ||yayanimes.net/wp-content/uploads/fanart.jpg
 ||fstatic.com/static/telecineplay/$image,domain=filmow.com
-/otpokemon01.*$image,domain=animesonlinep.com|superanimes.tv
+/otpokemon01.*$image,domain=animesonlinep.com|superanimes.tv|animesonlinebr.co
 ||api.cazamba.com^$script,domain=tribogamer.com|switch-brasil.com
+/banner-pokeBlastNews.png^$image,domain=animesonlinebr.co
