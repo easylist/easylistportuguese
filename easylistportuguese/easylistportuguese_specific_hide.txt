@@ -120,3 +120,5 @@ megaboxfilmesonline.com##a[href^="//ladskiz.com"]
 tribogamer.com#?#a:-abp-has(div > div > small:-abp-contains(Publicitário))
 deixadisso.com##.shareaholic-ad
 deixadisso.com##div[data-shr-channel="sponsored"]
+eutesalvo.com##.adHome
+eutesalvo.com##.adMedium
