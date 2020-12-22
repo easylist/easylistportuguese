@@ -122,3 +122,4 @@ deixadisso.com##.shareaholic-ad
 deixadisso.com##div[data-shr-channel="sponsored"]
 eutesalvo.com##.adHome
 eutesalvo.com##.adMedium
+lolesports.com##.HomePartner
