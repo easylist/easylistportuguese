@@ -28,3 +28,4 @@
 ||xo28pclotovi.com^$third-party
 ||mypopads.com^$third-party
 ||glenprejudice.com^$third-party
+||selfswayjay.com^$third-party
