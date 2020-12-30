@@ -123,3 +123,5 @@ deixadisso.com##div[data-shr-channel="sponsored"]
 eutesalvo.com##.adHome
 eutesalvo.com##.adMedium
 lolesports.com##.HomePartner
+conexaopolitica.com.br##div[class^="ads"]
+conexaopolitica.com.br##.widget_media_image
