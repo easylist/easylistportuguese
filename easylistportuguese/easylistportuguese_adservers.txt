@@ -29,3 +29,5 @@
 ||mypopads.com^$third-party
 ||glenprejudice.com^$third-party
 ||selfswayjay.com^$third-party
+||eshncdkjp.com^$third-party
+||xclofrfa.com^$third-party
