@@ -1,3 +1,4 @@
 $popup,third-party,domain=streamtape.cc
 ||futemax.live/imagens/logo2.png$popup
 ||buylnk.com^$popup,domain=gfilmes.net
+/jump/next.php?$popup,domain=yts.mx
