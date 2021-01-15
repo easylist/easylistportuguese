@@ -126,3 +126,4 @@ lolesports.com##.HomePartner
 conexaopolitica.com.br##div[class^="ads"]
 conexaopolitica.com.br##.widget_media_image
 ig.com.br##.duasPubli
+branitube.net##.area-youtubers
