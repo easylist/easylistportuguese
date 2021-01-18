@@ -2,3 +2,4 @@
 ||gp-pt.net/forum/banners/$image
 ||eliteacompanhantes.com.br^$subdocument,domain=avantajadas.com.br
 /avantajadas/*$domain=travestisvip.com.br
+||tubeoffline.com/hh/hh*.gif
