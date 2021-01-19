@@ -3,3 +3,4 @@
 ||eliteacompanhantes.com.br^$subdocument,domain=avantajadas.com.br
 /avantajadas/*$domain=travestisvip.com.br
 ||tubeoffline.com/hh/hh*.gif
+||statics.letfap.com/assets/love/index.php
