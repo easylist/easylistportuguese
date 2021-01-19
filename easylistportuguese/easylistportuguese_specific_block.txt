@@ -28,3 +28,4 @@
 ||media.discordapp.net/attachments/*/Banner-gid-Edu.gif^$domain=subanimes.biz
 ||loucosporgeek.com.br/wp-content/uploads/*/Loucos.gif^$domain=subanimes.biz
 ||third-party.animekisa.tv/grabinfo.php^
+||conjur.com.br/parceiros/iframe
