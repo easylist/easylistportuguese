@@ -127,3 +127,4 @@ conexaopolitica.com.br##div[class^="ads"]
 conexaopolitica.com.br##.widget_media_image
 ig.com.br##.duasPubli
 branitube.net##.area-youtubers
+espn.com.br#?#:-abp-has(> a[href^="https://www.disneyplus.com"])

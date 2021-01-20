@@ -29,3 +29,4 @@
 ||loucosporgeek.com.br/wp-content/uploads/*/Loucos.gif^$domain=subanimes.biz
 ||third-party.animekisa.tv/grabinfo.php^
 ||conjur.com.br/parceiros/iframe
+||cdn.espn.com.br/image/livre/*.png
