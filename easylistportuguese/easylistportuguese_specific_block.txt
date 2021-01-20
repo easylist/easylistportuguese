@@ -30,3 +30,4 @@
 ||third-party.animekisa.tv/grabinfo.php^
 ||conjur.com.br/parceiros/iframe
 ||cdn.espn.com.br/image/livre/*.png
+||otempo.com.br/image/contentid/*/banner-hotel.jpeg

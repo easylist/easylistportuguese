@@ -128,3 +128,6 @@ conexaopolitica.com.br##.widget_media_image
 ig.com.br##.duasPubli
 branitube.net##.area-youtubers
 espn.com.br#?#:-abp-has(> a[href^="https://www.disneyplus.com"])
+otempo.com.br##a[href="https://www.mhbhotelaria.com.br/mensalista"]
+otempo.com.br##.barra-store
+otempo.com.br##.topo-patrocinado-artigo
