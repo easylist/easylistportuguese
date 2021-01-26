@@ -38,3 +38,4 @@
 ||beheadmuffleddetached.com^$third-party
 ||riminghoggoofy.com^$third-party
 ||tfzznclztl.com$third-party
+||zabanit.xyz^$third-party
