@@ -39,3 +39,4 @@
 ||riminghoggoofy.com^$third-party
 ||tfzznclztl.com$third-party
 ||zabanit.xyz^$third-party
+||edthoutfre.fun^$third-party
