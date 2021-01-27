@@ -40,3 +40,4 @@
 ||tfzznclztl.com$third-party
 ||zabanit.xyz^$third-party
 ||edthoutfre.fun^$third-party
+||kaurouby.net^$third-party
