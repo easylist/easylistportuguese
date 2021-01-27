@@ -31,3 +31,4 @@
 ||conjur.com.br/parceiros/iframe
 ||cdn.espn.com.br/image/livre/*.png
 ||otempo.com.br/image/contentid/*/banner-hotel.jpeg
+||angonoticias.com/site/assets/uploads/media_pub/
