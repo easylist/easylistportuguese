@@ -41,3 +41,6 @@
 ||zabanit.xyz^$third-party
 ||edthoutfre.fun^$third-party
 ||kaurouby.net^$third-party
+||nickeeha.net^$third-party
+||alawachi.net^$third-party
+
