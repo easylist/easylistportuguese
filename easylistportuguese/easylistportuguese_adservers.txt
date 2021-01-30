@@ -44,4 +44,5 @@
 ||nickeeha.net^$third-party
 ||alawachi.net^$third-party
 ||ereenerall.fun^$third-party
+||glazegha.com^$third-party
 
