@@ -32,3 +32,5 @@
 ||cdn.espn.com.br/image/livre/*.png
 ||otempo.com.br/image/contentid/*/banner-hotel.jpeg
 ||angonoticias.com/site/assets/uploads/media_pub/
+||wp.com/donghuanosekai.com/wp-content/uploads/*/unknown-1.png
+||wp.com/*/wp-content/*banner$image,domain=donghuanosekai.com
