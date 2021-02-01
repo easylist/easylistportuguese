@@ -132,3 +132,4 @@ otempo.com.br##a[href="https://www.mhbhotelaria.com.br/mensalista"]
 otempo.com.br##.barra-store
 otempo.com.br##.topo-patrocinado-artigo
 abril.com.br##div[data-item-id^="~~V1~~"]
+tuasaude.com###footerWidgets
