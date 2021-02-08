@@ -36,3 +36,4 @@
 ||wp.com/*/wp-content/*banner$image,domain=donghuanosekai.com
 ||pplware.sapo.pt/parceiros/$image
 ||dnoticias.pt/www-assets.dnoticias.pt/frontoffice/pub/$image
+/MyShowroom/view.php^$domain=webcamtests.com
