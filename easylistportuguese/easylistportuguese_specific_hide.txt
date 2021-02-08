@@ -139,3 +139,6 @@ delas.pt,motor24.pt,voltaaomundo.pt,womenshealth.pt###billboard
 delas.pt,evasoes.pt,womenshealth.pt##.mrec-wrapper
 evasoes.pt,womenshealth.pt###inread
 delas.pt##.mrec_desktop
+uol.com.br##.bg-banner
+uol.com.br##.bannersticky-base
+uol.com.br##div[id^="banner"]
