@@ -142,3 +142,4 @@ delas.pt##.mrec_desktop
 uol.com.br##.bg-banner
 uol.com.br##.bannersticky-base
 uol.com.br##div[id^="banner"]
+reportermt.com.br##div[class$="box-banner"]

@@ -37,3 +37,4 @@
 ||pplware.sapo.pt/parceiros/$image
 ||dnoticias.pt/www-assets.dnoticias.pt/frontoffice/pub/$image
 /MyShowroom/view.php^$domain=webcamtests.com
+||reportermt.nyc3.digitaloceanspaces.com/storage/webdisco/*/outros/$image
