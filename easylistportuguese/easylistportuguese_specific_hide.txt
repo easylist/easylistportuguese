@@ -143,3 +143,6 @@ uol.com.br##.bg-banner
 uol.com.br##.bannersticky-base
 uol.com.br##div[id^="banner"]
 reportermt.com.br##div[class$="box-banner"]
+correiobraziliense.com.br##.pub-hal
+correiobraziliense.com.br##.pub-ret
+correiobraziliense.com.br##.pub-hor
