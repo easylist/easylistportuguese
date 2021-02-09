@@ -5,4 +5,4 @@
 @@||staticz.com.br/advertisement/$image,domain=meliuz.com.br
 @@/detroitchicago/$domain=itigic.com
 @@.br/banners/$domain=roupaprofissional.com.br
-@@threads/publicidade*$domain=portalclassicos.com
+@@threads/*publicidade*$domain=portalclassicos.com
