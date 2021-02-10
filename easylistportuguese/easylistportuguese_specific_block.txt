@@ -41,3 +41,4 @@
 ||ansabrasil.com.br/brasil/im*/banner/
 ||ansa.com.br/fiat/
 ||ansa.com.br/tim/
+||imgur.com/*.gif^$domain=lelivros.love
