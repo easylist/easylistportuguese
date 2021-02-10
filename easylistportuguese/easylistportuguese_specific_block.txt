@@ -38,3 +38,6 @@
 ||dnoticias.pt/www-assets.dnoticias.pt/frontoffice/pub/$image
 /MyShowroom/view.php^$domain=webcamtests.com
 ||reportermt.nyc3.digitaloceanspaces.com/storage/webdisco/*/outros/$image
+||ansabrasil.com.br/brasil/im*/banner/
+||ansa.com.br/fiat/
+||ansa.com.br/tim/
