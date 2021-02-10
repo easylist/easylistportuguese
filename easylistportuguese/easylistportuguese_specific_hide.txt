@@ -146,3 +146,5 @@ reportermt.com.br##div[class$="box-banner"]
 correiobraziliense.com.br##.pub-hal
 correiobraziliense.com.br##.pub-ret
 correiobraziliense.com.br##.pub-hor
+wikimetal.com.br##.right-banner
+wikimetal.com.br##.left-banner
