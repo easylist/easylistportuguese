@@ -43,3 +43,4 @@
 ||ansa.com.br/tim/
 ||imgur.com/*.gif^$domain=lelivros.love
 ||wikimetal.com.br/wp-content/uploads/*/Left_Right-Side.png
+||uploaddeimagens.com.br/images/*/full/button-*.png^$image,domain=querofilmeshd.co
