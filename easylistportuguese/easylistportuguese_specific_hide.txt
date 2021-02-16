@@ -148,3 +148,4 @@ correiobraziliense.com.br##.pub-ret
 correiobraziliense.com.br##.pub-hor
 wikimetal.com.br##.right-banner
 wikimetal.com.br##.left-banner
+priberam.org##.pb-pub-message
