@@ -113,7 +113,7 @@ diariodominho.pt###hidethis2
 diariodominho.pt##a[href^="https://www.diariodominho.pt/linkout/"]
 animeslog.com##.sidebarAD
 guiaestudo.com.br##a[href^="http://pages.educamaisbrasil.com"]
-flashscore.com,flashscore.pt##.boxOverContent
+flashscore.com.br,flashscore.pt##.boxOverContent
 audiobookbay.nl##a[href="/dl-14-days-trial"]
 odia.ig.com.br##.ppAnchorWidthAd
 megaboxfilmesonline.com##a[href^="//ladskiz.com"]
