@@ -31,7 +31,7 @@ ig.com.br###superbanner
 vagas.com.br###vagas_busca_leaderboard_704x160_top
 olx.com.br###web_listing_banner_bottom
 olx.com.br###web_listing_banner_top
-belasmensagens.com.br,terra.com.br,uol.com.br,vagalume.com.br##.ad
+belasmensagens.com.br,rostos.pt,terra.com.br,uol.com.br,vagalume.com.br##.ad
 letras.mus.br##.ad-letra
 tiinside.com.br##.ad1
 record.pt##.ads
@@ -152,3 +152,4 @@ priberam.org##.pb-pub-message
 skoob.com.br##.banner-livro-home-container
 dioguinho.com##div[class*="ribboned"]
 flashscore.pt##div[class^="boxOverContent"]
+rostos.pt##.homepage--ad

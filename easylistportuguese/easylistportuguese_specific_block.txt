@@ -45,3 +45,4 @@
 ||wikimetal.com.br/wp-content/uploads/*/Left_Right-Side.png
 ||uploaddeimagens.com.br/images/*/full/button-*.png^$image,domain=querofilmeshd.co
 ||flashscore.*/res/data/$image
+||rostos.pt/imagens/pub/
