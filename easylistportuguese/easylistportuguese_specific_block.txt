@@ -46,3 +46,4 @@
 ||uploaddeimagens.com.br/images/*/full/button-*.png^$image,domain=querofilmeshd.co
 ||flashscore.*/res/data/$image
 ||rostos.pt/imagens/pub/
+||teutorrent.theproxy.ws/helper-js*/$script
