@@ -47,3 +47,5 @@
 ||flashscore.*/res/data/$image
 ||rostos.pt/imagens/pub/
 ||teutorrent.theproxy.ws/helper-js*/$script
+||netcine.biz/pusha.js
+||netcine.biz/popp2.js

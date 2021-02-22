@@ -58,3 +58,4 @@
 ||alhypnoom.com^$third-party
 ||peuzubuqo.com^$third-party
 ||xyctmmogcv.com^$third-party
+||misguidedstork.com^$third-party
