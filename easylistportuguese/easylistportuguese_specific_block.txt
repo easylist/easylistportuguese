@@ -49,3 +49,4 @@
 ||teutorrent.theproxy.ws/helper-js*/$script
 ||netcine.biz/pusha.js
 ||netcine.biz/popp2.js
+||atenislisboa.pt/wp-content/uploads/*/bannerFonteViva.gif
