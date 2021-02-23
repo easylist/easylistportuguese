@@ -153,3 +153,4 @@ skoob.com.br##.banner-livro-home-container
 dioguinho.com##div[class*="ribboned"]
 flashscore.pt##div[class^="boxOverContent"]
 rostos.pt##.homepage--ad
+brasil247.com##.billboard-970x250
