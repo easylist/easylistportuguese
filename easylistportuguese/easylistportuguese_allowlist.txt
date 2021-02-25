@@ -8,3 +8,4 @@
 @@threads/*publicidade*$domain=portalclassicos.com
 @@||stat-rock.com^$script,media,xmlhttprequest,domain=4shared.com
 @@.pt/images/banners/$domain=fct.pt
+@@||com/banners/$image,domain=eglobalcentralpt.com
