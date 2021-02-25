@@ -7,5 +7,5 @@
 @@.br/banners/$domain=roupaprofissional.com.br
 @@threads/*publicidade*$domain=portalclassicos.com
 @@||stat-rock.com^$script,media,xmlhttprequest,domain=4shared.com
-@@.pt/images/banners/$domain=fct.pt
+@@.pt/images/banners/$domain=fct.pt|ipb.pt
 @@||com/banners/$image,domain=eglobalcentralpt.com
