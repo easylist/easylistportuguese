@@ -157,3 +157,4 @@ brasil247.com##.billboard-970x250
 noticiasaominuto.com##.tap
 noticiasaominuto.com,noticiasaominuto.com.br##.pub-container
 lelivros.love##.product_meta
+ewrc-results.com##.main-b
