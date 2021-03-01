@@ -155,4 +155,4 @@ flashscore.pt##div[class^="boxOverContent"]
 rostos.pt##.homepage--ad
 brasil247.com##.billboard-970x250
 noticiasaominuto.com##.tap
-noticiasaominuto.com##.pub-container
+noticiasaominuto.com,noticiasaominuto.com.br##.pub-container
