@@ -60,3 +60,4 @@
 ||xyctmmogcv.com^$third-party
 ||misguidedstork.com^$third-party
 ||disappearanceinspiredscan.com^$third-party
+||skillpropulsion.com^$third-party
