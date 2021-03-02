@@ -158,3 +158,5 @@ noticiasaominuto.com##.tap
 noticiasaominuto.com,noticiasaominuto.com.br##.pub-container
 lelivros.love##.product_meta
 ewrc-results.com##.main-b
+flash.pt##.pubInContentMargin
+flash.pt##.masthead
