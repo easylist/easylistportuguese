@@ -61,3 +61,4 @@
 ||misguidedstork.com^$third-party
 ||disappearanceinspiredscan.com^$third-party
 ||skillpropulsion.com^$third-party
+||clxrggmghevqfu.com$third-party
