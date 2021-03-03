@@ -163,3 +163,4 @@ flash.pt##.masthead
 concursosnobrasil.com.br##.label-publicidade
 concursosnobrasil.com.br##div[id^="ads-leitura"]
 concursosnobrasil.com.br##div[id^="ads-home-"]
+radio.net##.topAdSpacer
