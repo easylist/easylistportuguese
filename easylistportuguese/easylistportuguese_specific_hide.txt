@@ -164,3 +164,5 @@ concursosnobrasil.com.br##.label-publicidade
 concursosnobrasil.com.br##div[id^="ads-leitura"]
 concursosnobrasil.com.br##div[id^="ads-home-"]
 radio.net##.topAdSpacer
+e-konomista.pt##.c-publicity
+e-konomista.pt##.r-top-publicity-wrapper
