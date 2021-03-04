@@ -96,7 +96,7 @@ brasilescola.uol.com.br##div[style="width: 300px; height: 600px;"]
 mrpiracy.top##a[class^="reserve-button"]
 torredevigilancia.com##.singleBannerWidget
 metropoles.com##.container>.m-coupons-title
-futemax.fm##.alertWS
+futemax.fm,futemax.live##.alertWS
 animesonlinebr.co##a[title="pokemon"]
 portalmie.com##a[href*="portalmie.com/campanhas_empresas/"]
 infoescola.com##.ads
