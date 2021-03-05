@@ -62,3 +62,4 @@
 ||disappearanceinspiredscan.com^$third-party
 ||skillpropulsion.com^$third-party
 ||clxrggmghevqfu.com$third-party
+||edxlewni.com^$third-party
