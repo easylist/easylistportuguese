@@ -63,3 +63,4 @@
 ||skillpropulsion.com^$third-party
 ||clxrggmghevqfu.com$third-party
 ||edxlewni.com^$third-party
+||pdxgfnnoan.com^$third-party
