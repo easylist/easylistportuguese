@@ -166,3 +166,6 @@ concursosnobrasil.com.br##div[id^="ads-home-"]
 radio.net##.topAdSpacer
 e-konomista.pt##.c-publicity
 e-konomista.pt##.r-top-publicity-wrapper
+gazetadopovo.com.br##.c-ads
+gazetadopovo.com.br##.c-ads-clip
+gazetadopovo.com.br##.box-ads-header-home
