@@ -169,3 +169,4 @@ e-konomista.pt##.r-top-publicity-wrapper
 gazetadopovo.com.br##.c-ads
 gazetadopovo.com.br##.c-ads-clip
 gazetadopovo.com.br##.box-ads-header-home
+pokerpt.com##div[class*="g g-"]
