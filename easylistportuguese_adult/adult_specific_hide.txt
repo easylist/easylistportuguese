@@ -1,3 +1,5 @@
 meuscontoseroticos.com##a[rel^="nofollow"]
 meuscontoseroticos.com#?#:-abp-has(> a > div > div > span.thumb-ads)
 meuscontoseroticos.com#?#:-abp-has(> div.contoConteudo > div.conto-thumb > a[rel^="nofollow"])
+nudelas.com###adstopo
+nudelas.com##li[id^="njads_single_widget-"]
