@@ -65,3 +65,4 @@
 ||edxlewni.com^$third-party
 ||pdxgfnnoan.com^$third-party
 ||sporedfryhum.com^$third-party
+||statementssupervisorthorough.com^$third-party
