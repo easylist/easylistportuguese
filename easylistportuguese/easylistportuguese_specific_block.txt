@@ -53,3 +53,4 @@
 ||animesvision.biz/v1/assets/images/xdragon-future.jpg.pagespeed.ic.xUPy0haZCm.webp
 ||animesvision.biz/v1/assets/images/330xNxCurso_Funko_Lancamento.png.pagespeed.ic.xow7uENHRF.webp
 ||streamix.tv/ST300X600.gif^
+/img/aniclube*.gif^$domain=animeslog.com
