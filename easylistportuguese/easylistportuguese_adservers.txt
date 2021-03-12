@@ -64,3 +64,4 @@
 ||clxrggmghevqfu.com$third-party
 ||edxlewni.com^$third-party
 ||pdxgfnnoan.com^$third-party
+||sporedfryhum.com^$third-party
