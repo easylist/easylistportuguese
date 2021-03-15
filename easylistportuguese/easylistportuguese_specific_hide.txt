@@ -175,3 +175,4 @@ animesonlinebr.co,superanimes.tv##a[href="https://www.streamix.tv/"]
 anacao.cv###post-sidebar-wrap
 anacao.cv###leader-wrap
 anacao.cv#?##caixapub:-abp-has(div > h3:-abp-contains(PUB))
+santiagomagazine.cv##.ne-banner-layout1

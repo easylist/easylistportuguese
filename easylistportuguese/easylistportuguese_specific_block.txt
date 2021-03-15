@@ -55,3 +55,4 @@
 ||streamix.tv/ST300X600.gif^
 /img/aniclube*.gif^$domain=animeslog.com|animesonlinebr.co
 ||noticiasdecoimbra.pt/wp-content/uploads/*.gif?x
+||santiagomagazine.cv/content/img/banner_
