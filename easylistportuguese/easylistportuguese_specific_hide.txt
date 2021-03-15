@@ -179,3 +179,4 @@ santiagomagazine.cv##.ne-banner-layout1
 jornaltransparencia.st###obj1
 odemocratagb.com###text-3
 odemocratagb.com###text-6
+jornalnoticias.co.mz##.bannergroup
