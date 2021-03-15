@@ -63,4 +63,5 @@
 ||odemocratagb.com/wp-content/uploads/*/30B09956-C93C-4043-B09B-E13A87B07E80.jpeg^
 ||odemocratagb.com/wp-content/uploads/*-Banner-$image
 ||jornalnoticias.co.mz/images/DStv*.gif^
+||folhademaputo.co.mz/banners/
 
