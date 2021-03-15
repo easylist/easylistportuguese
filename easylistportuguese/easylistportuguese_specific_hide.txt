@@ -177,3 +177,5 @@ anacao.cv###leader-wrap
 anacao.cv#?##caixapub:-abp-has(div > h3:-abp-contains(PUB))
 santiagomagazine.cv##.ne-banner-layout1
 jornaltransparencia.st###obj1
+odemocratagb.com###text-3
+odemocratagb.com###text-6
