@@ -172,3 +172,6 @@ gazetadopovo.com.br##.box-ads-header-home
 pokerpt.com##div[class*="g g-"]
 animesonlinep.com###sidebarGeral
 animesonlinebr.co,superanimes.tv##a[href="https://www.streamix.tv/"]
+anacao.cv###post-sidebar-wrap
+anacao.cv###leader-wrap
+anacao.cv#?##caixapub:-abp-has(div > h3:-abp-contains(PUB))
