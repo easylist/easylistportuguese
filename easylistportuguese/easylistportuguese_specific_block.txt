@@ -57,3 +57,5 @@
 ||noticiasdecoimbra.pt/wp-content/uploads/*.gif?x
 ||santiagomagazine.cv/content/img/banner_
 ||jornaltransparencia.st/banner_top.
+||jornaltropical.st/rosema_*.gif^
+||jornaltropical.st/lenft.jpg^
