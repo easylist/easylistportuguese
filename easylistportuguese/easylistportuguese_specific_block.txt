@@ -64,4 +64,5 @@
 ||odemocratagb.com/wp-content/uploads/*-Banner-$image
 ||jornalnoticias.co.mz/images/DStv*.gif^
 ||folhademaputo.co.mz/banners/
+||cxense.com/cx.cce.js^$domain=agazeta.com.br
 
