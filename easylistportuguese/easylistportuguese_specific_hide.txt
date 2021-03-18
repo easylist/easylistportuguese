@@ -182,3 +182,4 @@ odemocratagb.com###text-6
 jornalnoticias.co.mz##.bannergroup
 moznews.co.mz##.wpb_content_element
 folhademaputo.co.mz##.bg-pattern-hatch
+brasil247.com##.ad-first-text
