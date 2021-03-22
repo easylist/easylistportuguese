@@ -71,3 +71,8 @@
 ||jornalnopintcha.gw/wp-content/uploads/*/FAGORAL.png^
 ||jornaldeangola.ao/fotos/frontend_1/banner^
 ||novojornal.co.ao/common/pub/banner^
+||opais.co.ao/wp-content/uploads/*/publicidade-*.jpg^
+||opais.co.ao/wp-content/uploads/*325x280px.
+||opais.co.ao/wp-content/uploads/*-600x850.
+||opais.co.ao/wp-content/uploads/*_1251x210.
+||opais.co.ao/wp-content/banners^
