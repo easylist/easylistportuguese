@@ -188,3 +188,5 @@ poki.com.br##.dd
 expressodasilhas.cv##.pub300
 expressodasilhas.cv##.pub728x90
 jornaldeangola.ao##.banner-container
+jornaldosdesportos.sapo.ao##.mrec
+jornaldosdesportos.sapo.ao##.more-pub
