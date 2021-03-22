@@ -69,4 +69,4 @@
 ||static.expressodasilhas.cv/media/pub^
 ||jornalnopintcha.gw/wp-content/uploads/*/Orange-Money-Jornal-O-Democrata-*.jpg^
 ||jornalnopintcha.gw/wp-content/uploads/*/FAGORAL.png^
-
+||jornaldeangola.ao/fotos/frontend_1/banner^

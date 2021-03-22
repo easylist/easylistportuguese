@@ -187,3 +187,4 @@ filmesonlinehdgratis.com.br###banner-topo
 poki.com.br##.dd
 expressodasilhas.cv##.pub300
 expressodasilhas.cv##.pub728x90
+jornaldeangola.ao##.banner-container
