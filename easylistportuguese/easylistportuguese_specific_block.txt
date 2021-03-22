@@ -67,4 +67,6 @@
 ||cxense.com/cx.cce.js^$domain=agazeta.com.br
 ||filmesonlinehdgratis.com.br/_imagens/1xbet-link.gif
 ||static.expressodasilhas.cv/media/pub^
+||jornalnopintcha.gw/wp-content/uploads/*/Orange-Money-Jornal-O-Democrata-*.jpg^
+||jornalnopintcha.gw/wp-content/uploads/*/FAGORAL.png^
 
