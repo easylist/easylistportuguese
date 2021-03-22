@@ -185,3 +185,5 @@ folhademaputo.co.mz##.bg-pattern-hatch
 brasil247.com##.ad-first-text
 filmesonlinehdgratis.com.br###banner-topo
 poki.com.br##.dd
+expressodasilhas.cv##.pub300
+expressodasilhas.cv##.pub728x90
