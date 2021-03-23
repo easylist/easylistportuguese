@@ -191,3 +191,4 @@ jornaldosdesportos.sapo.ao##.mrec
 jornaldosdesportos.sapo.ao##.more-pub
 jornalf8.net##.Ads
 midiacamaleao.com.br###custom_html-5
+diariorp.com.br##div[class^="angwp"]

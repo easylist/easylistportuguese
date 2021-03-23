@@ -77,3 +77,5 @@
 ||opais.co.ao/wp-content/uploads/*_1251x210.
 ||opais.co.ao/wp-content/banners^
 ||narutoonline.com.br/banner.jpg^
+/diariorp.com.br/wp-content/uploads/angwp$domain=diariorp.com.br
+||diariorp.com.br/wp-content/uploads/2021/02/diario-ribeirao-pires-4.gif
