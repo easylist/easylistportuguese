@@ -194,3 +194,4 @@ midiacamaleao.com.br###custom_html-5
 diariorp.com.br##div[class^="angwp"]
 3djuegos.com###dst_pub_728
 3djuegos.com##div[style="height:334px"]
+emaisgoias.com.br##.mgs-ads
