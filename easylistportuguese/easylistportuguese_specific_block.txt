@@ -79,3 +79,4 @@
 ||narutoonline.com.br/banner.jpg^
 /diariorp.com.br/wp-content/uploads/angwp$domain=diariorp.com.br
 ||diariorp.com.br/wp-content/uploads/2021/02/diario-ribeirao-pires-4.gif
+||3djuegos.com/*/skins/
