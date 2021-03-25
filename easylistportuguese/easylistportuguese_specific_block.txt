@@ -80,3 +80,5 @@
 /diariorp.com.br/wp-content/uploads/angwp$domain=diariorp.com.br
 ||diariorp.com.br/wp-content/uploads/2021/02/diario-ribeirao-pires-4.gif
 ||3djuegos.com/*/skins/
+||acientistaagricola.pt/wp-content/uploads/*/*banner
+||acientistaagricola.pt/wp-content/uploads/*/areaagricola-1.png

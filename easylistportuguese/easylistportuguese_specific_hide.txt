@@ -195,3 +195,4 @@ diariorp.com.br##div[class^="angwp"]
 3djuegos.com###dst_pub_728
 3djuegos.com##div[style="height:334px"]
 emaisgoias.com.br##.mgs-ads
+acientistaagricola.pt#?#div[id^="media_image"]:-abp-has(>div:-abp-contains(Pub))
