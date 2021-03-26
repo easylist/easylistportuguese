@@ -196,3 +196,5 @@ diariorp.com.br##div[class^="angwp"]
 3djuegos.com##div[style="height:334px"]
 emaisgoias.com.br##.mgs-ads
 acientistaagricola.pt#?#div[id^="media_image"]:-abp-has(>div:-abp-contains(Pub))
+zwame.pt###adslot-side-mrec
+zwame.pt###adslot-top-lead
