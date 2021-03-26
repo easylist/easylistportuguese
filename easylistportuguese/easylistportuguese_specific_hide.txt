@@ -198,3 +198,5 @@ emaisgoias.com.br##.mgs-ads
 acientistaagricola.pt#?#div[id^="media_image"]:-abp-has(>div:-abp-contains(Pub))
 zwame.pt###adslot-side-mrec
 zwame.pt###adslot-top-lead
+correiodopovo.com.br###publi-inicio-post
+correiodopovo.com.br##.adsplaceholder
