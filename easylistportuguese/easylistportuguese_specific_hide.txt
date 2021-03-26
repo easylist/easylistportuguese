@@ -200,3 +200,5 @@ zwame.pt###adslot-side-mrec
 zwame.pt###adslot-top-lead
 correiodopovo.com.br###publi-inicio-post
 correiodopovo.com.br##.adsplaceholder
+bronav.com##.bottom-adv-wrap
+bronav.com##.side-adv-wrap
