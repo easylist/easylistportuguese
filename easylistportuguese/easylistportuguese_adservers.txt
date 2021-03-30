@@ -72,3 +72,4 @@
 ||vjkjjhbi.com^$third-party
 ||olouphoo.com^$third-party
 ||suptaibo.com^$third-party
+||bighticeate.com^$third-party
