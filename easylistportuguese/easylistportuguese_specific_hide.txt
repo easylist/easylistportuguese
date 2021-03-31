@@ -202,3 +202,5 @@ correiodopovo.com.br###publi-inicio-post
 correiodopovo.com.br##.adsplaceholder
 bronav.com##.bottom-adv-wrap
 bronav.com##.side-adv-wrap
+oantagonista.com###div-gpt-leaderboard
+oantagonista.com##.anuncio
