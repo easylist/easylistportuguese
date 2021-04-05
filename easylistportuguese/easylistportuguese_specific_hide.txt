@@ -44,7 +44,7 @@ hotelurbano.com##.banner-header
 casasbahia.com.br##.banner-retangulo
 olhardireto.com.br##.banner-rodape
 uol.com.br##.banner-stick
-diarioonline.com.br##.banner-topo
+diarioonline.com.br,uol.com.br##.banner-topo
 metropoles.com##.banner-wrap
 palcomp3.com##.banner_topo
 netvasco.com.br##.bannerquadrado
