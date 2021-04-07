@@ -204,3 +204,4 @@ bronav.com##.bottom-adv-wrap
 bronav.com##.side-adv-wrap
 oantagonista.com###div-gpt-leaderboard
 oantagonista.com##.anuncio
+jogos360.com.br##.adv
