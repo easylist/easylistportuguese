@@ -83,4 +83,4 @@
 ||acientistaagricola.pt/wp-content/uploads/*/*banner
 ||acientistaagricola.pt/wp-content/uploads/*/areaagricola-1.png
 ||xat.com/content/web/*/apps/ad/ad.html^
-||guiadosabor.com/wp-content/uploads/$image,domain=animesonlinep.com|superanimes.tv
+||guiadosabor.com/wp-content/uploads/$image,domain=animesonlinep.com|animesonlinebr.co|superanimes.tv
