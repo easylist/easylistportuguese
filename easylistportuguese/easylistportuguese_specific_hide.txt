@@ -34,7 +34,7 @@ olx.com.br###web_listing_banner_top
 belasmensagens.com.br,rostos.pt,terra.com.br,uol.com.br,vagalume.com.br##.ad
 letras.mus.br##.ad-letra
 tiinside.com.br##.ad1
-infoescola.com,novojornal.co.ao,record.pt##.ads
+em.com.br,infoescola.com,novojornal.co.ao,record.pt##.ads
 animeplus.org##.adsBody
 terra.com.br,uol.com.br##.advertising
 uol.com.br##.advertising-column
@@ -205,3 +205,4 @@ bronav.com##.side-adv-wrap
 oantagonista.com###div-gpt-leaderboard
 oantagonista.com##.anuncio
 jogos360.com.br##.adv
+em.com.br#?#small:-abp-contains(Publicidade)
