@@ -74,3 +74,4 @@
 ||suptaibo.com^$third-party
 ||bighticeate.com^$third-party
 ||dragonspontaneous.com^$third-party
+||dellswhinyrank.com^$third-party
