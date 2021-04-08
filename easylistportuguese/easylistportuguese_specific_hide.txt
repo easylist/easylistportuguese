@@ -26,7 +26,7 @@ mercadolivre.com.br###oasTOP
 record.pt###pestanaSmart
 uol.com.br###publicity
 diariocoimbra.pt###pubsec1
-animalog.online###sidebar
+animalog.online,superanimes.tv###sidebar
 ig.com.br###superbanner
 vagas.com.br###vagas_busca_leaderboard_704x160_top
 olx.com.br###web_listing_banner_bottom
