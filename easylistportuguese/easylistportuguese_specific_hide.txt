@@ -206,3 +206,4 @@ oantagonista.com###div-gpt-leaderboard
 oantagonista.com##.anuncio
 jogos360.com.br##.adv
 em.com.br#?#small:-abp-contains(Publicidade)
+migalhas.com.br##.patrocinador
