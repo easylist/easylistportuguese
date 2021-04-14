@@ -86,3 +86,4 @@
 ||guiadosabor.com/wp-content/uploads/$image,domain=animesonlinep.com|animesonlinebr.co|superanimes.tv
 ||migalhas.com.br/IMGSRC/www.migalhas.com.br*S=Publicidade
 ||agoravale.com.br/GCWAV/Banners/
+||hojemais.com.br/images/banners/
