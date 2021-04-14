@@ -208,3 +208,6 @@ jogos360.com.br##.adv
 em.com.br#?#small:-abp-contains(Publicidade)
 migalhas.com.br##.patrocinador
 consultaremedios.com.br##.banner-wrapper
+agoravale.com.br##.expande-banner
+agoravale.com.br##div[style^="background:#FFF"]
+agoravale.com.br##.EmpresasAnunciantes
