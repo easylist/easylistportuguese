@@ -200,8 +200,8 @@ zwame.pt###adslot-side-mrec
 zwame.pt###adslot-top-lead
 correiodopovo.com.br###publi-inicio-post
 correiodopovo.com.br##.adsplaceholder
-bronav.com##.bottom-adv-wrap
-bronav.com##.side-adv-wrap
+bronav.com,tudonav.com##.bottom-adv-wrap
+bronav.com,tudonav.com##.side-adv-wrap
 oantagonista.com###div-gpt-leaderboard
 oantagonista.com##.anuncio
 jogos360.com.br##.adv
