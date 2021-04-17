@@ -88,3 +88,4 @@
 ||agoravale.com.br/GCWAV/Banners/
 ||hojemais.com.br/images/banners/
 ||atelevisao.com/wp-content/themes/*_100x50.gif
+||wook.pt/accounts/default1/banners/$domain=obichinhodosaber.com
