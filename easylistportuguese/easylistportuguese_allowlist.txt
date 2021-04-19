@@ -10,3 +10,4 @@
 @@.pt/images/banners/$domain=estilomma.pt|fct.pt|ipb.pt
 @@||com/banners/$image,domain=eglobalcentralpt.com
 @@||pa4.com.br/banners/tags/
+@@/adsdelivery.$domain=adsdelivery.com.br
