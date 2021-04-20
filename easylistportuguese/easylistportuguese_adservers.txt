@@ -78,3 +78,4 @@
 ||yepteaswont.com^$third-party
 ||nzbnjdukgaco.com^$third-party
 ||ptcqjliwwkldm.com^$third-party
+||abroodeuripi.com^$third-party
