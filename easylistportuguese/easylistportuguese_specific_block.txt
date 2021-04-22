@@ -90,3 +90,4 @@
 ||atelevisao.com/wp-content/themes/*_100x50.gif
 ||wook.pt/accounts/default1/banners/$domain=obichinhodosaber.com
 ||minhaconexao.com.br/_mini/static/images/mp-banner-300x250.gif
+||wixstatic.com/media/*/JIU%20JITSU.webp^$domain=ouroverdefm.com.br
