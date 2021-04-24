@@ -81,3 +81,5 @@
 ||abroodeuripi.com^$third-party
 ||brazenwholly.com^$third-party
 ||aanqylta.com^$third-party
+||samplerpouch.com^$third-party
+||loftsbaacad.com^$third-party
