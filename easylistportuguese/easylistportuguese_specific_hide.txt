@@ -217,3 +217,4 @@ agazeta.com.br##.ads-paragrafo
 palcomp3.com.br##div[id^="pub-cc"]
 geniol.com.br##.ads-margin-both
 tudoradio.com##div[class^="pub-"]
+dicionarioinformal.com.br##div[style="height:322px;"]
