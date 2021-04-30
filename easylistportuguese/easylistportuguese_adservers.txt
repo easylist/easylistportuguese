@@ -83,3 +83,4 @@
 ||aanqylta.com^$third-party
 ||samplerpouch.com^$third-party
 ||loftsbaacad.com^$third-party
+||deliriousglowing.com^$third-party
