@@ -222,3 +222,4 @@ ecoregional.com.br##.g-single
 ecoregional.com.br##.td-a-rec
 r7.com##.widget-24x1-ultimas__taboola
 r7.com##.r7-flex-adv__placeholder
+letras.mus.br##.an-full.g-1.g-mb.with-refresh
