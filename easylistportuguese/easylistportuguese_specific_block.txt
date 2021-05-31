@@ -25,6 +25,7 @@
 /otpokemon01.*$image,domain=animesonlinep.com|superanimes.tv|animesonlinebr.co
 ||api.cazamba.com^$script,domain=tribogamer.com|switch-brasil.com
 /banner-pokeBlastNews.png^$image,domain=animesonlinebr.co
+/banner-via-maquinas.png^$image,domain=portalmaquinasagricolas.com.br
 ||media.discordapp.net/attachments/*/Banner-gid-Edu.gif^$domain=subanimes.biz
 ||loucosporgeek.com.br/wp-content/uploads/*/Loucos.gif^$domain=subanimes.biz
 ||third-party.animekisa.tv/grabinfo.php^
