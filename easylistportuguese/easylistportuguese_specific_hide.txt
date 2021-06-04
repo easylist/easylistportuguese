@@ -227,4 +227,6 @@ letras.mus.br##div[id^="pub_"]
 portalmaquinasagricolas.com.br##a[href^="https://bit.ly"]
 portalmaquinasagricolas.com.br##.penci-custom-slide
 onlineradiobr.com##.ai-placement
-dicionario.priberam.org##div[class*="pb-pub-"]
+dicionario.priberam.org##.pb-pub-1, .pb-pub-2, .pb-pub-3, .pb-pub-4, .pb-pub-5, .pb-pub-8
+dicionario.priberam.org##.pb-pub-mobile-banner
+dicionario.priberam.org###skyscraper
