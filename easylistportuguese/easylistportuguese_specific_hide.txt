@@ -227,3 +227,4 @@ letras.mus.br##div[id^="pub_"]
 portalmaquinasagricolas.com.br##a[href^="https://bit.ly"]
 portalmaquinasagricolas.com.br##.penci-custom-slide
 onlineradiobr.com##.ai-placement
+dicionario.priberam.org##div[class*="pb-pub-"]
