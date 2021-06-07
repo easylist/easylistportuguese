@@ -230,3 +230,6 @@ onlineradiobr.com##.ai-placement
 dicionario.priberam.org##.pb-pub-1, .pb-pub-2, .pb-pub-3, .pb-pub-4, .pb-pub-5, .pb-pub-8
 dicionario.priberam.org##.pb-pub-mobile-banner
 dicionario.priberam.org###skyscraper
+mundoeducacao.uol.com.br##div[style="display: flex; align-items: center; justify-content: center; margin-top: 20px;"]
+mundoeducacao.uol.com.br##[style="height:250px; width:300px;"]
+mundoeducacao.uol.com.br##.banner-anuncio
