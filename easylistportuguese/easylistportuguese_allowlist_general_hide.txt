@@ -5,3 +5,4 @@ avantajadas.com.br#@#a[href^="https://www.avantajadas.com.br/"]
 olx.com.br#@#div[class^="AdCard_"]
 bb.com.br#@#.ad-row
 funimation.com#@#.pub_300x250
+brasilescola.uol.com.br#@#.banner
