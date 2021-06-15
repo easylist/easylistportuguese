@@ -232,5 +232,4 @@ dicionario.priberam.org###skyscraper
 mundoeducacao.uol.com.br##div[style="display: flex; align-items: center; justify-content: center; margin-top: 20px;"]
 mundoeducacao.uol.com.br##[style="height:250px; width:300px;"]
 mundoeducacao.uol.com.br##.banner-anuncio
-mrpiracy.top##center a[href^="https://www.tugaiptv.com"]
-mrpiracy.top##center a[href^="https://bettilt.ncmfck.com/"]
+mrpiracy.top##a[class^="super-r-button"]
