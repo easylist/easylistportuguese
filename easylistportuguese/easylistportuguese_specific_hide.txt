@@ -233,3 +233,4 @@ mundoeducacao.uol.com.br##div[style="display: flex; align-items: center; justify
 mundoeducacao.uol.com.br##[style="height:250px; width:300px;"]
 mundoeducacao.uol.com.br##.banner-anuncio
 mrpiracy.top##a[class^="super-r-button"]
+astrologiaenlinea.com##td[width="728"][height="90"]
