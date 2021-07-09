@@ -1,5 +1,6 @@
 $popup,third-party,domain=streamtape.cc|redirect-ads.com
 ||futemax.live/imagens/logo2.png$popup
+||futemax.gratis/imagens/logo2.png$popup
 ||buylnk.com^$popup,domain=gfilmes.net
 /jump/next.php?$popup,domain=yts.mx
 ||landings.ncm*.com^$popup,domain=mrpiracy.top
