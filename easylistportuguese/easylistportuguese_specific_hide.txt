@@ -222,6 +222,7 @@ ecoregional.com.br##.td-a-rec
 r7.com##.widget-24x1-ultimas__taboola
 r7.com##.r7-flex-adv__placeholder
 g1.globo.com##div[class^="publicidade"]
+globo.com##div[id^="pub-"]
 letras.mus.br##div[id^="pub_"]
 portalmaquinasagricolas.com.br##a[href^="https://bit.ly"]
 portalmaquinasagricolas.com.br##.penci-custom-slide
