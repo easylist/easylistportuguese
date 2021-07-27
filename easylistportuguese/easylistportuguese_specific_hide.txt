@@ -238,3 +238,4 @@ astrologiaenlinea.com##td[width="728"][height="90"]
 caras.uol.com.br##.top-banner
 caras.uol.com.br##amp-fx-flying-carpet
 tecmundo.com.br##div[id^="slider-partner"]
+brasil247.com##.adBackground
