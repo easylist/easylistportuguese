@@ -84,3 +84,4 @@
 ||samplerpouch.com^$third-party
 ||loftsbaacad.com^$third-party
 ||deliriousglowing.com^$third-party
+||skoiy.xyz^$third-party
