@@ -240,3 +240,4 @@ caras.uol.com.br##amp-fx-flying-carpet
 tecmundo.com.br##div[id^="slider-partner"]
 noticiasdecoimbra.pt##div[id^="mvp-leader-wrap"]
 noticiasdecoimbra.pt##div[class*="cp_id_"]
+brasil247.com##.adBackground
