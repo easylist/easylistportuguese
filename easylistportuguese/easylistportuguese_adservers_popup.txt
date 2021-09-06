@@ -4,3 +4,4 @@
 ||rainingvital.com^$popup,third-party
 ||toldmeflex.com^$popup,third-party
 ||glixaing.com^$popup,third-party
+||doaseeph.com^$popup,third-party
