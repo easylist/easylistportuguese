@@ -244,3 +244,4 @@ brasil247.com##.adBackground
 milkpoint.com.br##a[class^="lnkbn"]
 publishnews.com.br##div[class^="pn-anuncio"]
 fogaonet.com##div[class*="fnad-block"]
+vagalume.com.br###cazamba_vagalume_passback_container
