@@ -85,3 +85,7 @@
 ||loftsbaacad.com^$third-party
 ||deliriousglowing.com^$third-party
 ||skoiy.xyz^$third-party
+||azcdn107.net^$third-party
+||ihogaetw.com^$third-party  
+||sdxqusoze.com^$third-party
+||qjcdnpv.com^$third-party
