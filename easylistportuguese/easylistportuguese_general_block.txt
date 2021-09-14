@@ -45,5 +45,5 @@
 _fullbanner_balanca_
 _publicidade.
 _publicidade_
-||solution.coupons^$script
+||solution.coupons^$script,third-party
 
