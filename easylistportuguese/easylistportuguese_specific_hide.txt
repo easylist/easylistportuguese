@@ -245,4 +245,6 @@ milkpoint.com.br##a[class^="lnkbn"]
 publishnews.com.br##div[class^="pn-anuncio"]
 fogaonet.com##div[class*="fnad-block"]
 vagalume.com.br###cazamba_vagalume_passback_container
+blog.tudogostoso.com.br##div[data-iab-tag^="content_header_"]
+blog.tudogostoso.com.br##div[class^="showcase-box arroba"]
 betnabola.com.br##section[id^="bouplay_wp_"]
