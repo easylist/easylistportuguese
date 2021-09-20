@@ -46,4 +46,4 @@ _fullbanner_balanca_
 _publicidade.
 _publicidade_
 ||solution.coupons^$script,third-party
-
+||seedtag.com^$script
