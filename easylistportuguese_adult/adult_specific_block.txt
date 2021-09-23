@@ -6,3 +6,4 @@
 ||statics.letfap.com/assets/love/index.php
 ||contoerotico.com/adscod/
 ||cameracaseira.com^$script,domain=videosdesuavizinha.com
+||parlorscenes.com^$script
