@@ -99,4 +99,3 @@
 ||notebookcheck.info/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
 ||noticiasdecoimbra.pt/*/modal/*/modal.min*^$stylesheet,script
 ||cameracaseira.com^$script,domain=videosdesuavizinha.com
-||parlorscenes.com^$script
