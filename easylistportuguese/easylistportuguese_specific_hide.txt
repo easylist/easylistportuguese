@@ -261,3 +261,4 @@ areah.com.br##div[id^="div-ad-"]
 areah.com.br###banner_top
 areah.com.br##div[class^="banner_footer"]
 futebolbrasil.online##.padd20
+futebolbahiano.org##[id^="custom_html-2"]
