@@ -260,3 +260,4 @@ br.ccm.net,saude.ccm.net##div[class^="ads--insertor-"]
 areah.com.br##div[id^="div-ad-"]
 areah.com.br###banner_top
 areah.com.br##div[class^="banner_footer"]
+futebolbrasil.online##.padd20
