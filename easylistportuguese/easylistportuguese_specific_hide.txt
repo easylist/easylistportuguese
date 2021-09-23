@@ -257,6 +257,4 @@ tecnoblog.net##div[id^="sidebanner_single"]
 tecnoblog.net##div[id^="company-header-ad"]
 tecnoblog.net##section[id^="ad-superbanner-"]
 br.ccm.net,saude.ccm.net##div[class^="ads--insertor-"]
-socdsgratis.top###cloudbanner
-socdsgratis.top###modal
 socdsgratis.top##div[class^="flutua"]
