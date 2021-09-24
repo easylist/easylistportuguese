@@ -5,3 +5,5 @@ nudelas.com###adstopo
 nudelas.com##li[id^="njads_single_widget-"]
 naoconto.com##a[href^="https://www.vivalocal.com"]
 naoconto.com##a[href^="https://www.camerahot.com"]
+mulheresafoder.com###aumento
+mulheresafoder.com###sexdate
