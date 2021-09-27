@@ -245,3 +245,20 @@ milkpoint.com.br##a[class^="lnkbn"]
 publishnews.com.br##div[class^="pn-anuncio"]
 fogaonet.com##div[class*="fnad-block"]
 vagalume.com.br###cazamba_vagalume_passback_container
+tudogostoso.com.br##div.tgad-top
+tudogostoso.com.br##div.tgads-center
+blog.tudogostoso.com.br##div[data-iab-tag^="content_header_"]
+blog.tudogostoso.com.br##div[class^="showcase-box arroba"]
+betnabola.com.br##section[id^="bouplay_wp_"]
+tecnoblog.net##div[id^="portalfullblock-desktop"]
+tecnoblog.net##div[data-iab-tag^="adback_"] 
+tecnoblog.net##div[id^="fullbanner-container"]
+tecnoblog.net##div[id^="sidebanner_single"] 
+tecnoblog.net##div[id^="company-header-ad"]
+tecnoblog.net##section[id^="ad-superbanner-"]
+br.ccm.net,saude.ccm.net##div[class^="ads--insertor-"]
+areah.com.br##div[id^="div-ad-"]
+areah.com.br###banner_top
+areah.com.br##div[class^="banner_footer"]
+futebolbrasil.online##.padd20
+futebolbahiano.org##[id^="custom_html-2"]

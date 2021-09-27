@@ -1,3 +1,4 @@
 ||avantajadas.com.br^$third-party
 ||loboclick.com^$third-party
 ||tufos.com.br^$third-party
+||fireadsone.com^$third-party
