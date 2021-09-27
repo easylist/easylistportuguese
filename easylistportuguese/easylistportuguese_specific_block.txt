@@ -98,3 +98,6 @@
 ||ecoregional.com.br/wp-content/plugins/icegram/
 ||notebookcheck.info/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
 ||noticiasdecoimbra.pt/*/modal/*/modal.min*^$stylesheet,script
+||i1.wp.com/www.cenariomt.com.br/wp-content/uploads/*/provincia-at.png
+/_next/image?url=*s3.amazonaws.com$domain=maisesports.com.br
+||static.mangalivre.net$subdocument
