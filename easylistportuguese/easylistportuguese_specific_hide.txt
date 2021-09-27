@@ -257,6 +257,8 @@ tecnoblog.net##div[id^="sidebanner_single"]
 tecnoblog.net##div[id^="company-header-ad"]
 tecnoblog.net##section[id^="ad-superbanner-"]
 br.ccm.net,saude.ccm.net##div[class^="ads--insertor-"]
+cenariomt.com.br##a[href^="http://www.agrobaggio.com.br"]
+cenariomt.com.br##.wpb_wrapper.td_block_single_image
 areah.com.br##div[id^="div-ad-"]
 areah.com.br###banner_top
 areah.com.br##div[class^="banner_footer"]
