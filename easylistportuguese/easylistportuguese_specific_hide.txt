@@ -258,3 +258,10 @@ tecnoblog.net##div[id^="company-header-ad"]
 tecnoblog.net##section[id^="ad-superbanner-"]
 br.ccm.net,saude.ccm.net##div[class^="ads--insertor-"]
 socdsgratis.top##div[class^="flutua"]
+cenariomt.com.br##a[href^="http://www.agrobaggio.com.br"]
+cenariomt.com.br##.wpb_wrapper.td_block_single_image
+areah.com.br##div[id^="div-ad-"]
+areah.com.br###banner_top
+areah.com.br##div[class^="banner_footer"]
+futebolbrasil.online##.padd20
+futebolbahiano.org##[id^="custom_html-2"]
