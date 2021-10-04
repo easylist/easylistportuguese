@@ -7,3 +7,5 @@
 ||contoerotico.com/adscod/
 ||cameracaseira.com^$script,domain=videosdesuavizinha.com
 ||parlorscenes.com^$script
+||rowensalmner.com^$script,third-party
+||manhwa18.cc/bmoa^$script
