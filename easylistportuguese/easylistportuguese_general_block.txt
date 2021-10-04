@@ -49,3 +49,4 @@ _publicidade_
 ||seedtag.com^$third-party,domain=~seedtag.com
 ||bloco.top$script,image,third-party
 ||cdnstatic.cyber.bet$script,third-party
+||gorillabrightenarms.com$script,third-party
