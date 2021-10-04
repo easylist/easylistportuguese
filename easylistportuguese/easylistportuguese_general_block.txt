@@ -48,4 +48,5 @@ _publicidade_
 ||solution.coupons^$script,third-party
 ||seedtag.com^$third-party,domain=~seedtag.com
 ||bloco.top$script,image,third-party
+||cdnstatic.cyber.bet$script,third-party
 ||gorillabrightenarms.com$script,third-party
