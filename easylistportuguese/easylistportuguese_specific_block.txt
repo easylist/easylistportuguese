@@ -104,3 +104,4 @@
 ||i1.wp.com/www.cenariomt.com.br/wp-content/uploads/*/provincia-at.png
 /_next/image?url=*s3.amazonaws.com$domain=maisesports.com.br
 ||adlyra.com$subdocument,third-party
+||reportermt.nyc3.digitaloceanspaces.com/*/original$image
