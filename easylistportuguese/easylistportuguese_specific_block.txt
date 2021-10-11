@@ -96,7 +96,7 @@
 ||ecoregional.com.br/wp-content/uploads/*/BannerSiteEco-sicredi-novo.jpg
 ||ecoregional.com.br/wp-content/uploads/*/jardim-pq-*.jpg
 ||ecoregional.com.br/wp-content/plugins/icegram/
-||notebookcheck.info/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
+||notebookcheck.info/fileadmin/Sonstiges/am_$xmlhttprequest
 ||noticiasdecoimbra.pt/*/modal/*/modal.min*^$stylesheet,script
 ||static.mangalivre.net$subdocument
 ||mmorpgbr.com.br/wp-content/uploads/2021/05/Banner-Skin_$image
