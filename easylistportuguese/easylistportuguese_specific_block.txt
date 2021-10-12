@@ -105,3 +105,4 @@
 /_next/image?url=*s3.amazonaws.com$domain=maisesports.com.br
 ||adlyra.com$subdocument,third-party
 ||conjugacao-de-verbos.com/img/mosalingua/
+||imagineposition.com$script
