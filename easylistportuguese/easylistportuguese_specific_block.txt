@@ -106,3 +106,4 @@
 ||adlyra.com$subdocument,third-party
 ||reportermt.nyc3.digitaloceanspaces.com/*/original$image
 ||conjugacao-de-verbos.com/img/mosalingua/
+||paranaportal.uol.com.br/wp-content/*/tenuta$image
