@@ -267,3 +267,8 @@ futebolbrasil.online##.padd20
 futebolbahiano.org##[id^="custom_html-2"]
 sofilmeshd.piracyproxy.info##[id^="cookieConsent"]
 animesgratisbr.biz##img[title^="Assistir Hentai"]
+estiloadoracao.com##.stream-item
+marriedgames.com.br##.aawp
+marriedgames.com.br##div[class^="angwp_"]
+portal.meusdividendos.com##section[class$="advertising"]
+poki.com.br##div[class^="Advertisement_"]
