@@ -104,6 +104,8 @@
 ||i1.wp.com/www.cenariomt.com.br/wp-content/uploads/*/provincia-at.png
 /_next/image?url=*s3.amazonaws.com$domain=maisesports.com.br
 ||adlyra.com$subdocument,third-party
+/app/imagens/logoMetropoles$domain=bahianoticias.com.br
+/app/imagens/IVC_selo_site_auditado$domain=bahianoticias.com.br
 ||globalnoticias.com.br/arquivos/banners/$image
 ||reportermt.nyc3.digitaloceanspaces.com/*/original$image
 ||conjugacao-de-verbos.com/img/mosalingua/
