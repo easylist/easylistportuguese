@@ -39,7 +39,7 @@ animeplus.org##.adsBody
 terra.com.br,uol.com.br##.advertising
 uol.com.br##.advertising-column
 mercadolivre.com.br##.app-container > .questions-container-banner
-agazeta.com.br,capitalnews.com.br,estadao.com.br,omelete.com.br,uol.com.br##.banner
+agazeta.com.br,capitalnews.com.br,estadao.com.br,omelete.com.br,uol.com.br,sidrolandianews.com.br##.banner
 hotelurbano.com##.banner-header
 casasbahia.com.br##.banner-retangulo
 olhardireto.com.br##.banner-rodape
