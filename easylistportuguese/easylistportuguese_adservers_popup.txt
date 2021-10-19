@@ -5,3 +5,5 @@
 ||toldmeflex.com^$popup,third-party
 ||glixaing.com^$popup,third-party
 ||doaseeph.com^$popup,third-party
+||blotcreepy.com^$popup,third-party
+||embodimentabstain.com^$popup,third-party
