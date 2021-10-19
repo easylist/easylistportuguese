@@ -107,3 +107,4 @@
 ||globalnoticias.com.br/arquivos/banners/$image
 ||reportermt.nyc3.digitaloceanspaces.com/*/original$image
 ||conjugacao-de-verbos.com/img/mosalingua/
+||shrtfly.com/referral/$image
