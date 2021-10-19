@@ -5,3 +5,8 @@
 ||toldmeflex.com^$popup,third-party
 ||glixaing.com^$popup,third-party
 ||doaseeph.com^$popup,third-party
+||potatointakeafraid.com^$popup,third-party
+||openedinfractructureilliterate.com^$popup,third-party
+||starvationdefence.com^$popup,third-party
+||dukagrygro.com^$popup,third-party
+||thumb.tapecontent.net^$popup,third-party
