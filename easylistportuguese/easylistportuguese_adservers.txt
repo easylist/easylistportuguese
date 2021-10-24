@@ -89,3 +89,5 @@
 ||ihogaetw.com^$third-party  
 ||sdxqusoze.com^$third-party
 ||qjcdnpv.com^$third-party
+||soonen.com^$third-party
+||anansycoses.com^$third-party
