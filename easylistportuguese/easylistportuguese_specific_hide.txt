@@ -267,6 +267,7 @@ futebolbrasil.online##.padd20
 futebolbahiano.org##[id^="custom_html-2"]
 sofilmeshd.piracyproxy.info##[id^="cookieConsent"]
 animesgratisbr.biz##img[title^="Assistir Hentai"]
+br.bolavip.com##.boxbanner_container
 jornaloeste.com.br###popup
 clicrdc.com.br##a[onclick*="{'event_category': 'Adverts'"]
 inglesnoteclado.com.br##img[alt="anúncio"]
