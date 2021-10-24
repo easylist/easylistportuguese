@@ -50,3 +50,4 @@ _publicidade_
 ||bloco.top$script,image,third-party
 ||cdnstatic.cyber.bet$script,third-party
 ||gorillabrightenarms.com$script,third-party
+||aggestose.com$script,third-party
