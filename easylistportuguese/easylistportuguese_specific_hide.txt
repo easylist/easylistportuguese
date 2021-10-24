@@ -278,3 +278,5 @@ marriedgames.com.br##.aawp
 marriedgames.com.br##div[class^="angwp_"]
 portal.meusdividendos.com##section[class$="advertising"]
 poki.com.br##div[class^="Advertisement_"]
+ofuxico.com.br##[id^="page-ad-"]
+ofuxico.com.br##[class^="page-ad-"] 
