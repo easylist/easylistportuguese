@@ -98,7 +98,7 @@
 ||ecoregional.com.br/wp-content/plugins/icegram/
 ||notebookcheck.info/fileadmin/Sonstiges/am_$xmlhttprequest
 ||noticiasdecoimbra.pt/*/modal/*/modal.min*^$stylesheet,script
-||static.mangalivre.net$subdocument
+||mangalivre.net$subdocument
 ||mmorpgbr.com.br/wp-content/uploads/2021/05/Banner-Skin_$image
 /rederadriginal.js$script
 ||i1.wp.com/www.cenariomt.com.br/wp-content/uploads/*/provincia-at.png
