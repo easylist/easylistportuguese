@@ -31,7 +31,7 @@ ig.com.br###superbanner
 vagas.com.br###vagas_busca_leaderboard_704x160_top
 olx.com.br###web_listing_banner_bottom
 olx.com.br###web_listing_banner_top
-belasmensagens.com.br,rostos.pt,terra.com.br,uol.com.br,vagalume.com.br##.ad
+belasmensagens.com.br,rostos.pt,terra.com.br,uol.com.br,vagalume.com.br,conectaimobi.com.br##.ad
 letras.mus.br##.ad-letra
 tiinside.com.br##.ad1
 em.com.br,grandepremio.com.br,infoescola.com,novojornal.co.ao,record.pt,tudocelular.com##.ads
@@ -39,7 +39,7 @@ animeplus.org##.adsBody
 terra.com.br,uol.com.br##.advertising
 uol.com.br##.advertising-column
 mercadolivre.com.br##.app-container > .questions-container-banner
-agazeta.com.br,capitalnews.com.br,estadao.com.br,omelete.com.br,uol.com.br##.banner
+a12.com,agazeta.com.br,capitalnews.com.br,estadao.com.br,omelete.com.br,uol.com.br,sidrolandianews.com.br##.banner
 hotelurbano.com##.banner-header
 casasbahia.com.br##.banner-retangulo
 olhardireto.com.br##.banner-rodape
@@ -48,9 +48,9 @@ diarioonline.com.br,uol.com.br##.banner-topo
 metropoles.com##.banner-wrap
 palcomp3.com##.banner_topo
 netvasco.com.br##.bannerquadrado
-expressomt.com.br##.banners
+expressomt.com.br,noticidade.com##.banners
 uol.com.br##.bannersticky-top-container
-netvasco.com.br##a[href^="https://bit.ly/Netvasco-Banner-"]
+netvasco.com.br##a[href^="https://bit.ly/Netvasco-Banner"]
 record.pt##.bb
 extra.com.br##.bnr
 diarioonline.com.br##.box-banner
@@ -267,6 +267,10 @@ futebolbrasil.online##.padd20
 futebolbahiano.org##[id^="custom_html-2"]
 sofilmeshd.piracyproxy.info##[id^="cookieConsent"]
 animesgratisbr.biz##img[title^="Assistir Hentai"]
+portalarauto.com.br##img[alt^="PUBLICIDADE"]
+br.bolavip.com##.boxbanner_container
+jornaloeste.com.br###popup
+clicrdc.com.br##a[onclick*="{'event_category': 'Adverts'"]
 inglesnoteclado.com.br##img[alt="anúncio"]
 connectparts.com.br###carvizion-publicidade
 estiloadoracao.com##.stream-item
@@ -275,3 +279,6 @@ marriedgames.com.br##div[class^="angwp_"]
 portal.meusdividendos.com##section[class$="advertising"]
 poki.com.br##div[class^="Advertisement_"]
 fabiorobertonoticias.com.br##td[width="750"]
+revistabula.com##[href^="https://amzn.to/"]
+ofuxico.com.br##[id^="page-ad-"]
+ofuxico.com.br##[class^="page-ad-"] 
