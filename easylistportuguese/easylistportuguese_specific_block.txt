@@ -96,7 +96,7 @@
 ||ecoregional.com.br/wp-content/uploads/*/BannerSiteEco-sicredi-novo.jpg
 ||ecoregional.com.br/wp-content/uploads/*/jardim-pq-*.jpg
 ||ecoregional.com.br/wp-content/plugins/icegram/
-||notebookcheck.info/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
+||notebookcheck.info/fileadmin/Sonstiges/am_$xmlhttprequest
 ||noticiasdecoimbra.pt/*/modal/*/modal.min*^$stylesheet,script
 ||static.mangalivre.net$subdocument
 ||mmorpgbr.com.br/wp-content/uploads/2021/05/Banner-Skin_$image
@@ -105,3 +105,9 @@
 /_next/image?url=*s3.amazonaws.com$domain=maisesports.com.br
 ||adlyra.com$subdocument,third-party
 ||lucasgarcia.com.br^$subdocument
+||clicrdc.com.br/*/modal-window$script
+/app/imagens/logoMetropoles$domain=bahianoticias.com.br
+/app/imagens/IVC_selo_site_auditado$domain=bahianoticias.com.br
+||globalnoticias.com.br/arquivos/banners/$image
+||reportermt.nyc3.digitaloceanspaces.com/*/original$image
+||conjugacao-de-verbos.com/img/mosalingua/
