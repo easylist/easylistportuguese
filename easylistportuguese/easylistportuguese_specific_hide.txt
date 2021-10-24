@@ -278,6 +278,7 @@ marriedgames.com.br##.aawp
 marriedgames.com.br##div[class^="angwp_"]
 portal.meusdividendos.com##section[class$="advertising"]
 poki.com.br##div[class^="Advertisement_"]
+quadrinhosdesexo.com##.cn-advertising
 mangayabu.top#?#div > h3:-abp-contains(Publicidade)
 fabiorobertonoticias.com.br##td[width="750"]
 revistabula.com##[href^="https://amzn.to/"]
