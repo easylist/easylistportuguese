@@ -13,4 +13,5 @@ mclass.com##.landscape_bnr
 superhq.net##.shq-ads
 tsumino.com##.erogames_container
 tsumino.com##li > [href^="https://erogames.com"]
+redtube.com.br##[src^="bloB:" i]
 tubesafari.com##.margin_ad
