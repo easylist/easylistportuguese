@@ -34,7 +34,7 @@ olx.com.br###web_listing_banner_top
 belasmensagens.com.br,rostos.pt,terra.com.br,uol.com.br,vagalume.com.br,conectaimobi.com.br##.ad
 letras.mus.br##.ad-letra
 tiinside.com.br##.ad1
-em.com.br,grandepremio.com.br,infoescola.com,novojornal.co.ao,record.pt,tudocelular.com##.ads
+em.com.br,gaz.com.br,grandepremio.com.br,infoescola.com,novojornal.co.ao,record.pt,tudocelular.com##.ads
 animeplus.org##.adsBody
 terra.com.br,uol.com.br##.advertising
 uol.com.br##.advertising-column
