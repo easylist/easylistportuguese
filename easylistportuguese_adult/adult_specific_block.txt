@@ -5,3 +5,9 @@
 ||tubeoffline.com/hh/hh*.gif
 ||statics.letfap.com/assets/love/index.php
 ||contoerotico.com/adscod/
+||cameracaseira.com^$script,domain=videosdesuavizinha.com
+||parlorscenes.com^$script
+||rowensalmner.com^$script,third-party
+||manhwa18.cc/bmoa^$script
+||pornhits.com/magic^$script
+||hqporno.net/wp-content/cache/min/1/pw/$script
