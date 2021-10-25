@@ -13,3 +13,4 @@ mclass.com##.landscape_bnr
 superhq.net##.shq-ads
 tsumino.com##.erogames_container
 tsumino.com##li > [href^="https://erogames.com"]
+xvideos-xxx.com##a[href^="https://loboclick.com"]
