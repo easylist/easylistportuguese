@@ -113,3 +113,5 @@
 ||conjugacao-de-verbos.com/img/mosalingua/
 ||shrtfly.com/referral/$image
 ||paranaportal.uol.com.br/wp-content/*/tenuta$image
+||chishare.org$subdocument,third-party
+||verfilmes.biz$subdocument,third-party
