@@ -6,8 +6,16 @@ nudelas.com##li[id^="njads_single_widget-"]
 videosdesuavizinha.com##a[title^="Acompanhantes"]
 naoconto.com##a[href^="https://www.vivalocal.com"]
 naoconto.com##a[href^="https://www.camerahot.com"]
+naoconto.com##[rel$="Sponsored"]
 novinhasdozapzap.com###text-59
 mulheresafoder.com###aumento
 mulheresafoder.com###sexdate
 sonovinhasbr.com##.bannerpaginacao
 sonovinhasbr.com###custom_html-2
+mclass.com##.landscape_bnr
+superhq.net##.shq-ads
+tsumino.com##.erogames_container
+tsumino.com##li > [href^="https://erogames.com"]
+pornomineiro.com##a[href^="https://www.guiaadulto.com"]
+xvideos-xxx.com##a[href^="https://loboclick.com"]
+tubesafari.com##.margin_ad
