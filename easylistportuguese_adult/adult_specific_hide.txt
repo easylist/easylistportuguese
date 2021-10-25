@@ -10,6 +10,8 @@ naoconto.com##[rel$="Sponsored"]
 novinhasdozapzap.com###text-59
 mulheresafoder.com###aumento
 mulheresafoder.com###sexdate
+sonovinhasbr.com##.bannerpaginacao
+sonovinhasbr.com###custom_html-2
 mclass.com##.landscape_bnr
 superhq.net##.shq-ads
 tsumino.com##.erogames_container
