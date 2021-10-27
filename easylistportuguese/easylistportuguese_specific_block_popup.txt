@@ -7,3 +7,4 @@ $popup,third-party,domain=streamtape.cc|redirect-ads.com
 ||landings.ncm*.com^$popup,domain=mrpiracy.top
 /3djuegos_media_v1^$popup,domain=3djuegos.com
 ||bp.blogspot.com/*.jpg$popup
+||multicanais.tv/wp-content/uploads/2021/07/MULTICANAIS-TV-ONLINE.png$popup
