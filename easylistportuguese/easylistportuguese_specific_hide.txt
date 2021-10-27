@@ -286,3 +286,4 @@ revistabula.com##[href^="https://amzn.to/"]
 ofuxico.com.br##[id^="page-ad-"]
 ofuxico.com.br##[class^="page-ad-"] 
 fabiorobertonoticias.com.br##a[target="_blank"] > img[src^="https://i.imgur.com/"]
+multicanais.tv###cb-banner-modal-content
