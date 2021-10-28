@@ -116,3 +116,4 @@
 ||chishare.org$subdocument,third-party
 ||verfilmes.biz$subdocument,third-party
 ||tenhomaisdiscosqueamigos.com/wp-content/uploads/*-bg.jpg
+||observatoriodatv.uol.com.br/assets/banners/$subdocument,third-party
