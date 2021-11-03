@@ -17,3 +17,4 @@
 ||gnoyvsielusbi.xyz^$popup,third-party
 ||glossarysack.com^$popup,third-party
 ||octaplajaggar.casa^$popup,third-party
+||grimechethy.pro^$popup,third-party
