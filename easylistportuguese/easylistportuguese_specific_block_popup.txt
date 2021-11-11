@@ -9,3 +9,4 @@ $popup,third-party,domain=streamtape.cc|redirect-ads.com
 ||bp.blogspot.com/*.jpg$popup
 ||multicanais.tv/wp-content/uploads/2021/07/MULTICANAIS-TV-ONLINE.png$popup
 ||uqload.com/img/player_logo.png$popup
+||futebolplayhd.com/imagens/logo$popup
