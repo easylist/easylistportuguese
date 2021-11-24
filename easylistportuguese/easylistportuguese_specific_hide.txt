@@ -297,3 +297,4 @@ pobre.tv#?#b:-abp-contains(bet)
 pobre.tv#?#span:-abp-contains(BÓNUS DE BOAS VINDAS)
 pobre.tv##[href^="https://btt-pt.devitold.com/"]
 pobre.tv###launcherBg
+erasmusu.com##[class*="ad-banner-"]
