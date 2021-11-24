@@ -106,3 +106,4 @@
 ||feyxyguwy.com^$third-party
 ||zzghcckpzlhob.com^$third-party
 ||aikraboo.com^$third-party
+||toldmeroc.com^$third-party
