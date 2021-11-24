@@ -293,3 +293,7 @@ olhonavaga.com.br##.fixedBanner
 flashscore.com.br##[id^="box_over_content_"]
 ||i0.wp.com/portalextremoz.com.br/wp-content/uploads/2021/11/
 ||portalextremoz.com.br/wp-content/uploads/2021/11/
+pobre.tv#?#b:-abp-contains(bet)
+pobre.tv#?#span:-abp-contains(BÓNUS DE BOAS VINDAS)
+pobre.tv##[href^="https://btt-pt.devitold.com/"]
+pobre.tv###launcherBg
