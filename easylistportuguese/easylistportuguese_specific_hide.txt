@@ -291,3 +291,5 @@ clipconverter.cc,multicanais.tv##iframe[style*="z-index: 2147483647"]
 tenhomaisdiscosqueamigos.com##[href^="https://tmd.qa/"][target="_blank"]
 olhonavaga.com.br##.fixedBanner
 flashscore.com.br##[id^="box_over_content_"]
+||i0.wp.com/portalextremoz.com.br/wp-content/uploads/2021/11/
+||portalextremoz.com.br/wp-content/uploads/2021/11/
