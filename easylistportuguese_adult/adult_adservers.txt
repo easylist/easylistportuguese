@@ -2,3 +2,4 @@
 ||loboclick.com^$third-party
 ||tufos.com.br^$third-party
 ||fireadsone.com^$third-party
+||generalizationdisputelesser.com^$third-party
