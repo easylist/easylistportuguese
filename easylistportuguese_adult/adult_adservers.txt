@@ -3,3 +3,5 @@
 ||tufos.com.br^$third-party
 ||fireadsone.com^$third-party
 ||generalizationdisputelesser.com^$third-party
+||displeasedamenlowered.com^$third-party
+||fugrohaphu.com^$third-party
