@@ -20,3 +20,4 @@ pornomineiro.com##a[href^="https://www.guiaadulto.com"]
 xvideos-xxx.com##a[href^="https://loboclick.com"]
 tubesafari.com##.margin_ad
 pornocarioca.com###postnativeindex
+pornolandia.xxx##.hd-text-icon
