@@ -26,3 +26,6 @@ cnnamador.com##[href^="https://app.evipes.com/"]
 pornotube.blog.br##[href*="monetizze.com.br/"]
 pornolgbt.com.br##[title*="Novinhas Nudes"]
 gostosaspornosafadas.com,gostosastube.net##.anuncios
+pornodoido.com##[class*="related-sites"]
+pornodoido.com##.abcn-footer
+pornodoido.com##.ntv-disclaimer
