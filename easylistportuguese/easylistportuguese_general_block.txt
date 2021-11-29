@@ -1,5 +1,5 @@
 -publicidade.
-.br/afiliados/
+.br/afiliados/$domain=~shopping.bancointer.com.br
 .br/banner.aspx?
 .br/banners/
 .br/imagensdb/banners/
