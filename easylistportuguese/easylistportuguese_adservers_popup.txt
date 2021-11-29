@@ -18,3 +18,4 @@
 ||glossarysack.com^$popup,third-party
 ||octaplajaggar.casa^$popup,third-party
 ||grimechethy.pro^$popup,third-party
+||predominantaugustchapter.com^$popup,third-party
