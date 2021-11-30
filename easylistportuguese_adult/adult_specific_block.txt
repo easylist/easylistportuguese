@@ -16,3 +16,4 @@
 /url-open.js$domain=hentaiputa.com|terceiroz.com
 ||colmeia.blog.br$image,third-party
 ||vainovinha.net/js/colmeia
+||*link*.$domain=porn24horas.com
