@@ -37,3 +37,5 @@ xvidios.xxx#?#.thumbBlock:-abp-has(a[href^="https://pagamento.xpague.com/"])
 porn24horas.com##.agregadores
 tatarada.com.br##.propaganda
 xvideoporno.tv#?#article:-abp-has(a[href^="https://clickadsxxx.com/"])
+hdpornpics.net#?#.money:-abp-has(.century:-abp-contains(ADS))
+hdpornpics.net##.back
