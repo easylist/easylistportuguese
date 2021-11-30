@@ -35,3 +35,4 @@ minhamulher.com##a[href^="https://banners.adultfriendfinder.com/"]
 buceta.biz##[class^="Anunciante"]
 porn24horas.com##.agregadores
 tatarada.com.br##.propaganda
+xvideoporno.tv#?#article:-abp-has(a[href^="https://clickadsxxx.com/"])
