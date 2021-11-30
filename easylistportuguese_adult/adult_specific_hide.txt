@@ -33,6 +33,7 @@ quadrinhosdesexo.com##.cn-advertising
 porn24horas.com,superhqdesexo.com,terceiroz.com##.anuncios
 minhamulher.com##a[href^="https://banners.adultfriendfinder.com/"]
 buceta.biz##[class^="Anunciante"]
+xvidios.xxx#?#.thumbBlock:-abp-has(a[href^="https://pagamento.xpague.com/"])
 porn24horas.com##.agregadores
 tatarada.com.br##.propaganda
 xvideoporno.tv#?#article:-abp-has(a[href^="https://clickadsxxx.com/"])
