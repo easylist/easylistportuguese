@@ -300,3 +300,4 @@ pobre.tv###launcherBg
 erasmusu.com##[class*="ad-banner-"]
 superesportes.com.br##.se-publicidade-rasgado-1-container
 superesportes.com.br##.se-publicidade-rasgado-1-top
+flashscore.com.br##.ads__text
