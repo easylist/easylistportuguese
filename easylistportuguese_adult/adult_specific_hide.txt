@@ -5,7 +5,7 @@ nudelas.com###adstopo
 nudelas.com##li[id^="njads_single_widget-"]
 videosdesuavizinha.com##a[title^="Acompanhantes"]
 naoconto.com##a[href^="https://www.vivalocal.com"]
-naoconto.com##a[href^="https://www.camerahot.com"]
+naoconto.com##a[href^="https://camerahot.com"]
 naoconto.com##[rel$="Sponsored"]
 novinhasdozapzap.com###text-59
 mulheresafoder.com###aumento
