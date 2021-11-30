@@ -30,6 +30,7 @@ pornodoido.com##[class*="related-sites"]
 pornodoido.com##.abcn-footer
 pornodoido.com##.ntv-disclaimer
 quadrinhosdesexo.com##.cn-advertising
-superhqdesexo.com,terceiroz.com##.anuncios
+porn24horas.com,superhqdesexo.com,terceiroz.com##.anuncios
 minhamulher.com##a[href^="https://banners.adultfriendfinder.com/"]
 buceta.biz##[class^="Anunciante"]
+porn24horas.com##.agregadores
