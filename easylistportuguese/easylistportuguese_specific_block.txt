@@ -117,3 +117,4 @@
 ||verfilmes.biz$subdocument,third-party
 ||tenhomaisdiscosqueamigos.com/wp-content/uploads/*-bg.jpg
 ||observatoriodatv.uol.com.br/assets/banners/$subdocument,third-party
+||playembeds.com/*/devtools-detector.js$third-party
