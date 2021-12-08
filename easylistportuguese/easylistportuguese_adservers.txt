@@ -125,3 +125,4 @@
 ||lspzhtvstux.com^$third-party
 ||redoutcomecomfort.com^$third-party
 ||adhimunc.com^$third-party
+||ricettafitness.com
