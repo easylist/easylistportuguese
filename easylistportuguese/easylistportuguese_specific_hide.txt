@@ -301,3 +301,6 @@ erasmusu.com##[class*="ad-banner-"]
 superesportes.com.br##.se-publicidade-rasgado-1-container
 superesportes.com.br##.se-publicidade-rasgado-1-top
 flashscore.com.br##.ads__text
+cointimes.com.br##[href^="https://cointimes.com.br/linkout/"]
+cointimes.com.br##.adv-link
+cointimes.com.br###media_image-13
