@@ -11,3 +11,4 @@ $popup,third-party,domain=streamtape.cc|redirect-ads.com
 ||uqload.com/img/player_logo.png$popup
 ||futebolplayhd.com/imagens/logo$popup
 ||filmesonlinehd11.com/*/filmesonlinehd12.png$popup
+||doodcdn.com/img/logo$popup
