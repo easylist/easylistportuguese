@@ -304,3 +304,4 @@ flashscore.com.br##.ads__text
 cointimes.com.br##[href^="https://cointimes.com.br/linkout/"]
 cointimes.com.br##.adv-link
 cointimes.com.br###media_image-13
+revistaencontro.com.br##small.txt-no-serif
