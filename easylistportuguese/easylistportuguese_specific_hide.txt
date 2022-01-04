@@ -37,6 +37,7 @@ tiinside.com.br##.ad1
 em.com.br,gaz.com.br,grandepremio.com.br,infoescola.com,novojornal.co.ao,record.pt,tudocelular.com##.ads
 animeplus.org##.adsBody
 terra.com.br,uol.com.br##.advertising
+dw.com##.advertisement
 uol.com.br##.advertising-column
 mercadolivre.com.br##.app-container > .questions-container-banner
 a12.com,agazeta.com.br,capitalnews.com.br,estadao.com.br,omelete.com.br,uol.com.br,sidrolandianews.com.br##.banner
