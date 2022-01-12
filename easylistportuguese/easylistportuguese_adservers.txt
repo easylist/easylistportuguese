@@ -67,6 +67,7 @@
 ||edxlewni.com^$third-party
 ||pdxgfnnoan.com^$third-party
 ||sporedfryhum.com^$third-party
+||steamjaws.com^$third-party
 ||statementssupervisorthorough.com^$third-party
 ||trysprierratty.com^$third-party
 ||closkeyrespond.com^$third-party
