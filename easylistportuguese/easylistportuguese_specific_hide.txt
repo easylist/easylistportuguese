@@ -39,6 +39,7 @@ animeplus.org##.adsBody
 terra.com.br,uol.com.br##.advertising
 dw.com##.advertisement
 uol.com.br##.advertising-column
+poa24horas.com.br##.akcelo-wrapper
 mercadolivre.com.br##.app-container > .questions-container-banner
 a12.com,agazeta.com.br,capitalnews.com.br,estadao.com.br,omelete.com.br,uol.com.br,sidrolandianews.com.br##.banner
 hotelurbano.com##.banner-header
