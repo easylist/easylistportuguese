@@ -212,6 +212,7 @@ agoravale.com.br##.expande-banner
 agoravale.com.br##div[style^="background:#FFF"]
 agoravale.com.br##.EmpresasAnunciantes
 tempo.pt###bannerDerPC
+globo.com###banner_home1_t_container
 gkpb.com.br##.topo-ursinhos
 agazeta.com.br##.ads-paragrafo
 palcomp3.com.br##div[id^="pub-cc"]
