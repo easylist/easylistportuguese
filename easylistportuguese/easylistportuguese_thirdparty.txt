@@ -3,3 +3,4 @@
 ||ecmascript6.com/*/index*.php^$third-party
 ||cdnaqw.com/script^$third-party
 ||d3p8w7to4066sy.cloudfront.net^
+||dw55pg05c2rl5.cloudfront.net^
