@@ -43,6 +43,7 @@
 ||ansa.com.br/fiat/
 ||ansa.com.br/tim/
 ||imgur.com/*.gif^$domain=lelivros.love
+||imageshack.com/v2/xq90/^$domain=futeboltotal.org
 ||wikimetal.com.br/wp-content/uploads/*/Left_Right-Side.png
 ||uploaddeimagens.com.br/images/*/full/button-*.png^$image,domain=querofilmeshd.co
 ||flashscore.*/res/data/$image
@@ -119,3 +120,4 @@
 ||observatoriodatv.uol.com.br/assets/banners/$subdocument,third-party
 ||playembeds.com/*/devtools-detector.js$third-party
 ||legendas.ga/random.js
+||futeboltotal.org/df8843d04f.php
