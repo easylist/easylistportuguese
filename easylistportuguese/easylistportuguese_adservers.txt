@@ -1,3 +1,4 @@
+||bs1.direct^$third-party
 ||buscape.com.br^$third-party
 ||filestatic.xyz^$third-party
 ||spider.ad^$third-party
@@ -129,3 +130,4 @@
 ||adhimunc.com^$third-party
 ||ricettafitness.com^$third-party
 ||molypsigry.pro^$third-party
+||kesepsowy.pro^$third-party
