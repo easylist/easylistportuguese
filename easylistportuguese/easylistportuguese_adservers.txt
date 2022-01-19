@@ -127,4 +127,5 @@
 ||lspzhtvstux.com^$third-party
 ||redoutcomecomfort.com^$third-party
 ||adhimunc.com^$third-party
-||ricettafitness.com
+||ricettafitness.com^$third-party
+||molypsigry.pro^$third-party
