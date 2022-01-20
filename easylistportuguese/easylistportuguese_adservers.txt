@@ -131,3 +131,4 @@
 ||ricettafitness.com^$third-party
 ||molypsigry.pro^$third-party
 ||kesepsowy.pro^$third-party
+||vid95vl24x.com^$third-party
