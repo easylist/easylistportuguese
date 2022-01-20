@@ -39,3 +39,5 @@ tatarada.com.br##.propaganda
 xvideoporno.tv#?#article:-abp-has(a[href^="https://clickadsxxx.com/"])
 hdpornpics.net#?#.money:-abp-has(.century:-abp-contains(ADS))
 hdpornpics.net##.back
+minhamulher.com##.header-primeiro
+minhamulher.com###arquivop
