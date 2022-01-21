@@ -1,4 +1,4 @@
-$popup,third-party,domain=cillylovers.com|streamtape.cc|redirect-ads.com
+$popup,third-party,domain=cillylovers.com|streamtape.cc|redirect-ads.com|vizer.vip
 ||futemax.live/imagens/logo2.png$popup
 ||futemax.gratis/imagens/logo2.png$popup
 ||topflix.vc/images/logo1.png$popup
@@ -14,4 +14,4 @@ $popup,third-party,domain=cillylovers.com|streamtape.cc|redirect-ads.com
 ||doodcdn.com/img/logo$popup
 ||megafilmeseseriesonline.com*/logo$popup
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=querofilmehd.net
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=querofilmehd.net|vizer.vip
