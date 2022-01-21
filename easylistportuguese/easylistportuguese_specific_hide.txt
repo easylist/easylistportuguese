@@ -312,3 +312,4 @@ uol.com.br##[href^="https://pagbank.onelink.me/"]
 igg-games.com##[href^="http://s.igg-games.com/index.php?"]
 buceteiro.com#?#li:-abp-has(#thumb-6110)
 buceteiro.com###related
+pobre.tv##.adasd
