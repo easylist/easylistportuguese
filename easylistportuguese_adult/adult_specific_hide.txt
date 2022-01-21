@@ -25,6 +25,7 @@ cnnamador.com##[href^="https://thorshammergel.club/"]
 cnnamador.com##[href^="https://app.evipes.com/"]
 pornoprive.xxx,pornotube.blog.br##[href*="monetizze.com.br/"]
 pornolgbt.com.br##[title*="Novinhas Nudes"]
+famosasbrasil.net##.anuncio
 gostosaspornosafadas.com,gostosastube.net##.anuncios
 pornodoido.com##[class*="related-sites"]
 pornodoido.com##.abcn-footer
