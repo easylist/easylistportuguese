@@ -1,6 +1,7 @@
 meuscontoseroticos.com##a[rel^="nofollow"]
 meuscontoseroticos.com#?#:-abp-has(> a > div > div > span.thumb-ads)
 meuscontoseroticos.com#?#:-abp-has(> div.contoConteudo > div.conto-thumb > a[rel^="nofollow"])
+porno16.com#?#.thumb-block:-abp-has([data-ads="1"])
 nudelas.com###adstopo
 nudelas.com##li[id^="njads_single_widget-"]
 videosdesuavizinha.com##a[title^="Acompanhantes"]
