@@ -313,3 +313,5 @@ igg-games.com##[href^="http://s.igg-games.com/index.php?"]
 buceteiro.com#?#li:-abp-has(#thumb-6110)
 buceteiro.com###related
 pobre.tv##.adasd
+tugaflix.me##[href^="https://btt-pt.uwerh.com/"]
+tugaflix.me##[href^="https://tugaiptv.com/"]
