@@ -13,5 +13,6 @@ $popup,third-party,domain=cillylovers.com|streamtape.cc|redirect-ads.com|vizer.v
 ||filmesonlinehd11.com/*/filmesonlinehd12.png$popup
 ||doodcdn.com/img/logo$popup
 ||megafilmeseseriesonline.com*/logo$popup
+||bettilt124.com/pt/?partner=$popup,third-party
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=querofilmehd.net|vizer.vip
