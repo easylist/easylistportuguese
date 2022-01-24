@@ -15,4 +15,4 @@ $popup,third-party,domain=cillylovers.com|streamtape.cc|redirect-ads.com|vizer.v
 ||megafilmeseseriesonline.com*/logo$popup
 ||bettilt124.com/pt/?partner=$popup,third-party
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=querofilmehd.net|vizer.vip
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=multicanais.tv|querofilmehd.net|vizer.vip
