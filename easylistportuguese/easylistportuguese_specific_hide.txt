@@ -316,3 +316,5 @@ buceteiro.com###related
 pobre.tv##.adasd
 tugaflix.me##[href^="https://btt-pt.uwerh.com/"]
 tugaflix.me##[href^="https://tugaiptv.com/"]
+tecnoblog.net###sidebanner
+tecnoblog.net###fullbanner
