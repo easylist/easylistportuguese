@@ -323,3 +323,4 @@ portaldogamer.com.br###ftmrqkn-2
 codmobile.ucorvo.com##[id^="ai_widget-"]
 vidacigana.com##[href^="https://wise.prf.hn/"]
 guiadasemana.com.br##.placement
+idinheiro.com.br##.code-block
