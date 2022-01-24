@@ -321,3 +321,4 @@ tecnoblog.net###fullbanner
 marriedgames.com.br##.angwp_37123
 portaldogamer.com.br###ftmrqkn-2
 codmobile.ucorvo.com##[id^="ai_widget-"]
+vidacigana.com##[href^="https://wise.prf.hn/"]
