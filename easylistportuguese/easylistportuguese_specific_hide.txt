@@ -318,3 +318,4 @@ tugaflix.me##[href^="https://btt-pt.uwerh.com/"]
 tugaflix.me##[href^="https://tugaiptv.com/"]
 tecnoblog.net###sidebanner
 tecnoblog.net###fullbanner
+marriedgames.com.br##.angwp_37123
