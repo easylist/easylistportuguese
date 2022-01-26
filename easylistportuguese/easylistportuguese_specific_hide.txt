@@ -291,7 +291,7 @@ ofuxico.com.br##[id^="page-ad-"]
 ofuxico.com.br##[class^="page-ad-"] 
 fabiorobertonoticias.com.br##a[target="_blank"] > img[src^="https://i.imgur.com/"]
 multicanais.tv###cb-banner-modal-content
-clipconverter.cc,multicanais.tv,querofilmehd.net##iframe[style*="z-index: 2147483647"]
+clipconverter.cc,megafilmeshd50.com,multicanais.tv,querofilmehd.net##iframe[style*="z-index: 2147483647"]
 tenhomaisdiscosqueamigos.com##[href^="https://tmd.qa/"][target="_blank"]
 olhonavaga.com.br##.fixedBanner
 flashscore.com.br##[id^="box_over_content_"]
