@@ -121,3 +121,4 @@
 ||playembeds.com/*/devtools-detector.js$third-party
 ||legendas.ga/random.js
 ||futeboltotal.org/df8843d04f.php
+||outbrain.com^$domain=abril.com.br
