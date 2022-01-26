@@ -140,6 +140,7 @@ delas.pt,motor24.pt,n-tv.pt,voltaaomundo.pt,womenshealth.pt###billboard
 delas.pt,evasoes.pt,womenshealth.pt##.mrec-wrapper
 evasoes.pt,womenshealth.pt###inread
 delas.pt##.mrec_desktop
+tuasaude.com##.mrec-container
 uol.com.br##.bg-banner
 uol.com.br##.bannersticky-base
 reportermt.com.br##div[class$="box-banner"]
@@ -324,3 +325,4 @@ codmobile.ucorvo.com##[id^="ai_widget-"]
 vidacigana.com##[href^="https://wise.prf.hn/"]
 guiadasemana.com.br##.placement
 idinheiro.com.br##.code-block
+tuasaude.com##div[id^="divGptAd_"]
