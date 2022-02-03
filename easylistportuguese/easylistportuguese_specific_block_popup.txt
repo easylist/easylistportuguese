@@ -1,4 +1,4 @@
-$popup,third-party,domain=cillylovers.com|streamtape.cc|redirect-ads.com|vizer.vip
+$popup,third-party,domain=cillylovers.com|streamtape.cc|redirect-ads.com|vizer.vip|vizer.tv|stape.fun
 ||futemax.live/imagens/logo2.png$popup
 ||futemax.gratis/imagens/logo2.png$popup
 ||topflix.vc/images/logo1.png$popup
