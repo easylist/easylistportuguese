@@ -328,3 +328,5 @@ idinheiro.com.br##.code-block
 tuasaude.com##div[id^="divGptAd_"]
 melhorcasal.com###floatcenter
 animesonehd.xyz##.bf
+uol.com.br##.ads-billboard
+uol.com.br###bloco-native-rodape
