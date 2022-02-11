@@ -47,3 +47,4 @@ mrvideosdesexo.xxx##.ad-preload-div
 pornobrasileiro.tv##a[href^="https://ev.braip.com/"]
 sexprime.xxx#?#.thumb-block:-abp-has(.thumb-adlert:-abp-contains(ADS))
 sexprime.xxx##.execphpwidget
+sonovinhasbr.com#?#.post:-abp-has(a[href^="https://canalvegas.com/"])
