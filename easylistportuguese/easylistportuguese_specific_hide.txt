@@ -140,6 +140,7 @@ delas.pt,evasoes.pt,womenshealth.pt##.mrec-wrapper
 evasoes.pt,womenshealth.pt###inread
 delas.pt##.mrec_desktop
 tuasaude.com##.mrec-container
+oliberal.com##.bgbanner
 uol.com.br##.bg-banner
 uol.com.br##.bannersticky-base
 reportermt.com.br##div[class$="box-banner"]
