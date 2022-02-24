@@ -112,6 +112,7 @@
 ||aikraboo.com^$third-party
 ||toldmeroc.com^$third-party
 ||suomaimrphie.top^$third-party
+||thatsouh.com^$third-party
 ||thapsooz.net^$third-party
 ||rriuqknbv.top^$third-party
 ||rnakkaybh.com^$third-party
