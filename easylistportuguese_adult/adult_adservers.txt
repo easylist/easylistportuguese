@@ -9,3 +9,4 @@
 ||bu3le2lp4t45e6i.com^$third-party
 ||xpowergel.com^$third-party
 ||trendching.com^$third-party
+||foldertopichoot.com^$third-party
