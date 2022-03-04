@@ -331,3 +331,5 @@ melhorcasal.com###floatcenter
 animesonehd.xyz##.bf
 uol.com.br##.ads-billboard
 uol.com.br###bloco-native-rodape
+estrelando.com.br###publi-pop
+estrelando.com.br##.text-anuncio
