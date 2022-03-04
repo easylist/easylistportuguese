@@ -27,7 +27,7 @@ cnnamador.com##[href^="https://app.evipes.com/"]
 pornoprive.xxx,pornotube.blog.br##[href*="monetizze.com.br/"]
 pornolgbt.com.br##[title*="Novinhas Nudes"]
 famosasbrasil.net##.anuncio
-gostosaspornosafadas.com,gostosastube.net##.anuncios
+filmesporno.com.br,gostosaspornosafadas.com,gostosastube.net##.anuncios
 pornodoido.com##[class*="related-sites"]
 pornodoido.com##.abcn-footer
 pornodoido.com##.ntv-disclaimer
@@ -49,3 +49,4 @@ sexprime.xxx#?#.thumb-block:-abp-has(.thumb-adlert:-abp-contains(ADS))
 sexprime.xxx##.execphpwidget
 sonovinhasbr.com#?#.post:-abp-has(a[href^="https://canalvegas.com/"])
 bandeiradois.blog.br##a[href^="https://www.californiatv.com.br"]
+filmesporno.com.br##a[href^="https://ev.braip.com/"]
