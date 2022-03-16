@@ -137,6 +137,7 @@ abril.com.br##div[data-item-id^="~~V1~~"]
 pplware.sapo.pt##div[id^="ws_widget__ad_codes-"]
 evasoes.pt,menshealth.pt,motor24.pt,n-tv.pt,voltaaomundo.pt,womenshealth.pt##.mrecbox
 delas.pt,motor24.pt,n-tv.pt,voltaaomundo.pt,womenshealth.pt###billboard
+baixarfilmetorrent.club###box
 delas.pt,evasoes.pt,womenshealth.pt##.mrec-wrapper
 evasoes.pt,womenshealth.pt###inread
 delas.pt##.mrec_desktop
