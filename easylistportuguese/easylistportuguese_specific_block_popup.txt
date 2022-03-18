@@ -15,4 +15,4 @@ $popup,third-party,domain=cillylovers.com|futemax.gratis|streamtape.cc|redirect-
 ||megafilmeseseriesonline.com*/logo$popup
 ||bettilt124.com/pt/?partner=$popup,third-party
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=hdfilmesonlinegratis.pro|megafilmeshd20.pro|megafilmeshd50.com|multicanais.tv|querofilmehd.net|superflix.club|torrentdosfilmeshd2.net|vizer.vip
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=hdfilmesonlinegratis.pro|megafilmeshd20.pro|megafilmeshd50.com|multicanais.tv|querofilmehd.net|superflix.club|torrentdosfilmeshd2.net|vizer.vip|zfilmesonline.net
