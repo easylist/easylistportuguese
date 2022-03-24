@@ -337,3 +337,5 @@ estrelando.com.br##.text-anuncio
 revistaquem.globo.com##li[data-item-type="advertising"]
 revistaquem.globo.com##.container-adv
 revistaquem.globo.com##.adv-item
+nsctotal.com.br##[class^="AdUnit_"]
+nsctotal.com.br##.top-smad
