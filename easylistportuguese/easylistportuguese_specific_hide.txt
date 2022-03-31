@@ -341,3 +341,5 @@ nsctotal.com.br##[class^="AdUnit_"]
 nsctotal.com.br##.top-smad
 arnolds.com.br#?#center:-abp-has(p:-abp-contains(Publicidade))
 arnolds.com.br###custom_html-2
+mangalivre.net##.vignette-content
+mangalivre.net##[amazon-offers-list]
