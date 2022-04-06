@@ -349,3 +349,4 @@ uai.com.br##.advertising__with-bg
 uai.com.br##.ad-home-page
 uai.com.br##.img-300
 uai.com.br##.-ad
+yayanimes.net##.anuncio
