@@ -12,6 +12,7 @@ baboo.com.br###custom_html-2
 final.com.br,iloveiptv.org###custom_html-3
 spbrasil-2009.net###custom_html-5
 spbrasil-2009.net###custom_html-8
+tvcanais.online###custom_html-10
 bilibio.com.br###dwt-banner-area
 uol.com.br###folha-shop
 saraiva.com.br###fullbanner-todas-categorias-iab
