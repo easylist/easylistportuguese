@@ -32,7 +32,7 @@ vagas.com.br###vagas_busca_leaderboard_704x160_top
 olx.com.br###web_listing_banner_bottom
 olx.com.br###web_listing_banner_top
 spacofm.com.br##.a-single
-belasmensagens.com.br,rostos.pt,terra.com.br,uol.com.br,vagalume.com.br,conectaimobi.com.br##.ad
+belasmensagens.com.br,rostos.pt,terra.com.br,uai.com.br,uol.com.br,vagalume.com.br,conectaimobi.com.br##.ad
 letras.mus.br##.ad-letra
 tiinside.com.br##.ad1
 em.com.br,gaz.com.br,grandepremio.com.br,infoescola.com,novojornal.co.ao,record.pt,tudocelular.com,abril.com.br##.ads
@@ -343,3 +343,8 @@ arnolds.com.br#?#center:-abp-has(p:-abp-contains(Publicidade))
 arnolds.com.br###custom_html-2
 mangalivre.net##.vignette-content
 mangalivre.net##[amazon-offers-list]
+uai.com.br##.uai-publicidade-retangulo-noticias
+uai.com.br##.advertising__with-bg
+uai.com.br##.ad-home-page
+uai.com.br##.img-300
+uai.com.br##.-ad
