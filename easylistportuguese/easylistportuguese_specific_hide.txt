@@ -351,3 +351,6 @@ uai.com.br##.ad-home-page
 uai.com.br##.img-300
 uai.com.br##.-ad
 yayanimes.net##.anuncio
+narutoonline.com.br###avisoPopup
+narutoonline.com.br##.modal-backdrop
+narutoonline.com.br##[id^="an"]
