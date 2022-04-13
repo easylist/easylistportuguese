@@ -11,6 +11,7 @@ $popup,third-party,domain=cillylovers.com|filmesonlinehdgratis.com.br|futemax.gr
 ||uqload.com/img/player_logo.png$popup
 ||futebolplayhd.com/imagens/logo$popup
 ||filmesonlinehd11.com/*/filmesonlinehd12.png$popup
+||googleusercontent.com^$popup,domain=animesonehd.xyz
 ||doodcdn.com/img/logo$popup
 ||megafilmeseseriesonline.com*/logo$popup
 ||bettilt124.com/pt/?partner=$popup,third-party
