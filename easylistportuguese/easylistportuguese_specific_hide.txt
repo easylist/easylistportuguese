@@ -355,3 +355,4 @@ narutoonline.com.br###avisoPopup
 narutoonline.com.br##.modal-backdrop
 narutoonline.com.br##[id^="an"]
 portalnortedailha.com.br##.area-banner
+xpanimes.com##.container > div[style*="z-index:"]
