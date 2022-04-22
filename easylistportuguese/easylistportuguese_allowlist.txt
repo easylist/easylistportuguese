@@ -13,3 +13,5 @@
 @@/adsdelivery.$domain=adsdelivery.com.br
 @@||goimage-website.*.amazonaws.com/banners/banner-natal-desktop$image
 @@||goimage-website.*.amazonaws.com/banners/banner-natal-logo$image
+@@||investnewsbrazil.com
+@@||receitasefinancas.com
