@@ -3,6 +3,7 @@ $popup,third-party,domain=cillylovers.com|filmesonlinehdgratis.com.br|futemax.gr
 ||futemax.gratis/imagens/logo2.png$popup
 ||topflix.fm/images/logo1.png$popup
 ||buylnk.com^$popup,domain=gfilmes.net
+||pontogay.com^$popup,domain=fbsquadz.com
 /jump/next.php?$popup,domain=yts.mx
 ||landings.ncm*.com^$popup,domain=mrpiracy.top
 /3djuegos_media_v1^$popup,domain=3djuegos.com
