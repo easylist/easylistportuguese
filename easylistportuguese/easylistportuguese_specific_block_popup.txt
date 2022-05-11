@@ -19,4 +19,4 @@ $popup,third-party,domain=cillylovers.com|filmesonlinehdgratis.com.br|futemax.gr
 ! about:blank popups
 |about:blank#$popup,domain=hqq.to
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=animesonehd.xyz|animesup.biz|animeyabu.com|cinevisionv4.online|filmeseries.top|gustavortech.com|hdfilmesonlinegratis.pro|megafilmeshd20.pro|megafilmeshd50.com|multicanais.tv|pobreflix.top|querofilmehd.net|superflix.club|superflix.plus|torrentdosfilmeshd2.net|tugaflix.me|vizer.vip|yayanimes.net|zfilmesonline.net
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=animesonehd.xyz|animesup.biz|animeyabu.com|cinevisionv4.online|filmeseries.top|gustavortech.com|hdfilmesonlinegratis.pro|megafilmeshd20.pro|megafilmeshd50.com|multicanais.tv|pobreflix.top|querofilmehd.net|querofilmehd.xyz|superflix.club|superflix.plus|torrentdosfilmeshd2.net|tugaflix.me|vizer.vip|yayanimes.net|zfilmesonline.net
