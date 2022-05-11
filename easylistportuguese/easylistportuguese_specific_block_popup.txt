@@ -16,6 +16,7 @@ $popup,third-party,domain=cillylovers.com|filmesonlinehdgratis.com.br|futemax.gr
 ||doodcdn.com/img/logo$popup
 ||megafilmeseseriesonline.com*/logo$popup
 ||bettilt124.com/pt/?partner=$popup,third-party
+||i.imgur.com^$popup,domain=jogostorrents.site
 ! about:blank popups
 |about:blank#$popup,domain=hqq.to
 ! html/image popups
