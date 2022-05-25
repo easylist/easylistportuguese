@@ -90,6 +90,9 @@ net-empregos.com##.tickercontainer
 terra.com.br##[data-app-name="app.svaAd"]
 nerdprofessor.com.br##a[href="https://www.aulasbncc.com.br/"]
 diarioonline.com.br##div[id^="div-banner"]
+polibiobraga.blogspot.com##div[id^="Image"]
+polibiobraga.blogspot.com###HTML6
+polibiobraga.blogspot.com###HTML10
 gazetaesportiva.com##div[id^="rmt_banner"]
 kboing.com.br##div[style="float:left;width:965px;height:90px;margin-bottom:10px;background-color:#fff;text-align:center;"]
 brasilescola.uol.com.br##div[style="height: 406px;"]
