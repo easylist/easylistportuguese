@@ -298,7 +298,7 @@ ofuxico.com.br##[id^="page-ad-"]
 ofuxico.com.br##[class^="page-ad-"]
 fabiorobertonoticias.com.br##a[target="_blank"] > img[src^="https://i.imgur.com/"]
 multicanais.tv###cb-banner-modal-content
-animeyabu.com,clipconverter.cc,freeplayervideo.com,goyabu.com,mangayabu.top,megafilmeshd50.com,multicanais.app,multicanais.tv,olhosnatv.com.br,querofilmehd.net,querofilmehd.xyz,superflix.io,superflix.plus##iframe[style*="z-index: 2147483647"]
+animeyabu.com,clipconverter.cc,freeplayervideo.com,goyabu.com,mangayabu.top,megafilmeshd50.com,multicanais.app,multicanais.tv,netcine.ch,olhosnatv.com.br,querofilmehd.net,querofilmehd.xyz,superflix.io,superflix.plus##iframe[style*="z-index: 2147483647"]
 animesonehd.xyz##div[style*="z-index:99999999999"]
 animesonehd.xyz##div[style*="z-index:9999999999999999999"]
 tenhomaisdiscosqueamigos.com##[href^="https://tmd.qa/"][target="_blank"]
