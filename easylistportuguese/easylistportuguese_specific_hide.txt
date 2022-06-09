@@ -93,6 +93,11 @@ diarioonline.com.br##div[id^="div-banner"]
 polibiobraga.blogspot.com##div[id^="Image"]
 polibiobraga.blogspot.com###HTML6
 polibiobraga.blogspot.com###HTML10
+revivendoanostalgiadops2.blogspot.com###HTML61
+revivendoanostalgiadops2.blogspot.com###HTML62
+revivendoanostalgiadops2.blogspot.com###HTML63
+revivendoanostalgiadops2.blogspot.com###HTML65
+revivendoanostalgiadops2.blogspot.com###HTML66
 gazetaesportiva.com##div[id^="rmt_banner"]
 kboing.com.br##div[style="float:left;width:965px;height:90px;margin-bottom:10px;background-color:#fff;text-align:center;"]
 brasilescola.uol.com.br##div[style="height: 406px;"]
