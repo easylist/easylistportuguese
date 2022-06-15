@@ -367,3 +367,4 @@ portalnortedailha.com.br##.area-banner
 xpanimes.com##.container > div[style*="z-index:"]
 fimdalinha.com.br##div[class*="banner-"]
 fimdalinha.com.br##.wp-container-2
+smallseotools.com##a[title="read more"]
