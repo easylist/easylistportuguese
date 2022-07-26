@@ -279,6 +279,7 @@ cenariomt.com.br##.wpb_wrapper.td_block_single_image
 areah.com.br##div[id^="div-ad-"]
 areah.com.br###banner_top
 areah.com.br##div[class^="banner_footer"]
+opantaneiro.com.br##div[class^="banner"]
 futebolbrasil.online##.padd20
 futebolbahiano.org##[id^="custom_html-2"]
 sofilmeshd.piracyproxy.info##[id^="cookieConsent"]
