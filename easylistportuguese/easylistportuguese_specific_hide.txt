@@ -1,3 +1,6 @@
+brasilescola.uol.com.br##.area-publi-topo
+brasilescola.uol.com.br##.publi-dir
+!
 polibiobraga.blogspot.com###HTML10
 polibiobraga.blogspot.com###HTML6
 revivendoanostalgiadops2.blogspot.com###HTML61
