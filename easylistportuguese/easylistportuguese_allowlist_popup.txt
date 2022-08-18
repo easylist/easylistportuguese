@@ -1,2 +1,2 @@
-@@||bet365.com^*affiliate=$popup,domain=academiadasapostasbrasil.com|sites-de-apostas.net|postasesportivas24.net|futebolnaveia.com.br|footballpredictions.net
-@@||refpa.top^$popup,domain=academiadasapostasbrasil.com|sites-de-apostas.net|postasesportivas24.net|futebolnaveia.com.br|footballpredictions.net
+@@||bet365.com^*affiliate=$popup,domain=academiadasapostasbrasil.com|footballpredictions.net|futebolnaveia.com.br|postasesportivas24.net|sites-de-apostas.net
+@@||refpa.top^$popup,domain=academiadasapostasbrasil.com|footballpredictions.net|futebolnaveia.com.br|postasesportivas24.net|sites-de-apostas.net

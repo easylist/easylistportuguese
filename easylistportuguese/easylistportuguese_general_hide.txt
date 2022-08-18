@@ -30,8 +30,8 @@
 ##.PublicidadeSidebarSuperior
 ##.ad-container
 ##.ad-topstories
-##.ad_300_300
 ##.adCabecalho
+##.ad_300_300
 ##.add_full
 ##.ads20
 ##.ads30
