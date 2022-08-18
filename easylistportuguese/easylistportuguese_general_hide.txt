@@ -1,3 +1,6 @@
+##.publicidade-lateral
+##.publicidade-pequena
+!
 ###Publicidade
 ###ad-video-inread--wrapper
 ###ad_mrec_destaque
