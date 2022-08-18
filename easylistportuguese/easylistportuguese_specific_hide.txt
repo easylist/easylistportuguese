@@ -235,6 +235,7 @@ radio.net##.topAdSpacer
 otempo.com.br##.topo-patrocinado-artigo
 gkpb.com.br##.topo-ursinhos
 uai.com.br##.uai-publicidade-retangulo-noticias
+tvpop.com.br##.up-floating
 mangalivre.net##.vignette-content
 r7.com##.widget-24x1-ultimas__taboola
 ativo.com##.widget_banner_shortcode
@@ -243,6 +244,9 @@ ativo.com##.widget_super_banner_shortcode
 fimdalinha.com.br##.wp-container-2
 moznews.co.mz##.wpb_content_element
 cenariomt.com.br##.wpb_wrapper.td_block_single_image
+<<<<<<< HEAD
+=======
+>>>>>>> 992a94a4e5a9156409397fbf9e9986cb3ec66a41
 mangalivre.net##[amazon-offers-list]
 erasmusu.com##[class*="ad-banner-"]
 nsctotal.com.br##[class^="AdUnit_"]
