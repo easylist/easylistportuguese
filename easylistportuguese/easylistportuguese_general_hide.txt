@@ -1,3 +1,10 @@
+###ads-recentes-home
+###ads-recentes-home-2
+##.ads-colunistas-down-2
+##.ads-eventos
+##.ads-noticia-main
+##.ads-oferecimento
+##.adsNoticiaRodape
 ##.publicidade-lateral
 ##.publicidade-pequena
 !

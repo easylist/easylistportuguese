@@ -1,3 +1,6 @@
+||correiodolago.com.br/site/up/banners/
+||correiodolago.com.br/site/up/popup/
+!
 /_next/image?url=*s3.amazonaws.com$domain=maisesports.com.br
 /anuncy/ups/ads^$image,domain=geralinks.com.br
 /app/imagens/IVC_selo_site_auditado$domain=bahianoticias.com.br
