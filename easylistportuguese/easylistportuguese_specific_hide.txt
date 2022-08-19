@@ -1,5 +1,6 @@
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
+forbes.com.br##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
 brasilescola.uol.com.br##.corpoPubli
 brasilescola.uol.com.br##.publi-dir
