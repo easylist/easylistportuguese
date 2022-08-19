@@ -3,6 +3,7 @@ correiodolago.com.br###pop2
 forbes.com.br##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
 brasilescola.uol.com.br##.corpoPubli
+adorocinema.com##.main-banner
 brasilescola.uol.com.br##.publi-dir
 !
 polibiobraga.blogspot.com###HTML10
