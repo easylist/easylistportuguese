@@ -19,6 +19,7 @@ escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
 brasilescola.uol.com.br##.corpoPubli
 divirtasemais.com.br##.hdr-pub
+paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-items-center
 uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
 otempo.com.br##.menu-sites
