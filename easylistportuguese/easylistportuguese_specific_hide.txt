@@ -24,6 +24,7 @@ correiobraziliense.com.br##.patrocinado
 redetv.uol.com.br##.pub-box
 brasilescola.uol.com.br##.publi-dir
 estadao.com.br##div[class^="styles__Container-sc-"]
+moneytimes.com.br##div[id^="banner-top"]
 escolhaviajar.com##div[id^="escol-"]
 estrelando.com.br##div[style*="width: 300px; height: 250px;"]
 culturalizabh.com.br,escolhaviajar.com##img[width="300"]
