@@ -44,7 +44,6 @@
 ##.PublicidadeHorizontal
 ##.PublicidadeQuadrada
 ##.PublicidadeSidebarSuperior
-##.ad-container
 ##.ad-topstories
 ##.adCabecalho
 ##.ad_300_300
