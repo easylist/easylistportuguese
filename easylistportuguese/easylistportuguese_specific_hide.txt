@@ -1,3 +1,4 @@
+crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
