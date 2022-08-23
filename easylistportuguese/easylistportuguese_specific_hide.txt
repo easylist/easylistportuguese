@@ -1,5 +1,6 @@
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
+otempo.com.br###pub-sidebar
 purepeople.com.br###wb_contents_top
 clicrbs.com.br,somosfanaticos.fans##.ad-container
 correioweb.com.br,superesportes.com.br##.ads
@@ -13,6 +14,7 @@ brasilescola.uol.com.br##.corpoPubli
 divirtasemais.com.br##.hdr-pub
 uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
+otempo.com.br##.menu-sites
 minhavida.com.br##.mvn-announcement
 correiobraziliense.com.br##.patrocinado
 redetv.uol.com.br##.pub-box
