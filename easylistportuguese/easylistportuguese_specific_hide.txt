@@ -14,6 +14,7 @@ redetv.uol.com.br##.pub-box
 brasilescola.uol.com.br##.publi-dir
 estadao.com.br##div[class^="styles__Container-sc-"]
 estrelando.com.br##div[style*="width: 300px; height: 250px;"]
+culturalizabh.com.br##img[width="300"]
 !
 polibiobraga.blogspot.com###HTML10
 polibiobraga.blogspot.com###HTML6
