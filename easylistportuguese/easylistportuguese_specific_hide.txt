@@ -1,8 +1,10 @@
 crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
+ig.com.br###mrec2
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
 otempo.com.br###pub-sidebar
+ig.com.br###superbanner
 purepeople.com.br###wb_contents_top
 atribuna.com.br##.ad
 clicrbs.com.br,somosfanaticos.fans##.ad-container
@@ -100,7 +102,6 @@ tecnoblog.net###sidebanner
 animalog.online,animesonlinebr.co,superanimes.tv###sidebar
 animesonlinep.com###sidebarGeral
 dicionario.priberam.org###skyscraper
-ig.com.br###superbanner
 odemocratagb.com###text-3
 odemocratagb.com###text-6
 vagas.com.br###vagas_busca_leaderboard_704x160_top
