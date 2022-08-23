@@ -7,6 +7,7 @@ clicrbs.com.br##.ads-section-area.area.container-area
 estadao.com.br##.ajuste-banner
 forbes.com.br##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
+escolhaviajar.com##.bos_searchbox_widget_class
 brasilescola.uol.com.br##.corpoPubli
 divirtasemais.com.br##.hdr-pub
 adorocinema.com##.main-banner
@@ -16,7 +17,7 @@ redetv.uol.com.br##.pub-box
 brasilescola.uol.com.br##.publi-dir
 estadao.com.br##div[class^="styles__Container-sc-"]
 estrelando.com.br##div[style*="width: 300px; height: 250px;"]
-culturalizabh.com.br##img[width="300"]
+culturalizabh.com.br,escolhaviajar.com##img[width="300"]
 ! Advanced element hiding rules for Adblock Plus
 correioweb.com.br#?#.post--hardnews.call-uai:-abp-has(a:-abp-contains(CONTEÚDO PATROCINADO))
 !
