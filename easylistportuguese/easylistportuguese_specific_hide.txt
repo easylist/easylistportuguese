@@ -7,6 +7,7 @@ clicrbs.com.br##.ads-section-area.area.container-area
 estadao.com.br##.ajuste-banner
 forbes.com.br##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
+folha.uol.com.br##.block--pub-super
 escolhaviajar.com##.bos_searchbox_widget_class
 brasilescola.uol.com.br##.corpoPubli
 divirtasemais.com.br##.hdr-pub
