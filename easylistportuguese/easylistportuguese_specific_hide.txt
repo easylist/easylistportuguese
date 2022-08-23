@@ -1,7 +1,8 @@
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
 purepeople.com.br###wb_contents_top
-somosfanaticos.fans##.ad-container
+clicrbs.com.br,somosfanaticos.fans##.ad-container
+clicrbs.com.br##.ads-section-area.area.container-area
 forbes.com.br##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
 brasilescola.uol.com.br##.corpoPubli
