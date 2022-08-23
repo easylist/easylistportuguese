@@ -302,8 +302,6 @@ arnolds.com.br#?#center:-abp-has(p:-abp-contains(Publicidade))
 buceteiro.com#?#li:-abp-has(#thumb-6110)
 anacao.cv#?##caixapub:-abp-has(div > h3:-abp-contains(PUB))
 uol.com.br##div.cardAd
-tudogostoso.com.br##div.tgad-top
-tudogostoso.com.br##div.tgads-center
 reportermt.com.br##div[class$="box-banner"]
 fimdalinha.com.br##div[class*="banner-"]
 noticiasdecoimbra.pt##div[class*="cp_id_"]

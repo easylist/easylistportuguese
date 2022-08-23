@@ -7,6 +7,9 @@
 ##.adsNoticiaRodape
 ##.publicidade-lateral
 ##.publicidade-pequena
+##.tgad-card
+##.tgad-top
+##.tgads-center
 !
 ###Publicidade
 ###ad-video-inread--wrapper
