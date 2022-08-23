@@ -12,6 +12,7 @@ minhavida.com.br##.mvn-announcement
 redetv.uol.com.br##.pub-box
 brasilescola.uol.com.br##.publi-dir
 estadao.com.br##div[class^="styles__Container-sc-"]
+estrelando.com.br##div[style*="width: 300px; height: 250px;"]
 !
 polibiobraga.blogspot.com###HTML10
 polibiobraga.blogspot.com###HTML6
