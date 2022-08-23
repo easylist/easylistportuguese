@@ -11,6 +11,7 @@ folha.uol.com.br##.block--pub-super
 escolhaviajar.com##.bos_searchbox_widget_class
 brasilescola.uol.com.br##.corpoPubli
 divirtasemais.com.br##.hdr-pub
+uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
 minhavida.com.br##.mvn-announcement
 correiobraziliense.com.br##.patrocinado
