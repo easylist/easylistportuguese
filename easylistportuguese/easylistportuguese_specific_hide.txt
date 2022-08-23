@@ -18,6 +18,7 @@ folha.uol.com.br##.block--pub-super
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
 brasilescola.uol.com.br##.corpoPubli
+cidadesnanet.com##.g
 divirtasemais.com.br##.hdr-pub
 paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-items-center
 uol.com.br##.magazine-cover
@@ -31,7 +32,7 @@ estadao.com.br##div[class^="styles__Container-sc-"]
 moneytimes.com.br##div[id^="banner-top"]
 escolhaviajar.com##div[id^="escol-"]
 estrelando.com.br##div[style*="width: 300px; height: 250px;"]
-culturalizabh.com.br,escolhaviajar.com##img[width="300"]
+cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com##img[width="300"]
 ! Advanced element hiding rules for Adblock Plus
 correioweb.com.br#?#.post--hardnews.call-uai:-abp-has(a:-abp-contains(CONTEÚDO PATROCINADO))
 !
