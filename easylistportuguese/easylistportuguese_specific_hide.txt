@@ -2,6 +2,7 @@ correiodolago.com.br###pop1
 correiodolago.com.br###pop2
 otempo.com.br###pub-sidebar
 purepeople.com.br###wb_contents_top
+atribuna.com.br##.ad
 clicrbs.com.br,somosfanaticos.fans##.ad-container
 correioweb.com.br,superesportes.com.br##.ads
 clicrbs.com.br##.ads-section-area.area.container-area
