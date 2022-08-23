@@ -5,8 +5,11 @@
 ##.ads-noticia-main
 ##.ads-oferecimento
 ##.adsNoticiaRodape
+##.publicidade-info-mobile
 ##.publicidade-lateral
 ##.publicidade-pequena
+##.publicidade-title
+##.publicidade_artigo_mobile
 ##.tgad-card
 ##.tgad-top
 ##.tgads-center
