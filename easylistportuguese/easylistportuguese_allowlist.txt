@@ -1,3 +1,4 @@
+@@||g.doubleclick.net/tag/js/gpt.js$script,domain=drogasil.com.br
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=terra.com.br
 !
 @@.br/banners/$domain=bvirtual.com.br|roupaprofissional.com.br
