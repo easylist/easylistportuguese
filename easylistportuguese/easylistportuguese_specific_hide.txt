@@ -8,6 +8,7 @@ estadao.com.br##.ajuste-banner
 forbes.com.br##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
 brasilescola.uol.com.br##.corpoPubli
+divirtasemais.com.br##.hdr-pub
 adorocinema.com##.main-banner
 minhavida.com.br##.mvn-announcement
 correiobraziliense.com.br##.patrocinado
