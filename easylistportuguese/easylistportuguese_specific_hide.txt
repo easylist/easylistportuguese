@@ -10,6 +10,7 @@ brasilescola.uol.com.br##.area-publi-topo
 brasilescola.uol.com.br##.corpoPubli
 adorocinema.com##.main-banner
 minhavida.com.br##.mvn-announcement
+correiobraziliense.com.br##.patrocinado
 redetv.uol.com.br##.pub-box
 brasilescola.uol.com.br##.publi-dir
 estadao.com.br##div[class^="styles__Container-sc-"]
