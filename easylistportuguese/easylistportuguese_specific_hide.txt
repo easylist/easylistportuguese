@@ -16,6 +16,7 @@ correiobraziliense.com.br##.patrocinado
 redetv.uol.com.br##.pub-box
 brasilescola.uol.com.br##.publi-dir
 estadao.com.br##div[class^="styles__Container-sc-"]
+escolhaviajar.com##div[id^="escol-"]
 estrelando.com.br##div[style*="width: 300px; height: 250px;"]
 culturalizabh.com.br,escolhaviajar.com##img[width="300"]
 ! Advanced element hiding rules for Adblock Plus
