@@ -10,6 +10,7 @@ forbes.com.br##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
 folha.uol.com.br##.block--pub-super
 escolhaviajar.com##.bos_searchbox_widget_class
+agazeta.com.br##.box--patrocinado
 brasilescola.uol.com.br##.corpoPubli
 divirtasemais.com.br##.hdr-pub
 uol.com.br##.magazine-cover
