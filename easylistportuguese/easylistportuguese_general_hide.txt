@@ -1,5 +1,7 @@
 ###ads-recentes-home
 ###ads-recentes-home-2
+###taboola-below-article-thumbnails-recos-reel
+###taboola-home-page
 ##.ads-colunistas-down-2
 ##.ads-eventos
 ##.ads-noticia-main
@@ -10,6 +12,7 @@
 ##.publicidade-pequena
 ##.publicidade-title
 ##.publicidade_artigo_mobile
+##.textPublicidade
 ##.tgad-card
 ##.tgad-top
 ##.tgads-center
