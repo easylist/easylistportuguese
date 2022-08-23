@@ -7,6 +7,7 @@
 ##.ads-noticia-main
 ##.ads-oferecimento
 ##.adsNoticiaRodape
+##.container-publicidade-mrec1
 ##.publicidade-info-mobile
 ##.publicidade-lateral
 ##.publicidade-pequena
