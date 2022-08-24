@@ -13,6 +13,8 @@ clicrbs.com.br##.ads-section-area.area.container-area
 estadao.com.br##.ajuste-banner
 forbes.com.br##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
+natelinha.uol.com.br##.arroba-texto
+natelinha.uol.com.br##.banner_conteudo
 ig.com.br##.betOrBillboard
 folha.uol.com.br##.block--pub-super
 escolhaviajar.com##.bos_searchbox_widget_class
