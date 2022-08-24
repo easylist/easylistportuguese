@@ -23,6 +23,7 @@ brasilescola.uol.com.br##.corpoPubli
 cidadesnanet.com##.g
 divirtasemais.com.br##.hdr-pub
 paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-items-center
+metropoles.com##.m-banner-wrap
 uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
 otempo.com.br##.menu-sites
