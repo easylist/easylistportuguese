@@ -23,6 +23,7 @@ ig.com.br##.betOrBillboard
 folha.uol.com.br##.block--pub-super
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
+tribunapr.uol.com.br##.cardads
 brasilescola.uol.com.br##.corpoPubli
 cidadesnanet.com##.g
 divirtasemais.com.br##.hdr-pub
