@@ -2,6 +2,7 @@
 ###ads-recentes-home-2
 ###taboola-below-article-thumbnails-recos-reel
 ###taboola-home-page
+##.ad-teste
 ##.ads-colunistas-down-2
 ##.ads-eventos
 ##.ads-noticia-main

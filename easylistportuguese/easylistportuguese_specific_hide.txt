@@ -1,5 +1,7 @@
 crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
+conjur.com.br###leaderboard1
+conjur.com.br###leaderboard2
 ig.com.br###mrec2
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
