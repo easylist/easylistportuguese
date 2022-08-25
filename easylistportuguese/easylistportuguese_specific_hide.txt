@@ -37,6 +37,7 @@ correiobraziliense.com.br##.patrocinado
 redetv.uol.com.br##.pub-box
 brasilescola.uol.com.br##.publi-dir
 brasildefato.com.br##.spotlight-view
+myfilmestorrent.net##a[href^="/free.php?"]
 migalhas.com.br##app-wt-servico-banner-v01
 estadao.com.br##div[class^="styles__Container-sc-"]
 moneytimes.com.br##div[id^="banner-top"]
