@@ -19,6 +19,8 @@ brasilescola.uol.com.br##.area-publi-topo
 natelinha.uol.com.br##.arroba-texto
 gazetadopovo.com.br,semprefamilia.com.br,umdoisesportes.com.br##.banner-topo
 natelinha.uol.com.br##.banner_conteudo
+techbreak.ig.com.br##.banner_interna
+techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
 folha.uol.com.br##.block--pub-super
 escolhaviajar.com##.bos_searchbox_widget_class
