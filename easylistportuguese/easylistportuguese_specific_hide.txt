@@ -38,6 +38,7 @@ minhavida.com.br##.mvn-announcement
 correiobraziliense.com.br##.patrocinado
 redetv.uol.com.br##.pub-box
 brasilescola.uol.com.br##.publi-dir
+ig.com.br##.publicidade
 brasildefato.com.br##.spotlight-view
 myfilmestorrent.net##a[href^="/free.php?"]
 migalhas.com.br##app-wt-servico-banner-v01

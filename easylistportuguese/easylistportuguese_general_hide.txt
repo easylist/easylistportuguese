@@ -81,7 +81,6 @@
 ##.nzn-ads-rectangle
 ##.pub-bloco
 ##.pubLabel
-##.pub_300x250
 ##.pub_first
 ##.pub_insert_content
 ##.pub_insert_content_titulo
