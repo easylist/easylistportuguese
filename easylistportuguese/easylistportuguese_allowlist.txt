@@ -1,5 +1,7 @@
 @@||g.doubleclick.net/tag/js/gpt.js$script,domain=drogasil.com.br
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=terra.com.br
+@@||pubads.g.doubleclick.net/gampad/$image,domain=rainha.com.br
+@@||tpc.googlesyndication.com/simgad/$image,domain=rainha.com.br
 !
 @@.br/banners/$domain=bvirtual.com.br|roupaprofissional.com.br
 @@.pt/images/banners/$domain=estilomma.pt|fct.pt|ipb.pt
