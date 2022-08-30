@@ -2,7 +2,7 @@
 ||correiodolago.com.br/site/up/popup/
 ||portalmorada.com.br/assets/uploads/ads_
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=myfilmestorrent.net|netcine.to|vizer.tv
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=filmehdonline.site|myfilmestorrent.net|netcine.to|vizer.tv
 !
 /_next/image?url=*s3.amazonaws.com$domain=maisesports.com.br
 /anuncy/ups/ads^$image,domain=geralinks.com.br
