@@ -1,5 +1,6 @@
 ||correiodolago.com.br/site/up/banners/
 ||correiodolago.com.br/site/up/popup/
+||portalmorada.com.br/assets/uploads/ads_
 !
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=myfilmestorrent.net|netcine.to|vizer.tv
 !
