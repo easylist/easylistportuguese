@@ -1,3 +1,5 @@
+uol.com.br#@#div[data-adunit]
+!
 bb.com.br#@#.ad-row
 brasilescola.uol.com.br#@#.banner
 avantajadas.com.br#@#a[href^="https://www.avantajadas.com.br/"]
