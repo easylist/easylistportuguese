@@ -37,7 +37,9 @@ adorocinema.com##.main-banner
 otempo.com.br##.menu-sites
 minhavida.com.br##.mvn-announcement
 correiobraziliense.com.br##.patrocinado
+cnnportugal.iol.pt##.patrocinadosWrapper
 redetv.uol.com.br##.pub-box
+cnnportugal.iol.pt##.pubWrapper
 brasilescola.uol.com.br##.publi-dir
 ig.com.br##.publicidade
 brasildefato.com.br##.spotlight-view
