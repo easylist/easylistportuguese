@@ -30,6 +30,7 @@ portalmorada.com.br##.carousel
 brasilescola.uol.com.br##.corpoPubli
 cidadesnanet.com##.g
 divirtasemais.com.br##.hdr-pub
+meo.pt##.iol-comercial-placement
 paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-items-center
 metropoles.com##.m-banner-wrap
 uol.com.br##.magazine-cover
@@ -38,6 +39,7 @@ otempo.com.br##.menu-sites
 minhavida.com.br##.mvn-announcement
 correiobraziliense.com.br##.patrocinado
 cnnportugal.iol.pt##.patrocinadosWrapper
+beachcam.meo.pt##.poweredBy
 redetv.uol.com.br##.pub-box
 cnnportugal.iol.pt##.pubWrapper
 brasilescola.uol.com.br##.publi-dir
