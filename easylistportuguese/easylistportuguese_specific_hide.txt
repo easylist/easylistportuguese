@@ -39,6 +39,7 @@ otempo.com.br##.menu-sites
 minhavida.com.br##.mvn-announcement
 correiobraziliense.com.br##.patrocinado
 cnnportugal.iol.pt##.patrocinadosWrapper
+iol.pt##.plista
 beachcam.meo.pt##.poweredBy
 iol.pt##.pub
 redetv.uol.com.br##.pub-box
