@@ -40,6 +40,7 @@ minhavida.com.br##.mvn-announcement
 correiobraziliense.com.br##.patrocinado
 cnnportugal.iol.pt##.patrocinadosWrapper
 beachcam.meo.pt##.poweredBy
+iol.pt##.pub
 redetv.uol.com.br##.pub-box
 cnnportugal.iol.pt##.pubWrapper
 brasilescola.uol.com.br##.publi-dir
@@ -257,7 +258,7 @@ olhardireto.com.br##.popup
 odia.ig.com.br##.ppAnchorWidthAd
 lelivros.love##.product_meta
 ig.com.br##.promotion
-acorianooriental.pt,destak.pt,estrelando.com.br,europa-agricola.pt,flash.pt,iol.pt,jornaldenegocios.pt,record.pt##.pub
+acorianooriental.pt,destak.pt,estrelando.com.br,europa-agricola.pt,flash.pt,jornaldenegocios.pt,record.pt##.pub
 noticiasaominuto.com,noticiasaominuto.com.br##.pub-container
 correiobraziliense.com.br##.pub-hal
 correiobraziliense.com.br##.pub-hor
