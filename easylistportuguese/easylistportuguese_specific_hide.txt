@@ -17,6 +17,7 @@ clicrbs.com.br,somosfanaticos.fans##.ad-container
 correioweb.com.br,odia.ig.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
 revistaoeste.com##.ads-container
 clicrbs.com.br##.ads-section-area.area.container-area
+noticiasautomotivas.com.br##.ai-viewport-1
 estadao.com.br##.ajuste-banner
 forbes.com.br##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
