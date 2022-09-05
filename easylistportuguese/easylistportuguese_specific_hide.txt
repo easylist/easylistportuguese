@@ -52,6 +52,7 @@ cnnportugal.iol.pt##.pubWrapper
 brasilescola.uol.com.br##.publi-dir
 ig.com.br##.publicidade
 brasildefato.com.br##.spotlight-view
+automotivebusiness.com.br##[href*="bit.ly/"]
 myfilmestorrent.net##a[href^="/free.php?"]
 migalhas.com.br##app-wt-servico-banner-v01
 estadao.com.br##div[class^="styles__Container-sc-"]
@@ -308,9 +309,6 @@ ativo.com##.widget_super_banner_shortcode
 fimdalinha.com.br##.wp-container-2
 moznews.co.mz##.wpb_content_element
 cenariomt.com.br##.wpb_wrapper.td_block_single_image
-<<<<<<< HEAD
-=======
->>>>>>> 992a94a4e5a9156409397fbf9e9986cb3ec66a41
 mangalivre.net##[amazon-offers-list]
 erasmusu.com##[class*="ad-banner-"]
 nsctotal.com.br##[class^="AdUnit_"]
