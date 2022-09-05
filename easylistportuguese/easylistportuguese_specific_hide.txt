@@ -34,6 +34,7 @@ cnnbrasil.com.br##.branded_content
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 brasilescola.uol.com.br##.corpoPubli
+jornaldocarro.estadao.com.br##.dunlop
 cidadesnanet.com##.g
 divirtasemais.com.br##.hdr-pub
 meo.pt##.iol-comercial-placement
