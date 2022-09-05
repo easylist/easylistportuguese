@@ -3,10 +3,14 @@ oantagonista.uol.com.br###gpt_box_sidebar
 conjur.com.br###leaderboard1
 conjur.com.br###leaderboard2
 ig.com.br###mrec2
+exame.com###noticias_relacionadas_pos_1
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
 otempo.com.br###pub-sidebar
 ig.com.br###superbanner
+exame.com###veja_tambem_pos_1
+exame.com###veja_tambem_pos_2
+exame.com###veja_tambem_pos_3
 purepeople.com.br###wb_contents_top
 atribuna.com.br##.ad
 clicrbs.com.br,somosfanaticos.fans##.ad-container
