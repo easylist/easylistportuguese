@@ -35,7 +35,7 @@ tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 brasilescola.uol.com.br##.corpoPubli
 jornaldocarro.estadao.com.br##.dunlop
-cidadesnanet.com##.g
+autoentusiastas.com.br,cidadesnanet.com##.g
 divirtasemais.com.br##.hdr-pub
 meo.pt##.iol-comercial-placement
 jornaldocarro.estadao.com.br##.jc-saiba-mais
