@@ -25,6 +25,7 @@ ig.com.br##.betOrBillboard
 folha.uol.com.br##.block--pub-super
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
+cnnbrasil.com.br##.branded_content
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 brasilescola.uol.com.br##.corpoPubli
