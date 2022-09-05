@@ -35,6 +35,7 @@ braziljournal.com##.brandedcontent
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 brasilescola.uol.com.br##.corpoPubli
+hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
 autoentusiastas.com.br,cidadesnanet.com##.g
 divirtasemais.com.br##.hdr-pub
