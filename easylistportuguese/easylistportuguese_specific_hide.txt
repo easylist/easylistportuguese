@@ -53,7 +53,7 @@ cnnportugal.iol.pt##.pubWrapper
 brasilescola.uol.com.br##.publi-dir
 ig.com.br##.publicidade
 brasildefato.com.br##.spotlight-view
-autoo.com.br##.visible-desktop
+autoo.com.br,motoo.com.br##.visible-desktop
 automotivebusiness.com.br##[href*="bit.ly/"]
 myfilmestorrent.net##a[href^="/free.php?"]
 migalhas.com.br##app-wt-servico-banner-v01
