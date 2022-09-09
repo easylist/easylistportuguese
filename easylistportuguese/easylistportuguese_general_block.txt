@@ -1,7 +1,6 @@
 -publicidade.
 .br/afiliados/$domain=~shopping.bancointer.com.br
 .br/banner.aspx?
-.br/banners/
 .br/imagensdb/banners/
 .br/swf/banners/
 .clickafiliados.
@@ -9,7 +8,6 @@
 .com/afiliados/
 .cv/images/pubs/
 .cv/pub/
-.pt/images/banners/
 .publicidade.
 //adware.
 /adshotbrasil1.
