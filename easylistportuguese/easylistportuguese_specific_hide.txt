@@ -46,6 +46,7 @@ paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-
 metropoles.com##.m-banner-wrap
 uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
+diariorp.com.br##.mdl_container
 otempo.com.br##.menu-sites
 minhavida.com.br##.mvn-announcement
 correiobraziliense.com.br##.patrocinado
@@ -58,6 +59,7 @@ cnnportugal.iol.pt##.pubWrapper
 brasilescola.uol.com.br##.publi-dir
 ig.com.br##.publicidade
 brasildefato.com.br##.spotlight-view
+diariorp.com.br##.td-a-rec
 blogmarcosfrahm.com##.text-2
 autoo.com.br,motoo.com.br##.visible-desktop
 climatempo.com.br##.wrapper-banner
