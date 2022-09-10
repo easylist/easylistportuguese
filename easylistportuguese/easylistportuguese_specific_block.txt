@@ -1,3 +1,7 @@
+||aniclube.app/noping/
+||animeslog.com/noping/
+||animesonlinebr.net/noping/
+||animesonlinep.com/noping/
 ||ansa.com.br/fiat/
 ||ansa.com.br/tim/
 ||ansabrasil.com.br^*/banner/
@@ -5,6 +9,8 @@
 ||correiodolago.com.br/site/up/popup/
 ||geralinks.com.br^*/ads/
 ||portalmorada.com.br/assets/uploads/ads_
+||soanimes.net/noping/
+||superhentai.online/noping/
 !
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=filmehdonline.site|myfilmestorrent.net|netcine.to
 !
