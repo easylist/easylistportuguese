@@ -17,7 +17,7 @@ purepeople.com.br###wb_contents_top
 marriedgames.com.br##.aawp
 atribuna.com.br##.ad
 clicrbs.com.br,somosfanaticos.fans##.ad-container
-correioweb.com.br,odia.ig.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
+correioweb.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
 revistaoeste.com##.ads-container
 clicrbs.com.br##.ads-section-area.area.container-area
 noticiasautomotivas.com.br##.ai-viewport-1
@@ -54,6 +54,7 @@ adorocinema.com##.main-banner
 diariorp.com.br##.mdl_container
 otempo.com.br##.menu-sites
 minhavida.com.br##.mvn-announcement
+sbt.com.br##.notices-ads
 correiobraziliense.com.br##.patrocinado
 cnnportugal.iol.pt##.patrocinadosWrapper
 iol.pt##.plista
