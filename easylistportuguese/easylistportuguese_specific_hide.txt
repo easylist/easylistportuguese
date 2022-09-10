@@ -57,6 +57,11 @@ beachcam.meo.pt##.poweredBy
 iol.pt##.pub
 redetv.uol.com.br##.pub-box
 cnnportugal.iol.pt##.pubWrapper
+acordacidade.com.br##.publi-1
+acordacidade.com.br##.publi-2
+acordacidade.com.br##.publi-3
+acordacidade.com.br##.publi-4
+acordacidade.com.br##.publi-5
 brasilescola.uol.com.br##.publi-dir
 ig.com.br##.publicidade
 maisesports.com.br##.sc-af71c8f-3
