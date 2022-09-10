@@ -39,7 +39,7 @@ portalmorada.com.br##.carousel
 brasilescola.uol.com.br##.corpoPubli
 hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
-autoentusiastas.com.br,cidadesnanet.com##.g
+autoentusiastas.com.br,cidadesnanet.com,radar64.com##.g
 divirtasemais.com.br##.hdr-pub
 meo.pt##.iol-comercial-placement
 jornaldocarro.estadao.com.br##.jc-saiba-mais
