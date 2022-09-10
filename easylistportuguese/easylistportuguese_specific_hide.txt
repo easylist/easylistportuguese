@@ -69,6 +69,7 @@ brasilescola.uol.com.br##.publi-dir
 ig.com.br##.publicidade
 maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
+97news.com.br##.sidebar_widget_banner
 brasildefato.com.br##.spotlight-view
 diariorp.com.br##.td-a-rec
 blogmarcosfrahm.com##.text-2
