@@ -1,3 +1,5 @@
+||iili.io^$domain=politicosdosuldabahia.com.br
+||imgur.com^$domain=politicosdosuldabahia.com.br
 ||publyads.jstag.space^
 !
 ||cdnaqw.com/script^$third-party

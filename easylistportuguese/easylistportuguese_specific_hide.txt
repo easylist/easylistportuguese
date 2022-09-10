@@ -69,6 +69,7 @@ moneytimes.com.br##div[id^="banner-top"]
 escolhaviajar.com##div[id^="escol-"]
 estrelando.com.br##div[style*="width: 300px; height: 250px;"]
 cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com##img[width="300"]
+politicosdosuldabahia.com.br##img[width="728"]
 ! Advanced element hiding rules for Adblock Plus
 correioweb.com.br#?#.post--hardnews.call-uai:-abp-has(a:-abp-contains(CONTEÚDO PATROCINADO))
 omirante.pt#?#.fbox.swidgets-wrap.widget.widget_block.widget_media_image:-abp-has(figcaption)
