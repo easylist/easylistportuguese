@@ -73,7 +73,7 @@ brasildefato.com.br##.spotlight-view
 diariorp.com.br##.td-a-rec
 blogmarcosfrahm.com##.text-2
 autoo.com.br,motoo.com.br##.visible-desktop
-climatempo.com.br##.wrapper-banner
+climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 automotivebusiness.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
 myfilmestorrent.net##a[href^="/free.php?"]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
