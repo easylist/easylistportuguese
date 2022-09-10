@@ -60,6 +60,7 @@ ig.com.br##.publicidade
 brasildefato.com.br##.spotlight-view
 blogmarcosfrahm.com##.text-2
 autoo.com.br,motoo.com.br##.visible-desktop
+climatempo.com.br##.wrapper-banner
 automotivebusiness.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
 myfilmestorrent.net##a[href^="/free.php?"]
 migalhas.com.br##app-wt-servico-banner-v01
@@ -72,6 +73,8 @@ estrelando.com.br##div[style*="width: 300px; height: 250px;"]
 cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com##img[width="300"]
 politicosdosuldabahia.com.br##img[width="728"]
 ! Advanced element hiding rules for Adblock Plus
+climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto)
+climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto) + div > .card-coupons
 correioweb.com.br#?#.post--hardnews.call-uai:-abp-has(a:-abp-contains(CONTEÚDO PATROCINADO))
 omirante.pt#?#.fbox.swidgets-wrap.widget.widget_block.widget_media_image:-abp-has(figcaption)
 !
