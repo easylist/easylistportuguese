@@ -5,11 +5,13 @@
 ##.ad-teste
 ##.ads-colunistas-down-2
 ##.ads-eventos
+##.ads-fixo
 ##.ads-noticia-main
 ##.ads-oferecimento
 ##.adsNoticiaRodape
 ##.bloco-publicidade
 ##.container-publicidade-mrec1
+##.publicidade-728
 ##.publicidade-info-mobile
 ##.publicidade-lateral
 ##.publicidade-pequena
