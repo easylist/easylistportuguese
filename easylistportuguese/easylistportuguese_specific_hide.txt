@@ -58,6 +58,7 @@ cnnportugal.iol.pt##.pubWrapper
 brasilescola.uol.com.br##.publi-dir
 ig.com.br##.publicidade
 brasildefato.com.br##.spotlight-view
+blogmarcosfrahm.com##.text-2
 autoo.com.br,motoo.com.br##.visible-desktop
 automotivebusiness.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
 myfilmestorrent.net##a[href^="/free.php?"]
