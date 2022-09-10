@@ -26,6 +26,7 @@ natelinha.uol.com.br##.arroba-texto
 gazetadopovo.com.br,semprefamilia.com.br,umdoisesportes.com.br##.banner-topo
 natelinha.uol.com.br##.banner_conteudo
 techbreak.ig.com.br##.banner_interna
+bahianoticias.com.br##.banners_topo
 techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
 folha.uol.com.br##.block--pub-super
