@@ -8,6 +8,7 @@ exame.com###noticias_relacionadas_pos_1
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
 otempo.com.br###pub-sidebar
+solutudo.com.br###stickyContainer
 ig.com.br###superbanner
 exame.com###veja_tambem_pos_1
 exame.com###veja_tambem_pos_2
@@ -41,6 +42,7 @@ brasilescola.uol.com.br##.corpoPubli
 hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
 autoentusiastas.com.br,cidadesnanet.com,radar64.com##.g
+solutudo.com.br##.go_bnr_wr
 divirtasemais.com.br##.hdr-pub
 meo.pt##.iol-comercial-placement
 jornaldocarro.estadao.com.br##.jc-saiba-mais
@@ -66,6 +68,7 @@ acordacidade.com.br##.publi-5
 brasilescola.uol.com.br##.publi-dir
 ig.com.br##.publicidade
 maisesports.com.br##.sc-af71c8f-3
+solutudo.com.br##.section-banner-arroba
 brasildefato.com.br##.spotlight-view
 diariorp.com.br##.td-a-rec
 blogmarcosfrahm.com##.text-2
