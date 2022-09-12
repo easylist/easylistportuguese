@@ -7,7 +7,6 @@
 ||*link*.$domain=porn24horas.com
 ||bserver.gp-guia.net^$subdocument
 ||cameracaseira.com^$script,domain=videosdesuavizinha.com
-||colmeia.blog.br$image,third-party
 ||contoerotico.com/adscod/
 ||eliteacompanhantes.com.br^$subdocument,domain=avantajadas.com.br
 ||gp-pt.net/forum/banners/$image
