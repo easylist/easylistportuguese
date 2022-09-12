@@ -1,4 +1,5 @@
 ||busktraffic.com^$third-party
+||maxfullad.com^$third-party
 !
 ||avantajadas.com.br^$third-party
 ||bonfiresaltymilk.com^$third-party
