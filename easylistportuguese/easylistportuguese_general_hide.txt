@@ -15,6 +15,7 @@
 ##.publicidade-info-mobile
 ##.publicidade-lateral
 ##.publicidade-pequena
+##.publicidade-rodape
 ##.publicidade-title
 ##.publicidade_artigo_mobile
 ##.textPublicidade
