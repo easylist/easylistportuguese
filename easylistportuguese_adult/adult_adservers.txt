@@ -1,3 +1,4 @@
+||anunciad.com.br^$third-party
 ||busktraffic.com^$third-party
 ||maxfullad.com^$third-party
 !
