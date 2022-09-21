@@ -116,7 +116,6 @@
 ||streamix.tv/ST300X600.gif^
 ||tenhomaisdiscosqueamigos.com/wp-content/uploads/*-bg.jpg
 ||terraempresas.com.br/backup/promo/
-||teutorrent.theproxy.ws/helper-js*/$script
 ||third-party.animekisa.tv/grabinfo.php^
 ||tugaflix.me/bettilt.php?
 ||uploaddeimagens.com.br/images/*/full/button-*.png^$image,domain=querofilmeshd.co

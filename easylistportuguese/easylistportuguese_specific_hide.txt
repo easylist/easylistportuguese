@@ -1,4 +1,5 @@
 acheisudoeste.com.br###bannerflutuante
+dramaclub.one###custom_html-2
 crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
 conjur.com.br###leaderboard1
@@ -79,7 +80,7 @@ solutudo.com.br##.section-banner-arroba
 brasildefato.com.br##.spotlight-view
 diariorp.com.br##.td-a-rec
 blogmarcosfrahm.com##.text-2
-uol.com.br##.up-floating
+tvpop.com.br,uol.com.br##.up-floating
 autoo.com.br,motoo.com.br##.visible-desktop
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 automotivebusiness.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
@@ -130,7 +131,6 @@ baixaki.com.br###bxk_program_halfpage
 baixaki.com.br###bxk_program_square
 connectparts.com.br###carvizion-publicidade
 vagalume.com.br###cazamba_vagalume_passback_container
-multicanais.tv###cb-banner-modal-content
 tvcanais.online###custom_html-10
 arnolds.com.br,baboo.com.br###custom_html-2
 final.com.br,iloveiptv.org###custom_html-3
@@ -432,7 +432,7 @@ brasilescola.uol.com.br##div[style="width: 300px; height: 591px;"]
 brasilescola.uol.com.br##div[style="width: 300px; height: 600px;"]
 agoravale.com.br##div[style^="background:#FFF"]
 em.com.br#?#small:-abp-contains(Publicidade)
-animeyabu.com,clipconverter.cc,freeplayervideo.com,goyabu.com,mangayabu.top,megafilmeshd50.com,multicanais.app,multicanais.tv,multicanais.video,multicanais.vip,netcine.ch,olhosnatv.com.br,querofilmehd.net,querofilmehd.xyz,superflix.io,superflix.plus##iframe[style*="z-index: 2147483647"]
+animeyabu.com,clipconverter.cc,freeplayervideo.com,goyabu.com,mangayabu.top,megafilmeshd50.com,multicanais.app,multicanais.video,multicanais.vip,netcine.ch,olhosnatv.com.br,querofilmehd.net,querofilmehd.xyz,superflix.io,superflix.plus##iframe[style*="z-index: 2147483647"]
 inglesnoteclado.com.br##img[alt="anúncio"]
 portalarauto.com.br##img[alt^="PUBLICIDADE"]
 animesgratisbr.biz##img[title^="Assistir Hentai"]

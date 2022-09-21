@@ -13,11 +13,10 @@ $popup,third-party,domain=cillylovers.com|filmesonlinehdgratis.com.br|futemax.gr
 ||i.imgur.com^$popup,domain=jogostorrents.site
 ||landings.ncm*.com^$popup,domain=mrpiracy.top
 ||megafilmeseseriesonline.com*/logo$popup
-||multicanais.tv/wp-content/uploads/2021/07/MULTICANAIS-TV-ONLINE.png$popup
 ||pontogay.com^$popup,domain=fbsquadz.com
 ||topflix.fm/images/logo1.png$popup
 ||uqload.com/img/player_logo.png$popup
 ! about:blank popups
 |about:blank#$popup,domain=hqq.to
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=animesonehd.xyz|animesup.biz|animeyabu.com|cinevisionv4.online|filmeseries.top|filmeserietorrent.net|futemax.app|gofilmes.me|gustavortech.com|hdfilmesonlinegratis.pro|jogostorrents.site|megafilmeshd20.pro|megafilmeshd50.com|megafilmeshdd.online|multicanais.app|multicanais.tv|multicanais.video|multicanais.vip|olhosnatv.com.br|pobreflix.top|querofilmehd.net|querofilmehd.xyz|seriesgratis.biz|superflix.biz|superflix.club|superflix.io|superflix.plus|temseries.online|torrentdosfilmeshd2.net|tugaflix.me|vizer.vip|yayanimes.net|zfilmesonline.net
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=animesonehd.xyz|animesup.biz|animeyabu.com|cinevisionv4.online|filmeseries.top|filmeserietorrent.net|futemax.app|gofilmes.me|gustavortech.com|hdfilmesonlinegratis.pro|jogostorrents.site|megafilmeshd20.pro|megafilmeshd50.com|megafilmeshdd.online|multicanais.app|multicanais.video|multicanais.vip|olhosnatv.com.br|pobreflix.top|querofilmehd.net|querofilmehd.xyz|seriesgratis.biz|superflix.biz|superflix.club|superflix.io|superflix.plus|temseries.online|torrentdosfilmeshd2.net|tugaflix.me|vizer.vip|yayanimes.net|zfilmesonline.net
