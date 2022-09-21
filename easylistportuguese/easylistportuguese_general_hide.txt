@@ -9,6 +9,9 @@
 ##.ads-noticia-main
 ##.ads-oferecimento
 ##.adsNoticiaRodape
+##.ads_uol_300x250
+##.ads_uol_728x90
+##.ads_uol_970x250
 ##.bloco-publicidade
 ##.container-publicidade-mrec1
 ##.publicidade-728
