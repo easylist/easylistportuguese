@@ -39,6 +39,7 @@ cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
+natelinha.uol.com.br##.content-banner
 brasilescola.uol.com.br##.corpoPubli
 hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
@@ -75,6 +76,7 @@ solutudo.com.br##.section-banner-arroba
 brasildefato.com.br##.spotlight-view
 diariorp.com.br##.td-a-rec
 blogmarcosfrahm.com##.text-2
+uol.com.br##.up-floating
 autoo.com.br,motoo.com.br##.visible-desktop
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 automotivebusiness.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
