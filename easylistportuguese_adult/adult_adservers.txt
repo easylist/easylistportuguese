@@ -1,5 +1,6 @@
 ||anunciad.com.br^$third-party
 ||busktraffic.com^$third-party
+||clickadsxxx.com^$third-party
 ||maxfullad.com^$third-party
 !
 ||avantajadas.com.br^$third-party

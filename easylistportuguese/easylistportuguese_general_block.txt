@@ -1,3 +1,5 @@
+/ads/anuncio.
+!
 -publicidade.
 .br/afiliados/$domain=~shopping.bancointer.com.br
 .br/banner.aspx?
