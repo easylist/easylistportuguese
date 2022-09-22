@@ -66,6 +66,7 @@ iol.pt##.plista
 beachcam.meo.pt##.poweredBy
 iol.pt##.pub
 redetv.uol.com.br##.pub-box
+redetv.uol.com.br##.pub-topo
 cnnportugal.iol.pt##.pubWrapper
 acordacidade.com.br##.publi-1
 acordacidade.com.br##.publi-2
