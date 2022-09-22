@@ -18,6 +18,7 @@ aumenteseutesao.com##a[href^="https://www.sexlog.com/"][href*="?partner="]
 sonovinhasbr.com##img[alt="anuncio"]
 ! Advanced element hiding rules for Adblock Plus
 sexprime.xxx#?#.thumb-block:-abp-has(.thumb-adlert:-abp-contains(ADS))
+videosdesuavizinha.com#?#.post.last:-abp-has(a[href^="https://grupoxxx.com/"])
 !
 nudelas.com###adstopo
 minhamulher.com###arquivop

@@ -25,6 +25,7 @@
 ##.tgad-card
 ##.tgad-top
 ##.tgads-center
+##a[href^="https://grupoxxx.com/"]
 !
 ###Publicidade
 ###ad-video-inread--wrapper
