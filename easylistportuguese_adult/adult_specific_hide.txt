@@ -1,17 +1,23 @@
+travestisvip.com.br###bnrVideosTravestis
 novinhasdozapzap.com###text-73
 fadadosexo.com,tatarada.com.br##.Marquee
-fotoscaiunanet.com,hentaibrasil.org,hentaikai.com,pornocarioca.com##.anuncios
+fotoscaiunanet.com,hentaibrasil.org,hentaikai.com,meuhentai.com,pornocarioca.com,sonovinhasbr.com##.anuncios
 contosdesexo.com##.banner
 classificadosxbr.com##.bannergroup
 cnnamador.com,xvideos9.com,xvideosincesto.com##.banners
 pornomineiro.com##.clma12d04
+sexprime.xxx##.execphpwidget
 linkgp.com.br##.nativo-links
+travestisvip.com.br##.playerBnr
 sandrinha.com.br##.post-banners
 fadadosexo.com##.propagandas
 naoconto.com##a[href^="http://mon.net.br/"]
 blogcorno.com##a[href^="https://app.monetizze.com.br/"]
+travestisvip.com.br##a[href^="https://www.avantajadas.com.br/"]
 aumenteseutesao.com##a[href^="https://www.sexlog.com/"][href*="?partner="]
-sonovinhasbr.com##a[title="anuncio"]
+sonovinhasbr.com##img[alt="anuncio"]
+! Advanced element hiding rules for Adblock Plus
+sexprime.xxx#?#.thumb-block:-abp-has(.thumb-adlert:-abp-contains(ADS))
 !
 nudelas.com###adstopo
 minhamulher.com###arquivop
@@ -27,9 +33,7 @@ famosasbrasil.net##.anuncio
 filmesporno.com.br,gostosaspornosafadas.com,gostosastube.net,porn24horas.com,superhqdesexo.com,terceiroz.com##.anuncios
 hdpornpics.net##.back
 sonovinhasbr.com##.bannerpaginacao
-quadrinhosdesexo.com##.cn-advertising
 tsumino.com##.erogames_container
-sexprime.xxx##.execphpwidget
 pornolandia.xxx##.hd-text-icon
 minhamulher.com##.header-primeiro
 mclass.com##.landscape_bnr
@@ -47,19 +51,15 @@ pornolgbt.com.br##[title*="Novinhas Nudes"]
 minhamulher.com##a[href^="https://banners.adultfriendfinder.com/"]
 naoconto.com##a[href^="https://camerahot.com"]
 filmesporno.com.br,pornobrasileiro.tv##a[href^="https://ev.braip.com/"]
-xvideos-xxx.com##a[href^="https://loboclick.com"]
 bandeiradois.blog.br##a[href^="https://www.californiatv.com.br"]
 pornomineiro.com##a[href^="https://www.guiaadulto.com"]
 naoconto.com##a[href^="https://www.vivalocal.com"]
 meuscontoseroticos.com##a[rel^="nofollow"]
-videosdesuavizinha.com##a[title^="Acompanhantes"]
 hdpornpics.net#?#.money:-abp-has(.century:-abp-contains(ADS))
 tsumino.com##li > [href^="https://erogames.com"]
 nudelas.com##li[id^="njads_single_widget-"]
 meuscontoseroticos.com#?#:-abp-has(> a > div > div > span.thumb-ads)
 meuscontoseroticos.com#?#:-abp-has(> div.contoConteudo > div.conto-thumb > a[rel^="nofollow"])
 porno16.com#?#.thumb-block:-abp-has([data-ads="1"])
-sexprime.xxx#?#.thumb-block:-abp-has(.thumb-adlert:-abp-contains(ADS))
 sonovinhasbr.com#?#.post:-abp-has(a[href^="https://canalvegas.com/"])
-xvideoporno.tv#?#article:-abp-has(a[href^="https://clickadsxxx.com/"])
 xvidios.xxx#?#.thumbBlock:-abp-has(a[href^="https://pagamento.xpague.com/"])

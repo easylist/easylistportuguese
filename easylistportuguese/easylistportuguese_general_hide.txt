@@ -103,4 +103,3 @@
 ##.section-pbl
 ##.sideBarAds
 ##.vip-section-advertising
-##a[href^="https://www.avantajadas.com.br/"]

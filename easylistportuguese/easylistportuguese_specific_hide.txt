@@ -125,7 +125,6 @@ globo.com###banner_vitrine
 netvasco.com.br###bannershorizontais
 delas.pt,motor24.pt,n-tv.pt,voltaaomundo.pt,womenshealth.pt###billboard
 uol.com.br###bloco-native-rodape
-travestisvip.com.br###bnrVideosTravestis
 baixarfilmetorrent.club###box
 baixaki.com.br###bxk_home_square
 baixaki.com.br###bxk_program_halfpage
@@ -294,7 +293,6 @@ dicionario.priberam.org##.pb-pub-1, .pb-pub-2, .pb-pub-3, .pb-pub-4, .pb-pub-5, 
 priberam.org##.pb-pub-message
 dicionario.priberam.org##.pb-pub-mobile-banner
 guiadasemana.com.br##.placement
-travestisvip.com.br##.playerBnr
 olhardireto.com.br##.popup
 odia.ig.com.br##.ppAnchorWidthAd
 lelivros.love##.product_meta
