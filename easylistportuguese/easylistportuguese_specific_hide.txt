@@ -57,6 +57,7 @@ metropoles.com##.m-banner-wrap
 uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
 diariorp.com.br##.mdl_container
+tempo.pt##.megabanner
 otempo.com.br##.menu-sites
 minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
@@ -74,6 +75,7 @@ acordacidade.com.br##.publi-3
 acordacidade.com.br##.publi-4
 acordacidade.com.br##.publi-5
 brasilescola.uol.com.br##.publi-dir
+tempo.pt##.publicidad-pie
 ig.com.br##.publicidade
 maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
