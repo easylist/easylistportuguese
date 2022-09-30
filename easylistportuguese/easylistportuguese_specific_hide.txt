@@ -38,6 +38,7 @@ bahianoticias.com.br##.banners_topo
 techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
 folha.uol.com.br##.block--pub-super
+brasilnaitalia.net##.bookingaff
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
 cnnbrasil.com.br##.branded_content
@@ -97,7 +98,7 @@ ojogo.pt##.t-pub-box-7
 dn.pt##.t-pubbox-ct-1
 tsf.pt##.t-pubbox-mrec-1
 tsf.pt##.t-section-sponsored
-diariorp.com.br##.td-a-rec
+brasilnaitalia.net,diariorp.com.br##.td-a-rec
 motor24.pt##.td-banner-wrap-full
 blogmarcosfrahm.com##.text-2
 tvpop.com.br,uol.com.br##.up-floating
