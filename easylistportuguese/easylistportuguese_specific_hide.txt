@@ -68,6 +68,7 @@ ojogo.pt##.mrec-status-l
 menshealth.pt,noticiasmagazine.pt##.mrec-wrapper
 minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
+observador.pt##.obs-ad-placeholder
 correiobraziliense.com.br##.patrocinado
 cnnportugal.iol.pt##.patrocinadosWrapper
 iol.pt##.plista
