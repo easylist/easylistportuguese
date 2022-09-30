@@ -50,6 +50,7 @@ tvpop.com.br##.elementor-element-75be78a
 autoentusiastas.com.br,cidadesnanet.com,radar64.com##.g
 solutudo.com.br##.go_bnr_wr
 divirtasemais.com.br##.hdr-pub
+tag.jn.pt##.hp-mrec
 meo.pt##.iol-comercial-placement
 jornaldocarro.estadao.com.br##.jc-saiba-mais
 paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-items-center
