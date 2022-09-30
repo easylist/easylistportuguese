@@ -16,6 +16,7 @@ exame.com###veja_tambem_pos_1
 exame.com###veja_tambem_pos_2
 exame.com###veja_tambem_pos_3
 purepeople.com.br###wb_contents_top
+cmjornal.pt###widget_comercial
 marriedgames.com.br##.aawp
 atribuna.com.br##.ad
 clicrbs.com.br,somosfanaticos.fans##.ad-container
@@ -61,6 +62,7 @@ adorocinema.com##.main-banner
 diariorp.com.br##.mdl_container
 tempo.pt##.megabanner
 otempo.com.br##.menu-sites
+cmjornal.pt##.mrec
 dinheirovivo.pt,dn.pt,jn.pt,ojogo.pt,tsf.pt##.mrec-status
 ojogo.pt##.mrec-status-l
 menshealth.pt,noticiasmagazine.pt##.mrec-wrapper
