@@ -90,6 +90,7 @@ dn.pt##.t-pubbox-ct-1
 tsf.pt##.t-pubbox-mrec-1
 tsf.pt##.t-section-sponsored
 diariorp.com.br##.td-a-rec
+motor24.pt##.td-banner-wrap-full
 blogmarcosfrahm.com##.text-2
 tvpop.com.br,uol.com.br##.up-floating
 autoo.com.br,motoo.com.br##.visible-desktop
