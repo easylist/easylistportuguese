@@ -1,3 +1,4 @@
+mundoeducacao.uol.com.br###banner-300x250-3-area
 acheisudoeste.com.br###bannerflutuante
 dramaclub.one###custom_html-2
 crusoe.uol.com.br###gpt-leaderboard
@@ -71,6 +72,7 @@ sbt.com.br##.notices-ads
 observador.pt##.obs-ad-placeholder
 correiobraziliense.com.br##.patrocinado
 cnnportugal.iol.pt##.patrocinadosWrapper
+mundoeducacao.uol.com.br##.pb_inner_content
 iol.pt##.plista
 beachcam.meo.pt##.poweredBy
 iol.pt##.pub
@@ -101,6 +103,7 @@ blogmarcosfrahm.com##.text-2
 tvpop.com.br,uol.com.br##.up-floating
 autoo.com.br,motoo.com.br##.visible-desktop
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
+mundoeducacao.uol.com.br##.wrapper-bnr
 automotivebusiness.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
 myfilmestorrent.net##a[href^="/free.php?"]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
