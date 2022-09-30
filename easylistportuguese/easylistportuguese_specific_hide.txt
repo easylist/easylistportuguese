@@ -83,7 +83,8 @@ maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
 97news.com.br##.sidebar_widget_banner
 brasildefato.com.br##.spotlight-view
-jn.pt##.t-pub-box-1
+jn.pt,ojogo.pt##.t-pub-box-1
+ojogo.pt##.t-pub-box-7
 dn.pt##.t-pubbox-ct-1
 tsf.pt##.t-pubbox-mrec-1
 tsf.pt##.t-section-sponsored
