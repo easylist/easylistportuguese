@@ -61,7 +61,7 @@ tempo.pt##.megabanner
 otempo.com.br##.menu-sites
 dinheirovivo.pt,dn.pt,jn.pt,ojogo.pt,tsf.pt##.mrec-status
 ojogo.pt##.mrec-status-l
-menshealth.pt##.mrec-wrapper
+menshealth.pt,noticiasmagazine.pt##.mrec-wrapper
 minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
 correiobraziliense.com.br##.patrocinado
