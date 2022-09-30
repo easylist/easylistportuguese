@@ -59,7 +59,7 @@ adorocinema.com##.main-banner
 diariorp.com.br##.mdl_container
 tempo.pt##.megabanner
 otempo.com.br##.menu-sites
-dn.pt,jn-pt,tsf.pt##.mrec-status
+dinheirovivo.pt,dn.pt,jn-pt,tsf.pt##.mrec-status
 menshealth.pt##.mrec-wrapper
 minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
