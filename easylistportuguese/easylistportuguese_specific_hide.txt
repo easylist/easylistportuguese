@@ -38,6 +38,10 @@ bahianoticias.com.br##.banners_topo
 techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
 folha.uol.com.br##.block--pub-super
+brasilnaitalia.net##.block-15
+brasilnaitalia.net##.block-2
+brasilnaitalia.net##.block-5
+brasilnaitalia.net##.block-6
 brasilnaitalia.net##.bookingaff
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
@@ -47,6 +51,7 @@ tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 natelinha.uol.com.br##.content-banner
 brasilescola.uol.com.br##.corpoPubli
+brasilnaitalia.net##.custom_html-5
 hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
 tvpop.com.br##.elementor-element-293988b0
