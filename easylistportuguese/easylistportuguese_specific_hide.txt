@@ -29,6 +29,7 @@ estadao.com.br##.ajuste-banner
 forbes.com.br##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
 natelinha.uol.com.br##.arroba-texto
+tntsports.com.br##.banner
 redegn.com.br##.banner-img
 sbtnews.com.br##.banner-list-notices-sd
 acheisudoeste.com.br,gazetadopovo.com.br,semprefamilia.com.br,umdoisesportes.com.br##.banner-topo
