@@ -21,7 +21,7 @@ cmjornal.pt###widget_comercial
 marriedgames.com.br##.aawp
 atribuna.com.br##.ad
 clicrbs.com.br,somosfanaticos.fans##.ad-container
-correioweb.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
+abril.com.br,correioweb.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
 revistaoeste.com##.ads-container
 clicrbs.com.br##.ads-section-area.area.container-area
 noticiasautomotivas.com.br##.ai-viewport-1
@@ -214,7 +214,7 @@ brasil247.com##.adBackground
 eutesalvo.com##.adHome
 eutesalvo.com##.adMedium
 pobre.tv##.adasd
-abril.com.br,em.com.br,gaz.com.br,grandepremio.com.br,infoescola.com,novojornal.co.ao,record.pt,tudocelular.com##.ads
+em.com.br,gaz.com.br,grandepremio.com.br,infoescola.com,novojornal.co.ao,record.pt,tudocelular.com##.ads
 uol.com.br##.ads-billboard
 geniol.com.br##.ads-margin-both
 agazeta.com.br##.ads-paragrafo
