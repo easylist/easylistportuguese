@@ -105,7 +105,8 @@ garagem360.com.br##div[id^="Position_"]
 moneytimes.com.br##div[id^="banner-top"]
 escolhaviajar.com##div[id^="escol-"]
 estrelando.com.br##div[style*="width: 300px; height: 250px;"]
-cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com##img[width="300"]
+revistamotos.pt##img[height="300"]
+cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com,revistamotos.pt##img[width="300"]
 politicosdosuldabahia.com.br##img[width="728"]
 ! Advanced element hiding rules for Adblock Plus
 climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto)
