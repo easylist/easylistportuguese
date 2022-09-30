@@ -59,7 +59,7 @@ adorocinema.com##.main-banner
 diariorp.com.br##.mdl_container
 tempo.pt##.megabanner
 otempo.com.br##.menu-sites
-dn.pt,jn-pt##.mrec-status
+dn.pt,jn-pt,tsf.pt##.mrec-status
 minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
 correiobraziliense.com.br##.patrocinado
@@ -84,6 +84,8 @@ solutudo.com.br##.section-banner-arroba
 brasildefato.com.br##.spotlight-view
 jn.pt##.t-pub-box-1
 dn.pt##.t-pubbox-ct-1
+tsf.pt##.t-pubbox-mrec-1
+tsf.pt##.t-section-sponsored
 diariorp.com.br##.td-a-rec
 blogmarcosfrahm.com##.text-2
 tvpop.com.br,uol.com.br##.up-floating
