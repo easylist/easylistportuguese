@@ -58,6 +58,7 @@ jornaldocarro.estadao.com.br##.dunlop
 tvpop.com.br##.elementor-element-293988b0
 tvpop.com.br##.elementor-element-75be78a
 autoentusiastas.com.br,cidadesnanet.com,radar64.com##.g
+exame.com##.gaOLck
 solutudo.com.br##.go_bnr_wr
 divirtasemais.com.br##.hdr-pub
 tag.jn.pt##.hp-mrec
