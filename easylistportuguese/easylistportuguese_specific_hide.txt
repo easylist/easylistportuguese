@@ -128,6 +128,8 @@ revistamotos.pt##img[height="300"]
 cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com,revistamotos.pt##img[width="300"]
 politicosdosuldabahia.com.br##img[width="728"]
 ! Advanced element hiding rules for Adblock Plus
+carrefour.com.br#?#.sc-bczRLJ:-abp-contains(Publicidade)
+carrefour.com.br#?#.vtex-flex-layout-0-x-flexColChild:-abp-contains(Publicidade)
 climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto)
 climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto) + div > .card-coupons
 correioweb.com.br#?#.post--hardnews.call-uai:-abp-has(a:-abp-contains(CONTEÚDO PATROCINADO))
