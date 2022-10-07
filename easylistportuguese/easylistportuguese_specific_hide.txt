@@ -1,6 +1,7 @@
 mundoeducacao.uol.com.br###banner-300x250-3-area
 acheisudoeste.com.br###bannerflutuante
 dramaclub.one###custom_html-2
+humordaterra.com###custom_html-6
 crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
 conjur.com.br###leaderboard1
@@ -26,7 +27,7 @@ revistaoeste.com##.ads-container
 clicrbs.com.br##.ads-section-area.area.container-area
 noticiasautomotivas.com.br##.ai-viewport-1
 estadao.com.br##.ajuste-banner
-forbes.com.br##.anuncio
+forbes.com.br,humordaterra.com##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
 natelinha.uol.com.br##.arroba-texto
 tntsports.com.br##.banner
@@ -110,6 +111,7 @@ tsf.pt##.t-section-sponsored
 brasilnaitalia.net,diariorp.com.br##.td-a-rec
 motor24.pt##.td-banner-wrap-full
 blogmarcosfrahm.com##.text-2
+humordaterra.com##.top_pub
 tvpop.com.br,uol.com.br##.up-floating
 autoo.com.br,motoo.com.br##.visible-desktop
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
