@@ -3,7 +3,8 @@ acheisudoeste.com.br###bannerflutuante
 dramaclub.one###custom_html-2
 euriodetudo.com.br###custom_html-3
 euriodetudo.com.br###custom_html-5
-humordaterra.com###custom_html-6
+acheilegall.com.br,humordaterra.com###custom_html-6
+acheilegall.com.br###custom_html-7
 crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
 conjur.com.br###leaderboard1

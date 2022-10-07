@@ -1,4 +1,5 @@
 ||formulanegocioonline.digital/marca-trafego/$third-party
+||go.hotmart.com^$third-party
 ||iili.io^$domain=politicosdosuldabahia.com.br
 ||imgur.com^$domain=politicosdosuldabahia.com.br
 ||publyads.jstag.space^
