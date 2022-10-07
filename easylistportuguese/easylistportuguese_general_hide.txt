@@ -19,6 +19,9 @@
 ##.ads_uol_970x250
 ##.bloco-publicidade
 ##.container-publicidade-mrec1
+##.mw-desk-bloco-ads-1
+##.mw-desk-bloco-ads-2
+##.mw-desk-bloco-ads-5
 ##.publicidade-728
 ##.publicidade-info-mobile
 ##.publicidade-lateral
