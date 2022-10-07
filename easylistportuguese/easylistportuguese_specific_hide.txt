@@ -62,8 +62,12 @@ brasilescola.uol.com.br##.corpoPubli
 brasilnaitalia.net##.custom_html-5
 hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
+obutecodanet.ig.com.br##.elementor-element-25abeb1
 tvpop.com.br##.elementor-element-293988b0
+obutecodanet.ig.com.br##.elementor-element-2a6fa6d
 tvpop.com.br##.elementor-element-75be78a
+obutecodanet.ig.com.br##.elementor-element-a6a8f53
+obutecodanet.ig.com.br##.elementor-element-d5820b2
 autoentusiastas.com.br,cidadesnanet.com,radar64.com##.g
 exame.com##.gaOLck
 solutudo.com.br##.go_bnr_wr
