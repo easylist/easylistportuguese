@@ -3,4 +3,5 @@
 ||clickadsxxx.com^$third-party
 ||grupoxxx.com^$third-party
 ||maxfullad.com^$third-party
+||project1service.com^$third-party
 ||xpowergel.com^$third-party
