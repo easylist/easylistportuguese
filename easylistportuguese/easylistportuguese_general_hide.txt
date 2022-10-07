@@ -38,6 +38,7 @@
 ##a[href^="http://mon.net.br/"]
 ##a[href^="https://clickadsxxx.com/"]
 ##a[href^="https://grupoxxx.com/"]
+##a[href^="https://www.e-consulters.com.br/sac/aff.php?aff="]
 !
 ###Publicidade
 ###ad-video-inread--wrapper

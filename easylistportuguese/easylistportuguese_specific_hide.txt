@@ -93,6 +93,7 @@ iol.pt##.pub
 euriodetudo.com.br##.pub-bottom-header
 redetv.uol.com.br##.pub-box
 noticiasaominuto.com##.pub-container-block
+vagandonanet.com.br##.pub-conteudo-300x250
 redetv.uol.com.br##.pub-topo
 cnnportugal.iol.pt##.pubWrapper
 acordacidade.com.br##.publi-1
