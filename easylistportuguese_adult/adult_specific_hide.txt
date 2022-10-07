@@ -13,7 +13,7 @@ contoseroticosbr.com##.custom-html-widget
 sexprime.xxx##.execphpwidget
 linkgp.com.br##.nativo-links
 travestisvip.com.br##.playerBnr
-sandrinha.com.br##.post-banners
+sandrinha.com.br,xxxvideo.blog.br##.post-banners
 fadadosexo.com##.propagandas
 sexosas.com##.watched-now-right
 contoseroticosbr.com,eoquetemprahj.com##[href*="bit.ly/"]
