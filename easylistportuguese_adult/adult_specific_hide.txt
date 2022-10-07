@@ -6,12 +6,13 @@ contosdesexo.com##.banner
 classificadosxbr.com##.bannergroup
 cnnamador.com,xvideos9.com,xvideosincesto.com##.banners
 pornomineiro.com##.clma12d04
+contoseroticosbr.com##.custom-html-widget
 sexprime.xxx##.execphpwidget
 linkgp.com.br##.nativo-links
 travestisvip.com.br##.playerBnr
 sandrinha.com.br##.post-banners
 fadadosexo.com##.propagandas
-eoquetemprahj.com##[href*="bit.ly/"]
+contoseroticosbr.com,eoquetemprahj.com##[href*="bit.ly/"]
 eoquetemprahj.com,naoconto.com##a[href^="http://mon.net.br/"]
 blogcorno.com##a[href^="https://app.monetizze.com.br/"]
 travestisvip.com.br##a[href^="https://www.avantajadas.com.br/"]
