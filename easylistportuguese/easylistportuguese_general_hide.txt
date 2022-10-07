@@ -35,6 +35,7 @@
 ##.tgad-card
 ##.tgad-top
 ##.tgads-center
+##a[href^="http://mon.net.br/"]
 ##a[href^="https://clickadsxxx.com/"]
 ##a[href^="https://grupoxxx.com/"]
 !

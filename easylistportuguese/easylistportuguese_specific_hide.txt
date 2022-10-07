@@ -114,7 +114,7 @@ tvpop.com.br,uol.com.br##.up-floating
 autoo.com.br,motoo.com.br##.visible-desktop
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 mundoeducacao.uol.com.br##.wrapper-bnr
-automotivebusiness.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
+automotivebusiness.com.br,noticiafamosos.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
 myfilmestorrent.net##a[href^="/free.php?"]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
 migalhas.com.br##app-wt-servico-banner-v01
