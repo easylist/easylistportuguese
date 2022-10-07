@@ -1,5 +1,10 @@
 ###ads-recentes-home
 ###ads-recentes-home-2
+###article-bloco-ads-botton
+###article-bloco-ads-top
+###desk-bloco-ads-2
+###desk-bloco-ads-3
+###desk-bloco-ads-4
 ###taboola-below-article-thumbnails-recos-reel
 ###taboola-home-page
 ##.ad-teste
