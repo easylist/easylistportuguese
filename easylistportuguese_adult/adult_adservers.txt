@@ -2,6 +2,7 @@
 ||busktraffic.com^$third-party
 ||clickadsxxx.com^$third-party
 ||grupoxxx.com^$third-party
+||kyotraffic.com^$third-party
 ||maxfullad.com^$third-party
 ||project1service.com^$third-party
 ||xpowergel.com^$third-party
