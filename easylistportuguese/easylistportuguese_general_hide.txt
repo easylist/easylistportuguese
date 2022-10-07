@@ -5,6 +5,7 @@
 ###desk-bloco-ads-2
 ###desk-bloco-ads-3
 ###desk-bloco-ads-4
+###publi-bottom
 ###publicidades-footer
 ###publicidades-topo
 ###taboola-below-article-thumbnails-recos-reel
