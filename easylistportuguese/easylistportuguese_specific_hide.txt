@@ -23,6 +23,7 @@ exame.com###veja_tambem_pos_2
 exame.com###veja_tambem_pos_3
 purepeople.com.br###wb_contents_top
 cmjornal.pt###widget_comercial
+naointendo.com.br##.Ad
 marriedgames.com.br##.aawp
 atribuna.com.br##.ad
 clicrbs.com.br,somosfanaticos.fans##.ad-container
