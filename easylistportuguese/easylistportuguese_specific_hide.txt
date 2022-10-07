@@ -1,6 +1,8 @@
 mundoeducacao.uol.com.br###banner-300x250-3-area
 acheisudoeste.com.br###bannerflutuante
 dramaclub.one###custom_html-2
+euriodetudo.com.br###custom_html-3
+euriodetudo.com.br###custom_html-5
 humordaterra.com###custom_html-6
 crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
@@ -14,6 +16,7 @@ correiodolago.com.br###pop2
 otempo.com.br###pub-sidebar
 solutudo.com.br###stickyContainer
 ig.com.br###superbanner
+euriodetudo.com.br###text-8
 exame.com###veja_tambem_pos_1
 exame.com###veja_tambem_pos_2
 exame.com###veja_tambem_pos_3
@@ -87,6 +90,7 @@ mundoeducacao.uol.com.br##.pb_inner_content
 iol.pt##.plista
 beachcam.meo.pt##.poweredBy
 iol.pt##.pub
+euriodetudo.com.br##.pub-bottom-header
 redetv.uol.com.br##.pub-box
 noticiasaominuto.com##.pub-container-block
 redetv.uol.com.br##.pub-topo
