@@ -35,6 +35,7 @@ estadao.com.br##.ajuste-banner
 forbes.com.br,humordaterra.com##.anuncio
 brasilescola.uol.com.br##.area-publi-topo
 natelinha.uol.com.br##.arroba-texto
+humordido.net##.banSect
 tntsports.com.br##.banner
 redegn.com.br##.banner-img
 sbtnews.com.br##.banner-list-notices-sd
