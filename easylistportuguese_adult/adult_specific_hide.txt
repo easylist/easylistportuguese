@@ -24,6 +24,7 @@ aumenteseutesao.com##a[href^="https://www.sexlog.com/"][href*="?partner="]
 sonovinhasbr.com##img[alt="anuncio"]
 eoquetemprahj.com##img[width="300"]
 ! Advanced element hiding rules for Adblock Plus
+buceteiro.com#?#.border:-abp-has(.ads)
 pornotube.blog.br#?#.video-conteudo:-abp-has(.selo:-abp-contains(ADS)) > .video-desc
 sexprime.xxx#?#.thumb-block:-abp-has(.thumb-adlert:-abp-contains(ADS))
 videosdesuavizinha.com#?#.post.last:-abp-has(a[href^="https://grupoxxx.com/"])
