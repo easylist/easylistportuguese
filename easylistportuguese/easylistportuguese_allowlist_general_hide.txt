@@ -1,4 +1,5 @@
 uol.com.br#@#div[data-adunit]
+utua.com.br#@#div[data-insertion]
 !
 bb.com.br#@#.ad-row
 brasilescola.uol.com.br#@#.banner
