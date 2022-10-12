@@ -19,7 +19,7 @@
 ||soanimes.net/noping/
 ||superhentai.online/noping/
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=betteranime.net|filmehdonline.site|myfilmestorrent.net|netcine.to|thepiratefilmeshd.in
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=betteranime.net|filmehdonline.site|myfilmestorrent.net|netcine.to|suatela.net|thepiratefilmeshd.in
 !
 /files/publicity/*$domain=diarioaveiro.pt|diariocoimbra.pt
 /MyShowroom/view.php^$domain=webcamtests.com
