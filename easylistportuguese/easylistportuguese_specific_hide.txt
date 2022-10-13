@@ -233,7 +233,7 @@ brasil247.com##.adBackground
 eutesalvo.com##.adHome
 eutesalvo.com##.adMedium
 pobre.tv##.adasd
-em.com.br,gaz.com.br,grandepremio.com.br,infoescola.com,novojornal.co.ao,record.pt,tudocelular.com##.ads
+em.com.br,gaz.com.br,grandepremio.com.br,infoescola.com,novojornal.co.ao,record.pt##.ads
 uol.com.br##.ads-billboard
 geniol.com.br##.ads-margin-both
 agazeta.com.br##.ads-paragrafo
