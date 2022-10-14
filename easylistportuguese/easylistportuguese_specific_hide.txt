@@ -136,6 +136,7 @@ automotivebusiness.com.br,noticiafamosos.com.br,portalmaquinasagricolas.com.br##
 myfilmestorrent.net##a[href^="/free.php?"]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
 migalhas.com.br##app-wt-servico-banner-v01
+radiojhero.com##div[class^="Ad_"]
 diariorp.com.br,marriedgames.com.br##div[class^="angwp_"]
 estadao.com.br##div[class^="styles__Container-sc-"]
 bitmag.com.br,garagem360.com.br##div[id^="Position_"]
