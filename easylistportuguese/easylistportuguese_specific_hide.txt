@@ -39,6 +39,7 @@ humordido.net##.banSect
 muramasa.com.br,overplay.com.br,ovicio.com.br,tntsports.com.br##.banner
 redegn.com.br##.banner-img
 sbtnews.com.br##.banner-list-notices-sd
+animestc.net##.banner-sidebar
 acheisudoeste.com.br,gazetadopovo.com.br,semprefamilia.com.br,umdoisesportes.com.br##.banner-topo
 natelinha.uol.com.br##.banner_conteudo
 techbreak.ig.com.br##.banner_interna
