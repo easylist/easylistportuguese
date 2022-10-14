@@ -1,3 +1,4 @@
+||ad.lomadee.com^$third-party
 ||formulanegocioonline.digital/marca-trafego/$third-party
 ||go.hotmart.com^$third-party
 ||iili.io^$domain=politicosdosuldabahia.com.br
