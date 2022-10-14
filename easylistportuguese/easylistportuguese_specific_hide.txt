@@ -76,6 +76,7 @@ divirtasemais.com.br##.hdr-pub
 tag.jn.pt##.hp-mrec
 meo.pt##.iol-comercial-placement
 jornaldocarro.estadao.com.br##.jc-saiba-mais
+katoon.com.br##.katoo-widget
 paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-items-center
 metropoles.com##.m-banner-block-widescreen
 metropoles.com##.m-banner-wrap
