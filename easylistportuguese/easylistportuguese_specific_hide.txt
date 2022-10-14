@@ -62,6 +62,7 @@ portalmorada.com.br##.carousel
 natelinha.uol.com.br##.content-banner
 brasilescola.uol.com.br##.corpoPubli
 brasilnaitalia.net##.custom_html-5
+esportetotal.club##.demand-supply
 hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
 obutecodanet.ig.com.br##.elementor-element-25abeb1
