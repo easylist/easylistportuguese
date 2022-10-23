@@ -115,6 +115,8 @@ redetv.uol.com.br##.pub-box
 noticiasaominuto.com##.pub-container-block
 vagandonanet.com.br##.pub-conteudo-300x250
 redetv.uol.com.br##.pub-topo
+jornaiserevistas.com##.pubLeaderboard
+jornaiserevistas.com##.pubSpace
 cnnportugal.iol.pt##.pubWrapper
 banzaianimes.com.br##.pub_250_250
 banzaianimes.com.br##.pub_728_90
