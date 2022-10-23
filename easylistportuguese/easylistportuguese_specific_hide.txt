@@ -94,6 +94,7 @@ metropoles.com##.m-boostbox-sidebar
 jornaldenegocios.pt,record.pt##.m-rec
 uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
+revistaana.pt##.mb-50-ptb-20-ad
 diariorp.com.br##.mdl_container
 tempo.pt##.megabanner
 otempo.com.br##.menu-sites
@@ -101,6 +102,7 @@ cmjornal.pt##.mrec
 dinheirovivo.pt,dn.pt,jn.pt,ojogo.pt,tsf.pt##.mrec-status
 jn.pt,ojogo.pt##.mrec-status-l
 menshealth.pt,noticiasmagazine.pt##.mrec-wrapper
+revistaana.pt##.mtb-20-ad
 minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
 observador.pt##.obs-ad-placeholder
