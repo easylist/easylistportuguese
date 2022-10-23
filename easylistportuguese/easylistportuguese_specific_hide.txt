@@ -130,6 +130,7 @@ publico.pt##.pubtxt
 maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
 97news.com.br##.sidebar_widget_banner
+diarioimobiliario.pt##.singlePub
 brasildefato.com.br##.spotlight-view
 cbn.globoradio.globo.com##.sticky-container
 jn.pt,ojogo.pt##.t-pub-box-1
@@ -140,6 +141,7 @@ tsf.pt##.t-section-sponsored
 brasilnaitalia.net,diariorp.com.br##.td-a-rec
 motor24.pt##.td-banner-wrap-full
 blogmarcosfrahm.com##.text-2
+diarioimobiliario.pt##.topBanner
 humordaterra.com##.top_pub
 tvpop.com.br,uol.com.br##.up-floating
 autoo.com.br,motoo.com.br##.visible-desktop
