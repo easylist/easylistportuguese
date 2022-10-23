@@ -11,6 +11,7 @@
 ###taboola-below-article-thumbnails-recos-reel
 ###taboola-home-page
 ##.ad-teste
+##.ad-titulo
 ##.ads-colunistas-down-2
 ##.ads-eventos
 ##.ads-fixo
