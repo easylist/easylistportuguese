@@ -91,6 +91,7 @@ paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-
 metropoles.com##.m-banner-block-widescreen
 metropoles.com##.m-banner-wrap
 metropoles.com##.m-boostbox-sidebar
+jornaldenegocios.pt##.m-rec
 uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
 diariorp.com.br##.mdl_container
