@@ -24,7 +24,7 @@ exame.com###veja_tambem_pos_1
 exame.com###veja_tambem_pos_2
 exame.com###veja_tambem_pos_3
 purepeople.com.br###wb_contents_top
-cmjornal.pt###widget_comercial
+cmjornal.pt,sabado.pt###widget_comercial
 naointendo.com.br##.Ad
 marriedgames.com.br##.aawp
 atribuna.com.br##.ad
@@ -56,6 +56,7 @@ brasilnaitalia.net##.block-2
 brasilnaitalia.net##.block-5
 brasilnaitalia.net##.block-6
 brasilnaitalia.net##.bookingaff
+sabado.pt##.boost_activate
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
 cnnbrasil.com.br##.branded_content

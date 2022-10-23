@@ -105,7 +105,6 @@
 ||paranaportal.uol.com.br/wp-content/*/tenuta$image
 ||playembeds.com/*/devtools-detector.js$third-party
 ||pplware.sapo.pt/parceiros/$image
-||pubs.xl.pt^
 ||record.pt/i/pub/
 ||reportermt.nyc3.digitaloceanspaces.com/*/original$image
 ||reportermt.nyc3.digitaloceanspaces.com/storage/webdisco/*/outros/$image
