@@ -78,6 +78,7 @@ obutecodanet.ig.com.br##.elementor-element-a6a8f53
 obutecodanet.ig.com.br##.elementor-element-d5820b2
 autoentusiastas.com.br,cidadesnanet.com,radar64.com##.g
 exame.com##.gaOLck
+pobre.wtf##.generalModal
 solutudo.com.br##.go_bnr_wr
 divirtasemais.com.br##.hdr-pub
 tag.jn.pt##.hp-mrec
