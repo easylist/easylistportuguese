@@ -61,6 +61,8 @@ tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 natelinha.uol.com.br##.content-banner
 brasilescola.uol.com.br##.corpoPubli
+radiodisney.com.br##.css-143qwal
+radiodisney.com.br##.css-303m18
 brasilnaitalia.net##.custom_html-5
 esportetotal.club##.demand-supply
 hojeemdia.com.br##.dlbZKK
