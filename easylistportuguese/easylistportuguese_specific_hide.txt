@@ -63,6 +63,7 @@ natelinha.uol.com.br##.content-banner
 brasilescola.uol.com.br##.corpoPubli
 radiodisney.com.br##.css-143qwal
 radiodisney.com.br##.css-303m18
+radiodisney.com.br##.css-jy3jpo
 brasilnaitalia.net##.custom_html-5
 esportetotal.club##.demand-supply
 hojeemdia.com.br##.dlbZKK
