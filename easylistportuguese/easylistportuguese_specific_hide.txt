@@ -5,6 +5,7 @@ euriodetudo.com.br###custom_html-3
 euriodetudo.com.br###custom_html-5
 acheilegall.com.br,humordaterra.com###custom_html-6
 acheilegall.com.br###custom_html-7
+tudoradio.com###fixedBannerTop
 crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
 conjur.com.br###leaderboard1
@@ -145,6 +146,7 @@ espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
 migalhas.com.br##app-wt-servico-banner-v01
 radiojhero.com##div[class^="Ad_"]
 diariorp.com.br,marriedgames.com.br##div[class^="angwp_"]
+tudoradio.com##div[class^="pub-"]
 estadao.com.br##div[class^="styles__Container-sc-"]
 bitmag.com.br,garagem360.com.br##div[id^="Position_"]
 moneytimes.com.br##div[id^="banner-top"]
@@ -451,7 +453,6 @@ opantaneiro.com.br##div[class^="banner"]
 areah.com.br##div[class^="banner_footer"]
 flashscore.pt##div[class^="boxOverContent"]
 publishnews.com.br##div[class^="pn-anuncio"]
-tudoradio.com##div[class^="pub-"]
 g1.globo.com##div[class^="publicidade"]
 blog.tudogostoso.com.br##div[class^="showcase-box arroba"]
 tecnoblog.net##div[data-iab-tag^="adback_"]
