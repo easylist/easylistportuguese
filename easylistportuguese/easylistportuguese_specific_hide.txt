@@ -98,7 +98,6 @@ adorocinema.com##.main-banner
 revistaana.pt##.mb-50-ptb-20-ad
 diariorp.com.br##.mdl_container
 tempo.pt##.megabanner
-otempo.com.br##.menu-sites
 cmjornal.pt##.mrec
 dinheirovivo.pt,dn.pt,jn.pt,ojogo.pt,tsf.pt##.mrec-status
 jn.pt,ojogo.pt##.mrec-status-l
@@ -188,7 +187,6 @@ vagalume.com.br###ROS_728x90_lower
 zwame.pt###adslot-side-mrec
 zwame.pt###adslot-top-lead
 magazineluiza.com.br###adx
-otempo.com.br###atf-promotions
 narutoonline.com.br###avisoPopup
 palcomp3.com###ban_vp
 diarioonline.com.br###banner-noticia-topo728x90
