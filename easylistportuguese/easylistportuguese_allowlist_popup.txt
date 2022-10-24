@@ -1,2 +1,4 @@
+@@||zenaps.com/rclick.php?$popup,domain=pelando.com.br
+!
 @@||bet365.com^*affiliate=$popup,domain=academiadasapostasbrasil.com|footballpredictions.net|futebolnaveia.com.br|postasesportivas24.net|sites-de-apostas.net
 @@||refpa.top^$popup,domain=academiadasapostasbrasil.com|footballpredictions.net|futebolnaveia.com.br|postasesportivas24.net|sites-de-apostas.net
