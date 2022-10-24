@@ -63,6 +63,7 @@ cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
+antena1.com.br##.containerBanner
 natelinha.uol.com.br##.content-banner
 brasilescola.uol.com.br##.corpoPubli
 radiodisney.com.br##.css-143qwal
