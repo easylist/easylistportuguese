@@ -159,6 +159,7 @@ migalhas.com.br##app-wt-servico-banner-v01
 radiojhero.com##div[class^="Ad_"]
 diariorp.com.br,marriedgames.com.br##div[class^="angwp_"]
 tudoradio.com##div[class^="pub-"]
+baixaki.com.br##div[class^="styles__AdsBlock-"]
 estadao.com.br##div[class^="styles__Container-sc-"]
 bitmag.com.br,garagem360.com.br##div[id^="Position_"]
 moneytimes.com.br##div[id^="banner-top"]
