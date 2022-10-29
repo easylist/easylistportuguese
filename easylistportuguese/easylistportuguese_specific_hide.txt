@@ -114,6 +114,7 @@ cnnportugal.iol.pt##.patrocinadosWrapper
 mundoeducacao.uol.com.br##.pb_inner_content
 iol.pt##.plista
 beachcam.meo.pt##.poweredBy
+radioabc.com.br##.propaganda
 iol.pt##.pub
 euriodetudo.com.br##.pub-bottom-header
 redetv.uol.com.br##.pub-box
