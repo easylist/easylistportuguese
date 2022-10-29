@@ -28,6 +28,7 @@ cmjornal.pt,sabado.pt###widget_comercial
 naointendo.com.br##.Ad
 marriedgames.com.br##.aawp
 atribuna.com.br##.ad
+clicrbs.com.br##.ad-banner
 clicrbs.com.br,somosfanaticos.fans##.ad-container
 abril.com.br,correioweb.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
 revistaoeste.com##.ads-container
