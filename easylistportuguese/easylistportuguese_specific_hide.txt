@@ -41,7 +41,7 @@ brasilescola.uol.com.br##.area-publi-topo
 natelinha.uol.com.br##.arroba-texto
 humordido.net##.banSect
 metropolitanafm.com.br,muramasa.com.br,overplay.com.br,ovicio.com.br,tntsports.com.br##.banner
-valor.globo.com##.banner-fix-cls
+valor.globo.com,valorinveste.globo.com##.banner-fix-cls
 redegn.com.br##.banner-img
 sbtnews.com.br##.banner-list-notices-sd
 animestc.net##.banner-sidebar
