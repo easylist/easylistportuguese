@@ -1,8 +1,8 @@
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt
 @@||g.doubleclick.net/tag/js/gpt.js$script,domain=drogasil.com.br
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=terra.com.br
-@@||pubads.g.doubleclick.net/gampad/$image,domain=rainha.com.br
-@@||tpc.googlesyndication.com/simgad/$image,domain=rainha.com.br
+@@||pubads.g.doubleclick.net/gampad/$image,domain=rainha.com.br|topper.com.br
+@@||tpc.googlesyndication.com/simgad/$image,domain=rainha.com.br|topper.com.br
 !
 @@||com/banners/$image,domain=eglobalcentralpt.com
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=magazineluiza.com.br
