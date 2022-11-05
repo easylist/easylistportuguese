@@ -40,6 +40,7 @@ forbes.com.br,humordaterra.com##.anuncio
 metroworldnews.com.br##.arcad-feature
 brasilescola.uol.com.br##.area-publi-topo
 natelinha.uol.com.br##.arroba-texto
+purebreak.com.br##.article-column-container
 humordido.net##.banSect
 metropolitanafm.com.br,muramasa.com.br,overplay.com.br,ovicio.com.br,tntsports.com.br##.banner
 valor.globo.com,valorinveste.globo.com##.banner-fix-cls
@@ -163,6 +164,7 @@ diarioimobiliario.pt##.topBanner
 humordaterra.com##.top_pub
 tvpop.com.br,uol.com.br##.up-floating
 autoo.com.br,motoo.com.br##.visible-desktop
+purebreak.com.br##.wh_add--header
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 mundoeducacao.uol.com.br##.wrapper-bnr
 automotivebusiness.com.br,noticiafamosos.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
