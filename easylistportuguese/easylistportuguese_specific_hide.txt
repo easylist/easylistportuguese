@@ -152,6 +152,9 @@ tsf.pt##.t-pubbox-mrec-1
 tsf.pt##.t-section-sponsored
 brasilnaitalia.net,diariorp.com.br##.td-a-rec
 motor24.pt##.td-banner-wrap-full
+revistaplaneta.com.br##.td_uid_13_63667955e8fa2_rand
+revistaplaneta.com.br##.td_uid_15_63667955ec1ba_rand
+revistaplaneta.com.br##.td_uid_17_63667955eed2c_rand
 blogmarcosfrahm.com##.text-2
 diarioimobiliario.pt##.topBanner
 humordaterra.com##.top_pub
