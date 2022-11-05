@@ -65,6 +65,7 @@ cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
+hardcore.com.br##.code-block-12
 antena1.com.br##.containerBanner
 natelinha.uol.com.br##.content-banner
 brasilescola.uol.com.br##.corpoPubli
