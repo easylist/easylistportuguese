@@ -34,6 +34,7 @@
 ##.publicidade-pequena
 ##.publicidade-rodape
 ##.publicidade-title
+##.publicidade300x250
 ##.publicidade_artigo_mobile
 ##.textPublicidade
 ##.tgad-card
