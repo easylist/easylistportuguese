@@ -69,8 +69,10 @@ antena1.com.br##.containerBanner
 natelinha.uol.com.br##.content-banner
 brasilescola.uol.com.br##.corpoPubli
 radiodisney.com.br##.css-143qwal
+dinheirorural.com.br##.css-1oknp44
 radiodisney.com.br##.css-303m18
 radiodisney.com.br##.css-jy3jpo
+dinheirorural.com.br##.css-liynyf
 brasilnaitalia.net##.custom_html-5
 esportetotal.club##.demand-supply
 hojeemdia.com.br##.dlbZKK
