@@ -165,6 +165,7 @@ humordaterra.com##.top_pub
 tvpop.com.br,uol.com.br##.up-floating
 autoo.com.br,motoo.com.br##.visible-desktop
 purebreak.com.br##.wh_add--header
+personare.com.br##.wp-block-personare-advertising
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 mundoeducacao.uol.com.br##.wrapper-bnr
 automotivebusiness.com.br,noticiafamosos.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
