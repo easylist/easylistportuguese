@@ -33,6 +33,7 @@ clicrbs.com.br,somosfanaticos.fans##.ad-container
 abril.com.br,correioweb.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
 revistaoeste.com##.ads-container
 clicrbs.com.br##.ads-section-area.area.container-area
+poder360.com.br##.advertisement
 noticiasautomotivas.com.br##.ai-viewport-1
 estadao.com.br##.ajuste-banner
 forbes.com.br,humordaterra.com##.anuncio
