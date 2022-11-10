@@ -194,6 +194,8 @@ climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-con
 climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto) + div > .card-coupons
 correioweb.com.br#?#.post--hardnews.call-uai:-abp-has(a:-abp-contains(CONTEÚDO PATROCINADO))
 omirante.pt#?#.fbox.swidgets-wrap.widget.widget_block.widget_media_image:-abp-has(figcaption)
+tavernaderivia.com.br#?#.ig_widget:-abp-has(a[href^="https://amzn.to/"])
+tavernaderivia.com.br#?#.ig_widget:-abp-has(a[href^="https://www.amazon."][href*="tag="])
 !
 polibiobraga.blogspot.com###HTML10
 polibiobraga.blogspot.com###HTML6
