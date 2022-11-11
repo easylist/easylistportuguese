@@ -50,6 +50,9 @@ animestc.net##.banner-sidebar
 acheisudoeste.com.br,gazetadopovo.com.br,semprefamilia.com.br,umdoisesportes.com.br##.banner-topo
 natelinha.uol.com.br##.banner_conteudo
 techbreak.ig.com.br##.banner_interna
+slatual.com.br##.banner_post_horizontal_primary
+slatual.com.br##.banner_post_horizontal_secundary
+slatual.com.br##.banner_text
 otimafm.com.br##.banners-posicao
 bahianoticias.com.br##.banners_topo
 techbreak.ig.com.br##.barraverborum
@@ -121,6 +124,7 @@ correiobraziliense.com.br##.patrocinado
 cnnportugal.iol.pt##.patrocinadosWrapper
 mundoeducacao.uol.com.br##.pb_inner_content
 iol.pt##.plista
+slatual.com.br##.post_banner_sidebar
 beachcam.meo.pt##.poweredBy
 radioabc.com.br##.propaganda
 iol.pt##.pub
@@ -147,6 +151,7 @@ maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
 97news.com.br##.sidebar_widget_banner
 diarioimobiliario.pt##.singlePub
+slatual.com.br##.slider_banner_sidebar
 brasildefato.com.br##.spotlight-view
 cbn.globoradio.globo.com##.sticky-container
 jn.pt,ojogo.pt##.t-pub-box-1
