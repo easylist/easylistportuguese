@@ -163,7 +163,7 @@ jn.pt,ojogo.pt##.t-pub-box-1
 ojogo.pt##.t-pub-box-7
 dn.pt##.t-pubbox-ct-1
 tsf.pt##.t-pubbox-mrec-1
-tsf.pt##.t-section-sponsored
+dinheirovivo.pt,tsf.pt##.t-section-sponsored
 brasilnaitalia.net,diariorp.com.br##.td-a-rec
 motor24.pt##.td-banner-wrap-full
 revistaplaneta.com.br##.td_uid_13_63667955e8fa2_rand
