@@ -52,6 +52,7 @@ natelinha.uol.com.br##.banner_conteudo
 techbreak.ig.com.br##.banner_interna
 slatual.com.br##.banner_post_horizontal_primary
 slatual.com.br##.banner_post_horizontal_secundary
+slatual.com.br##.banner_side_home
 slatual.com.br##.banner_text
 otimafm.com.br##.banners-posicao
 bahianoticias.com.br##.banners_topo
@@ -95,6 +96,8 @@ exame.com##.gaOLck
 pobre.wtf##.generalModal
 solutudo.com.br##.go_bnr_wr
 divirtasemais.com.br##.hdr-pub
+slatual.com.br##.horizontal_banner_custom_desktop
+slatual.com.br##.horizontal_banner_secundary_desktop
 tag.jn.pt##.hp-mrec
 idealista.pt##.idealista-banner
 iol.pt,meo.pt##.iol-comercial-placement
