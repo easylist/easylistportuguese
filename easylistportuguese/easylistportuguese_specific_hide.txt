@@ -181,6 +181,7 @@ multinews.sapo.pt##.yxzmwgdi
 anitube.cx,automotivebusiness.com.br,noticiafamosos.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
 tribunaonline.com.br##a[href^="/branded-content/"]
 myfilmestorrent.net##a[href^="/free.php?"]
+zerozero.pt##a[href^="https://online.placard.pt/"]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
 migalhas.com.br##app-wt-servico-banner-v01
 radiojhero.com##div[class^="Ad_"]

@@ -20,6 +20,7 @@
 ||soanimes.net/noping/
 ||superhentai.online/noping/
 ||vibemundialfm.com.br/wp-content/uploads/*/anuncio-
+||zerozero.pt/images/takeover/
 !
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=aniflv.net|animescx.com.br|animesup.biz|animexnovel.com|betteranime.net|dramaken.com|filmehdonline.site|listadeanimes.com|myfilmestorrent.net|netcine.to|suatela.net|tdmsubs.com|thepiratefilmeshd.in|tyflex.net
 !
