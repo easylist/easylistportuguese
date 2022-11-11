@@ -125,6 +125,7 @@ minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
 observador.pt##.obs-ad-placeholder
 correiobraziliense.com.br##.patrocinado
+iol.pt##.patrocinado_section
 cnnportugal.iol.pt##.patrocinadosWrapper
 mundoeducacao.uol.com.br##.pb_inner_content
 iol.pt##.plista
