@@ -12,6 +12,8 @@
 ||xvideos5.com.br/preroll/
 ||xvideosnovinhas.com/wp-content/plugins/ane-preroll-xvideosnovinhas/preroll.js
 !
+$subdocument,third-party,domain=curto.win
+!
 /url-open.js$domain=hentaiputa.com|terceiroz.com
 ||*link*.$domain=porn24horas.com
 ||bserver.gp-guia.net^$subdocument
