@@ -119,6 +119,7 @@ cmjornal.pt##.mrec
 dinheirovivo.pt,dn.pt,jn.pt,ojogo.pt,tsf.pt##.mrec-status
 jn.pt,ojogo.pt##.mrec-status-l
 menshealth.pt,noticiasmagazine.pt##.mrec-wrapper
+vidas.pt##.mrecUltimas
 revistaana.pt##.mtb-20-ad
 minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
