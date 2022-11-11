@@ -8,6 +8,8 @@
 ||pubs.xl.pt^
 ||supercasa.pt/mrec$third-party
 ||x2n.com.br/media/$third-party
+! cloudfront hosted
+||d3div1mtym39ic.cloudfront.net^
 !
 ||cdnaqw.com/script^$third-party
 ||d18t35yyry2k49.cloudfront.net^
