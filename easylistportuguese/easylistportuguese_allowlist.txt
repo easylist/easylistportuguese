@@ -2,7 +2,7 @@
 @@||custojusto.pt/user/myads/$~third-party
 @@||fatimalife.com.br/api/v1/ad/$~third-party
 @@||g.doubleclick.net/tag/js/gpt.js$script,domain=drogasil.com.br
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=terra.com.br
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=jogos360.com.br|terra.com.br
 @@||pubads.g.doubleclick.net/gampad/$image,domain=rainha.com.br|topper.com.br
 @@||tpc.googlesyndication.com/simgad/$image,domain=rainha.com.br|topper.com.br
 !
