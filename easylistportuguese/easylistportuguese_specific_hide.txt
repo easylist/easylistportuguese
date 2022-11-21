@@ -1,3 +1,4 @@
+hardmob.com.br###anuncio
 mundoeducacao.uol.com.br###banner-300x250-3-area
 acheisudoeste.com.br###bannerflutuante
 dramaclub.one###custom_html-2
