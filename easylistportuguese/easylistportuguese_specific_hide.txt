@@ -19,6 +19,7 @@ correiodolago.com.br###pop2
 otempo.com.br###pub-sidebar
 solutudo.com.br###stickyContainer
 ig.com.br###superbanner
+verfutebol.tv###superderbi
 euriodetudo.com.br###text-8
 exame.com###veja_tambem_pos_1
 exame.com###veja_tambem_pos_2
