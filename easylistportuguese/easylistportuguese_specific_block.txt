@@ -15,6 +15,7 @@
 ||correiodolago.com.br/site/up/banners/
 ||correiodolago.com.br/site/up/popup/
 ||geralinks.com.br^*/ads/
+||pobre.wtf/wp-banners.js
 ||portalmorada.com.br/assets/uploads/ads_
 ||redegn.com.br/images/banners/
 ||soanimes.net/noping/
