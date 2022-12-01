@@ -11,6 +11,7 @@ crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
 conjur.com.br###leaderboard1
 conjur.com.br###leaderboard2
+agroolhar.com.br,olharconceito.com.br,olharjuridico.com.br###luckpub
 evangelionbr.com###media_image-10
 tag.jn.pt###mrec
 ig.com.br###mrec2
@@ -58,6 +59,7 @@ slatual.com.br##.banner_side_home
 slatual.com.br##.banner_text
 otimafm.com.br##.banners-posicao
 bahianoticias.com.br##.banners_topo
+agroolhar.com.br,olharconceito.com.br,olharjuridico.com.br,olhardireto.com.br##.bannerstopo
 techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
 folha.uol.com.br##.block--pub-super
