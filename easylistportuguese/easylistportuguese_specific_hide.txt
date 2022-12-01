@@ -79,6 +79,7 @@ hardcore.com.br##.code-block-12
 antena1.com.br##.containerBanner
 natelinha.uol.com.br##.content-banner
 brasilescola.uol.com.br##.corpoPubli
+correiodopovo.com.br##.cp-underbanner
 radiodisney.com.br##.css-143qwal
 dinheirorural.com.br,revistaplaneta.com.br##.css-1oknp44
 radiodisney.com.br##.css-303m18
