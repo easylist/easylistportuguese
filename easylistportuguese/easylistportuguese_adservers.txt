@@ -1,5 +1,6 @@
 ||cazamba.com^$third-party
 ||grumft.com^$third-party
+||joinads.me^$third-party
 ||juicebarads.com^$third-party
 ||tradermilionarios.co^$third-party
 !
