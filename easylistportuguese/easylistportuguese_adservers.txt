@@ -1,6 +1,7 @@
 ||cazamba.com^$third-party
 ||grumft.com^$third-party
 ||juicebarads.com^$third-party
+||tradermilionarios.co^$third-party
 !
 ||chewsrompedhemp.com^$third-party
 ||closkeyrespond.com^$third-party

@@ -59,7 +59,7 @@ slatual.com.br##.banner_side_home
 slatual.com.br##.banner_text
 otimafm.com.br##.banners-posicao
 bahianoticias.com.br##.banners_topo
-agroolhar.com.br,olharconceito.com.br,olharjuridico.com.br,olhardireto.com.br##.bannerstopo
+agroolhar.com.br,olharconceito.com.br,olhardireto.com.br,olharjuridico.com.br##.bannerstopo
 techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
 folha.uol.com.br##.block--pub-super
