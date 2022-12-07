@@ -1,3 +1,4 @@
+magazineluiza.com.br#@#a[href^="https://adclick.g.doubleclick.net/"]
 uol.com.br#@#div[data-adunit]
 utua.com.br#@#div[data-insertion]
 !
