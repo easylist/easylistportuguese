@@ -181,7 +181,7 @@ ojogo.pt##.t-pub-box-7
 dn.pt##.t-pubbox-ct-1
 tsf.pt##.t-pubbox-mrec-1
 dinheirovivo.pt,tsf.pt##.t-section-sponsored
-brasilnaitalia.net,diariorp.com.br##.td-a-rec
+brasilnaitalia.net,diariorp.com.br,observatoriodeourofino.com.br##.td-a-rec
 motor24.pt##.td-banner-wrap-full
 revistaplaneta.com.br##.td_uid_13_63667955e8fa2_rand
 revistaplaneta.com.br##.td_uid_15_63667955ec1ba_rand
@@ -194,6 +194,7 @@ tvpop.com.br,uol.com.br##.up-floating
 autoo.com.br,motoo.com.br##.visible-desktop
 purebreak.com.br##.wh_add--header
 uai.com.br##.widget_bouplay_wp_300px2
+observatoriodeourofino.com.br##.widget_media_image
 personare.com.br##.wp-block-personare-advertising
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 mundoeducacao.uol.com.br##.wrapper-bnr
