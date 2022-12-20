@@ -53,6 +53,7 @@ metropolitanafm.com.br,muramasa.com.br,overplay.com.br,ovicio.com.br,tntsports.c
 valor.globo.com,valorinveste.globo.com##.banner-fix-cls
 redegn.com.br##.banner-img
 sbtnews.com.br##.banner-list-notices-sd
+uaiagro.com.br##.banner-retangulo
 animestc.net##.banner-sidebar
 acheisudoeste.com.br,gazetadopovo.com.br,semprefamilia.com.br,umdoisesportes.com.br##.banner-topo
 natelinha.uol.com.br##.banner_conteudo
