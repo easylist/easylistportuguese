@@ -193,6 +193,7 @@ mercadolivre.com.br##.ui-search-sidebar-advertising__wrapper
 tvpop.com.br,uol.com.br##.up-floating
 autoo.com.br,motoo.com.br##.visible-desktop
 purebreak.com.br##.wh_add--header
+uai.com.br##.widget_bouplay_wp_300px2
 personare.com.br##.wp-block-personare-advertising
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 mundoeducacao.uol.com.br##.wrapper-bnr
