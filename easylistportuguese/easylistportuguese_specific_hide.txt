@@ -69,6 +69,7 @@ bahianoticias.com.br##.banners_topo
 agroolhar.com.br,olharconceito.com.br,olhardireto.com.br,olharjuridico.com.br##.bannerstopo
 techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
+uai.com.br##.bg-ad
 folha.uol.com.br##.block--pub-super
 brasilnaitalia.net##.block-15
 brasilnaitalia.net##.block-2
