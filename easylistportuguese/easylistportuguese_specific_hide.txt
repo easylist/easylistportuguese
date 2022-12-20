@@ -33,7 +33,7 @@ marriedgames.com.br##.aawp
 atribuna.com.br,olhardigital.com.br##.ad
 clicrbs.com.br,mundo.com##.ad-banner
 clicrbs.com.br,somosfanaticos.fans##.ad-container
-abril.com.br,correioweb.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
+abril.com.br,correioweb.com.br,imasters.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
 revistaoeste.com##.ads-container
 clicrbs.com.br##.ads-section-area.area.container-area
 poder360.com.br##.advertisement
@@ -118,6 +118,7 @@ metropoles.com##.m-boostbox-sidebar
 jornaldenegocios.pt,record.pt##.m-rec
 uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
+imasters.com.br##.maintainer
 revistaana.pt##.mb-50-ptb-20-ad
 diariorp.com.br##.mdl_container
 tempo.pt##.megabanner
