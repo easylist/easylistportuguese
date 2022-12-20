@@ -30,7 +30,7 @@ purepeople.com.br###wb_contents_top
 cmjornal.pt,sabado.pt###widget_comercial
 naointendo.com.br##.Ad
 marriedgames.com.br##.aawp
-atribuna.com.br##.ad
+atribuna.com.br,olhardigital.com.br##.ad
 clicrbs.com.br,mundo.com##.ad-banner
 clicrbs.com.br,somosfanaticos.fans##.ad-container
 abril.com.br,correioweb.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
