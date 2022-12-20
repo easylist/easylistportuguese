@@ -16,6 +16,7 @@
 ##.ads-colunistas-down-2
 ##.ads-eventos
 ##.ads-fixo
+##.ads-minuto-content
 ##.ads-noticia-main
 ##.ads-oferecimento
 ##.adsNoticiaRodape
