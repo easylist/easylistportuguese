@@ -208,6 +208,7 @@ myfilmestorrent.net##a[href^="/free.php?"]
 zerozero.pt##a[href^="https://online.placard.pt/"]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
 migalhas.com.br##app-wt-servico-banner-v01
+pelando.com.br##div[aria-label="anúncio patrocinado"]
 radiojhero.com##div[class^="Ad_"]
 diariorp.com.br,marriedgames.com.br##div[class^="angwp_"]
 tudoradio.com##div[class^="pub-"]
