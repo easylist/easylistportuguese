@@ -173,6 +173,7 @@ solutudo.com.br##.section-banner-arroba
 97news.com.br##.sidebar_widget_banner
 diarioimobiliario.pt##.singlePub
 slatual.com.br##.slider_banner_sidebar
+jornalcidademg.com.br##.slides
 br.advfn.com##.special-post
 brasildefato.com.br##.spotlight-view
 cbn.globoradio.globo.com##.sticky-container
