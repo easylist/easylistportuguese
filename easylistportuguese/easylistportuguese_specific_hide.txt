@@ -166,6 +166,7 @@ brasilescola.uol.com.br##.publi-dir
 tempo.pt##.publicidad-pie
 ig.com.br##.publicidade
 publico.pt##.pubtxt
+superesportes.com.br##.retangulo
 maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
 97news.com.br##.sidebar_widget_banner
