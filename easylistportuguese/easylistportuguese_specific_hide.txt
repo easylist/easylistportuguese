@@ -60,6 +60,7 @@ slatual.com.br##.banner_post_horizontal_primary
 slatual.com.br##.banner_post_horizontal_secundary
 slatual.com.br##.banner_side_home
 slatual.com.br##.banner_text
+portaldoholanda.com.br##.banneraleatorio
 otimafm.com.br##.banners-posicao
 bahianoticias.com.br##.banners_topo
 agroolhar.com.br,olharconceito.com.br,olhardireto.com.br,olharjuridico.com.br##.bannerstopo
