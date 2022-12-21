@@ -91,6 +91,7 @@ clickjogos.com.br##.cj_square
 hardcore.com.br##.code-block-12
 antena1.com.br##.containerBanner
 natelinha.uol.com.br##.content-banner
+webmotors.com.br##.content-midia
 brasilescola.uol.com.br##.corpoPubli
 correiodopovo.com.br##.cp-underbanner
 radiodisney.com.br##.css-143qwal
