@@ -202,6 +202,7 @@ humordaterra.com##.top_pub
 uai.com.br##.uai-ads
 mercadolivre.com.br##.ui-search-sidebar-advertising__wrapper
 tvpop.com.br,uol.com.br##.up-floating
+vagas.com.br##.vagasp-banner-widget
 autoo.com.br,motoo.com.br##.visible-desktop
 purebreak.com.br##.wh_add--header
 uai.com.br##.widget_bouplay_wp_300px2
