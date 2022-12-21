@@ -31,6 +31,7 @@ exame.com###veja_tambem_pos_3
 purepeople.com.br###wb_contents_top
 cmjornal.pt,sabado.pt###widget_comercial
 naointendo.com.br##.Ad
+ig.com.br##.Ads
 exame.com##.RmKoK
 marriedgames.com.br##.aawp
 atribuna.com.br,olhardigital.com.br##.ad
