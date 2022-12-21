@@ -55,6 +55,7 @@ estadao.com.br##.ajuste-banner
 forbes.com.br,humordaterra.com##.anuncio
 metroworldnews.com.br##.arcad-feature
 brasilescola.uol.com.br##.area-publi-topo
+hot107.com.br##.area_adsense
 natelinha.uol.com.br##.arroba-texto
 purebreak.com.br##.article-column-container
 humordido.net##.banSect
