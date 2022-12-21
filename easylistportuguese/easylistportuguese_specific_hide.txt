@@ -98,6 +98,7 @@ radiodisney.com.br##.css-jy3jpo
 dinheirorural.com.br,revistaplaneta.com.br##.css-liynyf
 brasilnaitalia.net##.custom_html-5
 esportetotal.club##.demand-supply
+flashscore.com.br##.detailLeaderboard
 hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
 obutecodanet.ig.com.br##.elementor-element-25abeb1
@@ -141,6 +142,7 @@ revistaana.pt##.mtb-20-ad
 minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
 observador.pt##.obs-ad-placeholder
+flashscore.com.br##.oddsPlacement
 correiobraziliense.com.br##.patrocinado
 iol.pt##.patrocinado_section
 cnnportugal.iol.pt##.patrocinadosWrapper
