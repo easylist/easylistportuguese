@@ -43,6 +43,7 @@ clicrbs.com.br##.ads-section-area.area.container-area
 ibahia.com##.ads-space
 uol.com.br##.ads-wrapper
 poder360.com.br##.advertisement
+infojobs.com.br##.advisor-banner-container
 noticiasautomotivas.com.br##.ai-viewport-1
 estadao.com.br##.ajuste-banner
 forbes.com.br,humordaterra.com##.anuncio
@@ -174,6 +175,7 @@ acordacidade.com.br##.publi-5
 brasilescola.uol.com.br##.publi-dir
 tempo.pt##.publicidad-pie
 ig.com.br##.publicidade
+infojobs.com.br##.publicity
 publico.pt##.pubtxt
 superesportes.com.br##.retangulo
 grandepremio.com.br##.rodape_sticky
