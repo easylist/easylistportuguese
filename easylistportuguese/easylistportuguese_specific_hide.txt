@@ -41,6 +41,7 @@ abril.com.br,correioweb.com.br,imasters.com.br,odia.ig.com.br,sbt.com.br,superes
 revistaoeste.com##.ads-container
 clicrbs.com.br##.ads-section-area.area.container-area
 ibahia.com##.ads-space
+uol.com.br##.ads-wrapper
 poder360.com.br##.advertisement
 noticiasautomotivas.com.br##.ai-viewport-1
 estadao.com.br##.ajuste-banner
