@@ -54,6 +54,7 @@ natelinha.uol.com.br##.arroba-texto
 purebreak.com.br##.article-column-container
 humordido.net##.banSect
 bne.com.br,metropolitanafm.com.br,muramasa.com.br,overplay.com.br,ovicio.com.br,tntsports.com.br##.banner
+icarros.com.br##.banner-arroba-container
 valor.globo.com,valorinveste.globo.com##.banner-fix-cls
 redegn.com.br##.banner-img
 sbtnews.com.br##.banner-list-notices-sd
@@ -96,6 +97,7 @@ natelinha.uol.com.br##.content-banner
 webmotors.com.br##.content-midia
 brasilescola.uol.com.br##.corpoPubli
 correiodopovo.com.br##.cp-underbanner
+icarros.com.br##.cross_seguro
 radiodisney.com.br##.css-143qwal
 dinheirorural.com.br,revistaplaneta.com.br##.css-1oknp44
 radiodisney.com.br##.css-303m18
