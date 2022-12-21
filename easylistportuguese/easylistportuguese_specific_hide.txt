@@ -73,6 +73,7 @@ bahianoticias.com.br##.banners_topo
 agroolhar.com.br,olharconceito.com.br,olhardireto.com.br,olharjuridico.com.br##.bannerstopo
 techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
+flashscore.pt##.bettingStrip
 uai.com.br##.bg-ad
 folha.uol.com.br##.block--pub-super
 brasilnaitalia.net##.block-15
@@ -101,7 +102,7 @@ radiodisney.com.br##.css-jy3jpo
 dinheirorural.com.br,revistaplaneta.com.br##.css-liynyf
 brasilnaitalia.net##.custom_html-5
 esportetotal.club##.demand-supply
-flashscore.com.br##.detailLeaderboard
+flashscore.com.br,flashscore.pt##.detailLeaderboard
 hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
 obutecodanet.ig.com.br##.elementor-element-25abeb1
@@ -149,7 +150,7 @@ revistaana.pt##.mtb-20-ad
 minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
 observador.pt##.obs-ad-placeholder
-flashscore.com.br##.oddsPlacement
+flashscore.com.br,flashscore.pt##.oddsPlacement
 correiobraziliense.com.br##.patrocinado
 iol.pt##.patrocinado_section
 cnnportugal.iol.pt##.patrocinadosWrapper
