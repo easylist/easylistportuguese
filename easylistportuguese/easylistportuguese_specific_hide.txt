@@ -163,6 +163,7 @@ observador.pt##.obs-ad-placeholder
 flashscore.com.br,flashscore.pt##.oddsPlacement
 correiobraziliense.com.br##.patrocinado
 iol.pt##.patrocinado_section
+tvhotnews.com.br##.patrocinadores-view-detail
 cnnportugal.iol.pt##.patrocinadosWrapper
 mundoeducacao.uol.com.br##.pb_inner_content
 iol.pt##.plista
