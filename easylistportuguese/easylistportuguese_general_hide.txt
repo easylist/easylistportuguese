@@ -11,6 +11,7 @@
 ###publicidades-topo
 ###taboola-below-article-thumbnails-recos-reel
 ###taboola-home-page
+##.ad-rotate-anuncio
 ##.ad-teste
 ##.ad-titulo
 ##.ads-colunistas-down-2
