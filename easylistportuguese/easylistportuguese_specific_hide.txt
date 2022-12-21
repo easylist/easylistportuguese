@@ -52,6 +52,7 @@ uol.com.br##.ads-wrapper
 poder360.com.br##.advertisement
 infojobs.com.br##.advisor-banner-container
 noticiasautomotivas.com.br##.ai-viewport-1
+otvfoco.com.br##.ai_widget
 estadao.com.br##.ajuste-banner
 forbes.com.br,humordaterra.com##.anuncio
 metroworldnews.com.br##.arcad-feature
@@ -99,6 +100,7 @@ braziljournal.com##.brandedcontent
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 clickjogos.com.br##.cj_square
+otvfoco.com.br##.code-block
 hardcore.com.br##.code-block-12
 antena1.com.br##.containerBanner
 natelinha.uol.com.br##.content-banner
