@@ -38,7 +38,7 @@ marriedgames.com.br##.aawp
 atribuna.com.br,dicio.com.br,olhardigital.com.br##.ad
 clicrbs.com.br,mundo.com,vrum.com.br##.ad-banner
 clicrbs.com.br,somosfanaticos.fans##.ad-container
-abril.com.br,correioweb.com.br,imasters.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
+abril.com.br,apontador.com.br,correioweb.com.br,imasters.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
 revistaoeste.com##.ads-container
 clicrbs.com.br##.ads-section-area.area.container-area
 ibahia.com##.ads-space
@@ -191,6 +191,7 @@ diarioimobiliario.pt##.singlePub
 slatual.com.br##.slider_banner_sidebar
 jornalcidademg.com.br##.slides
 br.advfn.com##.special-post
+apontador.com.br##.sponsorship
 brasildefato.com.br##.spotlight-view
 cbn.globoradio.globo.com##.sticky-container
 jn.pt,ojogo.pt##.t-pub-box-1
