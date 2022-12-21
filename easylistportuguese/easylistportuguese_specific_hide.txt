@@ -117,6 +117,7 @@ slatual.com.br##.horizontal_banner_custom_desktop
 slatual.com.br##.horizontal_banner_secundary_desktop
 tag.jn.pt##.hp-mrec
 idealista.pt##.idealista-banner
+grandepremio.com.br##.internas_instream
 iol.pt,meo.pt##.iol-comercial-placement
 jornaldocarro.estadao.com.br##.jc-saiba-mais
 adorocinema.com##.js-emergence-countdown
@@ -173,6 +174,7 @@ tempo.pt##.publicidad-pie
 ig.com.br##.publicidade
 publico.pt##.pubtxt
 superesportes.com.br##.retangulo
+grandepremio.com.br##.rodape_sticky
 maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
 97news.com.br##.sidebar_widget_banner
