@@ -38,6 +38,7 @@
 ##.publicidade-title
 ##.publicidade300x250
 ##.publicidade_artigo_mobile
+##.publicidadefixa
 ##.textPublicidade
 ##.tgad-card
 ##.tgad-top
