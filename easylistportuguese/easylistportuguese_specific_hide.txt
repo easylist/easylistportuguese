@@ -7,6 +7,7 @@ euriodetudo.com.br###custom_html-5
 acheilegall.com.br,humordaterra.com###custom_html-6
 acheilegall.com.br###custom_html-7
 tudoradio.com###fixedBannerTop
+dicio.com.br###gooad_palavra
 crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
 conjur.com.br###leaderboard1
