@@ -120,6 +120,7 @@ idealista.pt##.idealista-banner
 grandepremio.com.br##.internas_instream
 iol.pt,meo.pt##.iol-comercial-placement
 jornaldocarro.estadao.com.br##.jc-saiba-mais
+trabalhabrasil.com.br##.jg__ads
 adorocinema.com##.js-emergence-countdown
 katoon.com.br##.katoo-widget
 vibemundialfm.com.br##.l-subheader-cell.at_right
