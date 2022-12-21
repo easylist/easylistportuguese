@@ -23,6 +23,8 @@ exame.com###noticias_relacionadas_pos_1
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
 otempo.com.br###pub-sidebar
+kboing.com.br###pub_0
+kboing.com.br###pub_1
 solutudo.com.br###stickyContainer
 ig.com.br###superbanner
 verfutebol.tv###superderbi
