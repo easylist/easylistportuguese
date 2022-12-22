@@ -32,6 +32,7 @@ solutudo.com.br###stickyContainer
 ig.com.br###superbanner
 verfutebol.tv###superderbi
 euriodetudo.com.br###text-8
+uol.com.br###uolpd-video-inarticle
 exame.com###veja_tambem_pos_1
 exame.com###veja_tambem_pos_2
 exame.com###veja_tambem_pos_3
