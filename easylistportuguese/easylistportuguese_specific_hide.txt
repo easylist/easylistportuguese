@@ -42,7 +42,7 @@ naointendo.com.br##.Ad
 ig.com.br##.Ads
 exame.com##.RmKoK
 marriedgames.com.br##.aawp
-atribuna.com.br,dicio.com.br,olhardigital.com.br##.ad
+atribuna.com.br,cybercook.com.br,dicio.com.br,olhardigital.com.br##.ad
 clicrbs.com.br,mundo.com,vrum.com.br##.ad-banner
 clicrbs.com.br,somosfanaticos.fans##.ad-container
 abril.com.br,apontador.com.br,correioweb.com.br,imasters.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
