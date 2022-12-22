@@ -144,6 +144,7 @@ vivareal.com.br##.js-advertising
 adorocinema.com##.js-emergence-countdown
 vivareal.com.br##.js-udp-bottom-ad
 katoon.com.br##.katoo-widget
+personare.com.br##.korPCs
 vibemundialfm.com.br##.l-subheader-cell.at_right
 paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-items-center
 metropoles.com##.m-banner-block-widescreen
