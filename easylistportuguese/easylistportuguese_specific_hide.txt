@@ -11,6 +11,7 @@ dicio.com.br###gooad_palavra
 crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
 ojogos.com.br###homepage-top-leaderboard
+dnoticias.pt###interstitial_pub
 conjur.com.br###leaderboard1
 conjur.com.br###leaderboard2
 agroolhar.com.br,olharconceito.com.br,olharjuridico.com.br###luckpub
