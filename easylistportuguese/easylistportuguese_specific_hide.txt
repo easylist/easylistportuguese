@@ -207,6 +207,7 @@ infojobs.com.br##.publicity
 publico.pt##.pubtxt
 superesportes.com.br##.retangulo
 grandepremio.com.br##.rodape_sticky
+sapo.pt##.sapoPub
 maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
 97news.com.br##.sidebar_widget_banner
