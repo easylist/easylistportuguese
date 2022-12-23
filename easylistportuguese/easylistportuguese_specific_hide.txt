@@ -177,7 +177,7 @@ jornaldocarro.estadao.com.br##.portal-sponsor
 slatual.com.br##.post_banner_sidebar
 beachcam.meo.pt##.poweredBy
 radioabc.com.br##.propaganda
-iol.pt##.pub
+iol.pt,sapo.pt##.pub
 euriodetudo.com.br##.pub-bottom-header
 redetv.uol.com.br##.pub-box
 noticiasaominuto.com##.pub-container-block
