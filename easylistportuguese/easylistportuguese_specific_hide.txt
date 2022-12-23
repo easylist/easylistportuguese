@@ -212,6 +212,7 @@ br.advfn.com##.special-post
 apontador.com.br##.sponsorship
 brasildefato.com.br##.spotlight-view
 cbn.globoradio.globo.com##.sticky-container
+dinheirovivo.pt##.t-am-sponsored
 jn.pt,ojogo.pt##.t-pub-box-1
 ojogo.pt##.t-pub-box-7
 dn.pt##.t-pubbox-ct-1
