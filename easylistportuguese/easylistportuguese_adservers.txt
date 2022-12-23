@@ -2,6 +2,7 @@
 ||grumft.com^$third-party
 ||joinads.me^$third-party
 ||juicebarads.com^$third-party
+||premiumads.com.br^$third-party
 ||tradermilionarios.co^$third-party
 !
 ||chewsrompedhemp.com^$third-party
