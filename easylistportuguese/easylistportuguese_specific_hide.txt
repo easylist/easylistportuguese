@@ -104,6 +104,9 @@ portalmorada.com.br##.carousel
 clickjogos.com.br##.cj_square
 otvfoco.com.br##.code-block
 hardcore.com.br##.code-block-12
+zap.aeiou.pt##.code-block-25
+zap.aeiou.pt##.code-block-4
+zap.aeiou.pt##.code-block-9
 antena1.com.br##.containerBanner
 natelinha.uol.com.br##.content-banner
 webmotors.com.br##.content-midia
