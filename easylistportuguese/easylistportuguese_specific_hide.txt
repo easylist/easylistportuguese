@@ -234,6 +234,7 @@ revistaplaneta.com.br##.td_uid_15_63667955ec1ba_rand
 revistaplaneta.com.br##.td_uid_17_63667955eed2c_rand
 neofeed.com.br##.tdi_86_001
 blogmarcosfrahm.com##.text-2
+publico.pt##.tone--paid
 diarioimobiliario.pt##.topBanner
 humordaterra.com##.top_pub
 uai.com.br##.uai-ads
