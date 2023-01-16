@@ -277,16 +277,16 @@ administradores.com.br##div[style="width:300px;height:250px"]
 administradores.com.br##div[style="width:970px;height:250px"]
 istoe.com.br,istoedinheiro.com.br,revistaplaneta.com.br##div[style^="width: 100%; height: 250px;"]
 revistamotos.pt##img[height="300"]
-atoananet.com.br,cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com,inteligenciafinanceira.com.br,jornalcidademg.com.br,omachoalpha.com.br,revistamotos.pt##img[width="300"]
+atoananet.com.br,cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com,inteligenciafinanceira.com.br,jornalcidademg.com.br,ofertaspravoce.com,omachoalpha.com.br,revistamotos.pt##img[width="300"]
 atoananet.com.br,politicosdosuldabahia.com.br##img[width="728"]
 ! Advanced element hiding rules for Adblock Plus
-jornaldigitalcanela.com.br#?#div:-abp-has(> .td-adspot-title)
-jornaldigitalcanela.com.br#?#div:-abp-has(> .jorna-adlabel)
 carrefour.com.br#?#.sc-bczRLJ:-abp-contains(Publicidade)
 carrefour.com.br#?#.vtex-flex-layout-0-x-flexColChild:-abp-contains(Publicidade)
 climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto)
 climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto) + div > .card-coupons
 correioweb.com.br#?#.post--hardnews.call-uai:-abp-has(a:-abp-contains(CONTEÚDO PATROCINADO))
+jornaldigitalcanela.com.br#?#div:-abp-has(> .jorna-adlabel)
+jornaldigitalcanela.com.br#?#div:-abp-has(> .td-adspot-title)
 omirante.pt#?#.fbox.swidgets-wrap.widget.widget_block.widget_media_image:-abp-has(figcaption)
 tavernaderivia.com.br#?#.ig_widget:-abp-has(a[href^="https://amzn.to/"])
 tavernaderivia.com.br#?#.ig_widget:-abp-has(a[href^="https://www.amazon."][href*="tag="])
