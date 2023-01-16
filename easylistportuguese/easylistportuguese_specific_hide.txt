@@ -254,6 +254,7 @@ anitube.cx,automotivebusiness.com.br,noticiafamosos.com.br,portalmaquinasagricol
 tribunaonline.com.br##a[href^="/branded-content/"]
 myfilmestorrent.net##a[href^="/free.php?"]
 zerozero.pt##a[href^="https://online.placard.pt/"]
+ofertaspravoce.com##a[href^="https://planosclarocontrole.com.br/"]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
 migalhas.com.br##app-wt-servico-banner-v01
 pelando.com.br##div[aria-label="anúncio patrocinado"]
