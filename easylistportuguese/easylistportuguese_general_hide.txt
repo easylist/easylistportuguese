@@ -35,6 +35,7 @@
 ##.publicidade-728
 ##.publicidade-info-mobile
 ##.publicidade-lateral
+##.publicidade-mob2
 ##.publicidade-pequena
 ##.publicidade-rodape
 ##.publicidade-title
