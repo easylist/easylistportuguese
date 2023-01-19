@@ -1,3 +1,4 @@
+$popup,third-party,domain=topplay.cf
 !
 ! html/image popups
 /^https?:\/\/.*\.(jpg|jpeg|gif|png|svg|ico|js|txt|css|srt|vtt|webp)/$popup,domain=download.betteranime.net
