@@ -1,9 +1,11 @@
 ||ad.lomadee.com^$third-party
+||dino.com.br/widget/$third-party
 ||formulanegocioonline.digital/marca-trafego/$third-party
 ||go.hotmart.com^$third-party
 ||iili.io^$domain=politicosdosuldabahia.com.br
 ||imgur.com^$domain=politicosdosuldabahia.com.br
 ||ljii.github.io^$third-party
+||postimg.cc^$domain=barbacenamais.com.br
 ||publyads.jstag.space^
 ||pubs.xl.pt^
 ||supercasa.pt/mrec$third-party
