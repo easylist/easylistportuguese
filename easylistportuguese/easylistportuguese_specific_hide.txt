@@ -1,6 +1,10 @@
 blog200porcento.com###adtopo
 hardmob.com.br###anuncio
 mundoeducacao.uol.com.br###banner-300x250-3-area
+estudokids.com.br###banner-post-fim
+estudokids.com.br###banner-post-meio
+estudokids.com.br###banner-rodape
+estudokids.com.br###banner-topo
 acheisudoeste.com.br###bannerflutuante
 dramaclub.one###custom_html-2
 euriodetudo.com.br###custom_html-3
@@ -81,6 +85,7 @@ slatual.com.br##.banner_post_horizontal_secundary
 slatual.com.br##.banner_side_home
 slatual.com.br##.banner_text
 portaldoholanda.com.br##.banneraleatorio
+estudokids.com.br##.bannerdestaques1
 barbacenamais.com.br##.bannergroup
 meucarronovo.com.br##.banners-2
 otimafm.com.br##.banners-posicao
