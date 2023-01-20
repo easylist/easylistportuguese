@@ -1,5 +1,6 @@
 ||cazamba.com^$third-party
 ||grumft.com^$third-party
+||igaming-service.io^$third-party
 ||joinads.me^$third-party
 ||juicebarads.com^$third-party
 ||premiumads.com.br^$third-party
