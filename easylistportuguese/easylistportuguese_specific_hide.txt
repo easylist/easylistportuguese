@@ -170,6 +170,7 @@ jornaldenegocios.pt,record.pt##.m-rec
 uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
 imasters.com.br##.maintainer
+record.pt##.masthead_BG
 revistaana.pt##.mb-50-ptb-20-ad
 diariorp.com.br##.mdl_container
 tempo.pt##.megabanner
