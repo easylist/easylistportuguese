@@ -52,6 +52,7 @@ marriedgames.com.br##.aawp
 atribuna.com.br,cybercook.com.br,dicio.com.br,olhardigital.com.br,sapo.pt##.ad
 clicrbs.com.br,mundo.com,vrum.com.br##.ad-banner
 clicrbs.com.br,somosfanaticos.fans##.ad-container
+sabornutritivo.com##.ad-sabornu
 abril.com.br,apontador.com.br,correioweb.com.br,imasters.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
 revistaoeste.com##.ads-container
 clicrbs.com.br##.ads-section-area.area.container-area
@@ -129,7 +130,7 @@ radiodisney.com.br##.css-303m18
 radiodisney.com.br##.css-jy3jpo
 dinheirorural.com.br,revistaplaneta.com.br##.css-liynyf
 brasilnaitalia.net##.custom_html-5
-esportetotal.club##.demand-supply
+esportetotal.club,sabornutritivo.com##.demand-supply
 flashscore.com.br,flashscore.pt##.detailLeaderboard
 hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
