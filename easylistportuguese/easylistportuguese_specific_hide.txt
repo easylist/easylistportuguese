@@ -60,7 +60,7 @@ ibahia.com##.ads-space
 uol.com.br##.ads-wrapper
 poder360.com.br##.advertisement
 infojobs.com.br##.advisor-banner-container
-noticiasautomotivas.com.br##.ai-viewport-1
+noticiasautomotivas.com.br,zap.aeiou.pt##.ai-viewport-1
 otvfoco.com.br##.ai_widget
 estadao.com.br##.ajuste-banner
 forbes.com.br,humordaterra.com##.anuncio
