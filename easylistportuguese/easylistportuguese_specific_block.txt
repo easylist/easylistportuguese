@@ -32,7 +32,7 @@
 ||zerozero.pt/images/takeover/
 ||zwame.pt/comparador/
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=3thepiratefilmes.in|aniflv.net|animescx.com.br|animesup.biz|animexnovel.com|betteranime.net|dramaken.com|filmehdonline.site|listadeanimes.com|megafilmeshd50.com|myfilmestorrent.net|netcine.to|suatela.net|tdmsubs.com|thepiratefilmeshd.in|tyflex.net
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=3thepiratefilmes.in|aniflv.net|animescx.com.br|animesup.biz|animexnovel.com|betteranime.net|dramafansubs.net|dramaken.com|filmehdonline.site|gemadoff.com.br|listadeanimes.com|megafilmeshd50.com|myfilmestorrent.net|netcine.to|suatela.net|tdmsubs.com|thepiratefilmeshd.in|tyflex.net
 /^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=digitaltorrentdownload.com.br|gofilmes.me|superfilmes.cx|torrentdosfilmes.to|warezcdn.com
 !
 /files/publicity/*$domain=diarioaveiro.pt|diariocoimbra.pt
