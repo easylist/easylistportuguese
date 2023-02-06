@@ -1,4 +1,5 @@
 ||ad.lomadee.com^$third-party
+||ad.lomadee.fun^
 ||dino.com.br/widget/$third-party
 ||formulanegocioonline.digital/marca-trafego/$third-party
 ||go.hotmart.com^$third-party
