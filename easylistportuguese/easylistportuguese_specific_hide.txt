@@ -168,6 +168,7 @@ paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-
 metropoles.com##.m-banner-block-widescreen
 metropoles.com##.m-banner-wrap
 metropoles.com##.m-boostbox-sidebar
+gauchazh.clicrbs.com.br##.m-latest-by-tag-content-widget
 jornaldenegocios.pt,record.pt##.m-rec
 uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
