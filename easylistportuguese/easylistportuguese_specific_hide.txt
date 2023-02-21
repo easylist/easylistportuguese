@@ -39,6 +39,7 @@ saudadefm.com.br###publicidade
 solutudo.com.br###stickyContainer
 ig.com.br###superbanner
 verfutebol.tv###superderbi
+reaperscans.net###teaser3
 soesporte.com.br###text-7
 euriodetudo.com.br###text-8
 uol.com.br###uolpd-video-inarticle
