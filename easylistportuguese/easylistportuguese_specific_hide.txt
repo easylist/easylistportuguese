@@ -43,6 +43,7 @@ solutudo.com.br###stickyContainer
 ig.com.br###superbanner
 verfutebol.tv###superderbi
 reaperscans.net###teaser3
+calangodocerrado.net###text-49
 soesporte.com.br###text-7
 euriodetudo.com.br###text-8
 uol.com.br###uolpd-video-inarticle
@@ -75,6 +76,7 @@ brasilescola.uol.com.br##.area-publi-topo
 hot107.com.br##.area_adsense
 natelinha.uol.com.br##.arroba-texto
 purebreak.com.br##.article-column-container
+calangodocerrado.net##.banFooter
 humordido.net##.banSect
 bne.com.br,metropolitanafm.com.br,muramasa.com.br,overplay.com.br,ovicio.com.br,tntsports.com.br##.banner
 icarros.com.br##.banner-arroba-container
@@ -270,7 +272,7 @@ climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 escolakids.uol.com.br,mundoeducacao.uol.com.br##.wrapper-bnr
 multinews.sapo.pt##.yxzmwgdi
 forum.zwame.pt##.zwame-side-spons
-anitube.cx,automotivebusiness.com.br,noticiafamosos.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
+anitube.cx,automotivebusiness.com.br,calangodocerrado.net,noticiafamosos.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
 tribunaonline.com.br##a[href^="/branded-content/"]
 myfilmestorrent.net##a[href^="/free.php?"]
 zerozero.pt##a[href^="https://online.placard.pt/"]
