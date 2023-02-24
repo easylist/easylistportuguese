@@ -1,3 +1,4 @@
+vidadesuporte.com.br###adstopo
 blog200porcento.com###adtopo
 diadia.site,petmil.website###adx
 diadia.site,petmil.website###adx2
@@ -9,6 +10,7 @@ estudokids.com.br###banner-post-meio
 estudokids.com.br###banner-rodape
 estudokids.com.br###banner-topo
 acheisudoeste.com.br###bannerflutuante
+vidadesuporte.com.br###block-10
 dramaclub.one###custom_html-2
 ahnegao.com.br,euriodetudo.com.br###custom_html-3
 euriodetudo.com.br###custom_html-5
@@ -65,6 +67,7 @@ revistaoeste.com##.ads-container
 clicrbs.com.br##.ads-section-area.area.container-area
 ibahia.com##.ads-space
 uol.com.br##.ads-wrapper
+vidadesuporte.com.br##.adupee
 poder360.com.br##.advertisement
 infojobs.com.br##.advisor-banner-container
 noticiasautomotivas.com.br,zap.aeiou.pt##.ai-viewport-1
