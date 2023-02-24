@@ -1,4 +1,6 @@
 blog200porcento.com###adtopo
+diadia.site,petmil.website###adx
+diadia.site,petmil.website###adx2
 hardmob.com.br###anuncio
 brasilescola.uol.com.br###area_flutuante_2
 mundoeducacao.uol.com.br###banner-300x250-3-area
