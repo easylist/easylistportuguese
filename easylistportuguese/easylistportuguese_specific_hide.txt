@@ -201,6 +201,7 @@ minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
 observador.pt##.obs-ad-placeholder
 flashscore.com.br,flashscore.pt##.oddsPlacement
+guiadobitcoin.com.br##.offerCtaCell
 correiobraziliense.com.br##.patrocinado
 iol.pt##.patrocinado_section
 tvhotnews.com.br##.patrocinadores-view-detail
