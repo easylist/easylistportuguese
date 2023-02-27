@@ -129,6 +129,7 @@ zap.aeiou.pt##.code-block-3
 zap.aeiou.pt##.code-block-4
 zap.aeiou.pt##.code-block-5
 zap.aeiou.pt##.code-block-9
+cointelegraph.com.br##.componentAdbutler_ciZFt
 antena1.com.br##.containerBanner
 natelinha.uol.com.br##.content-banner
 webmotors.com.br##.content-midia
@@ -157,6 +158,7 @@ exame.com##.gaOLck
 pobre.wtf##.generalModal
 solutudo.com.br##.go_bnr_wr
 divirtasemais.com.br##.hdr-pub
+cointelegraph.com.br##.header-zone__banners
 slatual.com.br##.horizontal_banner_custom_desktop
 slatual.com.br##.horizontal_banner_secundary_desktop
 tag.jn.pt##.hp-mrec
@@ -237,6 +239,7 @@ grandepremio.com.br##.rodape_sticky
 sapo.pt##.sapoPub
 maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
+cointelegraph.com.br##.sidebar__promo-button
 97news.com.br##.sidebar_widget_banner
 diarioimobiliario.pt##.singlePub
 slatual.com.br##.slider_banner_sidebar
