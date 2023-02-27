@@ -1,7 +1,7 @@
 vidadesuporte.com.br###adstopo
 blog200porcento.com###adtopo
-diadia.site,petmil.website###adx
-diadia.site,petmil.website###adx2
+diadia.site,petmil.website,rendaedinheiro.net###adx
+diadia.site,petmil.website,rendaedinheiro.net###adx2
 hardmob.com.br###anuncio
 brasilescola.uol.com.br###area_flutuante_2
 mundoeducacao.uol.com.br###banner-300x250-3-area
@@ -114,6 +114,7 @@ brasilnaitalia.net##.block-15
 brasilnaitalia.net##.block-2
 brasilnaitalia.net##.block-5
 brasilnaitalia.net##.block-6
+loucasporcabelos.com.br##.blue
 brasilnaitalia.net##.bookingaff
 sabado.pt##.boost_activate
 escolhaviajar.com##.bos_searchbox_widget_class
@@ -144,7 +145,7 @@ radiodisney.com.br##.css-303m18
 radiodisney.com.br##.css-jy3jpo
 dinheirorural.com.br,revistaplaneta.com.br##.css-liynyf
 brasilnaitalia.net##.custom_html-5
-esportetotal.club,futebolistasonline.club,sabornutritivo.com,tudonoticias.net##.demand-supply
+esportetotal.club,futebolistasonline.club,loucasporcabelos.com.br,sabornutritivo.com,tudonoticias.net##.demand-supply
 flashscore.com.br,flashscore.pt##.detailLeaderboard
 hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
