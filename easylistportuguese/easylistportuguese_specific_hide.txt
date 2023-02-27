@@ -252,6 +252,7 @@ br.advfn.com##.special-post
 apontador.com.br##.sponsorship
 brasildefato.com.br##.spotlight-view
 cbn.globoradio.globo.com##.sticky-container
+infomoney.com.br##.subject_Branded
 dinheirovivo.pt##.t-am-sponsored
 jn.pt,ojogo.pt##.t-pub-box-1
 ojogo.pt##.t-pub-box-7
@@ -324,6 +325,7 @@ carrefour.com.br#?#.vtex-flex-layout-0-x-flexColChild:-abp-contains(Publicidade)
 climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto)
 climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto) + div > .card-coupons
 correioweb.com.br#?#.post--hardnews.call-uai:-abp-has(a:-abp-contains(CONTEÚDO PATROCINADO))
+infomoney.com.br#?#.row.m-0.py-3.border-t:-abp-has(.hl-hat:-abp-contains(Conteúdo))
 jornaldigitalcanela.com.br#?#div:-abp-has(> .jorna-adlabel)
 jornaldigitalcanela.com.br#?#div:-abp-has(> .td-adspot-title)
 omirante.pt#?#.fbox.swidgets-wrap.widget.widget_block.widget_media_image:-abp-has(figcaption)
