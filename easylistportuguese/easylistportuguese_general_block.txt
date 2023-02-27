@@ -30,7 +30,6 @@
 /mrec.aspx?
 /mrec.html?
 /planetup_
-/promocao-
 /publi.js
 /publi/banner_
 /publicidade-
