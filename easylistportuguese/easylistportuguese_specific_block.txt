@@ -22,6 +22,7 @@
 ||portaldoholanda.com.br^*/banners/
 ||portalmorada.com.br/assets/uploads/ads_
 ||redegn.com.br/images/banners/
+||s.mangalivre.net^
 ||sapo.pt/pub/
 ||soanimes.net/noping/
 ||superhentai.online/noping/
@@ -83,7 +84,6 @@
 ||legendas.ga/random.js
 ||loucosporgeek.com.br/wp-content/uploads/*/Loucos.gif^$domain=subanimes.biz
 ||lucasgarcia.com.br^$subdocument
-||mangalivre.net$subdocument
 ||media.discordapp.net/attachments/*/Banner-gid-Edu.gif^$domain=subanimes.biz
 ||metropoles.com/cupom/rtg/iframe/pill^$subdocument
 ||migalhas.com.br/IMGSRC/www.migalhas.com.br*S=Publicidade
