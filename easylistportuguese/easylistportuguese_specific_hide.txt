@@ -40,7 +40,7 @@ kboing.com.br###pub_0
 kboing.com.br###pub_1
 kboing.com.br###pub_4
 kboing.com.br###publ-goog
-saudadefm.com.br###publicidade
+gabarite.com.br,saudadefm.com.br###publicidade
 guiadobitcoin.com.br###sidebaroffer-3
 solutudo.com.br###stickyContainer
 ig.com.br###superbanner
