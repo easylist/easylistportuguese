@@ -5,4 +5,5 @@
 ||kyotraffic.com^$third-party
 ||maxfullad.com^$third-party
 ||project1service.com^$third-party
+||webpsts.com^
 ||xpowergel.com^$third-party
