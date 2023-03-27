@@ -317,7 +317,7 @@ brasilescola.uol.com.br##div[style^="height:250px; width:300px;"]
 istoe.com.br,istoedinheiro.com.br,revistaplaneta.com.br##div[style^="width: 100%; height: 250px;"]
 revistamotos.pt##img[height="300"]
 criptonizando.com##img[height="90"]
-atoananet.com.br,cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com,inteligenciafinanceira.com.br,jornalcidademg.com.br,ofertaspravoce.com,omachoalpha.com.br,revistamotos.pt##img[width="300"]
+atoananet.com.br,cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com,inteligenciafinanceira.com.br,jornalcidademg.com.br,ofertaspravoce.com,omachoalpha.com.br,otakupt.com,revistamotos.pt##img[width="300"]
 atoananet.com.br,politicosdosuldabahia.com.br##img[width="728"]
 anitube.biz,investmentmanagement.click##ins[style*="width:300px;height:250px;"]
 ! Advanced element hiding rules for Adblock Plus
