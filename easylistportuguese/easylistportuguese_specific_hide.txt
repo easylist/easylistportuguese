@@ -321,6 +321,7 @@ atoananet.com.br,cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com,intelig
 atoananet.com.br,politicosdosuldabahia.com.br##img[width="728"]
 anitube.biz,investmentmanagement.click##ins[style*="width:300px;height:250px;"]
 ! Advanced element hiding rules for Adblock Plus
+buzzfeed.com.br#?#.standard-post.display-box.post-link-effect:-abp-has(.post-disclaimer:-abp-contains(Promovido por))
 carrefour.com.br#?#.sc-bczRLJ:-abp-contains(Publicidade)
 carrefour.com.br#?#.vtex-flex-layout-0-x-flexColChild:-abp-contains(Publicidade)
 climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto)
