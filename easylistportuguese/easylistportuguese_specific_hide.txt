@@ -178,6 +178,7 @@ vivareal.com.br##.js-udp-bottom-ad
 katoon.com.br##.katoo-widget
 personare.com.br##.korPCs
 vibemundialfm.com.br##.l-subheader-cell.at_right
+subsbr.net##.local_anuncio
 paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-items-center
 metropoles.com##.m-banner-block-widescreen
 metropoles.com##.m-banner-wrap
