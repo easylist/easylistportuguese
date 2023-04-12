@@ -71,6 +71,8 @@ ibahia.com##.ads-space
 uol.com.br##.ads-wrapper
 vidadesuporte.com.br##.adupee
 poder360.com.br##.advertisement
+hardware.com.br##.advertising-desktop
+hardware.com.br##.advertising-mobile
 infojobs.com.br##.advisor-banner-container
 noticiasautomotivas.com.br,zap.aeiou.pt##.ai-viewport-1
 otvfoco.com.br##.ai_widget
