@@ -674,8 +674,8 @@ inglesnoteclado.com.br##img[alt="anúncio"]
 portalarauto.com.br##img[alt^="PUBLICIDADE"]
 animesgratisbr.biz##img[title^="Assistir Hentai"]
 revistaquem.globo.com##li[data-item-type="advertising"]
-multicanais.fans##p >[href="https://1.1.1.1/"]
 mangayabu.top#?#div > h3:-abp-contains(Publicidade)
+multicanais.fans##p > [href="https://1.1.1.1/"]
 pobre.tv#?#b:-abp-contains(bet)
 pobre.tv#?#span:-abp-contains(BÓNUS DE BOAS VINDAS)
 portal.meusdividendos.com##section[class$="advertising"]
