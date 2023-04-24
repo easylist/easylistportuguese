@@ -394,6 +394,7 @@ pescariasa.com.br###media_image-8
 olx.com.br###module_olx_shopping
 mercadolivre.com.br###oasTOP
 jornaltransparencia.st###obj1
+tvonline.sx###over-link
 record.pt###pestanaSmart
 jornaloeste.com.br###popup
 anacao.cv###post-sidebar-wrap
