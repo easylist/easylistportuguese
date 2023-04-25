@@ -4,6 +4,7 @@
 ||gparena.net/uploads/banners/
 ||hentaifoda.com/pub/
 ||hentaihome.net/hentaihomepop.js
+||hentaistube.com/cdn/videojs-preroll.js
 ||hentaitokyo.net/hentaitokyomobilepop.js
 ||hentaiyaoi.net/pop6/
 ||horahentai.net/open.js
