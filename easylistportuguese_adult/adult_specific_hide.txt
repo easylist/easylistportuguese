@@ -43,7 +43,7 @@ aumenteseutesao.com##a[href^="https://www.sexlog.com/"][href*="?partner="]
 xvideos5.com.br##a[href^="https://www.tufos.com.br/"]
 pornobom.com.br,videosdesexoxxx.blog.br##body > #parent > #child > .texto + a + a
 sonovinhasbr.com##img[alt="anuncio"]
-eoquetemprahj.com,hentaihome.net,lapkjogos.com,lapkzone.com,mclass.com,naoconto.com##img[width="300"]
+eoquetemprahj.com,hentaihome.net,lapkjogos.com,lapkzone.com,mclass.com,naoconto.com,tia-tanaka.com##img[width="300"]
 safadasnaweb.com.br##img[width="300px"][height="250px"]
 quadrinhoseroticos.com.br##ul[class^="aneTemaRe1"]
 ! Advanced element hiding rules for Adblock Plus

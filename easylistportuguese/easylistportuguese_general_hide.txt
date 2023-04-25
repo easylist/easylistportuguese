@@ -50,6 +50,7 @@
 ##.tgads-center
 ##a[href^="http://mon.net.br/"]
 ##a[href^="https://clickadsxxx.com/"]
+##a[href^="https://ev.braip.com/"]
 ##a[href^="https://externo.x-power-gel.com/"]
 ##a[href^="https://go.hotmart.com/"]
 ##a[href^="https://grupoxxx.com/"]
