@@ -1,3 +1,4 @@
+###ads-foda-fx
 ###ads-recentes-home
 ###ads-recentes-home-2
 ###article-bloco-ads-botton
