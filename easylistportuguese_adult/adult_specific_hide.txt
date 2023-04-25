@@ -33,6 +33,7 @@ boafoda.com##.vjs-producer
 sexosas.com##.watched-now-right
 contoseroticosbr.com,eoquetemprahj.com##[href*="bit.ly/"]
 xvideosporno.me##a[data-ads]
+hqdesexo.com##a[href*="/anuncio/click/"]
 blogcorno.com,filmesporno.blog,xvideos.tv.br##a[href^="https://app.monetizze.com.br/"]
 travestisvip.com.br##a[href^="https://www.avantajadas.com.br/"]
 aumenteseutesao.com##a[href^="https://www.sexlog.com/"][href*="?partner="]
