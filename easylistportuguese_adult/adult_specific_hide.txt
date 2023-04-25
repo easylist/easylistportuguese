@@ -1,5 +1,5 @@
 travestisvip.com.br###bnrVideosTravestis
-pornodoido.com###overlay-video
+garotaporno.com,pornodoido.com###overlay-video
 novinhasdozapzap.com###text-73
 fadadosexo.com,tatarada.com.br##.Marquee
 pornodoido.com##.abbcn-footer
@@ -25,6 +25,8 @@ linkgp.com.br##.nativo-links
 travestisvip.com.br##.playerBnr
 sandrinha.com.br,xxxvideo.blog.br##.post-banners
 fadadosexo.com##.propagandas
+garotaporno.com##.publ11s-b0ttom
+garotaporno.com##.r11ght-pl4yer-169
 xvideos5.com.br##.video-incicio
 boafoda.com##.vjs-producer
 sexosas.com##.watched-now-right
