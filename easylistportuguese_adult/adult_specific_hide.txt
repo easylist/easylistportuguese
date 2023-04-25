@@ -44,6 +44,7 @@ pornobom.com.br,videosdesexoxxx.blog.br##body > #parent > #child > .texto + a + 
 sonovinhasbr.com##img[alt="anuncio"]
 eoquetemprahj.com,mclass.com,naoconto.com##img[width="300"]
 safadasnaweb.com.br##img[width="300px"][height="250px"]
+quadrinhoseroticos.com.br##ul[class^="aneTemaRe1"]
 ! Advanced element hiding rules for Adblock Plus
 buceteiro.com#?#.border:-abp-has(.ads)
 cnnamador.com#?#.cards__item--videos:-abp-has(span.flag--banner)
