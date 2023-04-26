@@ -3,7 +3,7 @@ garotaporno.com,pornodoido.com###overlay-video
 novinhasdozapzap.com###text-73
 fadadosexo.com,tatarada.com.br##.Marquee
 pornodoido.com##.abbcn-footer
-fotoscaiunanet.com,hentaibrasil.org,hentaikai.com,meuhentai.com,mixputaria.com,mundohentaioficial.com,pornocarioca.com,secretas.com,sexocoroas.com.br,sonovinhasbr.com,universohentai.com,videosexogay.com.br,xtubehentai.com,xvideo-sexo.com,xvideosanal.org##.anuncios
+fotoscaiunanet.com,gruposputaria.blog.br,hentaibrasil.org,hentaikai.com,meuhentai.com,mixputaria.com,mundohentaioficial.com,pornocarioca.com,secretas.com,sexocoroas.com.br,sonovinhasbr.com,universohentai.com,videosexogay.com.br,xtubehentai.com,xvideo-sexo.com,xvideosanal.org##.anuncios
 contosdesexo.com##.banner
 aifode.com,xvideosanal.org##.banner-footer
 freeones.pt##.banner-placeholder
@@ -46,6 +46,7 @@ xvideos5.com.br##a[href^="https://www.tufos.com.br/"]
 sotemnovinhas.com##a[href^="https://www.vipsaoluis.com.br/"]
 pornobom.com.br,videosdesexoxxx.blog.br##body > #parent > #child > .texto + a + a
 sonovinhasbr.com##img[alt="anuncio"]
+gruposputaria.blog.br##img[height="300"]
 eoquetemprahj.com,hentaihome.net,lapkjogos.com,lapkzone.com,mclass.com,naoconto.com,tia-tanaka.com##img[width="300"]
 safadasnaweb.com.br##img[width="300px"][height="250px"]
 quadrinhoseroticos.com.br##ul[class^="aneTemaRe1"]
