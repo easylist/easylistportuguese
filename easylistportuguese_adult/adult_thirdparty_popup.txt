@@ -1,2 +1,3 @@
 ||avantajadas.com.br^$popup,domain=travestisvip.com.br
+||bit.ly^$popup,domain=sotemnovinhas.com
 ||umtudo.com/pop/$popup
