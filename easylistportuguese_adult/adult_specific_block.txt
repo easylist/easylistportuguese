@@ -1,3 +1,4 @@
+||buceta.blog/pop.js
 ||buceteiro.com/wp-content/plugins/popup?
 ||classificadosxbr.com/images/banners/
 ||cnnamador.com/pop/
@@ -15,7 +16,6 @@
 ||plx.boafoda.com^
 ||plx.mrvideosdesexo.xxx^
 ||pontogay.com/frontEnd/theme/assets/js/publi/openq-xxxyaoi.js
-||porn24horas.com/wp-content/plugins/page-links-to/
 ||porno18.blog.br/back.js
 ||pornohd.blog.br/300x
 ||sexprime.xxx/pub/
@@ -23,6 +23,7 @@
 ||travestisvip.com.br/bnr/
 ||xtubehentai.com/fh/
 ||xvideos5.com.br/preroll/
+||xvideosbr.blog/pop.js
 ||xvideosnovinhas.com/wp-content/plugins/ane-preroll-xvideosnovinhas/preroll.js
 ||xvideospornor.com/300x
 !
