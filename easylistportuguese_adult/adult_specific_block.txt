@@ -15,6 +15,7 @@
 ||plx.boafoda.com^
 ||plx.mrvideosdesexo.xxx^
 ||pontogay.com/frontEnd/theme/assets/js/publi/openq-xxxyaoi.js
+||porn24horas.com/wp-content/plugins/page-links-to/
 ||porno18.blog.br/back.js
 ||pornohd.blog.br/300x
 ||sexprime.xxx/pub/
@@ -30,7 +31,6 @@
 $subdocument,third-party,domain=curto.win
 !
 /url-open.js$domain=hentaiputa.com|terceiroz.com
-||*link*.$domain=porn24horas.com
 ||bserver.gp-guia.net^$subdocument
 ||contoerotico.com/adscod/
 ||gp-pt.net/forum/banners/$image

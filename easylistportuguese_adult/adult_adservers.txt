@@ -1,6 +1,8 @@
 ||anunciad.com.br^$third-party
 ||busktraffic.com^$third-party
 ||clickadsxxx.com^$third-party
+||eutesalvo.com^$third-party
+||geralinks.com.br^$third-party
 ||grupoxxx.com^$third-party
 ||kyotraffic.com^$third-party
 ||maxfullad.com^$third-party
