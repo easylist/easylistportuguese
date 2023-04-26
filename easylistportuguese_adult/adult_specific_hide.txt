@@ -18,7 +18,7 @@ contoseroticosbr.com##.custom-html-widget
 sexprime.xxx##.execphpwidget
 pornotarado.com##.footerCode
 boafoda.com##.footer_partner_container_wrapper
-caiunarede.ml##.happy-inside-player
+caiunarede.ml,videosred.com.br##.happy-inside-player
 pornhub.blog.br##.happy-player-beside
 pornhub.blog.br##.happy-section
 pornotarado.com##.headerCode
@@ -43,7 +43,6 @@ coliriodemacho.com.br##.widget_custom_html
 contoseroticosbr.com,eoquetemprahj.com##[href*="bit.ly/"]
 xvideosporno.me##a[data-ads]
 hqdesexo.com##a[href*="/anuncio/click/"]
-blogcorno.com,filmesporno.blog,xvideos.tv.br##a[href^="https://app.monetizze.com.br/"]
 travestisvip.com.br##a[href^="https://www.avantajadas.com.br/"]
 aumenteseutesao.com##a[href^="https://www.sexlog.com/"][href*="?partner="]
 xvideos5.com.br##a[href^="https://www.tufos.com.br/"]
