@@ -33,6 +33,7 @@
 ##.mw-desk-bloco-ads-1
 ##.mw-desk-bloco-ads-2
 ##.mw-desk-bloco-ads-5
+##.pos-ads-texto
 ##.publicidade-728
 ##.publicidade-cima-container
 ##.publicidade-info-mobile
