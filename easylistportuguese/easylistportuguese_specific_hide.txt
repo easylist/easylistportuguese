@@ -195,6 +195,7 @@ revistaana.pt##.mb-50-ptb-20-ad
 diariorp.com.br##.mdl_container
 tempo.pt##.megabanner
 observador.pt##.meo-bold
+repercussaoparanhana.com##.metaslider
 cmjornal.pt##.mrec
 dinheirovivo.pt,dn.pt,jn.pt,ojogo.pt,tsf.pt##.mrec-status
 jn.pt,ojogo.pt##.mrec-status-l
