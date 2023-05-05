@@ -1,1 +1,2 @@
+||esportbono.com^$popup
 ||t.co^$popup,domain=cdstops.com
