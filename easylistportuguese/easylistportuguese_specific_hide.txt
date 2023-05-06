@@ -241,7 +241,7 @@ acordacidade.com.br##.publi-5
 brasilescola.uol.com.br##.publi-dir
 tempo.pt##.publicidad-pie
 ig.com.br##.publicidade
-infojobs.com.br##.publicity
+infojobs.com.br,oantagonista.uol.com.br##.publicity
 publico.pt##.pubtxt
 superesportes.com.br##.retangulo
 grandepremio.com.br##.rodape_sticky
