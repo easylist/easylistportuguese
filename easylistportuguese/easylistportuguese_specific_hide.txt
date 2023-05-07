@@ -300,6 +300,7 @@ migalhas.com.br##app-wt-servico-banner-v01
 mercadolivre.com.br##div.ui-search-result--advertisement
 pelando.com.br##div[aria-label="anúncio patrocinado"]
 radiojhero.com##div[class^="Ad_"]
+metropoles.com##div[class^="PublicidadesWrapper-"]
 diariorp.com.br,marriedgames.com.br##div[class^="angwp_"]
 tudoradio.com##div[class^="pub-"]
 baixaki.com.br##div[class^="styles__AdsBlock-"]
