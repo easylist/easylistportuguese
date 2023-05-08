@@ -2,8 +2,10 @@
 @@||custojusto.pt/user/myads/$~third-party
 @@||fatimalife.com.br/api/v1/ad/$~third-party
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=magazineluiza.com.br
-@@||g.doubleclick.net/tag/js/gpt.js$script,domain=drogasil.com.br
+@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js?$script,domain=jn.pt
+@@||g.doubleclick.net/tag/js/gpt.js$script,domain=drogasil.com.br|jn.pt
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=jogos360.com.br|r7.com|terra.com.br
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?$script,domain=jn.pt
 @@||pubads.g.doubleclick.net/gampad/$image,domain=rainha.com.br|topper.com.br
 @@||tpc.googlesyndication.com/simgad/$image,domain=rainha.com.br|topper.com.br
 !
