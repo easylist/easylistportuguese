@@ -261,8 +261,6 @@ brasildefato.com.br##.spotlight-view
 cbn.globoradio.globo.com##.sticky-container
 infomoney.com.br##.subject_Branded
 dinheirovivo.pt##.t-am-sponsored
-jn.pt,ojogo.pt##.t-pub-box-1
-ojogo.pt##.t-pub-box-7
 dn.pt##.t-pubbox-ct-1
 tsf.pt##.t-pubbox-mrec-1
 dinheirovivo.pt,tsf.pt##.t-section-sponsored
@@ -289,6 +287,7 @@ climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 escolakids.uol.com.br,mundoeducacao.uol.com.br##.wrapper-bnr
 multinews.sapo.pt##.yxzmwgdi
 forum.zwame.pt##.zwame-side-spons
+jn.pt,ojogo.pt##[class^="t-pub-box-"]
 anitube.cx,automotivebusiness.com.br,calangodocerrado.net,noticiafamosos.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
 tribunaonline.com.br##a[href^="/branded-content/"]
 myfilmestorrent.net##a[href^="/free.php?"]

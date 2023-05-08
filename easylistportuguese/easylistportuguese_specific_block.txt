@@ -20,6 +20,7 @@
 ||geralinks.com.br^*/ads/
 ||jornalrazao.com/storage/images/ads/
 ||naointendo.com.br/banners/
+||ojogo.pt/common/mrec_
 ||pobre.wtf/wp-banners.js
 ||portaldoholanda.com.br^*/banners/
 ||portalmorada.com.br/assets/uploads/ads_
