@@ -202,6 +202,7 @@ dinheirovivo.pt,dn.pt,jn.pt,ojogo.pt,tsf.pt##.mrec-status
 jn.pt,ojogo.pt##.mrec-status-l
 menshealth.pt,noticiasmagazine.pt##.mrec-wrapper
 vidas.pt##.mrecUltimas
+motor24.pt##.mrecbox
 motorsport.uol.com.br##.ms-apb
 motorsport.uol.com.br##.ms-hapb
 revistaana.pt##.mtb-20-ad
@@ -265,7 +266,7 @@ ojogo.pt##.t-pub-box-7
 dn.pt##.t-pubbox-ct-1
 tsf.pt##.t-pubbox-mrec-1
 dinheirovivo.pt,tsf.pt##.t-section-sponsored
-brasilnaitalia.net,diariorp.com.br,jornaldoalgarve.pt,observatoriodeourofino.com.br##.td-a-rec
+brasilnaitalia.net,diariorp.com.br,jornaldoalgarve.pt,motor24.pt,observatoriodeourofino.com.br##.td-a-rec
 motor24.pt##.td-banner-wrap-full
 revistaplaneta.com.br##.td_uid_13_63667955e8fa2_rand
 revistaplaneta.com.br##.td_uid_15_63667955ec1ba_rand
