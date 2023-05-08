@@ -474,6 +474,7 @@ uol.com.br##.bg-banner
 folhademaputo.co.mz##.bg-pattern-hatch
 oliberal.com##.bgbanner
 brasil247.com##.billboard-970x250
+delas.pt##.billboard-wrapper
 extra.com.br##.bnr
 bronav.com,tudonav.com##.bottom-adv-wrap
 gazetadopovo.com.br##.box-ads-header-home
