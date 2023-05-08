@@ -10,6 +10,7 @@
 ||publyads.jstag.space^
 ||pubs.xl.pt^
 ||supercasa.pt/mrec$third-party
+||t.co^domain=souapenasumsitenormal.com
 ||upee.online/adsupee.js$third-party
 ||x2n.com.br/media/$third-party
 ! cloudfront hosted

@@ -4,6 +4,7 @@
 ||joinads.me^$third-party
 ||juicebarads.com^$third-party
 ||premiumads.com.br^$third-party
+||sendwebpush.com^$third-party
 ||simpleads.com.br^$third-party
 ||tradermilionarios.co^$third-party
 !
