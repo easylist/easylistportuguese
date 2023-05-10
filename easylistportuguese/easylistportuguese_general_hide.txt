@@ -56,6 +56,7 @@
 ##a[href^="https://clickadsxxx.com/"]
 ##a[href^="https://ev.braip.com/"]
 ##a[href^="https://externo.x-power-gel.com/"]
+##a[href^="https://go.aff.esportesdasorte.com/"]
 ##a[href^="https://go.hotmart.com/"]
 ##a[href^="https://grupoxxx.com/"]
 ##a[href^="https://www.e-consulters.com.br/sac/aff.php?aff="]
