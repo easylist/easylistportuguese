@@ -1,5 +1,3 @@
-fdr.com.br###Position_Content1
-fdr.com.br###Position_Top
 vidadesuporte.com.br###adstopo
 blog200porcento.com###adtopo
 diadia.site,petmil.website,rendaedinheiro.net###adx
@@ -317,6 +315,7 @@ mktesportivo.com##div[class^="mktes-"]
 tudoradio.com##div[class^="pub-"]
 baixaki.com.br##div[class^="styles__AdsBlock-"]
 estadao.com.br##div[class^="styles__Container-sc-"]
+fdr.com.br,mixme.com.br##div[data-aps="true"]
 bitmag.com.br,garagem360.com.br##div[id^="Position_"]
 moneytimes.com.br##div[id^="banner-top"]
 concursosnobrasil.com##div[id^="concur-"]
