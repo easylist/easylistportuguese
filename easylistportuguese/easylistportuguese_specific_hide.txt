@@ -338,8 +338,10 @@ crazygames.com.br##div[style^="width: 160px; height: 600px;"]
 crazygames.com.br##div[style^="width: 728px; height: 90px;"]
 revistamotos.pt##img[height="300"]
 criptonizando.com,ntvb.com.br##img[height="90"]
-atoananet.com.br,cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com,inteligenciafinanceira.com.br,jornalcidademg.com.br,ofertaspravoce.com,omachoalpha.com.br,otakupt.com,revistamotos.pt##img[width="300"]
+atoananet.com.br,cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com,futebolatino.lance.com.br,inteligenciafinanceira.com.br,jornalcidademg.com.br,ofertaspravoce.com,omachoalpha.com.br,otakupt.com,revistamotos.pt##img[width="300"]
+futebolatino.lance.com.br##img[width="320"][height="50"]
 atoananet.com.br,politicosdosuldabahia.com.br##img[width="728"]
+futebolatino.lance.com.br##img[width="940"][height="150"]
 anitube.biz,investmentmanagement.click##ins[style*="width:300px;height:250px;"]
 ! Advanced element hiding rules for Adblock Plus
 buzzfeed.com.br#?#.standard-post.display-box.post-link-effect:-abp-has(.post-disclaimer:-abp-contains(Promovido por))

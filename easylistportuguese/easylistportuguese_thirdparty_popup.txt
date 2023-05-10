@@ -1,3 +1,4 @@
+||apostasbrasil.com^$popup
 ||bonusesportivo.com^$popup
 ||esportbono.com^$popup
 ||t.co^$popup,domain=cdstops.com
