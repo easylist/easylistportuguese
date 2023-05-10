@@ -210,6 +210,7 @@ motorsport.uol.com.br##.ms-hapb
 revistaana.pt##.mtb-20-ad
 minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
+b9.com.br##.o-slot-content
 observador.pt##.obs-ad-placeholder
 flashscore.com.br,flashscore.pt##.oddsPlacement
 guiadobitcoin.com.br##.offerCtaCell
