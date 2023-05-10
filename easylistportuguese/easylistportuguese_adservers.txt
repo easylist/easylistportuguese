@@ -1,3 +1,7 @@
+||adjs.media^
+||adsmaster.dev^
+!
+||admasters.media^$third-party
 ||cazamba.com^$third-party
 ||grumft.com^$third-party
 ||igaming-service.io^$third-party
