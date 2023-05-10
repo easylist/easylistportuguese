@@ -22,6 +22,7 @@ ahnegao.com.br###global_topo
 dicio.com.br###gooad_palavra
 crusoe.uol.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
+meutimao.com.br###header_logo_barra
 ojogos.com.br###homepage-top-leaderboard
 dnoticias.pt###interstitial_pub
 conjur.com.br###leaderboard1
@@ -103,6 +104,7 @@ slatual.com.br##.banner_post_horizontal_primary
 slatual.com.br##.banner_post_horizontal_secundary
 slatual.com.br##.banner_side_home
 slatual.com.br##.banner_text
+meutimao.com.br##.banner_triplo
 portaldoholanda.com.br##.banneraleatorio
 estudokids.com.br##.bannerdestaques1
 barbacenamais.com.br##.bannergroup
@@ -119,6 +121,7 @@ brasilnaitalia.net##.block-15
 brasilnaitalia.net##.block-2
 brasilnaitalia.net##.block-5
 brasilnaitalia.net##.block-6
+meutimao.com.br##.bloco_horizotal_triplo
 loucasporcabelos.com.br##.blue
 brasilnaitalia.net##.bookingaff
 sabado.pt##.boost_activate
@@ -221,6 +224,7 @@ iol.pt##.patrocinado_section
 tvhotnews.com.br##.patrocinadores-view-detail
 cnnportugal.iol.pt##.patrocinadosWrapper
 mundoeducacao.uol.com.br##.pb_inner_content
+meutimao.com.br##.pbmt
 iol.pt##.plista
 jornaldocarro.estadao.com.br##.portal-sponsor
 slatual.com.br##.post_banner_sidebar
