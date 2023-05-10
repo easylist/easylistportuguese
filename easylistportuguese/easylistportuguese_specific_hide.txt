@@ -171,6 +171,7 @@ tag.jn.pt##.hp-mrec
 idealista.pt##.idealista-banner
 ehow.com.br##.inline-parent-container
 grandepremio.com.br##.internas_instream
+olhardigital.com.br##.intext-denakop
 iol.pt,meo.pt##.iol-comercial-placement
 uol.com.br##.itemAds
 jornaldocarro.estadao.com.br##.jc-saiba-mais
@@ -308,6 +309,7 @@ estadao.com.br##div[class^="styles__Container-sc-"]
 bitmag.com.br,garagem360.com.br##div[id^="Position_"]
 moneytimes.com.br##div[id^="banner-top"]
 concursosnobrasil.com##div[id^="concur-"]
+olhardigital.com.br##div[id^="denakop-ad-"]
 escolhaviajar.com##div[id^="escol-"]
 portaldobitcoin.uol.com.br##div[id^="porta-"]
 custojusto.pt##div[id^="sas_"]

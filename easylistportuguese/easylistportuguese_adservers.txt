@@ -3,6 +3,7 @@
 !
 ||admasters.media^$third-party
 ||cazamba.com^$third-party
+||denakop.com^$third-party
 ||grumft.com^$third-party
 ||igaming-service.io^$third-party
 ||joinads.me^$third-party
