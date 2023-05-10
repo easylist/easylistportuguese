@@ -64,6 +64,7 @@ atribuna.com.br,cybercook.com.br,dicio.com.br,olhardigital.com.br,sapo.pt##.ad
 clicrbs.com.br,mundo.com,vrum.com.br##.ad-banner
 clicrbs.com.br,somosfanaticos.fans##.ad-container
 sabornutritivo.com##.ad-sabornu
+nsctotal.com.br##.adSlot__container
 compreiativo.com.br##.adblock
 abril.com.br,apontador.com.br,correioweb.com.br,imasters.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br##.ads
 revistaoeste.com##.ads-container
