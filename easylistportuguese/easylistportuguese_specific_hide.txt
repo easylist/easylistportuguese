@@ -285,6 +285,7 @@ publico.pt##.tone--paid
 diarioimobiliario.pt##.topBanner
 humordaterra.com##.top_pub
 uai.com.br##.uai-ads
+mercadolivre.com.br##.ui-search-sidebar-advertising__display
 mercadolivre.com.br##.ui-search-sidebar-advertising__wrapper
 tvpop.com.br,uol.com.br##.up-floating
 vagas.com.br##.vagasp-banner-widget
@@ -311,7 +312,7 @@ ptanime.com##a[href^="https://ptani.me/r/"]
 futebolnatv.com.br##a[href^="https://www.amazon."][href*="tag="]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
 migalhas.com.br##app-wt-servico-banner-v01
-mercadolivre.com.br##div.ui-search-result--advertisement
+mercadolivre.com.br##div.ui-search-result--highlight-p
 pelando.com.br##div[aria-label="anúncio patrocinado"]
 radiojhero.com##div[class^="Ad_"]
 metropoles.com##div[class^="PublicidadesWrapper-"]
