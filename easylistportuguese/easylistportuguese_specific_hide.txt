@@ -236,6 +236,7 @@ euriodetudo.com.br##.pub-bottom-header
 redetv.uol.com.br##.pub-box
 noticiasaominuto.com##.pub-container-block
 vagandonanet.com.br##.pub-conteudo-300x250
+noticiasaominuto.com##.pub-space
 redetv.uol.com.br##.pub-topo
 jornaiserevistas.com##.pubLeaderboard
 jornaiserevistas.com##.pubSpace
