@@ -75,6 +75,7 @@ ibahia.com##.ads-space
 uol.com.br##.ads-wrapper
 vidadesuporte.com.br##.adupee
 poder360.com.br##.advertisement
+statusinvest.com.br##.advertising
 hardware.com.br##.advertising-desktop
 hardware.com.br##.advertising-mobile
 infojobs.com.br##.advisor-banner-container
@@ -230,6 +231,7 @@ meutimao.com.br##.pbmt
 iol.pt##.plista
 noticiasaominuto.com##.pop-out-content
 fiis.com.br##.popup-background
+statusinvest.com.br##.popup-fixed
 jornaldocarro.estadao.com.br##.portal-sponsor
 slatual.com.br##.post_banner_sidebar
 beachcam.meo.pt##.poweredBy
