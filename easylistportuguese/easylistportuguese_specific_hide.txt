@@ -35,6 +35,7 @@ exame.com###native-home-4
 exame.com###native-home-5
 exame.com###noticias_relacionadas_pos_1
 noticiasaominuto.com###pnm-popout-section
+contaspoupanca.pt###pop-up-dp
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
 otempo.com.br###pub-sidebar
@@ -97,6 +98,7 @@ valor.globo.com,valorinveste.globo.com##.banner-fix-cls
 redegn.com.br##.banner-img
 sbtnews.com.br##.banner-list-notices-sd
 vagas.com.br##.banner-position
+contaspoupanca.pt##.banner-publicidade-1
 uaiagro.com.br##.banner-retangulo
 animestc.net##.banner-sidebar
 acheisudoeste.com.br,gazetadopovo.com.br,semprefamilia.com.br,umdoisesportes.com.br##.banner-topo
