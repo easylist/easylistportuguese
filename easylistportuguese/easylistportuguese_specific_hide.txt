@@ -186,6 +186,7 @@ iol.pt,meo.pt##.iol-comercial-placement
 uol.com.br##.itemAds
 jornaldocarro.estadao.com.br##.jc-saiba-mais
 trabalhabrasil.com.br##.jg__ads
+nextpit.com.br##.jobbioapp
 vivareal.com.br##.js-advertising
 adorocinema.com##.js-emergence-countdown
 vivareal.com.br##.js-udp-bottom-ad
