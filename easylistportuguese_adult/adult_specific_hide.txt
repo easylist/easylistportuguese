@@ -41,6 +41,7 @@ pornomineiro.com##.video-visitas
 boafoda.com##.vjs-producer
 sexosas.com##.watched-now-right
 coliriodemacho.com.br##.widget_custom_html
+afiliados-na-web.com##.widget_text
 contoseroticosbr.com,eoquetemprahj.com##[href*="bit.ly/"]
 xvideosporno.me##a[data-ads]
 hqdesexo.com##a[href*="/anuncio/click/"]
