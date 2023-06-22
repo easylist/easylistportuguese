@@ -60,6 +60,7 @@ quadrinhoseroticos.com.br##ul[class^="aneTemaRe1"]
 ! Advanced element hiding rules for Adblock Plus
 buceteiro.com#?#.border:-abp-has(.ads)
 cnnamador.com#?#.cards__item--videos:-abp-has(span.flag--banner)
+meuscontoseroticos.com#?#.ane-relacionado-conteudo:-abp-has(.thumb-ads)
 pornotube.blog.br#?#.video-conteudo:-abp-has(.selo:-abp-contains(ADS)) > .video-desc
 sexprime.xxx#?#.thumb-block:-abp-has(.thumb-adlert:-abp-contains(ADS))
 videosdesuavizinha.com#?#.post.last:-abp-has(a[href^="https://grupoxxx.com/"])
