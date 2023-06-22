@@ -24,6 +24,7 @@ pornhub.blog.br##.happy-player-beside
 pornhub.blog.br##.happy-section
 pornotarado.com##.headerCode
 xtubehentai.com##.homeBanner
+meuscontoseroticos.com##.meusc-widget
 fadadosexo.com##.nativo
 linkgp.com.br##.nativo-links
 travestisvip.com.br##.playerBnr
@@ -40,7 +41,7 @@ xvideos5.com.br##.video-incicio
 pornomineiro.com##.video-visitas
 boafoda.com##.vjs-producer
 sexosas.com##.watched-now-right
-coliriodemacho.com.br##.widget_custom_html
+coliriodemacho.com.br,meuscontoseroticos.com##.widget_custom_html
 afiliados-na-web.com##.widget_text
 contoseroticosbr.com,eoquetemprahj.com##[href*="bit.ly/"]
 xvideosporno.me##a[data-ads]
