@@ -43,6 +43,7 @@ coliriodemacho.com.br##.widget_custom_html
 contoseroticosbr.com,eoquetemprahj.com##[href*="bit.ly/"]
 xvideosporno.me##a[data-ads]
 hqdesexo.com##a[href*="/anuncio/click/"]
+pornotube.blog.br,xvideos.tv.br##a[href^="https://app.monetizze.com.br/"]
 travestisvip.com.br##a[href^="https://www.avantajadas.com.br/"]
 aumenteseutesao.com##a[href^="https://www.sexlog.com/"][href*="?partner="]
 xvideos5.com.br##a[href^="https://www.tufos.com.br/"]
@@ -84,7 +85,6 @@ tatarada.com.br##.propaganda
 superhq.net##.shq-ads
 pornodoido.com##[class*="related-sites"]
 buceta.biz##[class^="Anunciante"]
-pornoprive.xxx,pornotube.blog.br##[href*="monetizze.com.br/"]
 cnnamador.com##[href^="https://app.evipes.com/"]
 cnnamador.com##[href^="https://thorshammergel.club/"]
 naoconto.com##[rel$="Sponsored"]

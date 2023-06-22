@@ -50,9 +50,9 @@
 ##.tgad-card
 ##.tgad-top
 ##.tgads-center
-##a[href^="http://mon.net.br/"]
+##a[href^="http://mon.net.br/"] > img
 ##a[href^="https://ads.impulsosocial.online/"]
-##a[href^="https://app.monetizze.com.br/"]
+##a[href^="https://app.monetizze.com.br/"] > img
 ##a[href^="https://clickadsxxx.com/"]
 ##a[href^="https://ev.braip.com/"]
 ##a[href^="https://externo.x-power-gel.com/"]
