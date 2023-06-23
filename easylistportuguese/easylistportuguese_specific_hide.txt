@@ -168,6 +168,7 @@ tvpop.com.br##.elementor-element-75be78a
 ntvb.com.br##.elementor-element-915c0f8
 obutecodanet.ig.com.br##.elementor-element-a6a8f53
 obutecodanet.ig.com.br##.elementor-element-d5820b2
+bestriders.com.br##.elementor-widget-image-carousel
 extra.globo.com##.especial-publicitario
 autoentusiastas.com.br,cidadesnanet.com,fimdalinha.com.br,ocamera.com.br,radar64.com##.g
 exame.com##.gaOLck
