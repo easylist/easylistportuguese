@@ -84,6 +84,7 @@ maquinadoesporte.com.br##.ai-rotate
 noticiasautomotivas.com.br,zap.aeiou.pt##.ai-viewport-1
 otvfoco.com.br##.ai_widget
 estadao.com.br##.ajuste-banner
+ouvirmusica.com.br##.an-full
 forbes.com.br,humordaterra.com##.anuncio
 metroworldnews.com.br##.arcad-feature
 brasilescola.uol.com.br##.area-publi-topo
