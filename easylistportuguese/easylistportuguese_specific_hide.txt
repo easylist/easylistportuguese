@@ -4,6 +4,7 @@ diadia.site,petmil.website,rendaedinheiro.net###adx
 diadia.site,petmil.website,rendaedinheiro.net###adx2
 hardmob.com.br###anuncio
 brasilescola.uol.com.br###area_flutuante_2
+portalpopline.com.br###banner-1x1-area
 mundoeducacao.uol.com.br###banner-300x250-3-area
 estudokids.com.br###banner-post-fim
 estudokids.com.br###banner-post-meio
@@ -233,6 +234,7 @@ tvhotnews.com.br##.patrocinadores-view-detail
 cnnportugal.iol.pt##.patrocinadosWrapper
 mundoeducacao.uol.com.br##.pb_inner_content
 meutimao.com.br##.pbmt
+portalpopline.com.br##.plads_container
 iol.pt##.plista
 noticiasaominuto.com##.pop-out-content
 fiis.com.br##.popup-background
@@ -301,7 +303,7 @@ uai.com.br##.uai-ads
 mercadolivre.com.br##.ui-recommendations-carousel-container-ref
 mercadolivre.com.br##.ui-search-sidebar-advertising__display
 mercadolivre.com.br##.ui-search-sidebar-advertising__wrapper
-tvpop.com.br,uol.com.br##.up-floating
+portalpopline.com.br,tvpop.com.br,uol.com.br##.up-floating
 vagas.com.br##.vagasp-banner-widget
 portalpopline.com.br##.vc_custom_1595969343564
 portalpopline.com.br##.vc_custom_1595976307547
