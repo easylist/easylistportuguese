@@ -297,6 +297,7 @@ publico.pt##.tone--paid
 diarioimobiliario.pt##.topBanner
 humordaterra.com##.top_pub
 uai.com.br##.uai-ads
+mercadolivre.com.br##.ui-recommendations-carousel-container-ref
 mercadolivre.com.br##.ui-search-sidebar-advertising__display
 mercadolivre.com.br##.ui-search-sidebar-advertising__wrapper
 tvpop.com.br,uol.com.br##.up-floating
