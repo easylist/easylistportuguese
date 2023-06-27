@@ -253,6 +253,7 @@ noticiasaominuto.com##.pub-space
 redetv.uol.com.br##.pub-topo
 jornaiserevistas.com##.pubLeaderboard
 jornaiserevistas.com##.pubSpace
+kboing.com.br##.pubSticky
 cnnportugal.iol.pt##.pubWrapper
 banzaianimes.com.br##.pub_250_250
 banzaianimes.com.br##.pub_728_90
