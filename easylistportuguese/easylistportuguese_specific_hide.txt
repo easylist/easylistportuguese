@@ -230,8 +230,10 @@ b9.com.br##.o-slot-content
 observador.pt##.obs-ad-placeholder
 flashscore.com.br,flashscore.pt##.oddsPlacement
 guiadobitcoin.com.br##.offerCtaCell
+vasco.com.br##.parceiros
 correiobraziliense.com.br##.patrocinado
 iol.pt##.patrocinado_section
+vasco.com.br##.patrocinadores
 tvhotnews.com.br##.patrocinadores-view-detail
 cnnportugal.iol.pt##.patrocinadosWrapper
 mundoeducacao.uol.com.br##.pb_inner_content
