@@ -384,7 +384,6 @@ correioweb.com.br#?#.post--hardnews.call-uai:-abp-has(a:-abp-contains(CONTEÚDO 
 infomoney.com.br#?#.row.m-0.py-3.border-t:-abp-has(.hl-hat:-abp-contains(Conteúdo))
 jornaldigitalcanela.com.br#?#div:-abp-has(> .jorna-adlabel)
 jornaldigitalcanela.com.br#?#div:-abp-has(> .td-adspot-title)
-mercadolivre.com.br#?#.ui-recommendations-carousel-container-ref:-abp-has(div.ui-recommendations-list__container--pads)
 mercadolivre.com.br#?#.ui-search-result__wrapper:-abp-has(div.ui-search-item__pub-container)
 mercadolivre.com.br#?#li:-abp-has(div.ui-row-card__content--advertisement)
 noticiasaominuto.com#?#.article-thumb-block:-abp-has(.nm-custom-label-sponsor)
