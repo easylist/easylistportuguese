@@ -149,6 +149,7 @@ zap.aeiou.pt##.code-block-4
 zap.aeiou.pt##.code-block-5
 zap.aeiou.pt##.code-block-9
 cointelegraph.com.br##.componentAdbutler_ciZFt
+mercadolivre.com.br##.container-advertising
 antena1.com.br##.containerBanner
 natelinha.uol.com.br##.content-banner
 webmotors.com.br##.content-midia
@@ -306,9 +307,9 @@ publico.pt##.tone--paid
 diarioimobiliario.pt##.topBanner
 humordaterra.com##.top_pub
 uai.com.br##.uai-ads
-mercadolivre.com.br##.ui-recommendations-carousel-container-ref
+mercadolivre.com.br##.ui-recommendations-list__container--pads
+mercadolivre.com.br##.ui-search-bottom-ads__container
 mercadolivre.com.br##.ui-search-sidebar-advertising__display
-mercadolivre.com.br##.ui-search-sidebar-advertising__wrapper
 portalpopline.com.br,tvpop.com.br,uol.com.br##.up-floating
 vagas.com.br##.vagasp-banner-widget
 portalpopline.com.br##.vc_custom_1595969343564
@@ -334,7 +335,6 @@ ptanime.com##a[href^="https://ptani.me/r/"]
 assistironline.net,futebolnatv.com.br##a[href^="https://www.amazon."][href*="tag="]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
 migalhas.com.br##app-wt-servico-banner-v01
-mercadolivre.com.br##div.ui-search-result--highlight-p
 pelando.com.br##div[aria-label="anúncio patrocinado"]
 radiojhero.com##div[class^="Ad_"]
 metropoles.com##div[class^="PublicidadesWrapper-"]
@@ -384,8 +384,6 @@ correioweb.com.br#?#.post--hardnews.call-uai:-abp-has(a:-abp-contains(CONTEÚDO 
 infomoney.com.br#?#.row.m-0.py-3.border-t:-abp-has(.hl-hat:-abp-contains(Conteúdo))
 jornaldigitalcanela.com.br#?#div:-abp-has(> .jorna-adlabel)
 jornaldigitalcanela.com.br#?#div:-abp-has(> .td-adspot-title)
-mercadolivre.com.br#?#.ui-search-result__wrapper:-abp-has(div.ui-search-item__pub-container)
-mercadolivre.com.br#?#li:-abp-has(div.ui-row-card__content--advertisement)
 noticiasaominuto.com#?#.article-thumb-block:-abp-has(.nm-custom-label-sponsor)
 noticiasaominuto.com#?#.article-thumb:-abp-has(.nm-custom-label-sponsor)
 omirante.pt#?#.fbox.swidgets-wrap.widget.widget_block.widget_media_image:-abp-has(figcaption)
