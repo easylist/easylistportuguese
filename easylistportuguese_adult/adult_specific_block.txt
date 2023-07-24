@@ -29,7 +29,7 @@
 ||xvideospornor.com/300x
 !
 /^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=maisexo.com|pornoincrivel.com
-!
+!!
 $subdocument,third-party,domain=curto.win
 !
 /url-open.js$domain=hentaiputa.com|terceiroz.com
