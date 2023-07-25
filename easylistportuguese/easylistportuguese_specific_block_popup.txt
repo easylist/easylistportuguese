@@ -3,21 +3,9 @@ $popup,third-party,domain=topplay.cf
 ! html/image popups
 /^https?:\/\/.*\.(jpg|jpeg|gif|png|svg|ico|js|txt|css|srt|vtt|webp)/$popup,domain=download.betteranime.net
 !
-$popup,third-party,domain=cillylovers.com|filmesonlinehdgratis.com.br|futemax.gratis|redirect-ads.com|stape.fun|streamtape.cc|vizer.tv|vizer.vip
+$popup,third-party,domain=filmesonlinehdgratis.com.br|vizer.tv
 /3djuegos_media_v1^$popup,domain=3djuegos.com
-/jump/next.php?$popup,domain=yts.mx
-||bettilt124.com/pt/?partner=$popup,third-party
-||buylnk.com^$popup,domain=gfilmes.net
-||doodcdn.com/img/logo$popup
-||filmesonlinehd11.com/*/filmesonlinehd12.png$popup
 ||futebolplayhd.com/imagens/logo$popup
-||futemax.gratis/imagens/logo2.png$popup
-||futemax.live/imagens/logo2.png$popup
-||googleusercontent.com^$popup,domain=animesonehd.xyz
 ||i.imgur.com^$popup,domain=jogostorrents.site
-||landings.ncm*.com^$popup,domain=mrpiracy.top
-||megafilmeseseriesonline.com*/logo$popup
-||pontogay.com^$popup,domain=fbsquadz.com
-||topflix.fm/images/logo1.png$popup
 ! html/image popups
-/^https?:\/\/.*\.(jpg|jpeg|gif|png|svg|ico|js|txt|css|srt|vtt|webp)/$popup,domain=animesonehd.xyz|animesup.biz|animeyabu.com|cinevisionv4.online|filmeseries.top|filmeserietorrent.net|futemax.app|gofilmes.me|gustavortech.com|hdfilmesonlinegratis.pro|jogostorrents.site|megafilmeshd20.pro|megafilmeshd50.com|megafilmeshdd.online|multicanais.app|multicanais.video|multicanais.vip|olhosnatv.com.br|pobreflix.top|querofilmehd.net|querofilmehd.xyz|seriesgratis.biz|superflix.biz|superflix.club|superflix.io|superflix.plus|temseries.online|torrentdosfilmeshd2.net|tugaflix.me|vizer.vip|yayanimes.net|zfilmesonline.net
+/^https?:\/\/.*\.(jpg|jpeg|gif|png|svg|ico|js|txt|css|srt|vtt|webp)/$popup,domain=filmeseries.top|futemax.app|gofilmes.me|gustavortech.com|jogostorrents.site|megafilmeshd50.com|superflix.biz|temseries.online|torrentdosfilmeshd2.net

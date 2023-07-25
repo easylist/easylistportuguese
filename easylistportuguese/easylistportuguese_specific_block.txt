@@ -9,9 +9,6 @@
 ||animeslog.com/noping/
 ||animesonlinebr.net/noping/
 ||animesonlinep.com/noping/
-||ansa.com.br/fiat/
-||ansa.com.br/tim/
-||ansabrasil.com.br^*/banner/
 ||brumadonamira.com.br/hd-imagens/banners/
 ||brumadourgente.com.br/hd-imagens/banners/
 ||correiodolago.com.br/site/up/banners/
@@ -21,7 +18,6 @@
 ||jornalrazao.com/storage/images/ads/
 ||naointendo.com.br/banners/
 ||ojogo.pt/common/mrec_
-||pobre.wtf/wp-banners.js
 ||portaldoholanda.com.br^*/banners/
 ||portalmorada.com.br/assets/uploads/ads_
 ||portuguesecorrector.com/cnc/
@@ -38,11 +34,10 @@
 ||zerozero.pt/images/takeover/
 ||zwame.pt/comparador/
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$third-party,xmlhttprequest,domain=3thepiratefilmes.in|allappinc.store|aniflv.net|animescx.com.br|animesup.biz|animexnovel.com|anitube.biz|betteranime.net|cinevisionv5.app|doramogo.com|dramafansubs.net|dramaken.com|file4go.net|filmeflix.app|filmehdonline.site|gemadoff.com.br|listadeanimes.com|megafilmeshd50.com|myfilmestorrent.net|netcine.to|pifansubs.org|sfapi.xyz|suatela.net|tdmsubs.com|thepiratefilmeshd.in|tyflex.net
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$third-party,xmlhttprequest,domain=3thepiratefilmes.in|allappinc.store|aniflv.net|animescx.com.br|animexnovel.com|anitube.biz|betteranime.net|cinevisionv5.app|doramogo.com|dramafansubs.net|dramaken.com|file4go.net|filmeflix.app|filmehdonline.site|gemadoff.com.br|listadeanimes.com|megafilmeshd50.com|myfilmestorrent.net|netcine.to|pifansubs.org|sfapi.xyz|suatela.net|tdmsubs.com|thepiratefilmeshd.in|tyflex.net
 /^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$third-party,xmlhttprequest,domain=animesup.cx|appmj.xyz|digitaltorrentdownload.com.br|gofilmes.me|superfilmes.cx|torrentdosfilmes.to|warezcdn.com
 !
 /files/publicity/*$domain=diarioaveiro.pt|diariocoimbra.pt
-/MyShowroom/view.php^$domain=webcamtests.com
 /wp-content/uploads/*-haribo$domain=gkpb.com.br
 ||3djuegos.com/*/skins/
 ||acientistaagricola.pt/wp-content/uploads/*/*banner
@@ -50,8 +45,6 @@
 ||adlyra.com$subdocument,third-party
 ||agoravale.com.br/GCWAV/Banners/
 ||angonoticias.com/site/assets/uploads/media_pub/
-||animesvision.biz/v1/assets/images/330xNxCurso_Funko_Lancamento.png.pagespeed.ic.xow7uENHRF.webp
-||animesvision.biz/v1/assets/images/xdragon-future.jpg.pagespeed.ic.xUPy0haZCm.webp
 ||api.cazamba.com^$script,domain=switch-brasil.com|tribogamer.com
 ||aquiacontece.com.br/_BANNER/
 ||atelevisao.com/wp-content/themes/*_100x50.gif
@@ -72,12 +65,9 @@
 ||flashscore.*/res/data/$image
 ||folhademaputo.co.mz/banners/
 ||fstatic.com/static/telecineplay/$image,domain=filmow.com
-||futeboltotal.org/df8843d04f.php
 ||globalnoticias.com.br/arquivos/banners/$image
 ||hojemais.com.br/images/banners/
 ||i1.wp.com/www.cenariomt.com.br/wp-content/uploads/*/provincia-at.png
-||imageshack.com/v2/xq90/^$domain=futeboltotal.org
-||imgur.com/*.gif^$domain=lelivros.love
 ||iol.pt/iolnegocios/iol-frame/
 ||jornaldeangola.ao/fotos/frontend_1/banner^
 ||jornalnopintcha.gw/wp-content/uploads/*/FAGORAL.png^
@@ -86,10 +76,6 @@
 ||jornaltransparencia.st/banner_top.
 ||jornaltropical.st/lenft.jpg^
 ||jornaltropical.st/rosema_*.gif^
-||legendas.ga/random.js
-||loucosporgeek.com.br/wp-content/uploads/*/Loucos.gif^$domain=subanimes.biz
-||lucasgarcia.com.br^$subdocument
-||media.discordapp.net/attachments/*/Banner-gid-Edu.gif^$domain=subanimes.biz
 ||metropoles.com/cupom/rtg/iframe/pill^$subdocument
 ||migalhas.com.br/IMGSRC/www.migalhas.com.br*S=Publicidade
 ||minhaconexao.com.br/_mini/static/images/mp-banner-300x250.gif
@@ -97,14 +83,10 @@
 ||mmorpgbr.com.br/wp-content/uploads/2021/05/Banner-Skin_$image
 ||narutoonline.com.br/banner.jpg^
 ||net-empregos.com/images/banners/
-||netcine.biz/popp2.js
-||netcine.biz/pusha.js
 ||nossanoite.com.br/assets/img/bannerPublic/
 ||nossanoite.com.br/assets/img/bannerTopo/
-||notebookcheck.info/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||noticiasdecoimbra.pt/*/modal/*/modal.min*^$script,stylesheet
 ||noticiasdecoimbra.pt/wp-content/uploads/*.gif?x
-||novinhabucetuda.com/sw.js
 ||novojornal.co.ao/common/pub/banner^
 ||observatoriodatv.uol.com.br/assets/banners/$subdocument,third-party
 ||odemocratagb.com/wp-content/uploads/*-Banner-$image
@@ -112,7 +94,6 @@
 ||odemocratagb.com/wp-content/uploads/*/MTN.jpg^
 ||olhardireto.com.br/imgsite/banners/
 ||olhardireto.com.br/imgsite/popups/
-||online.animesdigital.com.br/ad_blackfriday.png
 ||opais.co.ao/wp-content/banners^
 ||opais.co.ao/wp-content/uploads/*-600x850.
 ||opais.co.ao/wp-content/uploads/*/publicidade-*.jpg^
@@ -122,7 +103,6 @@
 ||otpokemon.com/local/banner/
 ||outbrain.com^$domain=abril.com.br
 ||paranaportal.uol.com.br/wp-content/*/tenuta$image
-||playembeds.com/*/devtools-detector.js$third-party
 ||pplware.sapo.pt/parceiros/$image
 ||record.pt/i/pub/
 ||reportermt.nyc3.digitaloceanspaces.com/*/original$image
@@ -131,14 +111,8 @@
 ||santiagomagazine.cv/content/img/banner_
 ||shrtfly.com/referral/$image
 ||static.expressodasilhas.cv/media/pub^
-||stream2watch.is/crons/pop_code.js
-||streamix.tv/ST300X600.gif^
 ||tenhomaisdiscosqueamigos.com/wp-content/uploads/*-bg.jpg
 ||terraempresas.com.br/backup/promo/
-||third-party.animekisa.tv/grabinfo.php^
-||tugaflix.me/bettilt.php?
-||uploaddeimagens.com.br/images/*/full/button-*.png^$image,domain=querofilmeshd.co
-||verfilmes.biz$subdocument,third-party
 ||vivaolinux.com.br/imagens/banners/$image
 ||wikimetal.com.br/wp-content/uploads/*/Left_Right-Side.png
 ||wixstatic.com/media/*/JIU%20JITSU.webp^$domain=ouroverdefm.com.br
@@ -147,4 +121,3 @@
 ||wp.com/donghuanosekai.com/wp-content/uploads/*/unknown-1.png
 ||xat.com/content/web/*/apps/ad/ad.html^
 ||xl.pt/i/pub.gif
-||yayanimes.net/wp-content/uploads/fanart.jpg

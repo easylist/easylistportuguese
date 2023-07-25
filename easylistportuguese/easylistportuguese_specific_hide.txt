@@ -35,6 +35,7 @@ ig.com.br###mrec2
 exame.com###native-home-4
 exame.com###native-home-5
 exame.com###noticias_relacionadas_pos_1
+tvonline.sx###over-link
 noticiasaominuto.com###pnm-popout-section
 contaspoupanca.pt###pop-up-dp
 correiodolago.com.br###pop1
@@ -135,6 +136,7 @@ brasilnaitalia.net##.bookingaff
 sabado.pt##.boost_activate
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
+bolavip.com##.boxbanner_container
 cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
 tribunapr.uol.com.br##.cardads
@@ -177,7 +179,6 @@ bestriders.com.br##.elementor-widget-image-carousel
 extra.globo.com##.especial-publicitario
 autoentusiastas.com.br,cidadesnanet.com,fimdalinha.com.br,ocamera.com.br,radar64.com##.g
 exame.com##.gaOLck
-pobre.wtf##.generalModal
 solutudo.com.br##.go_bnr_wr
 divirtasemais.com.br##.hdr-pub
 cointelegraph.com.br##.header-zone__banners
@@ -318,6 +319,7 @@ portalpopline.com.br##.vc_custom_1678372840463
 autoo.com.br,motoo.com.br##.visible-desktop
 purebreak.com.br##.wh_add--header
 uai.com.br##.widget_bouplay_wp_300px2
+spbrasil-2009.net##.widget_custom_html
 observatoriodeourofino.com.br##.widget_media_image
 personare.com.br##.wp-block-personare-advertising
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
@@ -423,9 +425,8 @@ connectparts.com.br###carvizion-publicidade
 vagalume.com.br###cazamba_vagalume_passback_container
 tvcanais.online###custom_html-10
 arnolds.com.br,baboo.com.br###custom_html-2
-final.com.br,iloveiptv.org###custom_html-3
-midiacamaleao.com.br,spbrasil-2009.net###custom_html-5
-spbrasil-2009.net###custom_html-8
+final.com.br###custom_html-3
+midiacamaleao.com.br###custom_html-5
 oantagonista.com###div-gpt-leaderboard
 3djuegos.com###dst_pub_728
 bilibio.com.br###dwt-banner-area
@@ -447,7 +448,6 @@ pescariasa.com.br###media_image-8
 olx.com.br###module_olx_shopping
 mercadolivre.com.br###oasTOP
 jornaltransparencia.st###obj1
-tvonline.sx###over-link
 record.pt###pestanaSmart
 jornaloeste.com.br###popup
 anacao.cv###post-sidebar-wrap
@@ -488,14 +488,11 @@ correiodopovo.com.br##.adsplaceholder
 jogos360.com.br##.adv
 revistaquem.globo.com##.adv-item
 cointimes.com.br##.adv-link
-dw.com##.advertisement
 terra.com.br,uol.com.br##.advertising
 uol.com.br##.advertising-column
 uai.com.br##.advertising__with-bg
-onlineradiobr.com##.ai-placement
 poa24horas.com.br##.akcelo-wrapper
-futemax.fm,futemax.gratis,futemax.live##.alertWS
-oantagonista.com,yayanimes.net##.anuncio
+oantagonista.com##.anuncio
 mercadolivre.com.br##.app-container > .questions-container-banner
 portalnortedailha.com.br##.area-banner
 branitube.net##.area-youtubers
@@ -518,7 +515,6 @@ uol.com.br##.bannersticky-base
 uol.com.br##.bannersticky-top-container
 otempo.com.br##.barra-store
 record.pt##.bb
-animesonehd.xyz##.bf
 uol.com.br##.bg-banner
 folhademaputo.co.mz##.bg-pattern-hatch
 oliberal.com##.bgbanner
@@ -529,7 +525,6 @@ bronav.com,tudonav.com##.bottom-adv-wrap
 gazetadopovo.com.br##.box-ads-header-home
 diarioonline.com.br##.box-banner
 flashscore.com.br,flashscore.pt##.boxOverContent
-br.bolavip.com##.boxbanner_container
 gazetadopovo.com.br##.c-ads
 gazetadopovo.com.br##.c-ads-clip
 uol.com.br##.c-estudio-folha
@@ -552,7 +547,6 @@ cifraclub.com.br##.floatingBottomAd
 ecoregional.com.br,spacofm.com.br##.g-single
 fatosdesconhecidos.com.br##.grade
 rostos.pt##.homepage--ad
-flvto.biz##.horizontal-area
 ig.com.br##.iGh__small-ad
 ig.com.br##.ig-ad
 uai.com.br##.img-300
@@ -588,7 +582,6 @@ dicionario.priberam.org##.pb-pub-mobile-banner
 guiadasemana.com.br##.placement
 olhardireto.com.br##.popup
 odia.ig.com.br##.ppAnchorWidthAd
-lelivros.love##.product_meta
 ig.com.br##.promotion
 acorianooriental.pt,destak.pt,estrelando.com.br,europa-agricola.pt,flash.pt,jornaldenegocios.pt,record.pt##.pub
 noticiasaominuto.com,noticiasaominuto.com.br##.pub-container
@@ -608,7 +601,6 @@ deixadisso.com##.shareaholic-ad
 uol.com.br##.shopping-produtos-uol
 bronav.com,tudonav.com##.side-adv-wrap
 torredevigilancia.com##.singleBannerWidget
-flvto.biz##.square-area
 estiloadoracao.com##.stream-item
 ig.com.br##.superbanner
 casasbahia.com.br##.superbannertop
@@ -638,14 +630,11 @@ ofuxico.com.br##[class^="page-ad-"]
 terra.com.br##[data-app-name="app.svaAd"]
 standvirtual.com##[data-testid="featured-dealer"]
 standvirtual.com##[data-testid="horizontal-top-ads"]
-igg-games.com##[href^="http://s.igg-games.com/index.php?"]
 revistabula.com##[href^="https://amzn.to/"]
 pobre.tv##[href^="https://btt-pt.devitold.com/"]
-tugaflix.me##[href^="https://btt-pt.uwerh.com/"]
 cointimes.com.br##[href^="https://cointimes.com.br/linkout/"]
 uol.com.br##[href^="https://pagbank.onelink.me/"]
 tenhomaisdiscosqueamigos.com##[href^="https://tmd.qa/"][target="_blank"]
-tugaflix.me##[href^="https://tugaiptv.com/"]
 vidacigana.com##[href^="https://wise.prf.hn/"]
 codmobile.ucorvo.com##[id^="ai_widget-"]
 narutoonline.com.br##[id^="an"]
@@ -654,10 +643,7 @@ futebolbahiano.org##[id^="custom_html-2"]
 ofuxico.com.br##[id^="page-ad-"]
 mundoeducacao.uol.com.br##[style="height:250px; width:300px;"]
 milkpoint.com.br##a[class^="lnkbn"]
-mrpiracy.top##a[class^="reserve-button"]
-mrpiracy.top##a[class^="super-r-button"]
 portalmie.com##a[href*="portalmie.com/campanhas_empresas/"]
-netcine.info##a[href="https://lojadasseries.com.br/"]
 nerdprofessor.com.br##a[href="https://www.aulasbncc.com.br/"]
 naoleveportras.net##a[href="https://www.cachetaonline.com.br/"]
 otempo.com.br##a[href="https://www.mhbhotelaria.com.br/mensalista"]
@@ -684,7 +670,6 @@ dioguinho.com##div[class*="ribboned"]
 criativaonline.com.br##div[class*="stream-item"]
 poki.com.br##div[class^="Advertisement_"]
 conexaopolitica.com.br##div[class^="ads"]
-br.ccm.net,saude.ccm.net##div[class^="ads--insertor-"]
 opantaneiro.com.br##div[class^="banner"]
 areah.com.br##div[class^="banner_footer"]
 flashscore.pt##div[class^="boxOverContent"]
@@ -714,8 +699,6 @@ gazetaesportiva.com##div[id^="rmt_banner"]
 tecnoblog.net##div[id^="sidebanner_single"]
 tecmundo.com.br##div[id^="slider-partner"]
 pplware.sapo.pt##div[id^="ws_widget__ad_codes-"]
-animesonehd.xyz##div[style*="z-index:99999999999"]
-animesonehd.xyz##div[style*="z-index:9999999999999999999"]
 mundoeducacao.uol.com.br##div[style="display: flex; align-items: center; justify-content: center; margin-top: 20px;"]
 kboing.com.br##div[style="float:left;width:965px;height:90px;margin-bottom:10px;background-color:#fff;text-align:center;"]
 brasilescola.uol.com.br##div[style="height: 406px;"]
@@ -726,12 +709,11 @@ brasilescola.uol.com.br##div[style="width: 300px; height: 591px;"]
 brasilescola.uol.com.br##div[style="width: 300px; height: 600px;"]
 agoravale.com.br##div[style^="background:#FFF"]
 em.com.br#?#small:-abp-contains(Publicidade)
-animeyabu.com,clipconverter.cc,freeplayervideo.com,goyabu.com,mangayabu.top,megafilmeshd50.com,multicanais.app,multicanais.video,multicanais.vip,netcine.ch,olhosnatv.com.br,querofilmehd.net,querofilmehd.xyz,superflix.io,superflix.plus##iframe[style*="z-index: 2147483647"]
+megafilmeshd50.com##iframe[style*="z-index: 2147483647"]
 inglesnoteclado.com.br##img[alt="anúncio"]
 portalarauto.com.br##img[alt^="PUBLICIDADE"]
 animesgratisbr.biz##img[title^="Assistir Hentai"]
 revistaquem.globo.com##li[data-item-type="advertising"]
-mangayabu.top#?#div > h3:-abp-contains(Publicidade)
 multicanais.fans##p > [href="https://1.1.1.1/"]
 pobre.tv#?#b:-abp-contains(bet)
 pobre.tv#?#span:-abp-contains(BÓNUS DE BOAS VINDAS)
