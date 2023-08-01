@@ -66,7 +66,7 @@ naointendo.com.br##.Ad
 ig.com.br##.Ads
 exame.com##.RmKoK
 marriedgames.com.br##.aawp
-atribuna.com.br,cybercook.com.br,dicio.com.br,olhardigital.com.br,sapo.pt##.ad
+atribuna.com.br,cybercook.com.br,dicio.com.br,olhardigital.com.br,sapo.pt,uploaddeimagens.com.br##.ad
 clicrbs.com.br,mundo.com,vrum.com.br##.ad-banner
 clicrbs.com.br,somosfanaticos.fans##.ad-container
 sabornutritivo.com##.ad-sabornu
