@@ -150,6 +150,8 @@ zap.aeiou.pt##.code-block-3
 zap.aeiou.pt##.code-block-4
 zap.aeiou.pt##.code-block-5
 zap.aeiou.pt##.code-block-9
+ansabrasil.com.br##.commercial-banner
+ansabrasil.com.br##.commercial-banner-top
 cointelegraph.com.br##.componentAdbutler_ciZFt
 mercadolivre.com.br##.container-advertising
 antena1.com.br##.containerBanner
