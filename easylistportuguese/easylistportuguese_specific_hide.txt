@@ -182,6 +182,7 @@ exame.com##.gaOLck
 solutudo.com.br##.go_bnr_wr
 divirtasemais.com.br##.hdr-pub
 cointelegraph.com.br##.header-zone__banners
+bolavip.com##.home-poll-block__ad
 slatual.com.br##.horizontal_banner_custom_desktop
 slatual.com.br##.horizontal_banner_secundary_desktop
 tag.jn.pt##.hp-mrec
@@ -230,6 +231,7 @@ minhavida.com.br##.mvn-announcement
 sbt.com.br##.notices-ads
 b9.com.br##.o-slot-content
 observador.pt##.obs-ad-placeholder
+bolavip.com##.odds-slider-widget
 flashscore.com.br,flashscore.pt##.oddsPlacement
 guiadobitcoin.com.br##.offerCtaCell
 vasco.com.br##.parceiros
