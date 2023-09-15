@@ -327,6 +327,7 @@ purebreak.com.br##.wh_add--header
 uai.com.br##.widget_bouplay_wp_300px2
 spbrasil-2009.net##.widget_custom_html
 observatoriodeourofino.com.br##.widget_media_image
+bandab.com.br##.widget_publicidade
 personare.com.br##.wp-block-personare-advertising
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 escolakids.uol.com.br,mundoeducacao.uol.com.br##.wrapper-bnr
