@@ -168,6 +168,7 @@ dinheirorural.com.br,revistaplaneta.com.br##.css-liynyf
 brasilnaitalia.net##.custom_html-5
 esportetotal.club,futebolistasonline.club,loucasporcabelos.com.br,sabornutritivo.com,tudonoticias.net##.demand-supply
 flashscore.com.br,flashscore.pt##.detailLeaderboard
+olhardigital.com.br##.diagonal-strip
 hojeemdia.com.br##.dlbZKK
 jornaldocarro.estadao.com.br##.dunlop
 obutecodanet.ig.com.br##.elementor-element-25abeb1
