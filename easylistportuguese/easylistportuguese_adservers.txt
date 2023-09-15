@@ -2,6 +2,7 @@
 ||adsmaster.dev^
 !
 ||admasters.media^$third-party
+||adzep.com.br^$third-party
 ||cazamba.com^$third-party
 ||denakop.com^$third-party
 ||grumft.com^$third-party
