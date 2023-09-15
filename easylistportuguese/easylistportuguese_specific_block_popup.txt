@@ -1,4 +1,5 @@
 $popup,third-party,domain=topplay.cf
+||5abet222.com^$popup,domain=thepiratefilmeshd.blog
 !
 ! html/image popups
 /^https?:\/\/.*\.(jpg|jpeg|gif|png|svg|ico|js|txt|css|srt|vtt|webp)/$popup,domain=download.betteranime.net
