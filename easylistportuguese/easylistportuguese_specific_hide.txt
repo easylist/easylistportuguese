@@ -202,6 +202,7 @@ nextpit.com.br##.jobbioapp
 vivareal.com.br##.js-advertising
 adorocinema.com##.js-emergence-countdown
 vivareal.com.br##.js-udp-bottom-ad
+uol.com.br##.jupiter-ads
 katoon.com.br##.katoo-widget
 personare.com.br##.korPCs
 vibemundialfm.com.br##.l-subheader-cell.at_right
