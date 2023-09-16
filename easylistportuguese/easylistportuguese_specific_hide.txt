@@ -117,6 +117,7 @@ meutimao.com.br##.banner_triplo
 portaldoholanda.com.br##.banneraleatorio
 estudokids.com.br##.bannerdestaques1
 barbacenamais.com.br##.bannergroup
+autoracing.com.br##.banners
 meucarronovo.com.br##.banners-2
 otimafm.com.br##.banners-posicao
 bahianoticias.com.br##.banners_topo
