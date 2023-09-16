@@ -49,7 +49,7 @@ gabarite.com.br,saudadefm.com.br###publicidade
 solutudo.com.br###relatedAds
 guiadobitcoin.com.br###sidebaroffer-3
 solutudo.com.br###stickyContainer
-ig.com.br###superbanner
+ig.com.br,infoescola.com###superbanner
 verfutebol.tv###superderbi
 arthurscan.xyz,cerisescan.com,prismahentai.com,prismascans.net,randomscans.com,reaperscans.net,sinensisscans.com,yugenmangas.com.br###teaser3
 calangodocerrado.net###text-49
