@@ -1,5 +1,7 @@
 ||adjs.media^
 ||adsmaster.dev^
+||solution-solutions.com^
+||tech-solution-blog.com^
 !
 ||admasters.media^$third-party
 ||adzep.com.br^$third-party
