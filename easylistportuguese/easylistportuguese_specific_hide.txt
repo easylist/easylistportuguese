@@ -12,6 +12,8 @@ estudokids.com.br###banner-rodape
 estudokids.com.br###banner-topo
 acheisudoeste.com.br###bannerflutuante
 vidadesuporte.com.br###block-10
+br.lexlatin.com###block-banneranimado
+br.lexlatin.com###block-views-block-banner-block-1
 dramaclub.one###custom_html-2
 ahnegao.com.br,euriodetudo.com.br###custom_html-3
 euriodetudo.com.br###custom_html-5
@@ -224,6 +226,7 @@ diariorp.com.br##.mdl_container
 tempo.pt##.megabanner
 observador.pt##.meo-bold
 repercussaoparanhana.com##.metaslider
+br.lexlatin.com##.mibanner
 cmjornal.pt##.mrec
 dinheirovivo.pt,dn.pt,jn.pt,ojogo.pt,tsf.pt##.mrec-status
 jn.pt,ojogo.pt##.mrec-status-l
