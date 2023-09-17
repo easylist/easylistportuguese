@@ -404,6 +404,7 @@ mercadolivre.com.br#?#li.ui-search-layout__item:-abp-has(div.ui-search-item__pub
 noticiasaominuto.com#?#.article-thumb-block:-abp-has(.nm-custom-label-sponsor)
 noticiasaominuto.com#?#.article-thumb:-abp-has(.nm-custom-label-sponsor)
 omirante.pt#?#.fbox.swidgets-wrap.widget.widget_block.widget_media_image:-abp-has(figcaption)
+reclameaqui.com.br#?#div[class^="go"] > div[class^="go"]:-abp-has(> div[id^="div-gpt-ad"])
 tavernaderivia.com.br#?#.ig_widget:-abp-has(a[href^="https://amzn.to/"])
 tavernaderivia.com.br#?#.ig_widget:-abp-has(a[href^="https://www.amazon."][href*="tag="])
 !
