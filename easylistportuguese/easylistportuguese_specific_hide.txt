@@ -305,7 +305,8 @@ br.advfn.com##.special-post
 apontador.com.br##.sponsorship
 brasildefato.com.br##.spotlight-view
 cbn.globoradio.globo.com##.sticky-container
-g37.com.br##.stream-item
+diariodistrito.pt,g37.com.br##.stream-item
+diariodistrito.pt##.stream-item-widget
 infomoney.com.br##.subject_Branded
 dinheirovivo.pt##.t-am-sponsored
 dn.pt##.t-pubbox-ct-1
