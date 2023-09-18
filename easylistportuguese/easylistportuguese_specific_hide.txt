@@ -624,6 +624,8 @@ uol.com.br##.shopping-produtos-uol
 bronav.com,tudonav.com##.side-adv-wrap
 torredevigilancia.com##.singleBannerWidget
 estiloadoracao.com##.stream-item
+diariodistrito.pt##.stream-item>div>a
+diariodistrito.pt##.stream-item-widget-content
 ig.com.br##.superbanner
 casasbahia.com.br##.superbannertop
 noticiasaominuto.com##.tap
