@@ -284,7 +284,7 @@ acordacidade.com.br##.publi-4
 acordacidade.com.br##.publi-5
 brasilescola.uol.com.br##.publi-dir
 tempo.pt##.publicidad-pie
-ig.com.br##.publicidade
+ig.com.br,meiahora.com.br##.publicidade
 infojobs.com.br,oantagonista.uol.com.br##.publicity
 publico.pt##.pubtxt
 superesportes.com.br##.retangulo
