@@ -153,7 +153,7 @@ zap.aeiou.pt##.code-block-1
 hardcore.com.br##.code-block-12
 zap.aeiou.pt##.code-block-25
 zap.aeiou.pt##.code-block-3
-zap.aeiou.pt##.code-block-4
+portalhortolandia.com.br,zap.aeiou.pt##.code-block-4
 zap.aeiou.pt##.code-block-5
 zap.aeiou.pt##.code-block-9
 ansabrasil.com.br##.commercial-banner
@@ -203,6 +203,7 @@ olhardigital.com.br##.intext-denakop
 iol.pt,meo.pt##.iol-comercial-placement
 uol.com.br##.itemAds
 jornaldocarro.estadao.com.br##.jc-saiba-mais
+portalhortolandia.com.br##.jeg_sidebar
 trabalhabrasil.com.br##.jg__ads
 nextpit.com.br##.jobbioapp
 vivareal.com.br##.js-advertising
