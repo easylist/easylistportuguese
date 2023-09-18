@@ -51,6 +51,7 @@ kboing.com.br###pub_4
 kboing.com.br###publ-goog
 gabarite.com.br,saudadefm.com.br###publicidade
 solutudo.com.br###relatedAds
+odia.ig.com.br###rodapefixo
 guiadobitcoin.com.br###sidebaroffer-3
 solutudo.com.br###stickyContainer
 ig.com.br,infoescola.com###superbanner
