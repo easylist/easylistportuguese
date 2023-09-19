@@ -344,6 +344,7 @@ escolakids.uol.com.br,mundoeducacao.uol.com.br##.wrapper-bnr
 multinews.sapo.pt##.yxzmwgdi
 forum.zwame.pt##.zwame-side-spons
 gazetadopovo.com.br##[class*="style_card-ads-brended-content"]
+forum.techtudo.globo.com##[class^="Advertisingstyles_"]
 metropoles.com##[class^="PublicidadesWrapper-"]
 jn.pt,ojogo.pt##[class^="t-pub-box-"]
 anitube.cx,automotivebusiness.com.br,calangodocerrado.net,noticiafamosos.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
