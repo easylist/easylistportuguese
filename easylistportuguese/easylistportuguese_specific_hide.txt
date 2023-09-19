@@ -77,7 +77,7 @@ clicrbs.com.br,somosfanaticos.fans##.ad-container
 sabornutritivo.com##.ad-sabornu
 nsctotal.com.br##.adSlot__container
 compreiativo.com.br##.adblock
-abril.com.br,apontador.com.br,correioweb.com.br,imasters.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,tribunapr.uol.com.br,tvhistoria.com.br##.ads
+abril.com.br,apontador.com.br,correioweb.com.br,imasters.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,techtudo.com.br,tribunapr.uol.com.br,tvhistoria.com.br##.ads
 revistaoeste.com##.ads-container
 letras.com.br##.ads-negative-mt
 clicrbs.com.br##.ads-section-area.area.container-area
