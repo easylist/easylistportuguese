@@ -25,7 +25,7 @@ sol.sapo.pt###especiais
 tudoradio.com###fixedBannerTop
 ahnegao.com.br###global_topo
 dicio.com.br###gooad_palavra
-crusoe.uol.com.br###gpt-leaderboard
+crusoe.com.br###gpt-leaderboard
 oantagonista.uol.com.br###gpt_box_sidebar
 meutimao.com.br###header_logo_barra
 ojogos.com.br###homepage-top-leaderboard
