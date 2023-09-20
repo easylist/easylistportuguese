@@ -172,7 +172,6 @@ radiodisney.com.br##.css-303m18
 radiodisney.com.br##.css-jy3jpo
 dinheirorural.com.br,revistaplaneta.com.br##.css-liynyf
 brasilnaitalia.net##.custom_html-5
-esportetotal.club,futebolistasonline.club,loucasporcabelos.com.br,sabornutritivo.com,tudonoticias.net##.demand-supply
 flashscore.com.br,flashscore.pt##.detailLeaderboard
 olhardigital.com.br##.diagonal-strip
 hojeemdia.com.br##.dlbZKK
