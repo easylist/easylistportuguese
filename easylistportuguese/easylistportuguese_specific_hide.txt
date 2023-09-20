@@ -74,6 +74,7 @@ marriedgames.com.br##.aawp
 atribuna.com.br,cybercook.com.br,dicio.com.br,olhardigital.com.br,sapo.pt,uploaddeimagens.com.br##.ad
 clicrbs.com.br,mundo.com,vrum.com.br##.ad-banner
 clicrbs.com.br,somosfanaticos.fans##.ad-container
+dicasgostosas.com##.ad-dicasg
 sabornutritivo.com##.ad-sabornu
 nsctotal.com.br##.adSlot__container
 compreiativo.com.br##.adblock
