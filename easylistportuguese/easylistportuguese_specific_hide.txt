@@ -351,6 +351,7 @@ anitube.cx,automotivebusiness.com.br,calangodocerrado.net,noticiafamosos.com.br,
 tribunaonline.com.br##a[href^="/branded-content/"]
 myfilmestorrent.net##a[href^="/free.php?"]
 pointdosxd.blogspot.com##a[href^="http://mefode.net/"]
+sakuraanimes.com##a[href^="https://juba-get.com/"]
 zerozero.pt##a[href^="https://online.placard.pt/"]
 ofertaspravoce.com##a[href^="https://planosclarocontrole.com.br/"]
 ptanime.com##a[href^="https://ptani.me/r/"]
