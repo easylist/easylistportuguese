@@ -48,6 +48,8 @@ otempo.com.br###pub-sidebar
 kboing.com.br###pub_0
 kboing.com.br###pub_1
 kboing.com.br###pub_4
+jornalnh.com.br###pub_center
+jornalnh.com.br###pub_header
 kboing.com.br###publ-goog
 gabarite.com.br,saudadefm.com.br###publicidade
 solutudo.com.br###relatedAds
@@ -265,6 +267,7 @@ beachcam.meo.pt##.poweredBy
 gauchazh.clicrbs.com.br##.premium-area
 radioabc.com.br##.propaganda
 iol.pt,motor24.pt,rtp.pt,sapo.pt##.pub
+jornalnh.com.br##.pub-300
 euriodetudo.com.br##.pub-bottom-header
 redetv.uol.com.br##.pub-box
 noticiasaominuto.com##.pub-container-block
