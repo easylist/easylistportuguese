@@ -44,6 +44,7 @@ noticiasaominuto.com###pnm-popout-section
 contaspoupanca.pt###pop-up-dp
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
+jornalnh.com.br###pub-300
 otempo.com.br###pub-sidebar
 kboing.com.br###pub_0
 kboing.com.br###pub_1
