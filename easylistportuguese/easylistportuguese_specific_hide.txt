@@ -196,6 +196,7 @@ solutudo.com.br##.go_bnr_wr
 divirtasemais.com.br##.hdr-pub
 cointelegraph.com.br##.header-zone__banners
 bolavip.com##.home-poll-block__ad
+olhardigital.com.br##.homeV2-ofertas
 slatual.com.br##.horizontal_banner_custom_desktop
 slatual.com.br##.horizontal_banner_secundary_desktop
 tag.jn.pt##.hp-mrec
@@ -243,6 +244,7 @@ motorsport.uol.com.br##.ms-apb
 motorsport.uol.com.br##.ms-hapb
 revistaana.pt##.mtb-20-ad
 minhavida.com.br##.mvn-announcement
+olhardigital.com.br##.newsV2-assinar
 sbt.com.br##.notices-ads
 b9.com.br##.o-slot-content
 observador.pt##.obs-ad-placeholder
