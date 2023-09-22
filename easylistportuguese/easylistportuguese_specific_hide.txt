@@ -149,6 +149,7 @@ agazeta.com.br##.box--patrocinado
 bolavip.com##.boxbanner_container
 cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
+olhardigital.com.br##.cardV2-ad
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 clickjogos.com.br##.cj_square
@@ -244,7 +245,6 @@ motorsport.uol.com.br##.ms-apb
 motorsport.uol.com.br##.ms-hapb
 revistaana.pt##.mtb-20-ad
 minhavida.com.br##.mvn-announcement
-olhardigital.com.br##.newsV2-assinar
 sbt.com.br##.notices-ads
 b9.com.br##.o-slot-content
 observador.pt##.obs-ad-placeholder
