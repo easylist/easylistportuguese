@@ -93,6 +93,7 @@ statusinvest.com.br##.advertising
 hardware.com.br##.advertising-desktop
 hardware.com.br##.advertising-mobile
 infojobs.com.br##.advisor-banner-container
+lancamentosnetflix.com.br##.adxTam
 maquinadoesporte.com.br##.ai-rotate
 noticiasautomotivas.com.br,zap.aeiou.pt##.ai-viewport-1
 otvfoco.com.br##.ai_widget
@@ -389,6 +390,7 @@ aeiou.pt##div[id^="stripe1_"]
 aeiou.pt##div[id^="stripe2_"]
 reclameaqui.com.br##div[role="banner"]
 estrelando.com.br##div[style*="width: 300px; height: 250px;"]
+lancamentosnetflix.com.br##div[style*="width:300px;"]
 jornaldocomercio.com##div[style="height: 90px;"]
 kboing.com.br##div[style="height:200px;"]
 dicionarioinformal.com.br##div[style="height:322px;"]
