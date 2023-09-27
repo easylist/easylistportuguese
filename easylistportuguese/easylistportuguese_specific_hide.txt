@@ -80,6 +80,7 @@ clicrbs.com.br,somosfanaticos.fans##.ad-container
 dicasgostosas.com##.ad-dicasg
 sabornutritivo.com##.ad-sabornu
 nsctotal.com.br##.adSlot__container
+cnnbrasil.com.br##.ad__area
 compreiativo.com.br##.adblock
 abril.com.br,apontador.com.br,correioweb.com.br,imasters.com.br,odia.ig.com.br,sbt.com.br,superesportes.com.br,techtudo.com.br,tribunapr.uol.com.br,tvhistoria.com.br##.ads
 revistaoeste.com##.ads-container
