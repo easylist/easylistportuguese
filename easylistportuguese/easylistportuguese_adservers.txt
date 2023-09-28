@@ -1,5 +1,7 @@
 ||adjs.media^
 ||adsmaster.dev^
+||nativemoney.com.br^
+||nsn-server.xyz^
 ||solution-solutions.com^
 ||tech-solution-blog.com^
 !
