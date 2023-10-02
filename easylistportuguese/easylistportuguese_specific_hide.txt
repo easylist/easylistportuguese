@@ -167,6 +167,7 @@ ansabrasil.com.br##.commercial-banner
 ansabrasil.com.br##.commercial-banner-top
 cointelegraph.com.br##.componentAdbutler_ciZFt
 mercadolivre.com.br##.container-advertising
+estadao.com.br##.container-pub-selo
 antena1.com.br##.containerBanner
 natelinha.uol.com.br##.content-banner
 webmotors.com.br##.content-midia
