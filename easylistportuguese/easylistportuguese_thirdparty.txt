@@ -11,7 +11,7 @@
 ||pubs.xl.pt^
 ||sunoresearch.com.br/ads-manager/$third-party
 ||supercasa.pt/mrec$third-party
-||t.co^domain=souapenasumsitenormal.com
+||t.co^$domain=souapenasumsitenormal.com
 ||upee.online/adsupee.js$third-party
 ||x2n.com.br/media/$third-party
 ! cloudfront hosted
