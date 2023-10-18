@@ -296,6 +296,7 @@ euriodetudo.com.br##.pub-bottom-header
 redetv.uol.com.br##.pub-box
 noticiasaominuto.com##.pub-container-block
 vagandonanet.com.br##.pub-conteudo-300x250
+correioweb.com.br##.pub-hor
 noticiasaominuto.com##.pub-space
 redetv.uol.com.br##.pub-topo
 jornaiserevistas.com##.pubLeaderboard
@@ -319,6 +320,7 @@ infojobs.com.br##.publicity
 radioxinguaraam.com.br##.pubtotal1
 radioxinguaraam.com.br##.pubtotal2
 publico.pt##.pubtxt
+correioweb.com.br##.ragado-1
 superesportes.com.br##.retangulo
 noticiasaominuto.com##.rich-media
 grandepremio.com.br##.rodape_sticky
