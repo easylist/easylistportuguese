@@ -155,6 +155,7 @@ brasilnaitalia.net##.bookingaff
 sabado.pt##.boost_activate
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
+correiobraziliense.com.br##.box-content-read-more
 guiademidia.com.br##.box-publi1
 guiademidia.com.br##.box-publi2
 guiademidia.com.br##.box-publi3
