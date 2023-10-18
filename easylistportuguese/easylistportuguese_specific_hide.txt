@@ -154,6 +154,9 @@ brasilnaitalia.net##.bookingaff
 sabado.pt##.boost_activate
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
+guiademidia.com.br##.box-publi1
+guiademidia.com.br##.box-publi2
+guiademidia.com.br##.box-publi3
 bolavip.com##.boxbanner_container
 cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
@@ -343,6 +346,7 @@ revistaplaneta.com.br##.td_uid_17_63667955eed2c_rand
 neofeed.com.br##.tdi_86_001
 blogmarcosfrahm.com##.text-2
 letras.com.br##.title-ads
+guiademidia.com.br##.titulo-publi3
 publico.pt##.tone--paid
 diarioimobiliario.pt##.topBanner
 humordaterra.com##.top_pub
