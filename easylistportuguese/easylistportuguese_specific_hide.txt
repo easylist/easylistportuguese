@@ -190,6 +190,7 @@ radiodisney.com.br##.css-303m18
 radiodisney.com.br##.css-jy3jpo
 dinheirorural.com.br,revistaplaneta.com.br##.css-liynyf
 brasilnaitalia.net##.custom_html-5
+agazeta.com.br##.destaque
 flashscore.com.br,flashscore.pt##.detailLeaderboard
 olhardigital.com.br##.diagonal-strip
 hojeemdia.com.br##.dlbZKK
@@ -218,7 +219,9 @@ tag.jn.pt##.hp-mrec
 idealista.pt##.idealista-banner
 ehow.com.br##.inline-parent-container
 grandepremio.com.br##.internas_instream
+agazeta.com.br##.intext
 olhardigital.com.br##.intext-denakop
+agazeta.com.br##.intext_bottom
 iol.pt,meo.pt##.iol-comercial-placement
 uol.com.br##.itemAds
 jornaldocarro.estadao.com.br##.jc-saiba-mais
