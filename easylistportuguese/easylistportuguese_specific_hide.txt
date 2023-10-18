@@ -308,6 +308,8 @@ tempo.pt##.publicidad-pie
 exclusivo.com.br,ig.com.br,meiahora.com.br##.publicidade
 exclusivo.com.br##.publicidade3
 infojobs.com.br##.publicity
+radioxinguaraam.com.br##.pubtotal1
+radioxinguaraam.com.br##.pubtotal2
 publico.pt##.pubtxt
 superesportes.com.br##.retangulo
 noticiasaominuto.com##.rich-media
