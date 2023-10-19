@@ -107,6 +107,9 @@ otvfoco.com.br##.ai_widget
 estadao.com.br##.ajuste-banner
 ouvirmusica.com.br##.an-full
 forbes.com.br,humordaterra.com##.anuncio
+portaldeprefeitura.com.br##.anuncio-100
+portaldeprefeitura.com.br##.anuncio-sid
+portaldeprefeitura.com.br##.anuncio-top
 metroworldnews.com.br##.arcad-feature
 brasilescola.uol.com.br##.area-publi-topo
 hot107.com.br##.area_adsense
