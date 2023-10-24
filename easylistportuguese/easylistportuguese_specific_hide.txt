@@ -269,6 +269,9 @@ motorsport.uol.com.br##.ms-apb
 motorsport.uol.com.br##.ms-hapb
 revistaana.pt##.mtb-20-ad
 minhavida.com.br##.mvn-announcement
+baixaki.com.br##.new-ad-leaderboard-header-desk
+baixaki.com.br##.new-ad-leaderboard-header-mob
+baixaki.com.br##.new-float-ads
 sbt.com.br##.notices-ads
 b9.com.br##.o-slot-content
 observador.pt##.obs-ad-placeholder
