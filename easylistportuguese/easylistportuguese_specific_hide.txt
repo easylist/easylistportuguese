@@ -273,6 +273,7 @@ baixaki.com.br##.new-ad-leaderboard-header-desk
 baixaki.com.br##.new-ad-leaderboard-header-mob
 baixaki.com.br##.new-float-ads
 sbt.com.br##.notices-ads
+nextpit.com.br##.np-product
 b9.com.br##.o-slot-content
 observador.pt##.obs-ad-placeholder
 bolavip.com##.odds-slider-widget
