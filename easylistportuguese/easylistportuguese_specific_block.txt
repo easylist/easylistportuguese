@@ -15,6 +15,7 @@
 ||correiodolago.com.br/site/up/popup/
 ||geekpopnews.com.br/mkt/
 ||geralinks.com.br^*/ads/
+||hojeemdia.com.br/scripts/clever_ads.js
 ||jornalrazao.com/storage/images/ads/
 ||naointendo.com.br/banners/
 ||ojogo.pt/common/mrec_
