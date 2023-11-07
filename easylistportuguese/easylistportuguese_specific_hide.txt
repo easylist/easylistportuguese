@@ -332,6 +332,7 @@ superesportes.com.br##.retangulo
 noticiasaominuto.com##.rich-media
 grandepremio.com.br##.rodape_sticky
 sapo.pt##.sapoPub
+hojeemdia.com.br##.sc-1w7mqum-2.fRTDJW
 maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
 cointelegraph.com.br##.sidebar__promo-button
