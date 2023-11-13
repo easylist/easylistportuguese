@@ -6,12 +6,14 @@
 ||iili.io^$domain=politicosdosuldabahia.com.br
 ||imgur.com^$domain=politicosdosuldabahia.com.br|zonadoguaxinim.com.br
 ||ljii.github.io^$third-party
+||melhorplano.net/plugin-search-broadband-plans?$domain=minhaconexao.com.br
 ||postimg.cc^$domain=barbacenamais.com.br
 ||publyads.jstag.space^
 ||pubs.xl.pt^
 ||sunoresearch.com.br/ads-manager/$third-party
 ||supercasa.pt/mrec$third-party
 ||t.co^$domain=souapenasumsitenormal.com
+||telco-api.melhorplano.net/api/search/get-recommended-plans/$domain=minhaconexao.com.br
 ||upee.online/adsupee.js$third-party
 ||x2n.com.br/media/$third-party
 ! cloudfront hosted
