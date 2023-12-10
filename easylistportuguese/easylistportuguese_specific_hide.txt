@@ -158,8 +158,8 @@ loucasporcabelos.com.br##.blue
 brasilnaitalia.net##.bookingaff
 sabado.pt##.boost_activate
 escolhaviajar.com##.bos_searchbox_widget_class
-peperi.com.br##.box-anuncio
 agazeta.com.br##.box--patrocinado
+peperi.com.br##.box-anuncio
 correiobraziliense.com.br##.box-content-read-more
 guiademidia.com.br##.box-publi1
 guiademidia.com.br##.box-publi2
@@ -460,7 +460,6 @@ carrefour.com.br#?#.sc-bczRLJ:-abp-contains(Publicidade)
 carrefour.com.br#?#.vtex-flex-layout-0-x-flexColChild:-abp-contains(Publicidade)
 climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto)
 climatempo.com.br#?#.card.-no-bottom._flex._space-between._align-center:-abp-contains( Cupons de desconto) + div > .card-coupons
-saocarlosagora.com.br#?#.container_16:-abp-contains(Vitrine)
 correioweb.com.br#?#.post--hardnews.call-uai:-abp-has(a:-abp-contains(CONTEÚDO PATROCINADO))
 infomoney.com.br#?#.row.m-0.py-3.border-t:-abp-has(.hl-hat:-abp-contains(Conteúdo))
 jornaldigitalcanela.com.br#?#div:-abp-has(> .jorna-adlabel)
@@ -473,6 +472,7 @@ oantagonista.com.br#?##cardfullblock.card.card-full.card-oa:-abp-has(.card-categ
 omirante.pt#?#.fbox.swidgets-wrap.widget.widget_block.widget_media_image:-abp-has(figcaption)
 reclameaqui.com.br#?#div[class*="h-[240px]"]:-abp-has(div[role="banner"])
 reclameaqui.com.br#?#div[class^="go"] > div[class^="go"]:-abp-has(> div[id^="div-gpt-ad"])
+saocarlosagora.com.br#?#.container_16:-abp-contains(Vitrine)
 tavernaderivia.com.br#?#.ig_widget:-abp-has(a[href^="https://amzn.to/"])
 tavernaderivia.com.br#?#.ig_widget:-abp-has(a[href^="https://www.amazon."][href*="tag="])
 !

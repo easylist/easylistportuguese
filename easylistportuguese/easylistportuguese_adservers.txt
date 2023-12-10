@@ -4,6 +4,7 @@
 ||nsn-server.xyz^
 ||solution-solutions.com^
 ||tech-solution-blog.com^
+||tradertimerz.media^
 !
 ||admasters.media^$third-party
 ||adzep.com.br^$third-party
@@ -13,6 +14,7 @@
 ||igaming-service.io^$third-party
 ||joinads.me^$third-party
 ||juicebarads.com^$third-party
+||nobeta.com.br^$third-party
 ||premiumads.com.br^$third-party
 ||sendwebpush.com^$third-party
 ||simpleads.com.br^$third-party
