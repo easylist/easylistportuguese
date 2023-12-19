@@ -36,6 +36,7 @@
 ##.mw-desk-bloco-ads-5
 ##.pos-ads-texto
 ##.publicidade-728
+##.publicidade-ancorads
 ##.publicidade-cima-container
 ##.publicidade-info-mobile
 ##.publicidade-lateral
