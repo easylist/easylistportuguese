@@ -17,6 +17,7 @@
 ||geralinks.com.br^*/ads/
 ||hojeemdia.com.br/scripts/clever_ads.js
 ||jornalrazao.com/storage/images/ads/
+||megacidade.com/images/anuncios/
 ||naointendo.com.br/banners/
 ||ojogo.pt/common/mrec_
 ||portaldoholanda.com.br^*/banners/
