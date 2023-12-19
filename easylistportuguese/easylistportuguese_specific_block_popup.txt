@@ -1,4 +1,4 @@
-$popup,third-party,domain=topplay.cf
+$popup,third-party,domain=suaurl.com|topplay.cf
 ||5abet222.com^$popup,domain=thepiratefilmeshd.blog
 !
 ! html/image popups
