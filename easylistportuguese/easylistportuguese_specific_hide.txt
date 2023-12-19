@@ -80,7 +80,7 @@ exame.com##.RmKoK
 dgabc.com.br##._superBanner_970x250
 marriedgames.com.br##.aawp
 atribuna.com.br,cybercook.com.br,dicio.com.br,olhardigital.com.br,sapo.pt,sulinformacao.pt,uploaddeimagens.com.br##.ad
-clicrbs.com.br,mundo.com,noataque.com.br,vrum.com.br##.ad-banner
+clicrbs.com.br,mundo.com,noataque.com.br,uai.com.br,vrum.com.br##.ad-banner
 clicrbs.com.br,somosfanaticos.fans##.ad-container
 dicasgostosas.com##.ad-dicasg
 sabornutritivo.com##.ad-sabornu
