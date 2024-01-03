@@ -384,7 +384,7 @@ autoo.com.br,motoo.com.br##.visible-desktop
 purebreak.com.br##.wh_add--header
 uai.com.br##.widget_bouplay_wp_300px2
 portalhortolandia.com.br,spbrasil-2009.net##.widget_custom_html
-observatoriodeourofino.com.br##.widget_media_image
+observatoriodeourofino.com.br,pescariasa.com.br##.widget_media_image
 bandab.com.br##.widget_publicidade
 personare.com.br##.wp-block-personare-advertising
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
