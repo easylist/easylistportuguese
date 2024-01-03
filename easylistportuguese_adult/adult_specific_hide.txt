@@ -64,6 +64,7 @@ quadrinhoseroticos.com.br##ul[class^="aneTemaRe1"]
 cnnamador.com##.cards__item--videos:has(span.flag--banner)
 buceteiro.com##.list > ul > li:has(.ads)
 sonovinhasbr.com##.post:has(a[href^="https://canalvegas.com/"])
+videosdesuavizinha.com##.post:has(a[href^="https://tinyurl.com/"])
 hqdesexo.com##.thumb:has(.ads)
 meuscontoseroticos.com##:has( > a > div > div > span.thumb-ads)
 meuscontoseroticos.com##:has( > div.contoConteudo > div.conto-thumb > a[rel^="nofollow"])
