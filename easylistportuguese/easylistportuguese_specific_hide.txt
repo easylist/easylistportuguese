@@ -212,6 +212,8 @@ obutecodanet.ig.com.br##.elementor-element-a6a8f53
 obutecodanet.ig.com.br##.elementor-element-d5820b2
 bestriders.com.br##.elementor-widget-image-carousel
 extra.globo.com##.especial-publicitario
+tribogamer.com##.floatad-left
+tribogamer.com##.floatad-right
 ecycle.com.br##.form-discard__sponsor
 autoentusiastas.com.br,cidadesnanet.com,fimdalinha.com.br,ocamera.com.br,radar64.com,sociedadeonline.com##.g
 exame.com##.gaOLck
