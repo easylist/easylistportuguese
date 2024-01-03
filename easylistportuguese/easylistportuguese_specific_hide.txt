@@ -42,7 +42,6 @@ exame.com###native-home-5
 exame.com###noticias_relacionadas_pos_1
 tvonline.sx###over-link
 chikianimation.com###overplay
-noticiasaominuto.com###pnm-popout-section
 contaspoupanca.pt###pop-up-dp
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
@@ -293,7 +292,6 @@ mundoeducacao.uol.com.br##.pb_inner_content
 meutimao.com.br##.pbmt
 portalpopline.com.br##.plads_container
 iol.pt##.plista
-noticiasaominuto.com##.pop-out-content
 fiis.com.br##.popup-background
 statusinvest.com.br##.popup-fixed
 jornaldocarro.estadao.com.br##.portal-sponsor
