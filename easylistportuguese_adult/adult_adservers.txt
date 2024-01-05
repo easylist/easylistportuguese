@@ -7,6 +7,5 @@
 ||kyotraffic.com^$third-party
 ||linkgp.com.br^$third-party
 ||maxfullad.com^$third-party
-||project1service.com^$third-party
 ||webpsts.com^
 ||xpowergel.com^$third-party
