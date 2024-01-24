@@ -292,6 +292,7 @@ tvhotnews.com.br##.patrocinadores-view-detail
 cnnportugal.iol.pt##.patrocinadosWrapper
 mundoeducacao.uol.com.br##.pb_inner_content
 visortmo.com##.pba
+visortmo.com##.pbb
 otakuteca.com##.pbl
 meutimao.com.br##.pbmt
 portalpopline.com.br##.plads_container
