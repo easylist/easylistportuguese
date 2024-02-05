@@ -294,6 +294,7 @@ mundoeducacao.uol.com.br##.pb_inner_content
 visortmo.com##.pba
 visortmo.com##.pbb
 visortmo.com##.pbc
+visortmo.com##.pbd
 otakuteca.com##.pbl
 meutimao.com.br##.pbmt
 portalpopline.com.br##.plads_container
