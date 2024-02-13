@@ -315,6 +315,7 @@ vagandonanet.com.br##.pub-conteudo-300x250
 correioweb.com.br##.pub-hor
 noticiasaominuto.com##.pub-space
 redetv.uol.com.br##.pub-topo
+dn.pt##.pub-wrapper
 jornaiserevistas.com##.pubLeaderboard
 jornaiserevistas.com##.pubSpace
 kboing.com.br##.pubSticky
