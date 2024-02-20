@@ -7,6 +7,7 @@
 ||imgur.com^$domain=politicosdosuldabahia.com.br|zonadoguaxinim.com.br
 ||ljii.github.io^$third-party
 ||melhorplano.net/plugin-search-broadband-plans?$domain=minhaconexao.com.br
+||outbrain.com^$domain=visortmo.com
 ||postimg.cc^$domain=barbacenamais.com.br
 ||publyads.jstag.space^
 ||pubs.xl.pt^
