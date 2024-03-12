@@ -383,6 +383,7 @@ uai.com.br##.uai-ads
 mercadolivre.com.br##.ui-recommendations-list__container--pads
 mercadolivre.com.br##.ui-search-bottom-ads__container
 mercadolivre.com.br##.ui-search-sidebar-advertising__display
+mercadolivre.com.br##.ui-search-sidebar-placements
 uol.com.br##.uolpd-video-inarticle
 portalpopline.com.br,tvpop.com.br,uol.com.br##.up-floating
 vagas.com.br##.vagasp-banner-widget
