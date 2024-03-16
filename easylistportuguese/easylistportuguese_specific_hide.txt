@@ -1,11 +1,13 @@
 guiadoinvestidor.com.br###AADIV58
 guiadoinvestidor.com.br###AADIV70
+vercapas.com###adr
 vidadesuporte.com.br###adstopo
 blog200porcento.com###adtopo
 diadia.site,petmil.website,rendaedinheiro.net###adx
 diadia.site,petmil.website,rendaedinheiro.net###adx2
 hardmob.com.br###anuncio
 brasilescola.uol.com.br###area_flutuante_2
+vercapas.com###atl
 midianews.com.br###ban_header
 portalpopline.com.br###banner-1x1-area
 mundoeducacao.uol.com.br###banner-300x250-3-area
