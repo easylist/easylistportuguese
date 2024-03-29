@@ -7,7 +7,7 @@
 @@||google.com/adsense/search/async-ads.js$domain=geniol.com.br
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=jogos360.com.br|r7.com|terra.com.br
 @@||img.vagalume.fm/ads/hotspot/$image,~third-party
-@@||live.primis.tech/live/$script,domain=bolavip.com
+@@||live.primis.tech/live/$script,domain=antenadosnofutebol.com.br|bolavip.com|somosfanaticos.fans
 @@||lms.ev.org.br/mpls/WebAds/$~third-party
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?$script,domain=jn.pt
 @@||pubads.g.doubleclick.net/gampad/$image,domain=rainha.com.br|topper.com.br
