@@ -299,6 +299,7 @@ visortmo.com##.pbb
 visortmo.com##.pbc
 visortmo.com##.pbd
 visortmo.com##.pbf
+visortmo.com##.pbi
 visortmo.com##.pbj
 otakuteca.com##.pbl
 meutimao.com.br##.pbmt
