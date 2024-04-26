@@ -114,6 +114,7 @@ portaldeprefeitura.com.br##.anuncio-sid
 portaldeprefeitura.com.br##.anuncio-top
 metroworldnews.com.br##.arcad-feature
 brasilescola.uol.com.br##.area-publi-topo
+jornaldocarro.estadao.com.br##.area-publicidade-rectangular
 hot107.com.br##.area_adsense
 natelinha.uol.com.br##.arroba-texto
 purebreak.com.br##.article-column-container
