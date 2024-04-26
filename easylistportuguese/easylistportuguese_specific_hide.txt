@@ -168,6 +168,7 @@ guiademidia.com.br##.box-publi1
 guiademidia.com.br##.box-publi2
 guiademidia.com.br##.box-publi3
 antenadosnofutebol.com.br,bolavip.com,somosfanaticos.fans##.boxbanner_container
+clicrbs.com.br##.branded
 cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
 olhardigital.com.br##.cardV2-ad
