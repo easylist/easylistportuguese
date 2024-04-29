@@ -151,6 +151,7 @@ techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
 flashscore.pt##.bettingStrip
 uai.com.br##.bg-ad
+tviplayer.iol.pt##.billboardxlWrapper
 folha.uol.com.br##.block--pub-super
 brasilnaitalia.net##.block-15
 brasilnaitalia.net##.block-2
