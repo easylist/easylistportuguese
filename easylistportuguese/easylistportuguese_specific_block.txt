@@ -15,6 +15,7 @@
 ||correiodolago.com.br/site/up/popup/
 ||geekpopnews.com.br/mkt/
 ||geralinks.com.br^*/ads/
+||gp1.com.br/dfp/
 ||hojeemdia.com.br/scripts/clever_ads.js
 ||jornalrazao.com/storage/images/ads/
 ||megacidade.com/images/anuncios/

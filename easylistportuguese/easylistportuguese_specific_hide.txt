@@ -120,7 +120,7 @@ natelinha.uol.com.br##.arroba-texto
 purebreak.com.br##.article-column-container
 calangodocerrado.net##.banFooter
 humordido.net##.banSect
-bne.com.br,estadao.com.br,meiobit.com,metropolitanafm.com.br,muramasa.com.br,overplay.com.br,ovicio.com.br,sputniknewsbr.com.br,tntsports.com.br,visortmo.com##.banner
+bne.com.br,estadao.com.br,gp1.com.br,meiobit.com,metropolitanafm.com.br,muramasa.com.br,overplay.com.br,ovicio.com.br,sputniknewsbr.com.br,tntsports.com.br,visortmo.com##.banner
 icarros.com.br##.banner-arroba-container
 valor.globo.com,valorinveste.globo.com##.banner-fix-cls
 redegn.com.br##.banner-img
