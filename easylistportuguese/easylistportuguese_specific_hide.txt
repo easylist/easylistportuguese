@@ -183,6 +183,7 @@ zap.aeiou.pt##.code-block-3
 zap.aeiou.pt##.code-block-4
 zap.aeiou.pt##.code-block-5
 zap.aeiou.pt##.code-block-9
+folha.uol.com.br##.col-fixed.col-fixed--md-300.u-visible-md
 ansabrasil.com.br##.commercial-banner
 ansabrasil.com.br##.commercial-banner-top
 cointelegraph.com.br##.componentAdbutler_ciZFt
