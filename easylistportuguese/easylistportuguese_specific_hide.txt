@@ -176,7 +176,7 @@ olhardigital.com.br##.cardV2-ad
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 clickjogos.com.br##.cj_square
-g37.com.br,mixme.com.br,motonline.com.br,otvfoco.com.br,portalhortolandia.com.br,riovagas.com.br##.code-block
+g37.com.br,mixme.com.br,motonline.com.br,otvfoco.com.br,portalhortolandia.com.br,riovagas.com.br,te1.com.br##.code-block
 zap.aeiou.pt##.code-block-1
 hardcore.com.br##.code-block-12
 zap.aeiou.pt##.code-block-25
