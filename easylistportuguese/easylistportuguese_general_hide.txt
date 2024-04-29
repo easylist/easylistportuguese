@@ -31,6 +31,7 @@
 ##.area_publicidade_container
 ##.bloco-publicidade
 ##.container-publicidade-mrec1
+##.imagem-publicidade-header
 ##.mw-desk-bloco-ads-1
 ##.mw-desk-bloco-ads-2
 ##.mw-desk-bloco-ads-5
