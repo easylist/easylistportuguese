@@ -22,6 +22,7 @@
 ##.ads-minuto-content
 ##.ads-noticia-main
 ##.ads-oferecimento
+##.ads-rodape
 ##.adsNoticiaRodape
 ##.ads__painel
 ##.ads_uol_300x250
