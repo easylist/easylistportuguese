@@ -45,6 +45,7 @@ pornomineiro.com##.video-visitas
 boafoda.com##.vjs-producer
 sexosas.com##.watched-now-right
 coliriodemacho.com.br,meuscontoseroticos.com,telaerotica.com##.widget_custom_html
+mobahot.com##.widget_media_image
 afiliados-na-web.com##.widget_text
 contoseroticosbr.com,eoquetemprahj.com##[href*="bit.ly/"]
 xvideosporno.me##a[data-ads]
@@ -57,7 +58,7 @@ sotemnovinhas.com##a[href^="https://www.vipsaoluis.com.br/"]
 pornobom.com.br,videosdesexoxxx.blog.br##body > #parent > #child > .texto + a + a
 sonovinhasbr.com##img[alt="anuncio"]
 gruposputaria.blog.br##img[height="300"]
-eoquetemprahj.com,hentaihome.net,lapkjogos.com,lapkzone.com,mclass.com,naoconto.com,tia-tanaka.com,xvideosws.com##img[width="300"]
+eoquetemprahj.com,hentaihome.net,lapkjogos.com,lapkzone.com,mclass.com,mobahot.com,naoconto.com,tia-tanaka.com,xvideosws.com##img[width="300"]
 safadasnaweb.com.br##img[width="300px"][height="250px"]
 quadrinhoseroticos.com.br##ul[class^="aneTemaRe1"]
 ! :has()
