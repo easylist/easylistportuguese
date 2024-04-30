@@ -98,6 +98,7 @@ uol.com.br##.ads-wrapper
 siteconfiavel.com.br##.adsbygoogle
 vidadesuporte.com.br##.adupee
 poder360.com.br##.advertisement
+uol.com.br##.advertisementArea--showLabel
 statusinvest.com.br##.advertising
 hardware.com.br##.advertising-desktop
 hardware.com.br##.advertising-mobile
