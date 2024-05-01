@@ -163,6 +163,7 @@ meutimao.com.br##.bloco_horizotal_triplo
 loucasporcabelos.com.br##.blue
 brasilnaitalia.net##.bookingaff
 sabado.pt##.boost_activate
+cmjornal.pt##.boost_activateDetalhe
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
 poder360.com.br##.box-advertising
