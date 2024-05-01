@@ -89,6 +89,7 @@ nsctotal.com.br##.adSlot__container
 cnnbrasil.com.br##.ad__area
 compreiativo.com.br##.adblock
 siteconfiavel.com.br##.add-block
+urlm.com.br##.adpadtwentypad_div_sevef_pt
 abril.com.br,apontador.com.br,correioweb.com.br,culturadoria.com.br,futebolinterior.com.br,imasters.com.br,odia.ig.com.br,sbt.com.br,sinucasinuca.com.br,superesportes.com.br,techtudo.com.br,tribunapr.uol.com.br,tvhistoria.com.br##.ads
 estadao.com.br,revistaoeste.com##.ads-container
 letras.com.br##.ads-negative-mt
