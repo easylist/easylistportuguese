@@ -11,6 +11,7 @@
 @@||lms.ev.org.br/mpls/WebAds/$~third-party
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?$script,domain=jn.pt
 @@||pubads.g.doubleclick.net/gampad/$image,domain=rainha.com.br|topper.com.br
+@@||tm.jsuol.com.br/modules/external/admanager/clickjogos_ads.js$script,domain=clickjogos.com.br
 @@||tpc.googlesyndication.com/simgad/$image,domain=rainha.com.br|topper.com.br
 !
 @@||com/banners/$image,domain=eglobalcentralpt.com
