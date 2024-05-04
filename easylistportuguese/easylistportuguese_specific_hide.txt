@@ -134,7 +134,7 @@ contaspoupanca.pt##.banner-publicidade-1
 uaiagro.com.br##.banner-retangulo
 animestc.net##.banner-sidebar
 acheisudoeste.com.br,gazetadopovo.com.br,semprefamilia.com.br,umdoisesportes.com.br##.banner-topo
-visortmo.com##.banner2
+encurtamit.com,visortmo.com##.banner2
 natelinha.uol.com.br##.banner_conteudo
 techbreak.ig.com.br##.banner_interna
 slatual.com.br##.banner_post_horizontal_primary
