@@ -98,6 +98,7 @@ ibahia.com##.ads-space
 uol.com.br##.ads-wrapper
 siteconfiavel.com.br##.adsbygoogle
 vidadesuporte.com.br##.adupee
+jovempan.com.br##.advert
 poder360.com.br##.advertisement
 uol.com.br##.advertisementArea--showLabel
 statusinvest.com.br##.advertising
