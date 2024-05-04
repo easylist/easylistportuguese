@@ -256,6 +256,7 @@ katoon.com.br##.katoo-widget
 personare.com.br##.korPCs
 vibemundialfm.com.br##.l-subheader-cell.at_right
 fiis.com.br##.leadTop
+flashscore.pt##.liveBet
 subsbr.net##.local_anuncio
 paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-items-center
 metropoles.com##.m-banner-block-widescreen
@@ -293,6 +294,7 @@ b9.com.br##.o-slot-content
 observador.pt##.obs-ad-placeholder
 antenadosnofutebol.com.br,bolavip.com,somosfanaticos.fans##.odds-slider-widget
 flashscore.com.br,flashscore.pt##.oddsPlacement
+flashscore.pt##.oddsWrapper
 guiadobitcoin.com.br##.offerCtaCell
 vasco.com.br##.parceiros
 correiobraziliense.com.br##.patrocinado
