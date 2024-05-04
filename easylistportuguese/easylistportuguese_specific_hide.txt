@@ -111,6 +111,7 @@ noticiasautomotivas.com.br,zap.aeiou.pt##.ai-viewport-1
 otvfoco.com.br##.ai_widget
 estadao.com.br##.ajuste-banner
 ouvirmusica.com.br##.an-full
+letras.mus.br##.anSpaceTop
 forbes.com.br,humordaterra.com##.anuncio
 portaldeprefeitura.com.br##.anuncio-100
 portaldeprefeitura.com.br##.anuncio-sid

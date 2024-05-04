@@ -1,5 +1,6 @@
 ||ad.lomadee.com^$third-party
 ||ad.lomadee.fun^
+||azioncdn.net/ads_videos/$domain=letras.mus.br
 ||dino.com.br/widget/$third-party
 ||formulanegocioonline.digital/marca-trafego/$third-party
 ||go.hotmart.com^$third-party
