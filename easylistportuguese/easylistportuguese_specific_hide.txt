@@ -58,6 +58,7 @@ correiogravatai.com.br,diariocachoeirinha.com.br,diariodecanoas.com.br,jornaldeg
 kboing.com.br###publ-goog
 gabarite.com.br,saudadefm.com.br###publicidade
 solutudo.com.br###relatedAds
+portalpopline.com.br###robooster_PS_container
 odia.ig.com.br###rodapefixo
 guiadobitcoin.com.br###sidebaroffer-3
 olx.com.br###stick-to-top
@@ -356,6 +357,7 @@ infojobs.com.br##.publicity
 radioxinguaraam.com.br##.pubtotal1
 radioxinguaraam.com.br##.pubtotal2
 publico.pt##.pubtxt
+portalpopline.com.br##.r4ads
 correioweb.com.br##.ragado-1
 superesportes.com.br##.retangulo
 noticiasaominuto.com##.rich-media
