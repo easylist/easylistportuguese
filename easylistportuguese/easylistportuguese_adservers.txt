@@ -7,6 +7,7 @@
 ||tradertimerz.media^
 !
 ||admasters.media^$third-party
+||adsblue.net^$third-party
 ||adseleto.com^$third-party
 ||adzep.com.br^$third-party
 ||cazamba.com^$third-party
