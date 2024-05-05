@@ -26,6 +26,7 @@ euriodetudo.com.br###custom_html-5
 acheilegall.com.br,humordaterra.com###custom_html-6
 acheilegall.com.br###custom_html-7
 sol.sapo.pt###especiais
+correiobraziliense.com.br###estudio
 tudoradio.com###fixedBannerTop
 ahnegao.com.br###global_topo
 dicio.com.br###gooad_palavra
