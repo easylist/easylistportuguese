@@ -283,6 +283,7 @@ jn.pt,ojogo.pt##.mrec-status-l
 menshealth.pt,noticiasmagazine.pt##.mrec-wrapper
 vidas.pt##.mrecUltimas
 motor24.pt##.mrecbox
+motorsport.uol.com.br##.ms-ap-native
 motorsport.uol.com.br##.ms-apb
 motorsport.uol.com.br##.ms-hapb
 revistaana.pt##.mtb-20-ad
