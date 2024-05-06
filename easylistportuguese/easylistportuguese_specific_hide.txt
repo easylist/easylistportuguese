@@ -236,6 +236,7 @@ futebolinterior.com.br##.gift-ads-menu
 solutudo.com.br##.go_bnr_wr
 divirtasemais.com.br##.hdr-pub
 cointelegraph.com.br##.header-zone__banners
+reclameaqui.com.br##.hidden.lg\:block.min-h-\[300px\].mb-6
 bolavip.com##.home-poll-block__ad
 olhardigital.com.br##.homeV2-ofertas
 slatual.com.br##.horizontal_banner_custom_desktop
