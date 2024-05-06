@@ -137,6 +137,7 @@ uaiagro.com.br##.banner-retangulo
 animestc.net##.banner-sidebar
 acheisudoeste.com.br,gazetadopovo.com.br,semprefamilia.com.br,umdoisesportes.com.br##.banner-topo
 encurtamit.com,visortmo.com##.banner2
+reportermt.com##.bannerResult
 natelinha.uol.com.br##.banner_conteudo
 techbreak.ig.com.br##.banner_interna
 slatual.com.br##.banner_post_horizontal_primary
@@ -480,6 +481,7 @@ administradores.com.br##div[style="width:970px;height:250px"]
 brasilescola.uol.com.br##div[style^="height:250px; width:300px;"]
 istoe.com.br,istoedinheiro.com.br,revistaplaneta.com.br##div[style^="width: 100%; height: 250px;"]
 crazygames.com.br##div[style^="width: 160px; height: 600px;"]
+reportermt.com##div[style^="width: 300px;"]
 crazygames.com.br##div[style^="width: 728px; height: 90px;"]
 decorardicas.com.br##div[style^="width:300px;"]
 rftvoficial.com.br##img[height="200"]
