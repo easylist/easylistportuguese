@@ -426,6 +426,7 @@ observatoriodeourofino.com.br,pescariasa.com.br##.widget_media_image
 jornalopcao.com.br##.widget_nw_anuncio
 bandab.com.br##.widget_publicidade
 personare.com.br##.wp-block-personare-advertising
+oficinadanet.com.br##.wrap-dw-slot-ad
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 escolakids.uol.com.br,mundoeducacao.uol.com.br##.wrapper-bnr
 multinews.sapo.pt##.yxzmwgdi
