@@ -232,6 +232,7 @@ obutecodanet.ig.com.br##.elementor-element-a6a8f53
 obutecodanet.ig.com.br##.elementor-element-d5820b2
 bestriders.com.br##.elementor-widget-image-carousel
 extra.globo.com##.especial-publicitario
+canaltech.com.br##.flex.min-h-\[250px\].flex-col
 tribogamer.com##.floatad-left
 tribogamer.com##.floatad-right
 ecycle.com.br##.form-discard__sponsor
