@@ -381,6 +381,7 @@ maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
 cointelegraph.com.br##.sidebar__promo-button
 97news.com.br##.sidebar_widget_banner
+tnh1.com.br##.single-publicidade
 diarioimobiliario.pt##.singlePub
 slatual.com.br##.slider_banner_sidebar
 jornalcidademg.com.br##.slides
