@@ -1,5 +1,8 @@
 guiadoinvestidor.com.br###AADIV58
 guiadoinvestidor.com.br###AADIV70
+mundoconectado.com.br###ad_conteudo_1
+mundoconectado.com.br###ad_conteudo_2
+mundoconectado.com.br###ad_conteudo_3
 vercapas.com###adr
 vidadesuporte.com.br###adstopo
 blog200porcento.com###adtopo
@@ -185,7 +188,7 @@ olhardigital.com.br##.cardV2-ad
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 clickjogos.com.br##.cj_square
-euvi.online,g37.com.br,mixme.com.br,motonline.com.br,otvfoco.com.br,portalhortolandia.com.br,riovagas.com.br,supertvaovivo.co,te1.com.br##.code-block
+euvi.online,g37.com.br,mixme.com.br,motonline.com.br,mundoconectado.com.br,otvfoco.com.br,portalhortolandia.com.br,riovagas.com.br,supertvaovivo.co,te1.com.br##.code-block
 zap.aeiou.pt##.code-block-1
 hardcore.com.br##.code-block-12
 zap.aeiou.pt##.code-block-25
