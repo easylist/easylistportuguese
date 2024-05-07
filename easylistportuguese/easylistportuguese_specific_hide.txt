@@ -53,6 +53,7 @@ contaspoupanca.pt###pop-up-dp
 correiodolago.com.br###pop1
 correiodolago.com.br###pop2
 correiogravatai.com.br,diariocachoeirinha.com.br,diariodecanoas.com.br,jornaldegramado.com.br,jornalnh.com.br,jornalvs.com.br###pub-300
+techtudo.com.br###pub-in-text-wrapper
 otempo.com.br###pub-sidebar
 kboing.com.br###pub_0
 kboing.com.br###pub_1
