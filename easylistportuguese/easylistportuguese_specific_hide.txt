@@ -434,6 +434,7 @@ oficinadanet.com.br##.wrap-dw-slot-ad
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 escolakids.uol.com.br,mundoeducacao.uol.com.br##.wrapper-bnr
 multinews.sapo.pt##.yxzmwgdi
+timnews.com.br##.zapads
 forum.zwame.pt##.zwame-side-spons
 trabalhabrasil.com.br##[asp-add-nonce]
 gazetadopovo.com.br##[class*="style_card-ads-brended-content"]
