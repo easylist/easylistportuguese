@@ -1,6 +1,8 @@
 ||ad.lomadee.com^$third-party
 ||ad.lomadee.fun^
 ||azioncdn.net/ads_videos/$domain=letras.mus.br
+||cworks.cloud/fileadmin/scripts/r7AdControl.js$domain=tnh1.com.br
+||cworks.cloud/fileadmin/scripts/r7PubliDesktop.js$domain=tnh1.com.br
 ||dino.com.br/widget/$third-party
 ||formulanegocioonline.digital/marca-trafego/$third-party
 ||go.hotmart.com^$third-party
