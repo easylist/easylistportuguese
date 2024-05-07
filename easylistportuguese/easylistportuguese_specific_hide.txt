@@ -114,7 +114,7 @@ hardware.com.br##.advertising-mobile
 infojobs.com.br##.advisor-banner-container
 lancamentosnetflix.com.br##.adxTam
 maquinadoesporte.com.br##.ai-rotate
-noticiasautomotivas.com.br,zap.aeiou.pt##.ai-viewport-1
+blogdoiphone.com,noticiasautomotivas.com.br,zap.aeiou.pt##.ai-viewport-1
 otvfoco.com.br##.ai_widget
 estadao.com.br##.ajuste-banner
 ouvirmusica.com.br##.an-full
