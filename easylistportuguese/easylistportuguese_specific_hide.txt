@@ -201,6 +201,7 @@ folha.uol.com.br##.col-fixed.col-fixed--md-300.u-visible-md
 ansabrasil.com.br##.commercial-banner
 ansabrasil.com.br##.commercial-banner-top
 cointelegraph.com.br##.componentAdbutler_ciZFt
+tudocelular.com##.compras_items
 mercadolivre.com.br##.container-advertising
 litoralfm96.com.br##.container-propaganda
 estadao.com.br##.container-pub-selo
