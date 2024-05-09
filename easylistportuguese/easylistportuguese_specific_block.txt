@@ -20,6 +20,7 @@
 ||jornalrazao.com/storage/images/ads/
 ||megacidade.com/images/anuncios/
 ||naointendo.com.br/banners/
+||ogol.com.br/img/logos/bookmakers/
 ||ojogo.pt/common/mrec_
 ||portaldoholanda.com.br^*/banners/
 ||portalmorada.com.br/assets/uploads/ads_
