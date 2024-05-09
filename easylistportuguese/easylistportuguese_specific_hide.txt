@@ -141,6 +141,7 @@ bne.com.br,estadao.com.br,gp1.com.br,meiobit.com,metropolitanafm.com.br,muramasa
 icarros.com.br##.banner-arroba-container
 valor.globo.com,valorinveste.globo.com##.banner-fix-cls
 redegn.com.br##.banner-img
+jcconcursos.com.br##.banner-lg
 sbtnews.com.br##.banner-list-notices-sd
 vagas.com.br##.banner-position
 contaspoupanca.pt##.banner-publicidade-1
