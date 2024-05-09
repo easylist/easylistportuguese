@@ -445,6 +445,7 @@ timnews.com.br##.zapads
 forum.zwame.pt##.zwame-side-spons
 trabalhabrasil.com.br##[asp-add-nonce]
 gazetadopovo.com.br##[class*="style_card-ads-brended-content"]
+olx.com.br##[class^="Advertising_"]
 forum.techtudo.globo.com##[class^="Advertisingstyles_"]
 metropoles.com##[class^="PublicidadesWrapper-"]
 jn.pt,ojogo.pt##[class^="t-pub-box-"]
