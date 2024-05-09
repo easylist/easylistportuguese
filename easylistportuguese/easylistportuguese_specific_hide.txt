@@ -151,6 +151,7 @@ encurtamit.com,visortmo.com##.banner2
 reportermt.com##.bannerResult
 natelinha.uol.com.br##.banner_conteudo
 techbreak.ig.com.br##.banner_interna
+jcconcursos.com.br##.banner_lateral
 slatual.com.br##.banner_post_horizontal_primary
 slatual.com.br##.banner_post_horizontal_secundary
 midianews.com.br##.banner_relogio
@@ -256,6 +257,7 @@ slatual.com.br##.horizontal_banner_custom_desktop
 slatual.com.br##.horizontal_banner_secundary_desktop
 tag.jn.pt##.hp-mrec
 idealista.pt##.idealista-banner
+jcconcursos.com.br##.injected_arroba
 ehow.com.br##.inline-parent-container
 grandepremio.com.br##.internas_instream
 agazeta.com.br##.intext
@@ -472,6 +474,8 @@ megacurioso.com.br##div[class^="styles_ads_"]
 tecnoblog.net##div[data-adnumber]
 gazetadopovo.com.br##div[data-ads]
 fdr.com.br,mixme.com.br##div[data-aps="true"]
+jcconcursos.com.br##div[data-desktop="970x250"]
+jcconcursos.com.br##div[data-mobile="300x250"]
 r7.com##div[data-testid="ad-shell"]
 olx.com.br##div[data-testid="adv-placeholder-adview"]
 olx.com.br##div[data-testid="advertising-wrapper"]
