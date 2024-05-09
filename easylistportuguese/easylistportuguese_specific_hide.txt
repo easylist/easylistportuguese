@@ -31,6 +31,7 @@ acheilegall.com.br###custom_html-7
 sol.sapo.pt###especiais
 correiobraziliense.com.br###estudio
 tudoradio.com###fixedBannerTop
+carteldemanhwas.com###floatcenter
 nsctotal.com.br###floater_2
 ahnegao.com.br###global_topo
 dicio.com.br###gooad_palavra
@@ -70,6 +71,8 @@ olx.com.br###stick-to-top
 solutudo.com.br###stickyContainer
 ig.com.br,infoescola.com###superbanner
 verfutebol.tv###superderbi
+carteldemanhwas.com###teaser1
+carteldemanhwas.com###teaser2
 arthurscan.xyz,cerisescan.com,chikianimation.com,prismahentai.com,prismascans.net,randomscans.com,reaperscans.net,sinensisscans.com,yugenmangas.com.br###teaser3
 calangodocerrado.net###text-49
 soesporte.com.br###text-7
