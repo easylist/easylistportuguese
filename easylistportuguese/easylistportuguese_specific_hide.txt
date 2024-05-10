@@ -299,6 +299,7 @@ repercussaoparanhana.com##.metaslider
 br.lexlatin.com##.mibanner
 futebolinterior.com.br##.most-bet
 cmjornal.pt##.mrec
+megahits.sapo.pt##.mrec-pub-box
 dinheirovivo.pt,dn.pt,jn.pt,ojogo.pt,tsf.pt##.mrec-status
 jn.pt,ojogo.pt##.mrec-status-l
 menshealth.pt,noticiasmagazine.pt##.mrec-wrapper
