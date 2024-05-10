@@ -43,7 +43,7 @@ conjur.com.br###leaderboard1
 conjur.com.br###leaderboard2
 agroolhar.com.br,olharconceito.com.br,olharjuridico.com.br###luckpub
 evangelionbr.com###media_image-10
-tag.jn.pt###mrec
+megahits.sapo.pt,tag.jn.pt###mrec
 ig.com.br###mrec2
 exame.com###native-home-4
 exame.com###native-home-5
