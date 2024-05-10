@@ -77,6 +77,7 @@ arthurscan.xyz,cerisescan.com,chikianimation.com,prismahentai.com,prismascans.ne
 calangodocerrado.net###text-49
 soesporte.com.br###text-7
 euriodetudo.com.br###text-8
+rfm.sapo.pt###top-pub
 forum.cifraclub.com.br###topo
 uol.com.br###uolpd-video-inarticle
 exame.com###veja_tambem_pos_1
@@ -346,10 +347,11 @@ radioabc.com.br##.propaganda
 cifraclub.com.br,iol.pt,motor24.pt,rtp.pt,sapo.pt##.pub
 correiogravatai.com.br,diariocachoeirinha.com.br,diariodecanoas.com.br,jornaldegramado.com.br,jornalnh.com.br,jornalvs.com.br##.pub-300
 euriodetudo.com.br##.pub-bottom-header
-redetv.uol.com.br##.pub-box
+redetv.uol.com.br,rfm.sapo.pt##.pub-box
 noticiasaominuto.com##.pub-container-block
 vagandonanet.com.br##.pub-conteudo-300x250
 correioweb.com.br##.pub-hor
+rfm.sapo.pt##.pub-info-hp
 noticiasaominuto.com##.pub-space
 dicasgostosas.com##.pub-text
 redetv.uol.com.br##.pub-topo
