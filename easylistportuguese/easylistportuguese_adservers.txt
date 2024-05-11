@@ -18,6 +18,7 @@
 ||juicebarads.com^$third-party
 ||nobeta.com.br^$third-party
 ||premiumads.com.br^$third-party
+||r4you.co^$third-party
 ||sendwebpush.com^$third-party
 ||simpleads.com.br^$third-party
 ||tradermilionarios.co^$third-party
