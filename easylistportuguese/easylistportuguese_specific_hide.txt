@@ -356,7 +356,7 @@ rfm.sapo.pt##.pub-info-hp
 noticiasaominuto.com##.pub-space
 dicasgostosas.com##.pub-text
 redetv.uol.com.br##.pub-topo
-dn.pt##.pub-wrapper
+dn.pt,jn.pt##.pub-wrapper
 jornaiserevistas.com##.pubLeaderboard
 jornaiserevistas.com##.pubSpace
 kboing.com.br##.pubSticky
