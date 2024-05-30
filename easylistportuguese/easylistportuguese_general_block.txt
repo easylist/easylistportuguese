@@ -1,4 +1,5 @@
 /ads/anuncio.
+/ane-conteudo-exclusivo.js
 !
 -publicidade.
 .br/afiliados/$domain=~shopping.bancointer.com.br

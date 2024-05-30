@@ -1,5 +1,6 @@
 sonovinhasbr.com###bannerfooter
 travestisvip.com.br###bnrVideosTravestis
+terceiroz.com###cn-advertising
 xvideosporno.blog.br###footertop
 garotaporno.com,pornodoido.com###overlay-video
 novinhasdozapzap.com###text-73
@@ -18,6 +19,7 @@ cnnamador.com##.banners__list
 hqdesexo.com##.boxpub
 pornomineiro.com##.clma12d04
 boafoda.com##.co_sponsor
+terceiroz.com##.code-block
 sexosas.com##.content-footer-holder
 contoseroticosbr.com##.custom-html-widget
 sexprime.xxx##.execphpwidget
@@ -48,7 +50,7 @@ xvideos5.com.br##.video-incicio
 pornomineiro.com##.video-visitas
 boafoda.com##.vjs-producer
 sexosas.com##.watched-now-right
-coliriodemacho.com.br,mangashentais.com,meuscontoseroticos.com,telaerotica.com##.widget_custom_html
+coliriodemacho.com.br,mangashentais.com,meuscontoseroticos.com,telaerotica.com,terceiroz.com##.widget_custom_html
 mobahot.com##.widget_media_image
 afiliados-na-web.com##.widget_text
 contoseroticosbr.com,eoquetemprahj.com##[href*="bit.ly/"]
