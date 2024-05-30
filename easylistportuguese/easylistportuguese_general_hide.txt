@@ -61,6 +61,7 @@
 ##a[href^="https://go.aff.esportesdasorte.com/"]
 ##a[href^="https://go.hotmart.com/"]
 ##a[href^="https://grupoxxx.com/"]
+##a[href^="https://static.maxfullad.com/banners/"]
 ##a[href^="https://timbet999.xyz/"]
 ##a[href^="https://www.e-consulters.com.br/sac/aff.php?aff="]
 !
