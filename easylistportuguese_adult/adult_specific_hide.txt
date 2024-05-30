@@ -5,7 +5,7 @@ novinhasdozapzap.com###text-73
 caiunarede.ml,videosred.com.br###tracking-url
 fadadosexo.com,tatarada.com.br##.Marquee
 pornodoido.com##.abbcn-footer
-fotoscaiunanet.com,gruposputaria.blog.br,hentaibrasil.org,hentaikai.com,meuhentai.com,mixputaria.com,mulherpelada.blog,mundohentaioficial.com,pornocarioca.com,secretas.com,sexocoroas.com.br,sonovinhasbr.com,universohentai.com,videosexogay.com.br,xtubehentai.com,xvideo-sexo.com,xvideosanal.org##.anuncios
+fotoscaiunanet.com,gruposputaria.blog.br,hentaibrasil.org,hentaikai.com,mangashentais.com,meuhentai.com,mixputaria.com,mulherpelada.blog,mundohentaioficial.com,pornocarioca.com,secretas.com,sexocoroas.com.br,sonovinhasbr.com,universohentai.com,videosexogay.com.br,xtubehentai.com,xvideo-sexo.com,xvideosanal.org##.anuncios
 contosdesexo.com##.banner
 aifode.com,xvideosanal.org##.banner-footer
 freeones.pt##.banner-placeholder
@@ -30,6 +30,7 @@ xtubehentai.com##.homeBanner
 meuscontoseroticos.com##.meusc-widget
 fadadosexo.com##.nativo
 linkgp.com.br##.nativo-links
+mangashentais.com##.novolive
 travestisvip.com.br##.playerBnr
 sandrinha.com.br,xxxvideo.blog.br##.post-banners
 universohentai.com##.postBannerTopo
@@ -44,7 +45,7 @@ xvideos5.com.br##.video-incicio
 pornomineiro.com##.video-visitas
 boafoda.com##.vjs-producer
 sexosas.com##.watched-now-right
-coliriodemacho.com.br,meuscontoseroticos.com,telaerotica.com##.widget_custom_html
+coliriodemacho.com.br,mangashentais.com,meuscontoseroticos.com,telaerotica.com##.widget_custom_html
 mobahot.com##.widget_media_image
 afiliados-na-web.com##.widget_text
 contoseroticosbr.com,eoquetemprahj.com##[href*="bit.ly/"]
@@ -52,6 +53,7 @@ xvideosporno.me##a[data-ads]
 hqdesexo.com##a[href*="/anuncio/click/"]
 thehentai.net##a[href*="https://jerkmate.com/"]
 pornotube.blog.br,xvideos.tv.br##a[href^="https://app.monetizze.com.br/"]
+mangashentais.com##a[href^="https://pornojapa.com/"]
 thehentai.net##a[href^="https://trynectar.ai/"]
 travestisvip.com.br##a[href^="https://www.avantajadas.com.br/"]
 aumenteseutesao.com##a[href^="https://www.sexlog.com/"][href*="?partner="]
