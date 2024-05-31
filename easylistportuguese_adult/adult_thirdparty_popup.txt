@@ -1,4 +1,5 @@
 ||avantajadas.com.br^$popup,domain=travestisvip.com.br
 ||bit.ly^$popup,domain=sotemnovinhas.com
 ||filmeshentai.com^$popup,domain=hentaitokyo.net|mundohentaioficial.com|nhentaibr.com
+||obutecao.com^$popup,domain=buceta.blog
 ||umtudo.com/pop/$popup
