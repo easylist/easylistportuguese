@@ -540,6 +540,7 @@ mercadolivre.com.br##.ui-recommendations-carousel-wrapper-ref:has(a[rel="nofollo
 reclameaqui.com.br##div[class*="h-[240px]"]:has(div[role="banner"])
 reclameaqui.com.br##div[class^="go"]:has( > div > div[id^="div-gpt-ad"])
 mercadolivre.com.br##li.ui-search-layout__item:has(div.ui-search-item__pub-container)
+mundi.com.br#?#[class*="pres-default"]:-abp-contains(Ad)
 noticiasaominuto.com#?#.article-thumb.cursor-pointer:has(.nm-custom-label-sponsor)
 standvirtual.com#?#article[data-id]:-abp-contains(Destacado)
 ! Advanced element hiding rules for Adblock Plus
