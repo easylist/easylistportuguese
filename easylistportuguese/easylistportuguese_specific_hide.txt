@@ -365,7 +365,9 @@ cnnportugal.iol.pt##.pubWrapper
 banzaianimes.com.br##.pub_250_250
 banzaianimes.com.br##.pub_728_90
 consultas.plus##.pub_content.ad_lazyload
+conjugacao-de-verbos.com##.pub_inread_div
 escolakids.uol.com.br##.pub_left_text
+conjugacao-de-verbos.com##.pub_pave_div
 lancamentos.com.br##.publ-mat
 acordacidade.com.br##.publi-1
 acordacidade.com.br##.publi-2
