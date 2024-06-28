@@ -8,6 +8,7 @@ vidadesuporte.com.br###adstopo
 blog200porcento.com###adtopo
 diadia.site,petmil.website,rendaedinheiro.net###adx
 diadia.site,petmil.website,rendaedinheiro.net###adx2
+separarensilabas.com###antiBannersGigantes
 hardmob.com.br###anuncio
 brasilescola.uol.com.br###area_flutuante_2
 vercapas.com###atl
