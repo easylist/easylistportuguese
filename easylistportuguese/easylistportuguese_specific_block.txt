@@ -18,6 +18,7 @@
 ||gp1.com.br/dfp/
 ||hojeemdia.com.br/scripts/clever_ads.js
 ||jornalrazao.com/storage/images/ads/
+||magazineluiza.com.br/sponsored-products-sdk/
 ||megacidade.com/images/anuncios/
 ||naointendo.com.br/banners/
 ||netshoes.com.br/sponsored-products-sdk/
