@@ -12,6 +12,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?$script,domain=jn.pt
 @@||pubads.g.doubleclick.net/gampad/$image,domain=rainha.com.br|topper.com.br
 @@||tm.jsuol.com.br/modules/external/admanager/clickjogos_ads.js$script,domain=clickjogos.com.br
+@@||tm.jsuol.com.br/modules/external/admanager/noticias_ads.js$script,domain=noticias.uol.com.br
 @@||tpc.googlesyndication.com/simgad/$image,domain=rainha.com.br|topper.com.br
 !
 @@||com/banners/$image,domain=eglobalcentralpt.com
