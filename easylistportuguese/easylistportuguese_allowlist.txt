@@ -1,8 +1,9 @@
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt
 @@||custojusto.pt/user/myads/$~third-party
 @@||fatimalife.com.br/api/v1/ad/$~third-party
+@@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=drogasil.com.br
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=magazineluiza.com.br
-@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js?$script,domain=jn.pt
+@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js?$script,domain=drogasil.com.br|jn.pt
 @@||g.doubleclick.net/tag/js/gpt.js$script,domain=drogasil.com.br|jn.pt
 @@||google.com/adsense/search/async-ads.js$domain=geniol.com.br
 @@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video-js.min.css$domain=cultura.uol.com.br
@@ -15,7 +16,7 @@
 @@||pubads.g.doubleclick.net/gampad/$image,domain=rainha.com.br|topper.com.br
 @@||tm.jsuol.com.br/modules/external/admanager/clickjogos_ads.js$script,domain=clickjogos.com.br
 @@||tm.jsuol.com.br/modules/external/admanager/noticias_ads.js$script,domain=noticias.uol.com.br
-@@||tpc.googlesyndication.com/simgad/$image,domain=rainha.com.br|topper.com.br
+@@||tpc.googlesyndication.com/simgad/$image,domain=drogasil.com.br|rainha.com.br|topper.com.br
 !
 @@||com/banners/$image,domain=eglobalcentralpt.com
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=magazineluiza.com.br
