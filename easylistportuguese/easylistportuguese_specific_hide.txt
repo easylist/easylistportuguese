@@ -228,6 +228,7 @@ radiodisney.com.br##.css-303m18
 radiodisney.com.br##.css-jy3jpo
 dinheirorural.com.br,revistaplaneta.com.br##.css-liynyf
 brasilnaitalia.net##.custom_html-5
+tasabendo.com.br##.da-slot
 publico.pt##.darkmode-info
 agazeta.com.br##.destaque
 flashscore.com.br,flashscore.pt##.detailLeaderboard
