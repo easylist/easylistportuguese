@@ -25,7 +25,6 @@
 /iframe-banners.
 /igbarra.js
 /imagem/urchin.gif?
-/img_banner/*
 /imgcontador.php?
 /linksPatGoogle.
 /mrec.aspx?
