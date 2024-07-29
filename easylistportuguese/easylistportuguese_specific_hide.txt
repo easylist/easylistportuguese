@@ -209,6 +209,7 @@ zap.aeiou.pt##.code-block-4
 zap.aeiou.pt##.code-block-5
 zap.aeiou.pt##.code-block-9
 folha.uol.com.br##.col-fixed.col-fixed--md-300.u-visible-md
+greensavers.sapo.pt##.color-switcher > .color-switcher
 ansabrasil.com.br##.commercial-banner
 ansabrasil.com.br##.commercial-banner-top
 cointelegraph.com.br##.componentAdbutler_ciZFt
@@ -314,6 +315,7 @@ motorsport.uol.com.br##.ms-apb
 motorsport.uol.com.br##.ms-hapb
 revistaana.pt##.mtb-20-ad
 minhavida.com.br##.mvn-announcement
+greensavers.sapo.pt##.nc-meo-more
 baixaki.com.br##.new-ad-leaderboard-header-desk
 baixaki.com.br##.new-ad-leaderboard-header-mob
 baixaki.com.br##.new-float-ads

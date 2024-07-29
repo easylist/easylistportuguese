@@ -20,6 +20,7 @@
 ||supercasa.pt/mrec$third-party
 ||t.co^$domain=souapenasumsitenormal.com
 ||telco-api.melhorplano.net/api/search/get-recommended-plans/$domain=minhaconexao.com.br
+||thingle.io/iframe-content.php$third-party
 ||upee.online/adsupee.js$third-party
 ||x2n.com.br/media/$third-party
 ! cloudfront hosted
