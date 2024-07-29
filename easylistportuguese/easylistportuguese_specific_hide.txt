@@ -114,7 +114,7 @@ vidadesuporte.com.br##.adupee
 jovempan.com.br##.advert
 poder360.com.br##.advertisement
 uol.com.br##.advertisementArea--showLabel
-statusinvest.com.br,trabalhabrasil.com.br##.advertising
+atribuna.com.br,statusinvest.com.br,trabalhabrasil.com.br##.advertising
 hardware.com.br##.advertising-desktop
 hardware.com.br##.advertising-mobile
 infojobs.com.br##.advisor-banner-container
