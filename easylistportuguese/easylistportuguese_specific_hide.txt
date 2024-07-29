@@ -218,6 +218,7 @@ mercadolivre.com.br##.container-advertising
 litoralfm96.com.br##.container-propaganda
 estadao.com.br##.container-pub-selo
 antena1.com.br##.containerBanner
+sicnoticias.pt##.contas-poupanca-banner
 natelinha.uol.com.br##.content-banner
 webmotors.com.br##.content-midia
 brasilescola.uol.com.br##.corpoPubli
