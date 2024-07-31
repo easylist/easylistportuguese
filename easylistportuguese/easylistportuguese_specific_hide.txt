@@ -34,6 +34,7 @@ correiobraziliense.com.br###estudio
 tudoradio.com###fixedBannerTop
 carteldemanhwas.com###floatcenter
 nsctotal.com.br###floater_2
+futebolnatv.com.br###futnatvpub
 ahnegao.com.br###global_topo
 dicio.com.br###gooad_palavra
 crusoe.com.br###gpt-leaderboard
