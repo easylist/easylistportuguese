@@ -267,6 +267,7 @@ slatual.com.br##.horizontal_banner_custom_desktop
 slatual.com.br##.horizontal_banner_secundary_desktop
 tag.jn.pt##.hp-mrec
 idealista.pt##.idealista-banner
+emporiododireito.com.br##.inclusao-anuncio
 jcconcursos.com.br##.injected_arroba
 ehow.com.br##.inline-parent-container
 grandepremio.com.br##.internas_instream
