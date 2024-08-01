@@ -238,6 +238,7 @@ agazeta.com.br##.destaque
 flashscore.com.br,flashscore.pt##.detailLeaderboard
 olhardigital.com.br##.diagonal-strip
 culturadoria.com.br##.dialog-widget
+cartacapital.com.br##.div_ros_topo
 hojeemdia.com.br##.dlbZKK
 culturadoria.com.br##.elementor-element-1709627
 obutecodanet.ig.com.br##.elementor-element-25abeb1
