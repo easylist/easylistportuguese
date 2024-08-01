@@ -375,6 +375,7 @@ consultas.plus##.pub_content.ad_lazyload
 conjugacao-de-verbos.com##.pub_inread_div
 escolakids.uol.com.br##.pub_left_text
 conjugacao-de-verbos.com##.pub_pave_div
+quizur.com##.pubad
 lancamentos.com.br##.publ-mat
 acordacidade.com.br##.publi-1
 acordacidade.com.br##.publi-2
