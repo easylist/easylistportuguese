@@ -536,6 +536,7 @@ crazygames.com.br##div[style^="width: 160px; height: 600px;"]
 reportermt.com##div[style^="width: 300px;"]
 crazygames.com.br##div[style^="width: 728px; height: 90px;"]
 decorardicas.com.br##div[style^="width:300px;"]
+globo.com##glb-ad
 rftvoficial.com.br##img[height="200"]
 afiliados-na-web.com,psxbrasil.com.br##img[height="250"]
 revistamotos.pt##img[height="300"]
