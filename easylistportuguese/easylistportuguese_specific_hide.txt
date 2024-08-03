@@ -257,7 +257,7 @@ canaltech.com.br##.flex.min-h-\[250px\].flex-col
 tribogamer.com##.floatad-left
 tribogamer.com##.floatad-right
 ecycle.com.br##.form-discard__sponsor
-autoentusiastas.com.br,cidadesnanet.com,fimdalinha.com.br,ocamera.com.br,radar64.com,sociedadeonline.com##.g
+autoentusiastas.com.br,cidadesnanet.com,fimdalinha.com.br,ocamera.com.br,sociedadeonline.com##.g
 exame.com##.gaOLck
 futebolinterior.com.br##.gift-ads-menu
 solutudo.com.br##.go_bnr_wr
