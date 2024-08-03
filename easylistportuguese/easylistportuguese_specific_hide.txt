@@ -115,7 +115,7 @@ vidadesuporte.com.br##.adupee
 jovempan.com.br##.advert
 poder360.com.br##.advertisement
 uol.com.br##.advertisementArea--showLabel
-atribuna.com.br,statusinvest.com.br,trabalhabrasil.com.br##.advertising
+atribuna.com.br,blogbraga.com.br,statusinvest.com.br,trabalhabrasil.com.br##.advertising
 hardware.com.br##.advertising-desktop
 hardware.com.br##.advertising-mobile
 infojobs.com.br##.advisor-banner-container
@@ -549,6 +549,7 @@ rftvoficial.com.br##img[height="200"]
 afiliados-na-web.com,psxbrasil.com.br##img[height="250"]
 revistamotos.pt##img[height="300"]
 criptonizando.com,ntvb.com.br##img[height="90"]
+blogbraga.com.br##img[style="width:100%; height:auto;"]
 minhaconexao.com.br##img[width="160"]
 minhaconexao.com.br##img[width="250"]
 atoananet.com.br,cidadesnanet.com,culturalizabh.com.br,escolhaviajar.com,futebolatino.lance.com.br,inteligenciafinanceira.com.br,jornalcidademg.com.br,minhaconexao.com.br,ofertaspravoce.com,omachoalpha.com.br,otakupt.com,psxbrasil.com.br,revistamotos.pt,thepiratefilmeshd.blog##img[width="300"]
