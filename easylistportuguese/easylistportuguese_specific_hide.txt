@@ -251,6 +251,7 @@ ntvb.com.br##.elementor-element-915c0f8
 obutecodanet.ig.com.br##.elementor-element-a6a8f53
 obutecodanet.ig.com.br##.elementor-element-d5820b2
 bestriders.com.br##.elementor-widget-image-carousel
+acheisudoeste.com.br##.er-footer-add
 extra.globo.com##.especial-publicitario
 canaltech.com.br##.flex.min-h-\[250px\].flex-col
 tribogamer.com##.floatad-left
