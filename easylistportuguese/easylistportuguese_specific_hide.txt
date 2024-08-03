@@ -423,6 +423,7 @@ azamericasat.net,diariodistrito.pt,g37.com.br,oportaln10.com.br,portaldosrecepto
 diariodistrito.pt##.stream-item-widget
 infomoney.com.br##.subject_Branded
 defatoonline.com.br##.swal2-container
+jesusmeudeus.com.br##.swiper-container
 dinheirovivo.pt##.t-am-sponsored
 dn.pt##.t-pubbox-ct-1
 tsf.pt##.t-pubbox-mrec-1
