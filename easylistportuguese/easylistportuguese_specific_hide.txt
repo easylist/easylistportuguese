@@ -263,6 +263,7 @@ obutecodanet.ig.com.br##.elementor-element-d5820b2
 bestriders.com.br##.elementor-widget-image-carousel
 acheisudoeste.com.br##.er-footer-add
 extra.globo.com##.especial-publicitario
+canaltech.com.br##.flex.h-\[100px\].flex-col.items-center.justify-center.bg-mglGray100.desktop\:h-\[250px\]
 canaltech.com.br##.flex.min-h-\[250px\].flex-col
 tribogamer.com##.floatad-left
 tribogamer.com##.floatad-right
