@@ -105,6 +105,7 @@ atribuna.com.br,cybercook.com.br,dicio.com.br,meups.com.br,nsctotal.com.br,olhar
 clicrbs.com.br,mundo.com,noataque.com.br,uai.com.br,vrum.com.br##.ad-banner
 antenadosnofutebol.com.br,bolavip.com,clicrbs.com.br,econodata.com.br,sicnoticias.pt,somosfanaticos.fans##.ad-container
 dicasgostosas.com##.ad-dicasg
+buscojobs.pt##.ad-medio
 sabornutritivo.com##.ad-sabornu
 nsctotal.com.br##.adSlot__container
 cnnbrasil.com.br##.ad__area
