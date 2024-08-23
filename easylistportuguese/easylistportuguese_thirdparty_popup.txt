@@ -4,3 +4,4 @@
 ||bonusesportivo.com^$popup
 ||esportbono.com^$popup
 ||t.co^$popup,domain=cdstops.com
+||vulpix.bet/?ref=$popup,third-party
