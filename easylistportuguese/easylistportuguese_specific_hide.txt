@@ -142,6 +142,7 @@ portaldeprefeitura.com.br##.anuncio-sid
 portaldeprefeitura.com.br##.anuncio-top
 radiosuperdifusora.com.br##.anuncios-personalizados
 metroworldnews.com.br##.arcad-feature
+brasilescola.uol.com.br##.area-publi
 brasilescola.uol.com.br##.area-publi-topo
 jornaldocarro.estadao.com.br##.area-publicidade-rectangular
 hot107.com.br##.area_adsense
