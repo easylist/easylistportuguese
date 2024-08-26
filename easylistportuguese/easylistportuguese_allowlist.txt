@@ -19,9 +19,7 @@
 @@||tm.jsuol.com.br/modules/external/admanager/noticias_ads.js$script,domain=noticias.uol.com.br
 @@||tpc.googlesyndication.com/simgad/$image,domain=drogasil.com.br|rainha.com.br|topper.com.br
 !
-@@||com/banners/$image,domain=eglobalcentralpt.com
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=magazineluiza.com.br
 @@||g.doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=magazineluiza.com.br
 @@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=magazineluiza.com.br
-@@||staticz.com.br/advertisement/$image,domain=meliuz.com.br
 @@||tpc.googlesyndication.com^$document,subdocument,domain=magazineluiza.com.br
