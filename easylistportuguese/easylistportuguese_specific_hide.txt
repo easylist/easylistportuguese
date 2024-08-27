@@ -410,6 +410,7 @@ acordacidade.com.br##.publi-base
 brasilescola.uol.com.br##.publi-dir
 tempo.pt##.publicidad-pie
 exclusivo.com.br,ig.com.br,meiahora.com.br,omirante.pt##.publicidade
+uai.com.br##.publicidade-interna-container
 exclusivo.com.br##.publicidade3
 infojobs.com.br##.publicity
 radioxinguaraam.com.br##.pubtotal1
