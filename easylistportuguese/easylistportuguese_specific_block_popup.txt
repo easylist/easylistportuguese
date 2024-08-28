@@ -1,5 +1,6 @@
 $popup,third-party,domain=suaurl.com|topplay.cf
 ||5abet222.com^$popup,domain=thepiratefilmeshd.blog
+||shopee.com.br^$popup,domain=gayflix.me
 !
 ! html/image popups
 /^https?:\/\/.*\.(jpg|jpeg|gif|png|svg|ico|js|txt|css|srt|vtt|webp)/$popup,domain=download.betteranime.net|infinitedramas.com
