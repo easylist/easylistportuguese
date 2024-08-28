@@ -1,3 +1,5 @@
+||adspublicidades.agency^$popup
+!
 ||blotcreepy.com^$popup,third-party
 ||ctegmqvkhtgeow.top^$popup,third-party
 ||doaseeph.com^$popup,third-party
