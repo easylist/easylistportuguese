@@ -447,6 +447,7 @@ dinheirovivo.pt##.t-am-sponsored
 dn.pt##.t-pubbox-ct-1
 tsf.pt##.t-pubbox-mrec-1
 dinheirovivo.pt,tsf.pt##.t-section-sponsored
+tecnoblog.net##.tb-canal-exclusivo
 areavip.com.br##.td-a-ad
 acientistaagricola.pt,brasilnaitalia.net,diariorp.com.br,jornaldigitalcanela.com.br,jornaldoalgarve.pt,monitormercantil.com.br,motor24.pt,netflu.com.br,observatoriodeourofino.com.br,psxbrasil.com.br##.td-a-rec
 motor24.pt##.td-banner-wrap-full
