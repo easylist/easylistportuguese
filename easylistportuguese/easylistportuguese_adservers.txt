@@ -1,6 +1,7 @@
 ||adjs.media^
 ||adsmaster.dev^
 ||adspublicidades.agency^
+||igoal-ads.com.br^
 ||nativemoney.com.br^
 ||nsn-server.xyz^
 ||solution-solutions.com^
