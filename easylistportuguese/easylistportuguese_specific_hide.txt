@@ -198,6 +198,7 @@ brasilnaitalia.net##.block-5
 brasilnaitalia.net##.block-6
 meutimao.com.br##.bloco_horizotal_triplo
 loucasporcabelos.com.br##.blue
+variboo.com.br##.bnr
 brasilnaitalia.net##.bookingaff
 sabado.pt##.boost_activate
 cmjornal.pt##.boost_activateDetalhe
