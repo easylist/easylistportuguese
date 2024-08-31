@@ -17,6 +17,7 @@
 ||postimg.cc^$domain=barbacenamais.com.br
 ||publyads.jstag.space^
 ||pubs.xl.pt^
+||storehosting.com.br/banner/
 ||sunoresearch.com.br/ads-manager/$third-party
 ||supercasa.pt/mrec$third-party
 ||t.co^$domain=souapenasumsitenormal.com

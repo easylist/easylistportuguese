@@ -57,6 +57,7 @@
 ##a[href^="https://ads.impulsosocial.online/"]
 ##a[href^="https://app.monetizze.com.br/"] > img
 ##a[href^="https://clickadsxxx.com/"]
+##a[href^="https://cliente.storehosting.com.br/aff.php?aff="]
 ##a[href^="https://externo.x-power-gel.com/"]
 ##a[href^="https://go.aff.esportesdasorte.com/"]
 ##a[href^="https://go.hotmart.com/"]
