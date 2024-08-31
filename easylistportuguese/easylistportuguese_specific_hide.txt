@@ -5,6 +5,8 @@ mundoconectado.com.br###ad_conteudo_1
 mundoconectado.com.br###ad_conteudo_2
 mundoconectado.com.br###ad_conteudo_3
 vercapas.com###adr
+frivjogosonline.com.br###ads-bt
+frivjogosonline.com.br###ads-d
 vidadesuporte.com.br###adstopo
 blog200porcento.com###adtopo
 diadia.site,petmil.website,rendaedinheiro.net###adx
