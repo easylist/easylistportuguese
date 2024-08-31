@@ -23,7 +23,7 @@ pornomineiro.com##.clma12d04
 boafoda.com##.co_sponsor
 terceiroz.com##.code-block
 sexosas.com##.content-footer-holder
-contoseroticosbr.com##.custom-html-widget
+contoseroticosbr.com,naoconto.com##.custom-html-widget
 sexprime.xxx##.execphpwidget
 pornotarado.com##.footerCode
 boafoda.com##.footer_partner_container_wrapper
