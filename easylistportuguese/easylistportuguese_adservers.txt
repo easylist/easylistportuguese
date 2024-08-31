@@ -2,6 +2,7 @@
 ||adsmaster.dev^
 ||adspublicidades.agency^
 ||igoal-ads.com.br^
+||lzrikate.com^
 ||nativemoney.com.br^
 ||nsn-server.xyz^
 ||solution-solutions.com^
