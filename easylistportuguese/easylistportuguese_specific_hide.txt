@@ -276,6 +276,8 @@ exame.com##.gaOLck
 futebolinterior.com.br##.gift-ads-menu
 solutudo.com.br##.go_bnr_wr
 divirtasemais.com.br##.hdr-pub
+atoananet.com.br##.header-links-patrocinados
+atoananet.com.br##.header-publicidade
 cointelegraph.com.br##.header-zone__banners
 reclameaqui.com.br##.hidden.lg\:block.min-h-\[300px\].mb-6
 bolavip.com##.home-poll-block__ad
