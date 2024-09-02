@@ -9,6 +9,7 @@ caiunarede.ml,videosred.com.br###tracking-url
 fadadosexo.com,tatarada.com.br##.Marquee
 pornodoido.com##.abbcn-footer
 fotoscaiunanet.com,gruposputaria.blog.br,hentaibrasil.org,hentaikai.com,mangashentais.com,meuhentai.com,mixputaria.com,mulherpelada.blog,mundohentaioficial.com,pornocarioca.com,secretas.com,sexocoroas.com.br,sonovinhasbr.com,universohentai.com,videosexogay.com.br,xtubehentai.com,xvideo-sexo.com,xvideosanal.org##.anuncios
+hentaistube.com##.area-banner300w
 contosdesexo.com##.banner
 pornocarioca.com,pornomineiro.com##.banner-bottom
 santoinferninho.com##.banner-cassino
@@ -23,7 +24,7 @@ pornomineiro.com##.clma12d04
 boafoda.com##.co_sponsor
 terceiroz.com##.code-block
 sexosas.com##.content-footer-holder
-contoseroticosbr.com,naoconto.com##.custom-html-widget
+contoseroticosbr.com,hentaistube.com,naoconto.com##.custom-html-widget
 sexprime.xxx##.execphpwidget
 pornotarado.com##.footerCode
 boafoda.com##.footer_partner_container_wrapper
