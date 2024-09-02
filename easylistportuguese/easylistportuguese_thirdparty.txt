@@ -2,6 +2,7 @@
 ||ad.lomadee.fun^
 ||ads-query.luizalabs.com^
 ||azioncdn.net/ads_videos/$domain=letras.mus.br
+||aziume.com.br/banner/
 ||cworks.cloud/fileadmin/scripts/r7AdControl.js$domain=tnh1.com.br
 ||cworks.cloud/fileadmin/scripts/r7PubliDesktop.js$domain=tnh1.com.br
 ||dino.com.br/widget/$third-party
@@ -21,6 +22,7 @@
 ||sunoresearch.com.br/ads-manager/$third-party
 ||supercasa.pt/mrec$third-party
 ||t.co^$domain=souapenasumsitenormal.com
+||tediado.com.br/banner/
 ||telco-api.melhorplano.net/api/search/get-recommended-plans/$domain=minhaconexao.com.br
 ||thingle.io/iframe-content.php$third-party
 ||upee.online/adsupee.js$third-party
