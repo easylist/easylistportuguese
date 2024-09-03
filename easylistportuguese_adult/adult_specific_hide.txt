@@ -60,6 +60,7 @@ sexosas.com##.watched-now-right
 coliriodemacho.com.br,mangashentais.com,meuscontoseroticos.com,nudes.blog.br,telaerotica.com,terceiroz.com##.widget_custom_html
 mobahot.com##.widget_media_image
 afiliados-na-web.com##.widget_text
+boabronha.com##.wps-player__happy-inside
 contoseroticosbr.com,eoquetemprahj.com##[href*="bit.ly/"]
 xvideosporno.me##a[data-ads]
 hqdesexo.com##a[href*="/anuncio/click/"]
