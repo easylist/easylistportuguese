@@ -132,6 +132,8 @@ atribuna.com.br,blogbraga.com.br,statusinvest.com.br,trabalhabrasil.com.br##.adv
 hardware.com.br##.advertising-desktop
 hardware.com.br##.advertising-mobile
 infojobs.com.br##.advisor-banner-container
+tvi.iol.pt##.adwrap-mrec-aside
+tvi.iol.pt##.adwrap-pub
 lancamentosnetflix.com.br##.adxTam
 maquinadoesporte.com.br##.ai-rotate
 blogdoiphone.com,noticiasautomotivas.com.br,zap.aeiou.pt##.ai-viewport-1
@@ -394,6 +396,7 @@ noticiasaominuto.com##.pub-container-block
 vagandonanet.com.br##.pub-conteudo-300x250
 correioweb.com.br##.pub-hor
 rfm.sapo.pt##.pub-info-hp
+tvi.iol.pt##.pub-outer-wrapper
 noticiasaominuto.com##.pub-space
 dicasgostosas.com##.pub-text
 redetv.uol.com.br##.pub-topo
