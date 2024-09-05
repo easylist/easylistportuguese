@@ -77,6 +77,7 @@ correiogravatai.com.br,diariocachoeirinha.com.br,diariodecanoas.com.br,jornaldeg
 correiogravatai.com.br,diariocachoeirinha.com.br,diariodecanoas.com.br,jornaldegramado.com.br,jornalnh.com.br,jornalvs.com.br###pub_header
 kboing.com.br###publ-goog
 gabarite.com.br,saudadefm.com.br###publicidade
+diarioaveiro.pt,diariocoimbra.pt,diariocoimbra.ptdiarioviseu.pt,diarioleiria.pt###pubsec1
 solutudo.com.br###relatedAds
 portalpopline.com.br###robooster_PS_container
 odia.ig.com.br###rodapefixo
@@ -523,6 +524,7 @@ ofertaspravoce.com##a[href^="https://planosclarocontrole.com.br/"]
 ptanime.com##a[href^="https://ptani.me/r/"]
 assistironline.net,futebolnatv.com.br##a[href^="https://www.amazon."][href*="tag="]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
+diarioaveiro.pt,diariocoimbra.ptdiarioviseu.pt,diarioleiria.pt##a[onclick^="trackOutboundLink('"]
 migalhas.com.br##app-wt-servico-banner-v01
 pelando.com.br##div[aria-label="anúncio patrocinado"]
 radiojhero.com##div[class^="Ad_"]
@@ -690,7 +692,6 @@ anacao.cv###post-sidebar-wrap
 correiodopovo.com.br###publi-inicio-post
 estrelando.com.br###publi-pop
 uol.com.br###publicity
-diariocoimbra.pt###pubsec1
 buceteiro.com###related
 tecnoblog.net###sidebanner
 animalog.online###sidebar
