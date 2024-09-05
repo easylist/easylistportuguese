@@ -59,7 +59,6 @@
 ||3djuegos.com/*/skins/
 ||acientistaagricola.pt/wp-content/uploads/*/*banner
 ||acientistaagricola.pt/wp-content/uploads/*/areaagricola-1.png
-||adlyra.com$subdocument,third-party
 ||agoravale.com.br/GCWAV/Banners/
 ||angonoticias.com/site/assets/uploads/media_pub/
 ||api.cazamba.com^$script,domain=switch-brasil.com|tribogamer.com
@@ -67,12 +66,10 @@
 ||atelevisao.com/wp-content/themes/*_100x50.gif
 ||atenislisboa.pt/wp-content/uploads/*/bannerFonteViva.gif
 ||baboo.com.br/mkt/
-||chishare.org$subdocument,third-party
 ||clicrdc.com.br/*/modal-window$script
 ||conjugacao-de-verbos.com/img/mosalingua/
 ||conjur.com.br/parceiros/iframe
 ||criativaonline.com.br/wp-content/uploads/pum/pum-site-scripts.js^
-||cxense.com/cx.cce.js^$domain=agazeta.com.br
 ||dnoticias.pt/www-assets.dnoticias.pt/frontoffice/pub/$image
 ||ecoregional.com.br/wp-content/plugins/icegram/
 ||ecoregional.com.br/wp-content/uploads/*/BannerSiteEco-sicredi-novo.jpg
@@ -118,7 +115,6 @@
 ||opais.co.ao/wp-content/uploads/*_1251x210.
 ||otempo.com.br/image/contentid/*/banner-hotel.jpeg
 ||otpokemon.com/local/banner/
-||outbrain.com^$domain=abril.com.br
 ||paranaportal.uol.com.br/wp-content/*/tenuta$image
 ||pplware.sapo.pt/parceiros/$image
 ||record.pt/i/pub/
@@ -134,7 +130,5 @@
 ||wikimetal.com.br/wp-content/uploads/*/Left_Right-Side.png
 ||wixstatic.com/media/*/JIU%20JITSU.webp^$domain=ouroverdefm.com.br
 ||wook.pt/accounts/default1/banners/$domain=obichinhodosaber.com
-||wp.com/*/wp-content/*banner$image,domain=donghuanosekai.com
-||wp.com/donghuanosekai.com/wp-content/uploads/*/unknown-1.png
 ||xat.com/content/web/*/apps/ad/ad.html^
 ||xl.pt/i/pub.gif
