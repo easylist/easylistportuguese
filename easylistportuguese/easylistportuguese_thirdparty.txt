@@ -27,10 +27,3 @@
 ||thingle.io/iframe-content.php$third-party
 ||upee.online/adsupee.js$third-party
 ||x2n.com.br/media/$third-party
-! cloudfront hosted
-||d3div1mtym39ic.cloudfront.net^
-!
-||d18t35yyry2k49.cloudfront.net^
-||d20903hof2l33q.cloudfront.net^
-||d3p8w7to4066sy.cloudfront.net^
-||dw55pg05c2rl5.cloudfront.net^

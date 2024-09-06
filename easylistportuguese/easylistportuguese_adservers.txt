@@ -26,16 +26,6 @@
 ||simpleads.com.br^$third-party
 ||tradermilionarios.co^$third-party
 !
-||edxlewni.com^$third-party
-||eelfadechi.com^$third-party
-||ereenerall.fun^$third-party
-||eshncdkjp.com^$third-party
-||exemix.com^$third-party
-||fathuntsgall.com^$third-party
-||feyxyguwy.com^$third-party
-||filestatic.xyz^$third-party
-||finkyepbows.com^$third-party
-||foundchoked.com^$third-party
 ||glazegha.com^$third-party
 ||glenprejudice.com^$third-party
 ||hledoziequt.com^$third-party

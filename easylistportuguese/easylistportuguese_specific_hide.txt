@@ -850,7 +850,6 @@ caras.uol.com.br##.top-banner
 nsctotal.com.br##.top-smad
 radio.net##.topAdSpacer
 otempo.com.br##.topo-patrocinado-artigo
-gkpb.com.br##.topo-ursinhos
 uai.com.br##.uai-publicidade-retangulo-noticias
 mangalivre.net##.vignette-content
 r7.com##.widget-24x1-ultimas__taboola
