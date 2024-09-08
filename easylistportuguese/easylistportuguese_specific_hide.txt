@@ -544,6 +544,7 @@ infomoney.com.br##div[data-ds-component="ad"]
 jcconcursos.com.br##div[data-mobile="300x250"]
 r7.com##div[data-testid="ad-shell"]
 olx.com.br##div[data-testid="adv-placeholder-adview"]
+olx.com.br##div[data-testid="advertising-home-banner-top_div"]
 olx.com.br##div[data-testid="advertising-wrapper"]
 agroclima.climatempo.com.br##div[data-type="ad_unit"]
 bitmag.com.br,garagem360.com.br##div[id^="Position_"]
@@ -685,7 +686,6 @@ fatosdesconhecidos.com.br###leaderboard-header
 fatosdesconhecidos.com.br###leaderboard-post-header
 cointimes.com.br###media_image-13
 pescariasa.com.br###media_image-8
-olx.com.br###module_olx_shopping
 mercadolivre.com.br###oasTOP
 jornaltransparencia.st###obj1
 record.pt###pestanaSmart
@@ -701,8 +701,6 @@ dicionario.priberam.org###skyscraper
 odemocratagb.com###text-3
 odemocratagb.com###text-6
 vagas.com.br###vagas_busca_leaderboard_704x160_top
-olx.com.br###web_listing_banner_bottom
-olx.com.br###web_listing_banner_top
 uai.com.br##.-ad
 jornalf8.net##.Ads
 agoravale.com.br##.EmpresasAnunciantes
@@ -736,7 +734,7 @@ peperi.com.br##.anuncios-responsivo
 mercadolivre.com.br##.app-container > .questions-container-banner
 portalnortedailha.com.br##.area-banner
 branitube.net##.area-youtubers
-a12.com,agazeta.com.br,capitalnews.com.br,omelete.com.br,sidrolandianews.com.br,uol.com.br##.banner
+a12.com,agazeta.com.br,capitalnews.com.br,omelete.com.br,sidrolandianews.com.br##.banner
 mundoeducacao.uol.com.br##.banner-anuncio
 jornaldeangola.ao##.banner-container
 hotelurbano.com##.banner-header
@@ -802,7 +800,6 @@ flash.pt##.masthead
 emaisgoias.com.br##.mgs-ads
 uol.com.br##.mod-publieditorial
 narutoonline.com.br##.modal-backdrop
-olx.com.br##.module_advertising
 uol.com.br##.moduloBanner
 jornaldosdesportos.sapo.ao##.more-pub
 jornaldosdesportos.sapo.ao##.mrec

@@ -7,10 +7,6 @@ uol.com.br#@#div[data-adunit]
 utua.com.br#@#div[data-insertion]
 renovagatronomia.com#@#div[id^="div-gpt-"]
 !
-bb.com.br#@#.ad-row
-brasilescola.uol.com.br#@#.banner
-avantajadas.com.br#@#a[href^="https://www.avantajadas.com.br/"]
-olx.com.br#@#div[class^="AdCard_"]
 magazineluiza.com.br#@#div[id^="google_ads_iframe_"]
 magazineluiza.com.br#@#iframe[id^="google_ads_iframe"]
 magazineluiza.com.br#@#iframe[name^="google_ads_iframe"]
