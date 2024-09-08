@@ -1,9 +1,11 @@
 poder360.com.br#@#.box-advertising
 drogasil.com.br#@#.img_ad
+renovagatronomia.com#@#[id^="div-gpt-ad"]
 drogasil.com.br#@#[name^="google_ads_iframe"]
 magazineluiza.com.br#@#a[href^="https://adclick.g.doubleclick.net/"]
 uol.com.br#@#div[data-adunit]
 utua.com.br#@#div[data-insertion]
+renovagatronomia.com#@#div[id^="div-gpt-"]
 !
 bb.com.br#@#.ad-row
 brasilescola.uol.com.br#@#.banner

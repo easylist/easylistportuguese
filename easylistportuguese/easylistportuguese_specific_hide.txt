@@ -226,7 +226,7 @@ olhardigital.com.br##.cardV2-ad
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 clickjogos.com.br##.cj_square
-ahnegao.com.br,criticalhits.com.br,euvi.online,g37.com.br,girodociclismo.com.br,leninja.com.br,mixme.com.br,motonline.com.br,mundoconectado.com.br,otvfoco.com.br,portalcruzeirense.com.br,portalhortolandia.com.br,riovagas.com.br,supertvaovivo.co,te1.com.br,trollando.com##.code-block
+ahnegao.com.br,criticalhits.com.br,euvi.online,g37.com.br,girodociclismo.com.br,leninja.com.br,mixme.com.br,motonline.com.br,mundoconectado.com.br,otvfoco.com.br,portalcruzeirense.com.br,portalhortolandia.com.br,renovagatronomia.com,riovagas.com.br,supertvaovivo.co,te1.com.br,trollando.com##.code-block
 zap.aeiou.pt##.code-block-1
 hardcore.com.br##.code-block-12
 zap.aeiou.pt##.code-block-25
