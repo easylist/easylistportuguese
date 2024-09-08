@@ -132,6 +132,7 @@ uol.com.br##.advertisementArea--showLabel
 atribuna.com.br,blogbraga.com.br,statusinvest.com.br,trabalhabrasil.com.br##.advertising
 hardware.com.br##.advertising-desktop
 hardware.com.br##.advertising-mobile
+voosemoferta.correioweb.com.br##.advertising__with-bg
 infojobs.com.br##.advisor-banner-container
 tvi.iol.pt##.adwrap-mrec-aside
 tvi.iol.pt##.adwrap-pub
