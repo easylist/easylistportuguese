@@ -11,8 +11,8 @@ vidadesuporte.com.br###adstopo
 blog200porcento.com###adtopo
 olx.com.br###advertising-home-banner-top
 olx.com.br###adview > .eqqGqr.ad__sc-h3us20-2
-diadia.site,petmil.website,rendaedinheiro.net###adx
-diadia.site,petmil.website,rendaedinheiro.net###adx2
+diadia.site,mensagensfeliz.com.br,petmil.website,rendaedinheiro.net,zonacuriosa.com###adx
+diadia.site,mensagensfeliz.com.br,petmil.website,rendaedinheiro.net,zonacuriosa.com###adx2
 separarensilabas.com###antiBannersGigantes
 hardmob.com.br###anuncio
 brasilescola.uol.com.br###area_flutuante_2
