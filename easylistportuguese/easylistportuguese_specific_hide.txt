@@ -213,6 +213,7 @@ escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
 poder360.com.br##.box-advertising
 peperi.com.br##.box-anuncio
+sayrodigital.net##.box-banner
 correiobraziliense.com.br##.box-content-read-more
 guiademidia.com.br##.box-publi1
 guiademidia.com.br##.box-publi2
@@ -323,6 +324,7 @@ vibemundialfm.com.br##.l-subheader-cell.at_right
 fiis.com.br##.leadTop
 flashscore.pt##.liveBet
 subsbr.net##.local_anuncio
+sayrodigital.net##.logo-kasp
 paranaportal.uol.com.br##.m-3.row > .col-12.d-flex.justify-content-center.align-items-center
 metropoles.com##.m-banner-block-widescreen
 metropoles.com##.m-banner-wrap
