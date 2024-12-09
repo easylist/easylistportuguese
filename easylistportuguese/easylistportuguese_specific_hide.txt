@@ -251,6 +251,7 @@ natelinha.uol.com.br##.content-banner
 webmotors.com.br##.content-midia
 brasilescola.uol.com.br##.corpoPubli
 correiodopovo.com.br##.cp-underbanner
+nextpit.com.br##.cpgSlot
 icarros.com.br##.cross_seguro
 radiodisney.com.br##.css-143qwal
 dinheirorural.com.br,revistaplaneta.com.br##.css-1oknp44
