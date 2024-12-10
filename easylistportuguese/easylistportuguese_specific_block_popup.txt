@@ -1,5 +1,4 @@
-$popup,third-party,domain=suaurl.com|topplay.cf
-||5abet222.com^$popup,domain=thepiratefilmeshd.blog
+$popup,third-party,domain=suaurl.com
 ||shopee.com.br^$popup,domain=gayflix.me
 !
 ! html/image popups

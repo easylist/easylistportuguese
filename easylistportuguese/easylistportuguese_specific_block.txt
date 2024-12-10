@@ -10,7 +10,6 @@
 ||animesonlinebr.net/noping/
 ||animesonlinep.com/noping/
 ||blogbraga.com.br/ImageMemory/Advertisement/
-||brumadonamira.com.br/hd-imagens/banners/
 ||brumadourgente.com.br/hd-imagens/banners/
 ||correiodolago.com.br/site/up/banners/
 ||correiodolago.com.br/site/up/popup/
@@ -41,7 +40,6 @@
 ||s.mangalivre.net^
 ||sapo.pt/pub/
 ||sinucasinuca.com.br/template/imagens/ads/
-||soanimes.net/noping/
 ||statusinvest.com.br/marketing/
 ||superhentai.online/noping/
 ||timnews.com.br/api/v3/ad_unit/
@@ -52,8 +50,8 @@
 ||zerozero.pt/images/takeover/
 ||zwame.pt/comparador/
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$third-party,xmlhttprequest,domain=3thepiratefilmes.in|allappinc.store|aniflv.net|animescx.com.br|animexnovel.com|anitube.biz|bakashi.tv|betteranime.net|cinevisionv5.app|doramogo.com|dramafansubs.net|dramaken.com|embedflix.online|embedmax.site|encurtandourl.com|file4go.net|filmeflix.app|filmehdonline.site|futebolplayhd.ws|gemadoff.com.br|hinatasoul.com|listadeanimes.com|megafilmeshd50.com|multicanais.re|myfilmestorrent.net|netcine.to|pifansubs.org|pobreflix1.com|sfapi.xyz|suatela.net|tdmsubs.com|thepiratefilmeshd.in|torrentdosfilmeshd4.net|tugaflix.best|tyflex.net
-/^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$third-party,xmlhttprequest,domain=animesonline.in|animesup.cx|anitube.vip|appmj.xyz|caroloportunidades.com.br|comandotorrents.to|dattebayo-br.com|digitaltorrentdownload.com.br|fenixproject.xyz|goanimes.vip|gofilmes.me|gustavortech.com|superfilmes.cx|topflix.sh|torrentdosfilmes.to|turquiaflix.com|warezcdn.com
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$third-party,xmlhttprequest,domain=allappinc.store|animescx.com.br|animexnovel.com|anitube.biz|bakashi.tv|betteranime.net|doramogo.com|dramafansubs.net|dramaken.com|embedflix.online|embedmax.site|encurtandourl.com|file4go.net|filmeflix.app|filmehdonline.site|futebolplayhd.ws|gemadoff.com.br|hinatasoul.com|megafilmeshd50.com|multicanais.re|netcine.to|pifansubs.org|pobreflix1.com|suatela.net|thepiratefilmeshd.in|torrentdosfilmeshd4.net|tugaflix.best|tyflex.net
+/^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$third-party,xmlhttprequest,domain=animesonline.in|animesup.cx|anitube.vip|appmj.xyz|caroloportunidades.com.br|comandotorrents.to|dattebayo-br.com|digitaltorrentdownload.com.br|fenixproject.xyz|goanimes.vip|gofilmes.me|gustavortech.com|topflix.sh|torrentdosfilmes.to|turquiaflix.com|warezcdn.com
 !
 ||acientistaagricola.pt/wp-content/uploads/*/*banner
 ||acientistaagricola.pt/wp-content/uploads/*/areaagricola-1.png
@@ -92,7 +90,6 @@
 ||minhaconexao.com.br/_mini/static/images/mp-banner-300x250.gif
 ||minhaconexao.com.br/alternative/$subdocument
 ||mmorpgbr.com.br/wp-content/uploads/2021/05/Banner-Skin_$image
-||narutoonline.com.br/banner.jpg^
 ||net-empregos.com/images/banners/
 ||nossanoite.com.br/assets/img/bannerPublic/
 ||nossanoite.com.br/assets/img/bannerTopo/
