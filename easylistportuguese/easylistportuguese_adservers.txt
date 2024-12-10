@@ -13,6 +13,7 @@
 ||adseleto.com^$third-party
 ||adzep.com.br^$third-party
 ||cazamba.com^$third-party
+||cuponei.xyz^$third-party
 ||denakop.com^$third-party
 ||grumft.com^$third-party
 ||igaming-service.io^$third-party
