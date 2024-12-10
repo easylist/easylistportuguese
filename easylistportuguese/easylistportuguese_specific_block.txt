@@ -93,8 +93,6 @@
 ||net-empregos.com/images/banners/
 ||nossanoite.com.br/assets/img/bannerPublic/
 ||nossanoite.com.br/assets/img/bannerTopo/
-||noticiasdecoimbra.pt/*/modal/*/modal.min*^$script,stylesheet
-||noticiasdecoimbra.pt/wp-content/uploads/*.gif?x
 ||novojornal.co.ao/common/pub/banner^
 ||observatoriodatv.uol.com.br/assets/banners/$subdocument,third-party
 ||odemocratagb.com/wp-content/uploads/*-Banner-$image

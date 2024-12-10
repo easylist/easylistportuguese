@@ -24,13 +24,3 @@
 ||r4you.co^$third-party
 ||sendwebpush.com^$third-party
 ||simpleads.com.br^$third-party
-!
-||ricettafitness.com^$third-party
-||riminghoggoofy.com^$third-party
-||selfswayjay.com^$third-party
-||skillpropulsion.com^$third-party
-||skoiy.xyz^$third-party
-||sophomoreclassicoriginally.com^$third-party
-||sqhneencmysrk.com^$third-party
-||steamjaws.com^$third-party
-||tfzznclztl.com$third-party

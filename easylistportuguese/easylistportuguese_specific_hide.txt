@@ -781,7 +781,6 @@ letras.mus.br##.cnt-space-top
 idinheiro.com.br##.code-block
 metropoles.com##.container > .m-coupons-title
 revistaquem.globo.com##.container-adv
-poki.com.br##.dd
 vidas.pt##.destaques_mrec
 ig.com.br##.duasPubli
 agoravale.com.br##.expande-banner
@@ -893,12 +892,10 @@ fabiorobertonoticias.com.br##a[target="_blank"] > img[src^="https://i.imgur.com/
 caras.uol.com.br##amp-fx-flying-carpet
 reportermt.com.br##div[class$="box-banner"]
 fimdalinha.com.br##div[class*="banner-"]
-noticiasdecoimbra.pt##div[class*="cp_id_"]
 fogaonet.com##div[class*="fnad-block"]
 pokerpt.com##div[class*="g g-"]
 dioguinho.com##div[class*="ribboned"]
 criativaonline.com.br##div[class*="stream-item"]
-poki.com.br##div[class^="Advertisement_"]
 conexaopolitica.com.br##div[class^="ads"]
 opantaneiro.com.br##div[class^="banner"]
 areah.com.br##div[class^="banner_footer"]
@@ -920,7 +917,6 @@ diarioonline.com.br##div[id^="div-banner"]
 tuasaude.com##div[id^="divGptAd_"]
 tecnoblog.net##div[id^="fullbanner-container"]
 infoescola.com##div[id^="index-banner"]
-noticiasdecoimbra.pt##div[id^="mvp-leader-wrap"]
 tecnoblog.net##div[id^="portalfullblock-desktop"]
 globo.com##div[id^="pub-"]
 palcomp3.com.br##div[id^="pub-cc"]
