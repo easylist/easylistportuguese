@@ -82,6 +82,7 @@ diarioaveiro.pt,diariocoimbra.pt,diariocoimbra.ptdiarioviseu.pt,diarioleiria.pt#
 solutudo.com.br###relatedAds
 portalpopline.com.br###robooster_PS_container
 odia.ig.com.br###rodapefixo
+agroolhar.com.br###sidebar1_alright
 guiadobitcoin.com.br###sidebaroffer-3
 olx.com.br###stick-to-top
 solutudo.com.br###stickyContainer
@@ -99,6 +100,7 @@ uol.com.br###uolpd-video-inarticle
 exame.com###veja_tambem_pos_1
 exame.com###veja_tambem_pos_2
 exame.com###veja_tambem_pos_3
+agroolhar.com.br###video_alright
 purepeople.com.br###wb_contents_top
 cmjornal.pt,sabado.pt###widget_comercial
 naointendo.com.br##.Ad
