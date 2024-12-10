@@ -1,4 +1,4 @@
-@@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt
+@@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt|terra.com.br
 @@||custojusto.pt/user/myads/$~third-party
 @@||fatimalife.com.br/api/v1/ad/$~third-party
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=drogasil.com.br
