@@ -1,5 +1,4 @@
 ||ad.lomadee.com^$third-party
-||ad.lomadee.fun^
 ||ads-query.luizalabs.com^
 ||azioncdn.net/ads_videos/$domain=letras.mus.br
 ||aziume.com.br/banner/
