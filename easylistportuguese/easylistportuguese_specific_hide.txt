@@ -350,6 +350,7 @@ metsul.com##.metsu-widget
 br.lexlatin.com##.mibanner
 futebolinterior.com.br##.most-bet
 cmjornal.pt##.mrec
+megahits.fm##.mrec-pub-box
 dinheirovivo.pt,dn.pt,jn.pt,ojogo.pt,tsf.pt##.mrec-status
 jn.pt,ojogo.pt##.mrec-status-l
 menshealth.pt,noticiasmagazine.pt##.mrec-wrapper
