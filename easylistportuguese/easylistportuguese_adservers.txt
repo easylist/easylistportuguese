@@ -24,3 +24,4 @@
 ||r4you.co^$third-party
 ||sendwebpush.com^$third-party
 ||simpleads.com.br^$third-party
+||solution.coupons^$third-party
