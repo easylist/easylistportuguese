@@ -3,11 +3,6 @@
 !
 -publicidade.
 .br/afiliados/$domain=~shopping.bancointer.com.br
-.br/banner.aspx?
-.br/imagensdb/banners/
-.br/swf/banners/
-.clickafiliados.
-.com/adssrv/
 .com/afiliados/
 .cv/images/pubs/
 .cv/pub/
