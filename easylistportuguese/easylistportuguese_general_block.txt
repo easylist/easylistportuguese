@@ -12,7 +12,6 @@
 .cv/images/pubs/
 .cv/pub/
 .publicidade.
-//adware.
 /adshotbrasil1.
 /adsligados.
 /banner300x80.
@@ -44,9 +43,3 @@
 _fullbanner_balanca_
 _publicidade.
 _publicidade_
-||aggestose.com$script,third-party
-||bloco.top$image,script,third-party
-||cdnstatic.cyber.bet$script,third-party
-||gorillabrightenarms.com$script,third-party
-||seedtag.com^$third-party,domain=~seedtag.com
-||solution.coupons^$script,third-party
