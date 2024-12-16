@@ -2,7 +2,6 @@
 /ane-conteudo-exclusivo.js
 !
 -publicidade.
-.br/afiliados/$domain=~shopping.bancointer.com.br
 .com/afiliados/
 .cv/images/pubs/
 .cv/pub/
