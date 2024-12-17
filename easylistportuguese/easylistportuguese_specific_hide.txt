@@ -456,6 +456,7 @@ diarioimobiliario.pt##.singlePub
 slatual.com.br##.slider_banner_sidebar
 jornalcidademg.com.br##.slides
 designersbrasileiros.com.br##.smartmag-widget-codes
+tudosaladeaula.com##.spaa-container
 sapo.pt##.special-ctn
 br.advfn.com##.special-post
 apontador.com.br##.sponsorship
