@@ -130,6 +130,7 @@ clicrbs.com.br##.ads-section-area.area.container-area
 ibahia.com##.ads-space
 uol.com.br##.ads-wrapper
 siteconfiavel.com.br##.adsbygoogle
+jornaldocomercio.com##.adunitjc
 vidadesuporte.com.br##.adupee
 jovempan.com.br##.advert
 poder360.com.br##.advertisement
