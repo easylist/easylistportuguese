@@ -26,6 +26,7 @@
 ||geralinks.com.br^*/ads/
 ||gp1.com.br/dfp/
 ||hojeemdia.com.br/scripts/clever_ads.js
+||jornaldocomercio.com/imagens/banners/
 ||jornalrazao.com/storage/images/ads/
 ||magazineluiza.com.br/sponsored-products-sdk/
 ||megacidade.com/images/anuncios/

@@ -202,6 +202,7 @@ techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
 flashscore.pt##.bettingStrip
 uai.com.br##.bg-ad
+jornaldocomercio.com##.bg-banner
 tviplayer.iol.pt##.billboardxlWrapper
 folha.uol.com.br##.block--pub-super
 brasilnaitalia.net##.block-15
@@ -396,6 +397,7 @@ portalpopline.com.br##.plads_container
 iol.pt##.plista
 fiis.com.br##.popup-background
 statusinvest.com.br##.popup-fixed
+jornaldocomercio.com##.popup_click
 slatual.com.br##.post_banner_sidebar
 beachcam.meo.pt##.poweredBy
 gauchazh.clicrbs.com.br##.premium-area
