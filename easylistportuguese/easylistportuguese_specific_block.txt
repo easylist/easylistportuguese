@@ -22,6 +22,7 @@
 ||diarioviseu.pt/api/assets/download/publicities/
 ||diarioviseu.pt/files/publicity/
 ||engeplus.com.br/anuncios/
+||feiradorolodeconquista.com/banners/
 ||geekpopnews.com.br/mkt/
 ||geralinks.com.br^*/ads/
 ||gp1.com.br/dfp/
