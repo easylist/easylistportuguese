@@ -119,6 +119,7 @@ sabornutritivo.com##.ad-sabornu
 nsctotal.com.br##.adSlot__container
 cnnbrasil.com.br##.ad__area
 compreiativo.com.br##.adblock
+vitoriadaconquistanoticias.com.br##.adcontainer
 siteconfiavel.com.br##.add-block
 urlm.com.br##.adpadtwentypad_div_sevef_pt
 abril.com.br,apontador.com.br,correioweb.com.br,culturadoria.com.br,futebolinterior.com.br,imasters.com.br,odia.ig.com.br,reidaloteria.com,sbt.com.br,sinucasinuca.com.br,superesportes.com.br,techtudo.com.br,tvhistoria.com.br,uol.com.br##.ads
@@ -230,6 +231,7 @@ clicrbs.com.br##.branded
 cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
 engeplus.com.br##.break-com-texto
+vitoriadaconquistanoticias.com.br##.bsac
 olhardigital.com.br##.cardV2-ad
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
@@ -529,6 +531,7 @@ tribunaonline.com.br##a[href^="/branded-content/"]
 pointdosxd.blogspot.com##a[href^="http://mefode.net/"]
 ogol.com.br##a[href^="http://www.bet365.com/"]
 otakucabeludo.com.br##a[href^="https://amzn.to/"]
+vitoriadaconquistanoticias.com.br##a[href^="https://bit.ly/"]
 defatoonline.com.br##a[href^="https://casino.sportingbet.com/"]
 guimah.com##a[href^="https://ibest.vote/"]
 sakuraanimes.com##a[href^="https://juba-get.com/"]
