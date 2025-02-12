@@ -9,8 +9,7 @@ novinhasdozapzap.com###text-73
 caiunarede.ml,videosred.com.br###tracking-url
 fadadosexo.com,tatarada.com.br##.Marquee
 pornodoido.com##.abbcn-footer
-onliclub.com##.advertising
-boysnaweb.net,fotoscaiunanet.com,gruposputaria.blog.br,hentaibrasil.org,hentaikai.com,mangashentais.com,meuhentai.com,mixputaria.com,mulherpelada.blog,mundohentaioficial.com,pornocarioca.com,secretas.com,sexocoroas.com.br,sonovinhasbr.com,universohentai.com,videosexogay.com.br,xtubehentai.com,xvideo-sexo.com,xvideosanal.org##.anuncios
+boysnaweb.net,fotoscaiunanet.com,gruposputaria.blog.br,hentaibrasil.org,hentaikai.com,mangashentais.com,meuhentai.com,mixputaria.com,mulherpelada.blog,mundohentaioficial.com,pornocarioca.com,secretas.com,sexocoroas.com.br,sonovinhasbr.com,superhqdesexo.com,universohentai.com,videosexogay.com.br,xtubehentai.com,xvideo-sexo.com,xvideosanal.org##.anuncios
 hentaistube.com##.area-banner300w
 contosdesexo.com##.banner
 pornocarioca.com,pornomineiro.com##.banner-bottom
@@ -103,9 +102,7 @@ mulheresafoder.com###sexdate
 novinhasdozapzap.com###text-59
 pornodoido.com##.abcn-footer
 mrvideosdesexo.xxx##.ad-preload-div
-porn24horas.com##.agregadores
 famosasbrasil.net##.anuncio
-filmesporno.com.br,gostosaspornosafadas.com,gostosastube.net,porn24horas.com,superhqdesexo.com,terceiroz.com##.anuncios
 hdpornpics.net##.back
 sonovinhasbr.com##.bannerpaginacao
 pornolandia.xxx##.hd-text-icon
@@ -123,7 +120,6 @@ naoconto.com##[rel$="Sponsored"]
 pornolgbt.com.br##[title*="Novinhas Nudes"]
 minhamulher.com##a[href^="https://banners.adultfriendfinder.com/"]
 naoconto.com##a[href^="https://camerahot.com"]
-filmesporno.com.br,pornobrasileiro.tv##a[href^="https://ev.braip.com/"]
 bandeiradois.blog.br##a[href^="https://www.californiatv.com.br"]
 pornomineiro.com##a[href^="https://www.guiaadulto.com"]
 naoconto.com##a[href^="https://www.vivalocal.com"]
