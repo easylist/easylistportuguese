@@ -1,4 +1,3 @@
-||adjs.media^
 ||adsmaster.dev^
 ||adspublicidades.agency^
 ||igoal-ads.com.br^
@@ -22,6 +21,5 @@
 ||nobeta.com.br^$third-party
 ||premiumads.com.br^$third-party
 ||r4you.co^$third-party
-||sendwebpush.com^$third-party
 ||simpleads.com.br^$third-party
 ||solution.coupons^$third-party
