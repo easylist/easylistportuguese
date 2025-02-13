@@ -1,6 +1,7 @@
 ||cameraprive.com^$subdocument,third-party
 ||externo.x-power-gel.com^$third-party
 ||hqporno.com.br/delivery/
+||integracao.gofans.com.br^$third-party
 ||mangayaoi.net/banner/
 ||mundomais.com.br/frames?$third-party
 ||safadacaseira.xyz/ads/
