@@ -10,3 +10,4 @@
 ||maxfullad.com^$third-party
 ||webpsts.com^
 ||xpowergel.com^$third-party
+||xtraffix.com^$third-party
