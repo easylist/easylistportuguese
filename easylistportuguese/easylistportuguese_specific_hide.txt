@@ -307,6 +307,8 @@ slatual.com.br##.horizontal_banner_custom_desktop
 slatual.com.br##.horizontal_banner_secundary_desktop
 tag.jn.pt##.hp-mrec
 idealista.pt##.idealista-banner
+capitalnews.com.br##.idx1-tpl816-p1-box-banner
+capitalnews.com.br##.idx2-tpl816-p1-box-banner
 emporiododireito.com.br##.inclusao-anuncio
 jcconcursos.com.br##.injected_arroba
 ehow.com.br##.inline-parent-container
@@ -489,6 +491,8 @@ guiademidia.com.br##.titulo-publi3
 publico.pt##.tone--paid
 diarioimobiliario.pt##.topBanner
 humordaterra.com##.top_pub
+capitalnews.com.br##.tpl570-banner
+capitalnews.com.br##.tplbanner
 uai.com.br##.uai-ads
 mercadolivre.com.br##.ui-recommendations-list__container--pads
 mercadolivre.com.br##.ui-search-bottom-ads__container
