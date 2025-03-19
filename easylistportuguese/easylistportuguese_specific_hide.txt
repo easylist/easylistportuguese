@@ -173,6 +173,7 @@ metroworldnews.com.br##.b-ads-block-custom
 calangodocerrado.net##.banFooter
 humordido.net##.banSect
 a12.com,agazeta.com.br,bne.com.br,estadao.com.br,gp1.com.br,meiobit.com,metropolitanafm.com.br,muramasa.com.br,omelete.com.br,overplay.com.br,ovicio.com.br,sputniknewsbr.com.br,tntsports.com.br,visortmo.com##.banner
+musicasparamissa.com.br##.banner-adsense-top
 icarros.com.br##.banner-arroba-container
 sul21.com.br##.banner-featured-block
 valor.globo.com,valorinveste.globo.com##.banner-fix-cls
