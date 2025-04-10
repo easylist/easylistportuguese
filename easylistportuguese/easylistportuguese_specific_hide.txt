@@ -645,6 +645,7 @@ blogdoanderson.com##img[width="623"][height="105"]
 atoananet.com.br,culturadoria.com.br,politicosdosuldabahia.com.br##img[width="728"]
 futebolatino.lance.com.br##img[width="940"][height="150"]
 anitube.biz##ins[style*="width:300px;height:250px;"]
+portaldohost.com.br##li > a[href^="https://portaldohost.com.br/index.php?app=core&module=system&controller=redirect&do=advertisement&ad="]
 ! :has()
 gauchazh.clicrbs.com.br##.flex.h-full.items-center:has(.bg-ad-placeholder)
 tavernaderivia.com.br##.ig_widget:has(a[href^="https://amzn.to/"])
