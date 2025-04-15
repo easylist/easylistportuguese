@@ -320,6 +320,7 @@ reclameaqui.com.br##.hidden.lg\:block.min-h-\[300px\].mb-6
 bolavip.com##.home-poll-block__ad
 olhardigital.com.br##.homeV2-ofertas
 rostos.pt##.homepage--ad
+slatual.com.br##.horizontal_banner
 slatual.com.br##.horizontal_banner_custom_desktop
 slatual.com.br##.horizontal_banner_secundary_desktop
 tag.jn.pt##.hp-mrec
