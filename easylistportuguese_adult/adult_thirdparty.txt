@@ -4,6 +4,7 @@
 ||integracao.gofans.com.br^$third-party
 ||mangayaoi.net/banner/
 ||mundomais.com.br/frames?$third-party
+||photoacompanhantes.com/embedfeed/$third-party
 ||safadacaseira.xyz/ads/
 ||sexshopboys.com/idevaffiliate/$third-party
 ||xis-videos.blogspot.com^$third-party
