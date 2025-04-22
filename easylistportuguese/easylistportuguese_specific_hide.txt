@@ -257,7 +257,7 @@ olhardigital.com.br##.cardV2-ad
 tribunapr.uol.com.br##.cardads
 portalmorada.com.br##.carousel
 clickjogos.com.br##.cj_square
-aeiou.pt,ahnegao.com.br,aplicativosandroid.com,criticalhits.com.br,euvi.online,g37.com.br,girodociclismo.com.br,idinheiro.com.br,leninja.com.br,mixme.com.br,motonline.com.br,mundoconectado.com.br,otvfoco.com.br,portalcruzeirense.com.br,portalhortolandia.com.br,renovagatronomia.com,riovagas.com.br,supertvaovivo.co,te1.com.br,trollando.com##.code-block
+aeiou.pt,ahnegao.com.br,aplicativosandroid.com,criticalhits.com.br,euvi.online,g37.com.br,girodociclismo.com.br,idinheiro.com.br,leninja.com.br,mixme.com.br,motonline.com.br,mundoconectado.com.br,otvfoco.com.br,portalcruzeirense.com.br,portalhortolandia.com.br,renovagatronomia.com,riovagas.com.br,supertvaovivo.co,te1.com.br,terrabrasilnoticias.com,trollando.com##.code-block
 hardcore.com.br##.code-block-12
 folha.uol.com.br##.col-fixed.col-fixed--md-300.u-visible-md
 greensavers.sapo.pt##.color-switcher > .color-switcher
