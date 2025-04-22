@@ -253,7 +253,7 @@ escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
 poder360.com.br##.box-advertising > div
 peperi.com.br##.box-anuncio
-sayrodigital.net##.box-banner
+hugogloss.uol.com.br,sayrodigital.net##.box-banner
 correiobraziliense.com.br##.box-content-read-more
 guiademidia.com.br##.box-publi1
 guiademidia.com.br##.box-publi2
