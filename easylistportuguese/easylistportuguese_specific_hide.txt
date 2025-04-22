@@ -32,8 +32,8 @@ bnews.com.br###banner-300x250-4-area
 bnews.com.br###banner-300x250-area
 aventurasnahistoria.com.br,caras.com.br###banner-300x600-area
 aventurasnahistoria.com.br,bnews.com.br,caras.com.br###banner-728x90-area
-caras.com.br###banner-970x250-1
-caras.com.br###banner-970x250-2
+aventurasnahistoria.com.br,caras.com.br###banner-970x250-1
+aventurasnahistoria.com.br,caras.com.br###banner-970x250-2
 estudokids.com.br###banner-post-fim
 estudokids.com.br###banner-post-meio
 estudokids.com.br###banner-rodape
