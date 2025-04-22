@@ -29,6 +29,7 @@ bnews.com.br,caras.com.br###banner-300x250-1-area
 bnews.com.br,caras.com.br###banner-300x250-2-area
 bnews.com.br,caras.com.br,mundoeducacao.uol.com.br###banner-300x250-3-area
 bnews.com.br###banner-300x250-4-area
+bnews.com.br###banner-300x250-area
 caras.com.br###banner-300x600-area
 bnews.com.br,caras.com.br###banner-728x90-area
 caras.com.br###banner-970x250-1
@@ -36,6 +37,7 @@ caras.com.br###banner-970x250-2
 estudokids.com.br###banner-post-fim
 estudokids.com.br###banner-post-meio
 estudokids.com.br###banner-rodape
+bnews.com.br###banner-super3
 estudokids.com.br###banner-topo
 acheisudoeste.com.br###bannerflutuante
 delas.pt,motor24.pt,n-tv.pt,voltaaomundo.pt###billboard
@@ -226,7 +228,7 @@ techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
 flashscore.pt##.bettingStrip
 uai.com.br##.bg-ad
-jornaldocomercio.com##.bg-banner
+bnews.com.br,jornaldocomercio.com##.bg-banner
 delas.pt##.billboard-wrapper
 tviplayer.iol.pt##.billboardxlWrapper
 folha.uol.com.br##.block--pub-super
