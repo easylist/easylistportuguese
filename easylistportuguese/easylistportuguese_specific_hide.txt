@@ -57,6 +57,9 @@ dicio.com.br###gooad_palavra
 crusoe.com.br###gpt-leaderboard
 metsul.com###header2_alright
 meutimao.com.br###header_logo_barra
+serasa.com.br###home_bottom
+serasa.com.br###home_middle
+serasa.com.br###home_top
 ojogos.com.br###homepage-top-leaderboard
 infoescola.com###index-banner300x250-1
 evasoes.pt###inread
