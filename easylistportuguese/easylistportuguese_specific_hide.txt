@@ -25,13 +25,13 @@ serasa.com.br###artigo_top
 vercapas.com###atl
 midianews.com.br###ban_header
 portalpopline.com.br###banner-1x1-area
-bnews.com.br,caras.com.br###banner-300x250-1-area
-bnews.com.br,caras.com.br###banner-300x250-2-area
+aventurasnahistoria.com.br,bnews.com.br,caras.com.br###banner-300x250-1-area
+aventurasnahistoria.com.br,bnews.com.br,caras.com.br###banner-300x250-2-area
 bnews.com.br,caras.com.br,mundoeducacao.uol.com.br###banner-300x250-3-area
 bnews.com.br###banner-300x250-4-area
 bnews.com.br###banner-300x250-area
-caras.com.br###banner-300x600-area
-bnews.com.br,caras.com.br###banner-728x90-area
+aventurasnahistoria.com.br,caras.com.br###banner-300x600-area
+aventurasnahistoria.com.br,bnews.com.br,caras.com.br###banner-728x90-area
 caras.com.br###banner-970x250-1
 caras.com.br###banner-970x250-2
 estudokids.com.br###banner-post-fim
