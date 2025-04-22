@@ -33,7 +33,7 @@ recreio.com.br###banner-300x250-5-area
 recreio.com.br###banner-300x250-6-area
 recreio.com.br###banner-300x250-7-area
 bnews.com.br,cinebuzz.com.br,contigo.com.br,recreio.com.br,revistamaxima.com.br,rollingstone.com.br###banner-300x250-area
-aventurasnahistoria.com.br,caras.com.br,cinebuzz.com.br,contigo.com.br,recreio.com.br,revistamaxima.com.br###banner-300x600-area
+aventurasnahistoria.com.br,caras.com.br,cinebuzz.com.br,contigo.com.br,hollywoodforevertv.com.br,recreio.com.br,revistamaxima.com.br###banner-300x600-area
 aventurasnahistoria.com.br,bnews.com.br,caras.com.br,cinebuzz.com.br,contigo.com.br,recreio.com.br,revistamaxima.com.br###banner-728x90-area
 aventurasnahistoria.com.br,caras.com.br,cinebuzz.com.br,contigo.com.br,recreio.com.br,revistamaxima.com.br,rollingstone.com.br###banner-970x250-1
 aventurasnahistoria.com.br,caras.com.br,cinebuzz.com.br,contigo.com.br,recreio.com.br,revistamaxima.com.br,rollingstone.com.br###banner-970x250-2
