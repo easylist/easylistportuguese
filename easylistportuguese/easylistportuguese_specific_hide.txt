@@ -19,6 +19,9 @@ diadia.site,mensagensfeliz.com.br,petmil.website,rendaedinheiro.net,zonacuriosa.
 separarensilabas.com###antiBannersGigantes
 hardmob.com.br###anuncio
 brasilescola.uol.com.br###area_flutuante_2
+serasa.com.br###artigo_bottom
+serasa.com.br###artigo_middle
+serasa.com.br###artigo_top
 vercapas.com###atl
 midianews.com.br###ban_header
 portalpopline.com.br###banner-1x1-area
