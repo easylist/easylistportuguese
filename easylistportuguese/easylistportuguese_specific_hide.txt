@@ -25,11 +25,12 @@ serasa.com.br###artigo_top
 vercapas.com###atl
 midianews.com.br###ban_header
 portalpopline.com.br###banner-1x1-area
-caras.com.br###banner-300x250-1-area
-caras.com.br###banner-300x250-2-area
-caras.com.br,mundoeducacao.uol.com.br###banner-300x250-3-area
+bnews.com.br,caras.com.br###banner-300x250-1-area
+bnews.com.br,caras.com.br###banner-300x250-2-area
+bnews.com.br,caras.com.br,mundoeducacao.uol.com.br###banner-300x250-3-area
+bnews.com.br###banner-300x250-4-area
 caras.com.br###banner-300x600-area
-caras.com.br###banner-728x90-area
+bnews.com.br,caras.com.br###banner-728x90-area
 caras.com.br###banner-970x250-1
 caras.com.br###banner-970x250-2
 estudokids.com.br###banner-post-fim
@@ -532,7 +533,7 @@ mercadolivre.com.br##.ui-search-bottom-ads__container
 mercadolivre.com.br##.ui-search-sidebar-advertising__display
 mercadolivre.com.br##.ui-search-sidebar-placements
 uol.com.br##.uolpd-video-inarticle
-clickjogos.com.br,dol.com.br,portalpopline.com.br,tvpop.com.br,uol.com.br##.up-floating
+bnews.com.br,clickjogos.com.br,dol.com.br,portalpopline.com.br,tvpop.com.br,uol.com.br##.up-floating
 vagas.com.br##.vagasp-banner-widget
 portalpopline.com.br##.vc_custom_1595969343564
 portalpopline.com.br##.vc_custom_1595976307547
