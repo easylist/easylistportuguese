@@ -321,7 +321,7 @@ sorteador.com.br##.flex.mx-auto.w-full.justify-center.p-0.m-0
 tribogamer.com##.floatad-left
 tribogamer.com##.floatad-right
 ecycle.com.br##.form-discard__sponsor
-autoentusiastas.com.br,cidadesnanet.com,ecoregional.com.br,fimdalinha.com.br,sociedadeonline.com,spacofm.com.br##.g
+autoentusiastas.com.br,cidadesnanet.com,ecoregional.com.br,fimdalinha.com.br,rbatv.com.br,sociedadeonline.com,spacofm.com.br##.g
 exame.com##.gaOLck
 futebolinterior.com.br##.gift-ads-menu
 solutudo.com.br##.go_bnr_wr
