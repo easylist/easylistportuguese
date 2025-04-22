@@ -42,6 +42,8 @@ vidadesuporte.com.br###block-10
 br.lexlatin.com###block-banneranimado
 br.lexlatin.com###block-views-block-banner-block-1
 oantagonista.com.br###container-publicity
+serasa.com.br###credito_home_bottom
+serasa.com.br###credito_home_top
 acheilegall.com.br,humordaterra.com###custom_html-6
 acheilegall.com.br###custom_html-7
 sol.sapo.pt###especiais
