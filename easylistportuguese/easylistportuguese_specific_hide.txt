@@ -135,6 +135,7 @@ dicasgostosas.com##.ad-dicasg
 buscojobs.pt##.ad-medio
 ricasdelicias.online##.ad-ricas
 sabornutritivo.com##.ad-sabornu
+sbt.com.br##.adContainerBg
 nsctotal.com.br##.adSlot__container
 cnnbrasil.com.br##.ad__area
 compreiativo.com.br##.adblock
