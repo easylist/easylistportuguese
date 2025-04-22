@@ -267,6 +267,7 @@ ansabrasil.com.br##.commercial-banner-top
 cointelegraph.com.br##.componentAdbutler_ciZFt
 tudocelular.com##.compras_items
 mercadolivre.com.br##.container-advertising
+opoder.com.br##.container-banner
 litoralfm96.com.br##.container-propaganda
 estadao.com.br##.container-pub-selo
 antena1.com.br##.containerBanner

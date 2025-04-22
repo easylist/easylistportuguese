@@ -28,6 +28,7 @@
 ||gp1.com.br/dfp/
 ||hojeemdia.com.br/scripts/clever_ads.js
 ||jornaldocomercio.com/imagens/banners/
+||jornalopoder.com.br/public/storage/arqConteudo/arqSiteBanners/
 ||jornalrazao.com/storage/images/ads/
 ||magazineluiza.com.br/sponsored-products-sdk/
 ||megacidade.com/images/anuncios/
