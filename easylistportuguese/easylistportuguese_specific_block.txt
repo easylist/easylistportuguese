@@ -48,6 +48,7 @@
 ||timnews.com.br/api/v3/ad_unit/
 ||tvhotnews.com.br/img/patrocinadores/
 ||vibemundialfm.com.br/wp-content/uploads/*/anuncio-
+||visaonoticias.com/images/banner/
 ||xad.dnoticias.pt^
 ||zcp.zwame.pt^
 ||zerozero.pt/images/takeover/

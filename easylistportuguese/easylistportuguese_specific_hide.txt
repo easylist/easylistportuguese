@@ -196,7 +196,7 @@ musicasparamissa.com.br##.banner-adsense-top
 icarros.com.br##.banner-arroba-container
 sul21.com.br##.banner-featured-block
 valor.globo.com,valorinveste.globo.com##.banner-fix-cls
-redegn.com.br##.banner-img
+redegn.com.br,visaonoticias.com##.banner-img
 jcconcursos.com.br##.banner-lg
 sbtnews.com.br##.banner-list-notices-sd
 vagas.com.br##.banner-position
