@@ -482,6 +482,7 @@ hojeemdia.com.br##.sc-1w7mqum-2.fRTDJW
 maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
 naointendo.com.br##.sidebar-item[style="position: relative; height: 300px;"]
+cnnbrasil.com.br##.sidebar__item--ad
 cointelegraph.com.br##.sidebar__promo-button
 97news.com.br##.sidebar_widget_banner
 tnh1.com.br##.single-publicidade
