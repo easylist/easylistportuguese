@@ -248,6 +248,7 @@ sabado.pt##.boost_activate
 cmjornal.pt##.boost_activateDetalhe
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
+poder360.com.br##.box-advertising > div
 peperi.com.br##.box-anuncio
 sayrodigital.net##.box-banner
 correiobraziliense.com.br##.box-content-read-more
@@ -591,6 +592,7 @@ pelando.com.br##div[aria-label="anúncio patrocinado"]
 baixaki.com.br,megacurioso.com.br##div[class*="styles_ads_"]
 radiojhero.com##div[class^="Ad_"]
 diariorp.com.br,marriedgames.com.br##div[class^="angwp_"]
+poder360.com.br##div[class^="box-banner-"]
 m80.pt,radiocomercial.pt,smoothfm.pt##div[class^="gpt-ad-"]
 mktesportivo.com##div[class^="mktes-"]
 megacidade.com##div[class^="pos-ads-"]
