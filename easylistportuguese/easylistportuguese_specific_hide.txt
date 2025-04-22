@@ -125,6 +125,8 @@ naointendo.com.br##.Ad
 ig.com.br,jornalf8.net##.Ads
 hojeemdia.com.br##.Block__Component-sc-1uj1scg-0.jXrXvY
 exame.com##.RmKoK
+dgabc.com.br##._arroba_300x250
+dgabc.com.br##._arroba_300x600
 dgabc.com.br##._superBanner_970x250
 spacofm.com.br##.a-single
 marriedgames.com.br##.aawp
