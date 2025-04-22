@@ -1,4 +1,5 @@
 $popup,third-party,domain=suaurl.com
+||redecanais.gs/player3/redirect.api?$popup
 ||shopee.com.br^$popup,domain=gayflix.me
 !
 ! html/image popups
