@@ -438,7 +438,7 @@ slatual.com.br##.post_banner_sidebar
 beachcam.meo.pt##.poweredBy
 gauchazh.clicrbs.com.br##.premium-area
 radioabc.com.br##.propaganda
-acorianooriental.pt,cifraclub.com.br,estrelando.com.br,flash.pt,iol.pt,motor24.pt,rtp.pt,sapo.pt##.pub
+acorianooriental.pt,cifraclub.com.br,estrelando.com.br,flash.pt,iol.pt,jornaldebrasilia.com.br,motor24.pt,rtp.pt,sapo.pt##.pub
 correiogravatai.com.br,diariocachoeirinha.com.br,diariodecanoas.com.br,jornaldegramado.com.br,jornalnh.com.br,jornalvs.com.br##.pub-300
 euriodetudo.com.br##.pub-bottom-header
 redetv.uol.com.br,rfm.pt##.pub-box
