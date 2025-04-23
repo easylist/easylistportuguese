@@ -489,6 +489,7 @@ radioxinguaraam.com.br##.pubtotal2
 publico.pt##.pubtxt
 portalpopline.com.br##.r4ads
 correioweb.com.br##.ragado-1
+correiobraziliense.com.br##.rasgado-materia
 superesportes.com.br##.retangulo
 noticiasaominuto.com##.rich-media
 grandepremio.com.br##.rodape_sticky
