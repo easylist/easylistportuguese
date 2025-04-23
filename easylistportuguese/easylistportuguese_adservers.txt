@@ -2,6 +2,9 @@
 ||adspublicidades.agency^
 ||igoal-ads.com.br^
 ||lzrikate.com^
+||n10.xyz^
+||nsmedia-advertising.com^
+||nsn-azert.xyz^
 ||nsn-server.xyz^
 ||solution-solutions.com^
 ||tech-solution-blog.com^
