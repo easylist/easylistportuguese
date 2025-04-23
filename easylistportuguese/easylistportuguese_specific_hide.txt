@@ -99,6 +99,7 @@ correiogravatai.com.br,diariocachoeirinha.com.br,diariodecanoas.com.br,jornaldeg
 correiogravatai.com.br,diariocachoeirinha.com.br,diariodecanoas.com.br,jornaldegramado.com.br,jornalnh.com.br,jornalvs.com.br###pub_header
 kboing.com.br###publ-goog
 gabarite.com.br,saudadefm.com.br###publicidade
+gazetaesportiva.com###publicidade_posicao_footer_container
 diarioaveiro.pt,diariocoimbra.pt,diarioleiria.pt,diarioviseu.pt###pubsec1
 solutudo.com.br###relatedAds
 portalpopline.com.br###robooster_PS_container
