@@ -560,6 +560,7 @@ arnolds.com.br,decorardicas.com.br,euriodetudo.com.br,nerdlicious.com.br,portalh
 misturebas.com.br,observatoriodeourofino.com.br,pescariasa.com.br##.widget_media_image
 jornalopcao.com.br##.widget_nw_anuncio
 bandab.com.br##.widget_publicidade
+netflu.com.br##.wp-block-mm-generic-blocks-sticky-container
 personare.com.br##.wp-block-personare-advertising
 oficinadanet.com.br##.wrap-dw-slot-ad
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
