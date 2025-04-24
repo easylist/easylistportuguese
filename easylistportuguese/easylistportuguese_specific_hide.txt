@@ -57,6 +57,7 @@ correiobraziliense.com.br###estudio
 tudoradio.com###fixedBannerTop
 carteldemanhwas.com###floatcenter
 nsctotal.com.br###floater_2
+statusinvest.com.br###footer-fixed
 futebolnatv.com.br###futnatvpub
 ahnegao.com.br###global_topo
 dicio.com.br###gooad_palavra
@@ -153,7 +154,7 @@ abril.com.br,apontador.com.br,correioweb.com.br,culturadoria.com.br,em.com.br,fu
 campograndenews.com.br##.ads-100
 campograndenews.com.br##.ads-250
 campograndenews.com.br##.ads-600
-estadao.com.br,revistaoeste.com,techtudo.com.br##.ads-container
+estadao.com.br,revistaoeste.com,statusinvest.com.br,techtudo.com.br##.ads-container
 casadosdados.com.br##.ads-header-min-height
 letras.com.br##.ads-negative-mt
 agazeta.com.br##.ads-paragrafo
