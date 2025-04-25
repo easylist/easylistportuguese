@@ -509,6 +509,7 @@ sapo.pt##.sapoPub
 hojeemdia.com.br##.sc-1w7mqum-2.fRTDJW
 maisesports.com.br##.sc-af71c8f-3
 solutudo.com.br##.section-banner-arroba
+revistareacao.com.br##.section.flex.flex-col.gap-4
 naointendo.com.br##.sidebar-item[style="position: relative; height: 300px;"]
 cnnbrasil.com.br##.sidebar__item--ad
 cointelegraph.com.br##.sidebar__promo-button
