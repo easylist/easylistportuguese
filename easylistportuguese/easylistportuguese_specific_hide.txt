@@ -142,6 +142,7 @@ atribuna.com.br,belasmensagens.com.br,cybercook.com.br,dicio.com.br,meups.com.br
 clicrbs.com.br,mundo.com,noataque.com.br,uai.com.br,vrum.com.br##.ad-banner
 antenadosnofutebol.com.br,bolavip.com,clicrbs.com.br,econodata.com.br,sicnoticias.pt,somosfanaticos.fans,tuasaude.com##.ad-container
 dicasgostosas.com##.ad-dicasg
+brasilmineral.com.br##.ad-inserter-drupal-wrapper
 buscojobs.pt##.ad-medio
 ricasdelicias.online##.ad-ricas
 sabornutritivo.com##.ad-sabornu
@@ -248,6 +249,10 @@ brasilnaitalia.net##.block-15
 brasilnaitalia.net##.block-2
 brasilnaitalia.net##.block-5
 brasilnaitalia.net##.block-6
+brasilmineral.com.br##.block-region-bottom-above-second
+brasilmineral.com.br##.block-region-right
+brasilmineral.com.br##.block-region-right-sidebar
+brasilmineral.com.br##.block-region-top
 meutimao.com.br##.bloco_horizotal_triplo
 loucasporcabelos.com.br##.blue
 variboo.com.br##.bnr
