@@ -602,7 +602,7 @@ migalhas.com.br##app-wt-servico-banner-v01
 pelando.com.br##div[aria-label="anúncio patrocinado"]
 baixaki.com.br,megacurioso.com.br##div[class*="styles_ads_"]
 radiojhero.com##div[class^="Ad_"]
-diariorp.com.br,marriedgames.com.br##div[class^="angwp_"]
+diariorp.com.br,maisvip.com.br,marriedgames.com.br##div[class^="angwp_"]
 poder360.com.br##div[class^="box-banner-"]
 m80.pt,radiocomercial.pt,smoothfm.pt##div[class^="gpt-ad-"]
 mktesportivo.com##div[class^="mktes-"]
