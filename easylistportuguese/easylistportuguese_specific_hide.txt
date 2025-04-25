@@ -502,6 +502,7 @@ publico.pt##.pubtxt
 portalpopline.com.br##.r4ads
 correioweb.com.br##.ragado-1
 correiobraziliense.com.br##.rasgado-materia
+nikanerd.com.br##.reader-disclosure
 superesportes.com.br##.retangulo
 noticiasaominuto.com##.rich-media
 grandepremio.com.br##.rodape_sticky
