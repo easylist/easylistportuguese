@@ -444,6 +444,7 @@ otakuteca.com##.pbl
 meutimao.com.br##.pbmt
 portalpopline.com.br##.plads_container
 iol.pt##.plista
+tnpetroleo.com.br##.popup
 fiis.com.br##.popup-background
 statusinvest.com.br##.popup-fixed
 jornaldocomercio.com##.popup_click
