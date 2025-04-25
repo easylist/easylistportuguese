@@ -115,6 +115,7 @@ carteldemanhwas.com###teaser1
 carteldemanhwas.com###teaser2
 arthurscan.xyz,cerisescan.com,chikianimation.com,prismahentai.com,prismascans.net,randomscans.com,reaperscans.net,sinensisscans.com###teaser3
 calangodocerrado.net###text-49
+sinaval.org.br###text-5
 soesporte.com.br###text-7
 euriodetudo.com.br###text-8
 rfm.pt###top-pub
