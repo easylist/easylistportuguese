@@ -598,6 +598,7 @@ portaln.com.br##a[href^="https://portaln.com.br/banner_"]
 ptanime.com##a[href^="https://ptani.me/r/"]
 assistironline.net,futebolnatv.com.br##a[href^="https://www.amazon."][href*="tag="]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
+guiaoilegas.com.br##a[href^="site_banners_acesso.asp?"]
 diarioaveiro.pt,diariocoimbra.pt,diarioleiria.pt,diarioviseu.pt##a[onclick^="trackOutboundLink('"]
 migalhas.com.br##app-wt-servico-banner-v01
 pelando.com.br##div[aria-label="anúncio patrocinado"]
