@@ -307,7 +307,7 @@ publico.pt##.darkmode-info
 agazeta.com.br##.destaque
 flashscore.com.br,flashscore.pt##.detailLeaderboard
 olhardigital.com.br##.diagonal-strip
-culturadoria.com.br##.dialog-widget
+culturadoria.com.br,portaln.com.br##.dialog-widget
 cartacapital.com.br##.div_ros_topo
 hojeemdia.com.br##.dlbZKK
 dol.com.br##.dol-ad
@@ -322,6 +322,7 @@ tvpop.com.br##.elementor-element-75be78a
 ntvb.com.br##.elementor-element-915c0f8
 obutecodanet.ig.com.br##.elementor-element-a6a8f53
 obutecodanet.ig.com.br##.elementor-element-d5820b2
+portaln.com.br##.elementor-popup-modal
 bestriders.com.br##.elementor-widget-image-carousel
 acheisudoeste.com.br##.er-footer-add
 extra.globo.com##.especial-publicitario
@@ -592,6 +593,7 @@ guimah.com##a[href^="https://ibest.vote/"]
 sakuraanimes.com##a[href^="https://juba-get.com/"]
 tombo.pt##a[href^="https://meocloud.pt/?referral_code="]
 zerozero.pt##a[href^="https://online.placard.pt/"]
+portaln.com.br##a[href^="https://portaln.com.br/banner_"]
 ptanime.com##a[href^="https://ptani.me/r/"]
 assistironline.net,futebolnatv.com.br##a[href^="https://www.amazon."][href*="tag="]
 espn.com.br##a[href^="https://www.starplus.com"][href*="?cid="]
