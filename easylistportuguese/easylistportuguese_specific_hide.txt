@@ -3,6 +3,7 @@ guiadoinvestidor.com.br###AADIV70
 coletividade-evolutiva.com.br###HTML1
 coletividade-evolutiva.com.br###HTML11
 coletividade-evolutiva.com.br###Image1
+tecnoblog.net###ad-single-bottom
 metsul.com###ad-wide-antes
 mundoconectado.com.br###ad_conteudo_1
 mundoconectado.com.br###ad_conteudo_2
@@ -528,6 +529,7 @@ dn.pt##.t-pubbox-ct-1
 tsf.pt##.t-pubbox-mrec-1
 dinheirovivo.pt,tsf.pt##.t-section-sponsored
 lance.com.br##.tab-m\:bottom-0.min-h-\[108px\].md\:min-h-\[90px\].w-full.max-w-\[1200px\].fixed.left-0.right-0.bottom-0.z-sticky.transition-transform.duration-500.ease-in-out.flex.justify-center.items-center.text-\[1\.5625rem\].uppercase.text-white.m-auto.bg-white.bg-opacity-60.shadow-sticky
+tecnoblog.net##.tb-ad-discrete-container
 tecnoblog.net##.tb-canal-exclusivo
 motor24.pt##.td-banner-wrap-full
 revistaplaneta.com.br##.td_uid_13_63667955e8fa2_rand
