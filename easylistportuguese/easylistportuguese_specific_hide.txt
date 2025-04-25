@@ -369,6 +369,7 @@ olhardigital.com.br##.intext-denakop
 agazeta.com.br##.intext_bottom
 iol.pt,meo.pt##.iol-comercial-placement
 maisregiao.com.br##.item-ads
+infomet.com.br##.item-banner
 uol.com.br##.itemAds
 maisregiao.com.br##.itens-ads
 jornaldocarro.estadao.com.br##.jc-saiba-mais
