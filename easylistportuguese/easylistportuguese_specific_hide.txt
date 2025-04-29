@@ -345,6 +345,7 @@ futebolinterior.com.br##.gift-ads-menu
 solutudo.com.br##.go_bnr_wr
 a12.com##.gtmRedactionBannerDoacao
 lance.com.br##.h-max.py-1.min-h-\[250px\].min-w-\[300px\].bg-table-white.flex.items-center.justify-center
+redecanaistv.com.br##.happy-inside-player
 divirtasemais.com.br##.hdr-pub
 atoananet.com.br##.header-links-patrocinados
 atoananet.com.br##.header-publicidade
