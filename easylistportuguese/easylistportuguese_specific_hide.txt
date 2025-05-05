@@ -108,6 +108,7 @@ portalpopline.com.br###robooster_PS_container
 odia.ig.com.br###rodapefixo
 agroolhar.com.br###sidebar1_alright
 guiadobitcoin.com.br###sidebaroffer-3
+ndmais.com.br###single-widget-1
 olx.com.br###stick-to-top
 solutudo.com.br###stickyContainer
 ig.com.br,infoescola.com###superbanner
