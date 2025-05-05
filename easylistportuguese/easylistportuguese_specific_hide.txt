@@ -154,7 +154,7 @@ compreiativo.com.br##.adblock
 vitoriadaconquistanoticias.com.br##.adcontainer
 siteconfiavel.com.br##.add-block
 urlm.com.br##.adpadtwentypad_div_sevef_pt
-abril.com.br,apontador.com.br,cidadeverde.com,correioweb.com.br,culturadoria.com.br,em.com.br,futebolinterior.com.br,gaz.com.br,grandepremio.com.br,imasters.com.br,infoescola.com,novojornal.co.ao,odia.ig.com.br,placar.com.br,record.pt,reidaloteria.com,sbt.com.br,sinucasinuca.com.br,superesportes.com.br,techtudo.com.br,tvhistoria.com.br,uol.com.br##.ads
+abril.com.br,apontador.com.br,cidadeverde.com,correioweb.com.br,culturadoria.com.br,dicionariobrasil.com,em.com.br,futebolinterior.com.br,gaz.com.br,grandepremio.com.br,imasters.com.br,infoescola.com,novojornal.co.ao,odia.ig.com.br,placar.com.br,record.pt,reidaloteria.com,sbt.com.br,sinucasinuca.com.br,superesportes.com.br,techtudo.com.br,tvhistoria.com.br,uol.com.br##.ads
 campograndenews.com.br##.ads-100
 campograndenews.com.br##.ads-250
 campograndenews.com.br##.ads-600
