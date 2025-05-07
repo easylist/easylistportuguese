@@ -144,6 +144,7 @@ atribuna.com.br,belasmensagens.com.br,cybercook.com.br,dicio.com.br,meups.com.br
 clicrbs.com.br,mundo.com,noataque.com.br,uai.com.br,vrum.com.br##.ad-banner
 antenadosnofutebol.com.br,bolavip.com,clicrbs.com.br,econodata.com.br,sicnoticias.pt,somosfanaticos.fans,tuasaude.com##.ad-container
 dicasgostosas.com##.ad-dicasg
+nationalgeographic.pt##.ad-inline
 brasilmineral.com.br##.ad-inserter-drupal-wrapper
 buscojobs.pt##.ad-medio
 ricasdelicias.online##.ad-ricas
