@@ -510,7 +510,7 @@ correiobraziliense.com.br##.rasgado-materia
 nikanerd.com.br##.reader-disclosure
 superesportes.com.br##.retangulo
 noticiasaominuto.com##.rich-media
-grandepremio.com.br,teleguiado.com##.rodape_sticky
+grandepremio.com.br,nossopalestra.com.br,teleguiado.com##.rodape_sticky
 sapo.pt##.sapoPub
 hojeemdia.com.br##.sc-1w7mqum-2.fRTDJW
 maisesports.com.br##.sc-af71c8f-3
@@ -526,7 +526,7 @@ diarioaveiro.pt,diariocoimbra.pt,diarioleiria.pt,diarioviseu.pt##.slider-publici
 slatual.com.br##.slider_banner_sidebar
 jornalcidademg.com.br##.slides
 designersbrasileiros.com.br##.smartmag-widget-codes
-tudosaladeaula.com##.spaa-container
+nossopalestra.com.br,tudosaladeaula.com##.spaa-container
 sapo.pt##.special-ctn
 br.advfn.com##.special-post
 apontador.com.br##.sponsorship
