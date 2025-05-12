@@ -161,7 +161,7 @@ abril.com.br,apontador.com.br,cidadeverde.com,correioweb.com.br,culturadoria.com
 campograndenews.com.br##.ads-100
 campograndenews.com.br##.ads-250
 campograndenews.com.br##.ads-600
-estadao.com.br,revistaoeste.com,statusinvest.com.br,techtudo.com.br##.ads-container
+bemparana.com.br,estadao.com.br,revistaoeste.com,statusinvest.com.br,techtudo.com.br##.ads-container
 casadosdados.com.br##.ads-header-min-height
 letras.com.br##.ads-negative-mt
 agazeta.com.br##.ads-paragrafo
