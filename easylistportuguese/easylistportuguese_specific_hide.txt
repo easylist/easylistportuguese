@@ -338,6 +338,10 @@ bestriders.com.br##.elementor-widget-image-carousel
 acheisudoeste.com.br##.er-footer-add
 extra.globo.com##.especial-publicitario
 correioweb.com.br##.estudio
+dcmais.com.br##.fl-node-604fd5a17177f
+dcmais.com.br##.fl-node-6050bb76969a3
+dcmais.com.br##.fl-node-6050bbdddaf2c
+dcmais.com.br##.fl-node-bl0k8qx3hcue
 canaltech.com.br##.flex.h-\[100px\].flex-col.items-center.justify-center.bg-mglGray100.desktop\:h-\[250px\]
 canaltech.com.br##.flex.min-h-\[250px\].flex-col
 sorteador.com.br##.flex.mx-auto.w-full.justify-center.p-0.m-0
