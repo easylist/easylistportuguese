@@ -591,6 +591,7 @@ bandab.com.br##.widget_publicidade
 netflu.com.br##.wp-block-mm-generic-blocks-sticky-container
 personare.com.br##.wp-block-personare-advertising
 oficinadanet.com.br##.wrap-dw-slot-ad
+mentalidadesmatematicas.org.br##.wrapper-apoio
 climatempo.com.br,tempoagora.uol.com.br##.wrapper-banner
 escolakids.uol.com.br,mundoeducacao.uol.com.br##.wrapper-bnr
 multinews.sapo.pt##.yxzmwgdi
