@@ -261,6 +261,7 @@ brasilmineral.com.br##.block-region-right-sidebar
 brasilmineral.com.br##.block-region-top
 meutimao.com.br##.bloco_horizotal_triplo
 loucasporcabelos.com.br##.blue
+azscore.com.br##.bn
 variboo.com.br##.bnr
 brasilnaitalia.net##.bookingaff
 sabado.pt##.boost_activate
