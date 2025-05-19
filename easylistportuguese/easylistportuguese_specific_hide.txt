@@ -196,6 +196,7 @@ portaldeprefeitura.com.br##.anuncio-sid
 portaldeprefeitura.com.br##.anuncio-top
 igpromo.com.br##.anuncios
 radiosuperdifusora.com.br##.anuncios-personalizados
+motor1.uol.com.br##.apb
 metroworldnews.com.br##.arcad-feature
 brasilescola.uol.com.br##.area-publi
 brasilescola.uol.com.br##.area-publi-topo
@@ -403,6 +404,7 @@ metropoles.com##.m-boostbox-sidebar
 gauchazh.clicrbs.com.br##.m-latest-by-tag-content-widget
 flash.pt,jornaldenegocios.pt,record.pt##.m-rec
 flash.pt##.m-recHpTopo
+motor1.uol.com.br##.m1-ads-placeholder
 uol.com.br##.magazine-cover
 adorocinema.com##.main-banner
 imasters.com.br##.maintainer
