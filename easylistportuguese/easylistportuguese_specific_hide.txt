@@ -539,7 +539,7 @@ diarioaveiro.pt,diariocoimbra.pt,diarioleiria.pt,diarioviseu.pt##.slider-publici
 slatual.com.br##.slider_banner_sidebar
 jornalcidademg.com.br##.slides
 designersbrasileiros.com.br##.smartmag-widget-codes
-nossopalestra.com.br,tudosaladeaula.com##.spaa-container
+nossopalestra.com.br,ric.com.br,tudosaladeaula.com##.spaa-container
 sapo.pt##.special-ctn
 br.advfn.com##.special-post
 apontador.com.br##.sponsorship
