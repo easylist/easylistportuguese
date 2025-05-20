@@ -165,6 +165,7 @@ campograndenews.com.br##.ads-250
 campograndenews.com.br##.ads-600
 bemparana.com.br,estadao.com.br,revistaoeste.com,statusinvest.com.br,techtudo.com.br##.ads-container
 casadosdados.com.br##.ads-header-min-height
+omunicipio.com.br,omunicipiojoinville.com##.ads-mun
 letras.com.br##.ads-negative-mt
 agazeta.com.br##.ads-paragrafo
 clicrbs.com.br##.ads-section-area.area.container-area
@@ -206,7 +207,7 @@ jornaldocarro.estadao.com.br##.area-publicidade-rectangular
 hot107.com.br##.area_adsense
 natelinha.uol.com.br##.arroba-texto
 purebreak.com.br##.article-column-container
-diariodorio.com##.autozep-outer
+diariodorio.com,omunicipiojoinville.com##.autozep-outer
 metroworldnews.com.br##.b-ads-block-custom
 calangodocerrado.net##.banFooter
 humordido.net##.banSect
