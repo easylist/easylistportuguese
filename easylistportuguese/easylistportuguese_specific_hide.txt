@@ -188,7 +188,7 @@ otvfoco.com.br##.ai_widget
 estadao.com.br##.ajuste-banner
 ouvirmusica.com.br##.an-full
 letras.mus.br##.anSpaceTop
-engeplus.com.br,forbes.com.br,humordaterra.com,sussytoons.com##.anuncio
+diariodolitoral.com.br,engeplus.com.br,forbes.com.br,humordaterra.com,sussytoons.com##.anuncio
 portaldeprefeitura.com.br##.anuncio-100
 forbes.com.br##.anuncio-billboard
 geralinks.com.br##.anuncio-cima
@@ -213,6 +213,7 @@ icarros.com.br##.banner-arroba-container
 brasilenergia.com.br,senhormoney.com##.banner-container
 sul21.com.br##.banner-featured-block
 valor.globo.com,valorinveste.globo.com##.banner-fix-cls
+diariodolitoral.com.br##.banner-fixo
 redegn.com.br,visaonoticias.com##.banner-img
 jcconcursos.com.br##.banner-lg
 sbtnews.com.br##.banner-list-notices-sd
@@ -259,6 +260,7 @@ brasilmineral.com.br##.block-region-bottom-above-second
 brasilmineral.com.br##.block-region-right
 brasilmineral.com.br##.block-region-right-sidebar
 brasilmineral.com.br##.block-region-top
+diariodolitoral.com.br##.bloco-banner
 meutimao.com.br##.bloco_horizotal_triplo
 loucasporcabelos.com.br##.blue
 azscore.com.br##.bn
@@ -290,6 +292,7 @@ aeiou.pt,ahnegao.com.br,aplicativosandroid.com,criticalhits.com.br,euvi.online,g
 hardcore.com.br##.code-block-12
 folha.uol.com.br##.col-fixed.col-fixed--md-300.u-visible-md
 greensavers.sapo.pt##.color-switcher > .color-switcher
+diariodolitoral.com.br##.coluna-propaganda
 ansabrasil.com.br##.commercial-banner
 ansabrasil.com.br##.commercial-banner-top
 cointelegraph.com.br##.componentAdbutler_ciZFt
