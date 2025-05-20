@@ -596,7 +596,7 @@ lance.com.br##.w-full.h-fit.border-b-\[1px\].border-solid.border-\[\#DFE4EA\].pb
 purebreak.com.br##.wh_add--header
 uai.com.br##.widget_bouplay_wp_300px2
 arnolds.com.br,decorardicas.com.br,euriodetudo.com.br,mugiwarasoficial.com,nerdlicious.com.br,portalhortolandia.com.br,satirinhas.com,spbrasil-2009.net,tecfoco.com.br,tecoapple.com##.widget_custom_html
-misturebas.com.br,observatoriodeourofino.com.br,pescariasa.com.br,revistaoilegasbrasil.com.br##.widget_media_image
+diarioav.com.br,misturebas.com.br,observatoriodeourofino.com.br,pescariasa.com.br,revistaoilegasbrasil.com.br##.widget_media_image
 revistaoilegasbrasil.com.br##.widget_metaslider_widget
 jornalopcao.com.br##.widget_nw_anuncio
 bandab.com.br##.widget_publicidade
