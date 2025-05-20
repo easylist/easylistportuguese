@@ -424,7 +424,7 @@ revistaana.pt##.mb-50-ptb-20-ad
 diariorp.com.br##.mdl_container
 tempo.pt##.megabanner
 observador.pt##.meo-bold
-repercussaoparanhana.com##.metaslider
+omunicipioonline.com.br,repercussaoparanhana.com##.metaslider
 metsul.com##.metsu-adlabel
 metsul.com##.metsu-widget
 br.lexlatin.com##.mibanner
