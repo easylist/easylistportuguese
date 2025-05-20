@@ -38,6 +38,7 @@ aventurasnahistoria.com.br,caras.com.br,cinebuzz.com.br,contigo.com.br,hollywood
 aventurasnahistoria.com.br,bnews.com.br,caras.com.br,cinebuzz.com.br,contigo.com.br,recreio.com.br,revistamaxima.com.br###banner-728x90-area
 aventurasnahistoria.com.br,caras.com.br,cinebuzz.com.br,contigo.com.br,recreio.com.br,revistamaxima.com.br,rollingstone.com.br###banner-970x250-1
 aventurasnahistoria.com.br,caras.com.br,cinebuzz.com.br,contigo.com.br,recreio.com.br,revistamaxima.com.br,rollingstone.com.br###banner-970x250-2
+iclnoticias.com.br###banner-desktop
 estudokids.com.br###banner-post-fim
 estudokids.com.br###banner-post-meio
 estudokids.com.br###banner-rodape
@@ -109,6 +110,7 @@ odia.ig.com.br###rodapefixo
 agroolhar.com.br###sidebar1_alright
 guiadobitcoin.com.br###sidebaroffer-3
 ndmais.com.br###single-widget-1
+iclnoticias.com.br###st-banner
 olx.com.br###stick-to-top
 solutudo.com.br###stickyContainer
 ig.com.br,infoescola.com###superbanner
@@ -212,12 +214,14 @@ a12.com,agazeta.com.br,bne.com.br,estadao.com.br,gp1.com.br,meiobit.com,metropol
 musicasparamissa.com.br##.banner-adsense-top
 icarros.com.br##.banner-arroba-container
 brasilenergia.com.br,senhormoney.com##.banner-container
+iclnoticias.com.br##.banner-desktop
 sul21.com.br##.banner-featured-block
 valor.globo.com,valorinveste.globo.com##.banner-fix-cls
 diariodolitoral.com.br##.banner-fixo
 redegn.com.br,visaonoticias.com##.banner-img
 jcconcursos.com.br##.banner-lg
 sbtnews.com.br##.banner-list-notices-sd
+iclnoticias.com.br##.banner-mobile
 vagas.com.br##.banner-position
 diarioaveiro.pt,diariocoimbra.pt,diarioleiria.pt,diarioviseu.pt##.banner-publicidade
 contaspoupanca.pt##.banner-publicidade-1
