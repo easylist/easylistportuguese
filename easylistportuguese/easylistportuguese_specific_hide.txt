@@ -204,6 +204,7 @@ jornaldocarro.estadao.com.br##.area-publicidade-rectangular
 hot107.com.br##.area_adsense
 natelinha.uol.com.br##.arroba-texto
 purebreak.com.br##.article-column-container
+diariodorio.com##.autozep-outer
 metroworldnews.com.br##.b-ads-block-custom
 calangodocerrado.net##.banFooter
 humordido.net##.banSect
