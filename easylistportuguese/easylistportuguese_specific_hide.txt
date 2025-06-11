@@ -600,7 +600,9 @@ sorteador.com.br##.w-2\/12.min-h-20.hidden.lg\:block.flex.justify-center.pt-5.pr
 lance.com.br##.w-full.border-b-\[1px\].border-solid.border-b-\[\#DFE4EA\].h-max.min-h-\[250px\].py-1.bg-table-white.flex.items-center.justify-center
 lance.com.br##.w-full.h-fit.border-b-\[1px\].border-solid.border-\[\#DFE4EA\].pb-2
 purebreak.com.br##.wh_add--header
+lanoticias.com.br##.widget_bouplay_wp_300px
 uai.com.br##.widget_bouplay_wp_300px2
+lanoticias.com.br##.widget_bouplay_wp_300x600
 arnolds.com.br,decorardicas.com.br,euriodetudo.com.br,mugiwarasoficial.com,nerdlicious.com.br,portalhortolandia.com.br,satirinhas.com,spbrasil-2009.net,tecfoco.com.br,tecoapple.com##.widget_custom_html
 diarioav.com.br,misturebas.com.br,observatoriodeourofino.com.br,pescariasa.com.br,revistaoilegasbrasil.com.br##.widget_media_image
 revistaoilegasbrasil.com.br##.widget_metaslider_widget
