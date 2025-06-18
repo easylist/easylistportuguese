@@ -202,6 +202,7 @@ portaldeprefeitura.com.br##.anuncio-top
 igpromo.com.br##.anuncios
 radiosuperdifusora.com.br##.anuncios-personalizados
 motor1.uol.com.br##.apb
+jornaldacidadeonline.com.br##.ar82zL-ad-container
 metroworldnews.com.br##.arcad-feature
 brasilescola.uol.com.br##.area-publi
 brasilescola.uol.com.br##.area-publi-topo
