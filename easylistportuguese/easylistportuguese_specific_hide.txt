@@ -298,6 +298,7 @@ vitoriadaconquistanoticias.com.br##.bsac
 olhardigital.com.br##.cardV2-ad
 tribunapr.uol.com.br##.cardads
 criptoya.com,portalmorada.com.br##.carousel
+casadoscontos.com.br##.cdc-general-ad
 clickjogos.com.br##.cj_square
 ebc.com.br##.cmpAdBanner
 aeiou.pt,ahnegao.com.br,aplicativosandroid.com,clicsc.com.br,criticalhits.com.br,euvi.online,g37.com.br,girodociclismo.com.br,idinheiro.com.br,leninja.com.br,mixme.com.br,motonline.com.br,mundoconectado.com.br,otvfoco.com.br,portalcruzeirense.com.br,portalhortolandia.com.br,renovagatronomia.com,riovagas.com.br,supertvaovivo.co,te1.com.br,terrabrasilnoticias.com,trollando.com##.code-block
