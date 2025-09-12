@@ -305,6 +305,7 @@ greensavers.sapo.pt##.color-switcher > .color-switcher
 diariodolitoral.com.br##.coluna-propaganda
 ansabrasil.com.br##.commercial-banner
 ansabrasil.com.br##.commercial-banner-top
+catracalivre.com.br##.component--marfeel
 cointelegraph.com.br##.componentAdbutler_ciZFt
 tudocelular.com##.compras_items
 mercadolivre.com.br##.container-advertising
