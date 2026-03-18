@@ -94,8 +94,8 @@ hqdesexo.com##.thumb:has(.ads)
 meuscontoseroticos.com##:has( > a > div > div > span.thumb-ads)
 meuscontoseroticos.com##:has( > div.contoConteudo > div.conto-thumb > a[rel^="nofollow"])
 ! Advanced element hiding rules for Adblock Plus
-pornotube.blog.br#?#.video-conteudo:-abp-has(.selo:-abp-contains(ADS)) > .video-desc
-sexprime.xxx#?#.thumb-block:-abp-has(.thumb-adlert:-abp-contains(ADS))
+pornotube.blog.br#?#.video-conteudo:has(.selo:has-text(ADS)) > .video-desc
+sexprime.xxx#?#.thumb-block:has(.thumb-adlert:has-text(ADS))
 !!
 nudelas.com###adstopo
 minhamulher.com###arquivop
