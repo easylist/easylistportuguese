@@ -787,6 +787,7 @@ mercadolivre.com.br#?#[class^="ui-recommendations-carousel-wrapper"]:has-text(Pa
 promobit.com.br#?#.rounded-2.bg-neutral-high-100.dark\:bg-neutral-low-500.hidden.h-\[300px\].flex-col.items-center.md\:flex:has(.font-sans.whitespace-pre-wrap.text-xs.hidden.px-6.py-4.text-neutral-high-500.dark\:text-neutral-high-500.xl\:block:has-text(Publicidade))
 saocarlosagora.com.br#?#.container_16:has-text(Vitrine)
 tribogamer.com#?#a:has(div > div > small:has-text(Publicitário))
+wallapop.com#?#div:has(>[class*="item-card_ItemCard--vertical"]:-abp-contains(Destacado))
 !
 polibiobraga.blogspot.com###HTML10
 polibiobraga.blogspot.com###HTML6
