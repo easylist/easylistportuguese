@@ -291,7 +291,6 @@ guiademidia.com.br##.box-publi1
 guiademidia.com.br##.box-publi2
 guiademidia.com.br##.box-publi3
 antenadosnofutebol.com.br,bolavip.com,somosfanaticos.fans##.boxbanner_container
-mercadolivre.com.br##.brand-ads-desktop_container
 clicrbs.com.br##.branded
 cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
@@ -630,6 +629,7 @@ gazetadopovo.com.br##[class*="style_card-ads-brended-content"]
 olx.com.br##[class^="Advertising_"]
 forum.techtudo.globo.com##[class^="Advertisingstyles_"]
 metropoles.com##[class^="PublicidadesWrapper-"]
+mercadolivre.com.br##[class^="brand-ads"]
 jn.pt,ojogo.pt##[class^="t-pub-box-"]
 fogaonet.com##[class^="withSideAd_side_"]
 imovirtual.com##[data-cy="search.listing.promoted"]
