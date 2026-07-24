@@ -47,6 +47,7 @@ estudokids.com.br###banner-rodape
 bnews.com.br###banner-super3
 estudokids.com.br###banner-topo
 acheisudoeste.com.br###bannerflutuante
+brasildefato.com.br###bdf-ad-wrapper
 delas.pt,motor24.pt,n-tv.pt,voltaaomundo.pt###billboard
 vidadesuporte.com.br###block-10
 br.lexlatin.com###block-banneranimado
