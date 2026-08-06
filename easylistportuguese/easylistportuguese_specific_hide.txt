@@ -261,6 +261,7 @@ techbreak.ig.com.br##.barraverborum
 ig.com.br##.betOrBillboard
 flashscore.pt##.bettingStrip
 uai.com.br##.bg-ad
+gauchazh.clicrbs.com.br##.bg-ad-placeholder
 bnews.com.br,jornaldocomercio.com##.bg-banner
 delas.pt##.billboard-wrapper
 tviplayer.iol.pt##.billboardxlWrapper
@@ -380,6 +381,7 @@ exame.com##.gaOLck
 futebolinterior.com.br##.gift-ads-menu
 solutudo.com.br##.go_bnr_wr
 a12.com##.gtmRedactionBannerDoacao
+gauchazh.clicrbs.com.br##.gzh-placeholder-container
 lance.com.br##.h-max.py-1.min-h-\[250px\].min-w-\[300px\].bg-table-white.flex.items-center.justify-center
 redecanaistv.com.br##.happy-inside-player
 divirtasemais.com.br##.hdr-pub
@@ -569,6 +571,7 @@ cbn.globoradio.globo.com##.sticky-container
 azamericasat.net,diariodistrito.pt,estiloadoracao.com,g37.com.br,misturebas.com.br,oportaln10.com.br,portaldosreceptores.org##.stream-item
 diariodistrito.pt##.stream-item-widget
 infomoney.com.br##.subject_Branded
+gauchazh.clicrbs.com.br##.superbaner-ad-placeholder
 defatoonline.com.br##.swal2-container
 diarioaveiro.pt,jesusmeudeus.com.br##.swiper-container
 dinheirovivo.pt##.t-am-sponsored
