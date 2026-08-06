@@ -297,6 +297,7 @@ cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
 engeplus.com.br##.break-com-texto
 vitoriadaconquistanoticias.com.br##.bsac
+nsctotal.com.br##.bwgr-monetization-sticky
 olhardigital.com.br##.cardV2-ad
 tribunapr.uol.com.br##.cardads
 criptoya.com,portalmorada.com.br##.carousel
