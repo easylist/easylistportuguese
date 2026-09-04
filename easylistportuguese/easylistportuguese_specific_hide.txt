@@ -536,6 +536,7 @@ brasilescola.uol.com.br##.publi-dir
 tempo.pt##.publicidad-pie
 fpb.pt##.publicidade-banner-module
 em.com.br,noataque.com.br,tupi.fm,uai.com.br,vrum.com.br##.publicidade-interna-container
+gazetadigital.com.br##.publicidade-text
 exclusivo.com.br##.publicidade3
 infojobs.com.br##.publicity
 radioxinguaraam.com.br##.pubtotal1
