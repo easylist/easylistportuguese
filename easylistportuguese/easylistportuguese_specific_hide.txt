@@ -1,5 +1,6 @@
 guiadoinvestidor.com.br###AADIV58
 guiadoinvestidor.com.br###AADIV70
+folhamax.com###HEADER2_PREMIUMADS
 coletividade-evolutiva.com.br###HTML1
 coletividade-evolutiva.com.br###HTML11
 sapo.pt###HalfPage
@@ -41,6 +42,7 @@ aventurasnahistoria.com.br,bnews.com.br,caras.com.br,cinebuzz.com.br,contigo.com
 aventurasnahistoria.com.br,caras.com.br,cinebuzz.com.br,contigo.com.br,recreio.com.br,revistamaxima.com.br,rollingstone.com.br###banner-970x250-1
 aventurasnahistoria.com.br,caras.com.br,cinebuzz.com.br,contigo.com.br,recreio.com.br,revistamaxima.com.br,rollingstone.com.br###banner-970x250-2
 iclnoticias.com.br###banner-desktop
+folhamax.com###banner-full-materia-01
 estudokids.com.br###banner-post-fim
 estudokids.com.br###banner-post-meio
 estudokids.com.br###banner-rodape
