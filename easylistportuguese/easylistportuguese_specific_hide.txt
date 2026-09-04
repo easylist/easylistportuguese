@@ -599,7 +599,7 @@ publico.pt##.tone--paid
 diarioimobiliario.pt##.topBanner
 humordaterra.com##.top_pub
 capitalnews.com.br##.tpl570-banner
-capitalnews.com.br##.tplbanner
+capitalnews.com.br,folhadoestado.com.br##.tplbanner
 uai.com.br##.uai-ads
 mercadolivre.com.br##.ui-recommendations-list__container--pads
 mercadolivre.com.br##.ui-search-bottom-ads__container
