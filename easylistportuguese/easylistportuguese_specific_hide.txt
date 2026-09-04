@@ -76,6 +76,7 @@ ojogos.com.br###homepage-top-leaderboard
 infoescola.com###index-banner300x250-1
 evasoes.pt###inread
 dnoticias.pt###interstitial_pub
+metsul.com###intext1_alright
 conjur.com.br###leaderboard1
 conjur.com.br###leaderboard2
 agroolhar.com.br,olharconceito.com.br,olharjuridico.com.br###luckpub
@@ -154,6 +155,7 @@ antenadosnofutebol.com.br,bolavip.com,clicrbs.com.br,econodata.com.br,sicnoticia
 dicasgostosas.com##.ad-dicasg
 brasilmineral.com.br##.ad-inserter-drupal-wrapper
 buscojobs.pt##.ad-medio
+metsul.com##.ad-previsao-topo
 ricasdelicias.online##.ad-ricas
 sabornutritivo.com##.ad-sabornu
 sbt.com.br##.adContainerBg
@@ -445,6 +447,7 @@ observador.pt##.meo-bold
 omunicipioonline.com.br,repercussaoparanhana.com##.metaslider
 metsul.com##.metsu-adlabel
 metsul.com##.metsu-widget
+metsul.com##.metsul-ad-reserve
 br.lexlatin.com##.mibanner
 futebolinterior.com.br##.most-bet
 cmjornal.pt##.mrec
@@ -763,6 +766,7 @@ portaldohost.com.br##li > a[href^="https://portaldohost.com.br/index.php?app=cor
 mundi.com.br##.YnaR:has([class$="ProviderAdBanner"])
 mercadolivre.com.br##.andes-card:has(.poly-component__ads-promotions)
 tecnoblog.net##.bloco.article-destaque:has(.publieditoriais)
+metsul.com##.et_pb_module:has(#ad-wide-antes)
 gauchazh.clicrbs.com.br##.flex.h-full.items-center:has(.bg-ad-placeholder)
 tavernaderivia.com.br##.ig_widget:has(a[href^="https://amzn.to/"])
 tavernaderivia.com.br##.ig_widget:has(a[href^="https://www.amazon."][href*="tag="])
