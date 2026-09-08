@@ -10,6 +10,8 @@ metsul.com###ad-wide-antes
 mundoconectado.com.br###ad_conteudo_1
 mundoconectado.com.br###ad_conteudo_2
 mundoconectado.com.br###ad_conteudo_3
+agazeta.com.br###ad_destaque
+agazeta.com.br###ad_intext_bottom
 vercapas.com###adr
 frivjogosonline.com.br###ads-bt
 frivjogosonline.com.br###ads-d
@@ -156,6 +158,7 @@ clicrbs.com.br,mundo.com,noataque.com.br,tupi.fm,uai.com.br,vrum.com.br##.ad-ban
 antenadosnofutebol.com.br,bolavip.com,clicrbs.com.br,econodata.com.br,sicnoticias.pt,somosfanaticos.fans,tuasaude.com##.ad-container
 dicasgostosas.com##.ad-dicasg
 brasilmineral.com.br##.ad-inserter-drupal-wrapper
+agazeta.com.br##.ad-intext-mrec-container
 buscojobs.pt##.ad-medio
 metsul.com##.ad-previsao-topo
 ricasdelicias.online##.ad-ricas
@@ -699,6 +702,8 @@ agroclima.climatempo.com.br##div[data-type="ad_unit"]
 esportenewsmundo.com.br##div[id*="espor-"]
 bitmag.com.br,garagem360.com.br##div[id^="Position_"]
 adrenaline.com.br##div[id^="ad_conteudo_"]
+agazeta.com.br##div[id^="ad_middle"]
+agazeta.com.br##div[id^="ad_sticky_right"]
 feiradorolodeconquista.com##div[id^="banner"]
 colunadofla.com##div[id^="banner-"]
 aventurasnahistoria.uol.com.br##div[id^="banner-300x250-"]
