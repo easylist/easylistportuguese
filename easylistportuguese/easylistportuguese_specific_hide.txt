@@ -305,6 +305,7 @@ cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
 engeplus.com.br##.break-com-texto
 vitoriadaconquistanoticias.com.br##.bsac
+g1.globo.com##.bstn-feed-ad
 nsctotal.com.br##.bwgr-monetization-sticky
 olhardigital.com.br##.cardV2-ad
 tribunapr.uol.com.br##.cardads
@@ -503,6 +504,7 @@ tnpetroleo.com.br##.popup
 fiis.com.br##.popup-background
 statusinvest.com.br##.popup-fixed
 jornaldocomercio.com##.popup_click
+g1.globo.com##.post-previsao-do-tempo__sponsor
 slatual.com.br##.post_banner_sidebar
 beachcam.meo.pt##.poweredBy
 gauchazh.clicrbs.com.br##.premium-area
@@ -555,6 +557,7 @@ portalpopline.com.br##.r4ads
 correioweb.com.br##.ragado-1
 correiobraziliense.com.br##.rasgado-materia
 nikanerd.com.br##.reader-disclosure
+g1.globo.com##.regua-loterias__sponsor
 superesportes.com.br##.retangulo
 noticiasaominuto.com##.rich-media
 grandepremio.com.br,grandepremio.pt,nossopalestra.com.br,teleguiado.com##.rodape_sticky
