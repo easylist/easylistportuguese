@@ -790,6 +790,7 @@ mercadolivre.com.br##.ui-search-layout__item:has(.poly-component__ads-promotions
 reclameaqui.com.br##[class^="go"] > div > div:has(a[href^="https://produtos.reclameaqui.com.br/lp-ads-reclameaqui/"])
 mundi.com.br##[id^="inline-"]:has(.NAnQ-ad-badge)
 motoo.com.br##article div[style*="background-color"]:has(a[href="https://www.tuttomoto.com.br/"][target="_blank"])
+ggmax.com.br##div:has(> .announcement-box > .promotion-label)
 reclameaqui.com.br##div:has(> astro-island a[href^="https://produtos.reclameaqui.com.br/lp-ads-reclameaqui/"])
 reclameaqui.com.br##div[class*="h-[240px]"]:has(div[role="banner"])
 reclameaqui.com.br##div[class^="go"]:has( > div > div[id^="div-gpt-ad"])

@@ -27,6 +27,7 @@
 ||feiradorolodeconquista.com/banners/
 ||geekpopnews.com.br/mkt/
 ||geralinks.com.br^*/ads/
+||ggmax.com.br/api/gg-ads/
 ||gp1.com.br/dfp/
 ||guiaoilegas.com.br/sistema/banners/
 ||hojeemdia.com.br/scripts/clever_ads.js
