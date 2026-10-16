@@ -789,6 +789,7 @@ mercadolivre.com.br##.ui-recommendations-carousel-wrapper-ref:has(a[rel="nofollo
 mercadolivre.com.br##.ui-search-layout__item:has(.poly-component__ads-promotions)
 reclameaqui.com.br##[class^="go"] > div > div:has(a[href^="https://produtos.reclameaqui.com.br/lp-ads-reclameaqui/"])
 mundi.com.br##[id^="inline-"]:has(.NAnQ-ad-badge)
+mundi.com.br##[role="group"][class*="result-item-container"]:has(div[class*="sponsored-result"])
 motoo.com.br##article div[style*="background-color"]:has(a[href="https://www.tuttomoto.com.br/"][target="_blank"])
 ggmax.com.br##div:has(> .announcement-box > .promotion-label)
 reclameaqui.com.br##div:has(> astro-island a[href^="https://produtos.reclameaqui.com.br/lp-ads-reclameaqui/"])
