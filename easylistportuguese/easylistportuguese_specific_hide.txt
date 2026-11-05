@@ -1063,3 +1063,10 @@ betnabola.com.br##section[id^="bouplay_wp_"]
 revistaencontro.com.br##small.txt-no-serif
 astrologiaenlinea.com##td[width="728"][height="90"]
 fabiorobertonoticias.com.br##td[width="750"]
+olx.com.br##.advc-anchor-bottom
+olx.com.br##.advc-banner-body-advertising
+olx.com.br##.advc-half-page-advertising
+olx.com.br##.advc-advertising-placeholder
+olx.com.br###advertising-top-banner
+olx.com.br##div:has(> [data-testid="advertising-placeholder"])
+olx.com.br##li:has(a[href^="https://ad.doubleclick.net/"])
