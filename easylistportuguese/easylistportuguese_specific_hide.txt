@@ -118,6 +118,9 @@ odia.ig.com.br###rodapefixo
 agroolhar.com.br###sidebar1_alright
 guiadobitcoin.com.br###sidebaroffer-3
 ndmais.com.br###single-widget-1
+ndmais.com.br###ndmais-intext-1:has(>.ads-container)
+ndmais.com.br##.ndmais-native-container
+ndmais.com.br##.PRA_VIDEO.in-feed
 iclnoticias.com.br###st-banner
 olx.com.br###stick-to-top
 solutudo.com.br###stickyContainer
