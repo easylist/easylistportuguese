@@ -26,4 +26,5 @@
 ||r4you.co^$third-party
 ||simpleads.com.br^$third-party
 ||solution.coupons^$third-party
+||topsort.com^$third-party
 ||upeex.com.br^$third-party
