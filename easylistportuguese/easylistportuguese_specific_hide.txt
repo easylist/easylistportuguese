@@ -786,6 +786,7 @@ atoananet.com.br,culturadoria.com.br,politicosdosuldabahia.com.br##img[width="72
 futebolatino.lance.com.br##img[width="940"][height="150"]
 anitube.biz##ins[style*="width:300px;height:250px;"]
 portaldohost.com.br##li > a[href^="https://portaldohost.com.br/index.php?app=core&module=system&controller=redirect&do=advertisement&ad="]
+zapimoveis.com.br##section[class$="_advertising_container"]
 ! :has()
 mundi.com.br##.YnaR:has([class$="ProviderAdBanner"])
 mercadolivre.com.br##.andes-card:has(.poly-component__ads-promotions)
