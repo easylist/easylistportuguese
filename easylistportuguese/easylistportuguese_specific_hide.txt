@@ -196,7 +196,7 @@ olx.com.br##.advc-small-right-advertising
 jovempan.com.br##.advert
 diarioaveiro.pt,diariocoimbra.pt,diarioleiria.pt,diarioviseu.pt,poder360.com.br##.advertisement
 uol.com.br##.advertisementArea--showLabel
-atribuna.com.br,blogbraga.com.br,mercadolivre.com.br,statusinvest.com.br,trabalhabrasil.com.br,zapimoveis.com.br##.advertising
+atribuna.com.br,blogbraga.com.br,mercadolivre.com.br,statusinvest.com.br,trabalhabrasil.com.br,vivareal.com.br,zapimoveis.com.br##.advertising
 hardware.com.br##.advertising-desktop
 hardware.com.br##.advertising-mobile
 uai.com.br,voosemoferta.correioweb.com.br##.advertising__with-bg
