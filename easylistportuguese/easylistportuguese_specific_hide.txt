@@ -476,6 +476,7 @@ motorsport.uol.com.br##.ms-hapb
 revistaana.pt##.mtb-20-ad
 minhavida.com.br##.mvn-announcement
 observadorregional.com.br##.n2-section-smartslider
+ndmais.com.br##.ndmais-native-container
 baixaki.com.br##.new-ad-leaderboard-header-desk
 baixaki.com.br##.new-ad-leaderboard-header-mob
 baixaki.com.br##.new-float-ads
